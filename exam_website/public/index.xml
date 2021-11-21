@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exam website</title>
+    <link>https://exam_website.github.io/</link>
+    <description>Recent content on Exam website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://exam_website.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

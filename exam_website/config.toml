@@ -1,0 +1,4 @@
+baseURL = 'https://exam_website.github.io'
+languageCode = 'en-us'
+title = 'Exam website'
+theme = 'hyde-hyde'
