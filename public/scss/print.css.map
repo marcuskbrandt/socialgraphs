@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "C:/Users/Frede/Documents/DTU/Kandidat/1.Semester/socialgraphs/Exam/socialgraphs/exam_website",
+	"sourceRoot": "C:/Users/Frede/Documents/DTU/Kandidat/1.Semester/socialgraphs/Exam/socialgraphs",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
 		"themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",

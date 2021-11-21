@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Exam website</title>
-    <link>https://exam_website.github.io/tags/</link>
+    <link>https://koldbrandt.github.io/socialgraphs/tags/</link>
     <description>Recent content in Tags on Exam website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://exam_website.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://koldbrandt.github.io/socialgraphs/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
