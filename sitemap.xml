@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://koldborg.tech/categories/</loc>
+    <loc>https://koldbrandt.github.io/socialgraphs/categories/</loc>
   </url><url>
-    <loc>https://koldborg.tech/</loc>
+    <loc>https://koldbrandt.github.io/socialgraphs/</loc>
   </url><url>
-    <loc>https://koldborg.tech/tags/</loc>
+    <loc>https://koldbrandt.github.io/socialgraphs/tags/</loc>
   </url>
 </urlset>
