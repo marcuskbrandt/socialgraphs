@@ -1,0 +1,27 @@
+{{South Park character
+|name = Peter
+|image = BINGOKid.png
+|gender = Male
+|hair = Red
+|age = 10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|voice = [[Trey Parker]]<ref>Credited as the "Competition Contestant" in {{cite web|url=http://www.imdb.com/title/tt0766086/|title="South Park" Roger Ebert Should Lay Off the Fatty Foods (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Roger Ebert Should Lay off the Fatty Foods]]"
+}}{{LinkDisambig|Pete (Disambiguation)}}
+'''Peter''' is a minor character that appears in the [[Season Two]] episode, "[[Roger Ebert Should Lay off the Fatty Foods]]", singing "[[Bingo]]" as a part of an audition to make an appearance in a [[Cheesy Poofs]] commercial.
+
+==Appearance==
+Peter has messy red hair and freckles on his face. He wears a light green shirt with a red collar, blue pants, and black shoes.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Two}}
+[[zh:彼得（迷幻天文馆）]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Male characters]]
+[[Category:School children]]
+[[Category:Gingers]]
+[[Category:4th graders]]

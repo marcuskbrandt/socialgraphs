@@ -1,0 +1,29 @@
+{{South Park character
+|name = Michael Wilbon
+|image = Michael Wilbon.png
+|gender = Male
+|race = African-American
+|hair = Bald
+|age = {{age|1958|11|19}}
+|dob = November 19, 1958
+|job = Sports Journalist
+|wikipedia = [[Wikipedia:Michael Wilbon|Michael Wilbon]]
+|appearance = "[[Poor and Stupid]]"
+}}
+{{LinkDisambig|Michael (Disambiguation)}}
+'''Michael Wilbon''' is an American sports television personality who appears in [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+In [[Mick's Bowling]], [[Kenny McCormick|Kenny]] watches a talk show known as ''Pardon the Interruption'' hosted by Tony Kornheiser and Michael Wilbon, where it reports on the public impression of NASCAR drivers as "poor and stupid", showing a podcast of [[Eric Cartman]] spewing bigoted and ignorant statements about [[Barack Obama]] while ingesting [[Vagisil]] products.
+
+==Appearance==
+Michael Wilbon wears a brown suit over a yellow shirt and brown pants.
+
+{{TelevisionCelebrities}}
+[[zh:迈克尔·威尔本]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:News reporters]]

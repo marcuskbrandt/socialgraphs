@@ -1,0 +1,26 @@
+{{South Park character
+|name = General Deckter
+|image = Gen_deckter_2.png
+|gender = Male
+|hair = Gray
+|job = Military General
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0995577/|title="South Park" Imaginationland (TV Episode 2007)|publisher=IMDb.com}}</ref>
+|appearance = "[[Imaginationland]]"
+}}{{LinkDisambig|General (Disambiguation)}}
+'''General Deckter''' is a military general serving under the U.S. Department of Defense. He appears in [[Season Eleven]]'s Imaginationland trilogy.
+
+==Background==
+{{Stub}}
+
+==Appearance==
+General Deckter wears a dark green military jacket over a light brown uniform. He has black shoes and wears desert tin pants.
+
+==References==
+{{reflist}}
+[[ja:デクター大将]]
+[[zh:德克特将军]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Military personalities]]

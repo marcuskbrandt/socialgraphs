@@ -1,0 +1,37 @@
+{{South Park character
+|name = Jay Maynard
+|image = Tron-guy.png
+|aliases = Tron Guy
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = 48 (deceased)<br>{{Age|1960|7|27}} (in real life)
+|died = "[[Canada on Strike]]"
+|job = Computer Programmer<br>Internet Celebrity
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1211261/|title="South Park" Canada on Strike (TV episode 2008)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia: Tron Guy|Tron Guy]]
+|appearance = "[[Canada on Strike]]"
+|final = "[[Canada on Strike]]"
+}}
+'''Jay Maynard''', also known as the '''Tron Guy''', is an American computer programmer and internet celebrity who appeared in the episode "[[Canada on Strike]]". 
+
+==Background==
+He appeared in the [[Season Twelve]] episode, "[[Canada on Strike]]", as one of the internet celebrities waiting for their theoretical payments. He was fatally mauled by [[Sneezing Panda]]'s mother during the bloody internet celebrity brawl, after fighting with the [[Star Wars Kid]].
+
+==Appearance==
+He appears in his famous Tron Guy costume, which was inspired by the 1982 science fiction film ''Tron''. The costume has blue patterns resembling electrical circuits. Apart from this, he appears to be slightly overweight, wears thick-rimmed glasses, and has brown eyebrows and mustache.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Twelve}}
+{{InternetCelebrities}}
+[[zh:电子男]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Overweight characters]]
+[[Category:One-off characters]]
+[[Category:Internet celebrities]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Nerds]]
+[[Category:Adult characters]]

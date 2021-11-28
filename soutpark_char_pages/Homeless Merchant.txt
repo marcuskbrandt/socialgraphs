@@ -1,0 +1,21 @@
+{{South Park character
+|name = Homeless Merchant
+|image = Merchant-hobo.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Homeless Merchant''' is a merchant in ''[[South Park: The Stick of Truth]]''.
+
+==Background==
+The merchant can be found just outside [[U-STOR-IT]], where he sells general items. [[The New Kid]] is required to purchase a set of goth clothes from him for the [[Nonconformist]] quest.
+
+==Appearance==
+The merchant has a disheveled brown hair and a few dirt patches on his face. He wears a green jacket over a black shirt with a partially tattered red scarf, light brown pants with a blue patch on the right, and a torn pair of gray socks.
+
+[[zh:流浪汉商人]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:Video Game Exclusive characters]]

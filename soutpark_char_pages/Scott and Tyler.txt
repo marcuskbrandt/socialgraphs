@@ -1,0 +1,42 @@
+{{Group
+|name = Scott and Tyler
+|image = Butlers-aides-jareds-aides.png
+|job = [[Catamount Pictures]] Producers<br>[[Jared Fogle]]'s Aides <small>(formerly)</small><br>[[HBC Network]] Employees <small>(formerly)</small>
+|gender = Male
+|member1 = Scott
+|voice1 = [[Trey Parker]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt0766082/|title="South Park" Jared Has Aides (TV episode 2002)|publisher=IMDb.com}}</ref>
+|member2 = Tyler
+|voice2 = [[Matt Stone]]<ref name=imdb/>
+|first = "[[It Hits the Fan]]"
+}}
+{{LinkDisambig|Scott (Disambiguation)}}
+'''Scott and Tyler''' first appeared in the [[Season Five]] episode "[[It Hits the Fan]]" as two [[HBC Network]] employees. They later appeared in the [[Season Six]] episode "[[Jared Has Aides]]" as [[Jared Fogle]]'s aides. 
+
+==Background==
+They first appeared in "[[It Hits the Fan]]" as two HBC Network employees.
+
+Jared first introduces Scott and Tyler to [[The Boys]], who initially thought he was talking about "[[AIDS]]" the disease. When the rest of the townspeople in [[South Park (Location)|South Park]] make the same mistake, Scott and Tyler are both seen comforting Jared and telling him that they are probably just jealous that they don't have their own aides. Scott works as his personal trainer and Tyler is his dietitian. 
+
+They also appear as [[Catamount Pictures]] producers in the [[Season Eight]] episode "[[AWESOM-O]]".
+
+==Appearance==
+Scott has blonde hair and blonde eyebrows. He wears a gray business suit with a light purple undershirt, dark purple tie, gray pants, and black shoes. He has a whistle hanging from his neck.
+
+Tyler has red hair and red eyebrows. He wears a gray-greenish business suit with a yellow undershirt, light green tie, gray-greenish pants, and black shoes. He has a timer hanging from his neck.
+
+==Prominence==
+*"[[It Hits the Fan]]" - Appear as two HBC employees.
+*"[[Jared Has Aides]]" - Appear as Jared Fogle's aides.
+*"[[AWESOM-O]]" - Appear as two of the [[Catamount Pictures]] Producers.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Five}}
+[[zh:斯科特和泰勒]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Gingers]]

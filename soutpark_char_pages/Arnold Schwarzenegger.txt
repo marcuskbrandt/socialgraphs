@@ -1,0 +1,43 @@
+{{South Park character
+|name = Arnold Schwarzenegger
+|image = arnold-schwarzenegger.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|dob = July 30, 1947
+|age = {{age|1947|7|30}}
+|job = Former Governor of California
+|religion = Roman Catholic
+|voice = Robert Ernst<ref>{{cite web|url=http://www.imdb.com/title/tt1742995/|title="South Park" It's a Jersey Thing (TV episode 2010)|published=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Arnold Schwarzenegger|Arnold Schwarzenegger]]
+|appearance = "[[It's a Jersey Thing]]"
+}}
+'''Arnold Schwarzenegger''' is an Austrian-American actor and the former governor of California. He first appears in the [[Season Fourteen]] episode, "[[It's a Jersey Thing]]".
+
+==Background==
+In "[[It's a Jersey Thing]]", he refuses [[Randy Marsh]]'s plea for help against the Jersey invasion of [[South Park (Location)|South Park]]. Schwarzenegger tells Randy that California cannot provide any assistance due to budget problems and general lack of concern since [[Utah]] and Nevada stand between California and the invasion. 
+
+Schwarzenegger is mentioned again in "[[T.M.I.]]" where [[Butters Stotch|Butters]] and [[The Boys|the boys]] discuss his love child scandal which only made headlines a day before the episode aired. This joke continues in "[[1%]]" where Butters continues to insist on referring o Schwarzenegger and his wife as 'the Terminator' and 'Skeletor' respectively, to which [[Stan Marsh|Stan]] corrects him.
+
+==Appearance==
+Arnold wears a black suit, a white undershirt, and a light purple tie. He also has a noticeable gap in his two front teeth.
+
+==Personality==
+He seems to be audacious, refusing to help [[Randy Marsh|Randy]] and the rest of South Park in "[[It's a Jersey Thing]]", despite knowing how fast New Jersey is "taking over" the [[United States]].
+
+==References==
+{{Reflist}}
+{{MovieCelebrities}}
+{{PoliticalCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[es:Arnold Schwarzenegger]]
+[[fr:Arnold Schwarzenegger]]
+[[zh:阿诺德·施瓦辛格]]
+[[Category:Celebrities]]
+[[Category:Political celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Movie celebrities]]
+[[Category:Catholic characters]]

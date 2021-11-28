@@ -1,0 +1,40 @@
+{{Group
+|name = Boston
+|image = Celebrities-music-boston.png
+|type = Band
+|gender = Male
+|job = Musicians
+|first = "[[Skank Hunt]]"
+|member1 = Brad Delp - Vocalist
+|member2 = Tom Scholz - Guitarist
+|member3 = Barry Goudreau - Guitarist
+|member4 = Fran Sheehan - Bassist
+|member5 = Sib Hashian - Drummer
+|wikipedia = [[Wikipedia:Boston (band)|Boston]]
+}}'''Boston''' is an American rock band formed by Tom Scholz in 1975. The band made a brief appearance in the [[Season Twenty]] episode "[[Skank Hunt]]".
+
+==Background==
+When [[Gerald Broflovski]] decides to take a night trolling message boards online as [[Skankhunt42]], he puts in a record that plays the Boston song [[Smokin']]. A montage is then shown of Gerald trolling, with him ending up on stage with the members of Boston at one point.
+
+Smokin also plays during a portion of Season Twenty's finale "[[The End of Serialization as We Know It]]", when [[Kyle Broflovski]] tries to overload the TrollTrace servers using his dad's Skankhunt42 account.
+
+==Appearance==
+All of the band members have mustaches, aside from guitarist Tom Scholz. They appear to have old 70s hairstyles.
+<gallery widths="120" captionalign="left" caption="Images of Boston">
+SkankHunt00014.png|Gerald onstage while Boston performs
+</gallery>
+
+==Prominence==
+*"[[Skank Hunt]]" - Seen onstage with Gerald during his trolling montage.
+*"[[The End of Serialization as We Know It]]" - Don't appear physically, but their song Smokin plays again.
+
+{{MusicCelebrities}}
+[[fr:Boston]]
+[[zh:波士顿乐队]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Music celebrities]]
+[[Category:Bands]]
+[[Category:Groups]]

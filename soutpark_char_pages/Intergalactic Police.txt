@@ -1,0 +1,41 @@
+{{South Park character
+|name = Intergalactic Police
+|image = Intergalactic-police.png
+|gender = Males
+|hair = Black and Gray
+|job = Federation of Planets Testers
+|voice =  '''Officer 1''': [[Trey Parker]]<ref name="IMDb">{{cite web|url=http://www.imdb.com/title/tt1397944/|title=Pinwood Derby on IMDB}}</ref><br>'''Officer 2''': [[Matt Stone]]<ref name="IMDb"/>
+|appearance = "[[Pinewood Derby]]"
+|last = "[[South ParQ Vaccination Special]]"
+}}
+'''The Intergalactic Police''' appeared in the [[Season Thirteen]] episode, "[[Pinewood Derby]]".
+
+==Background==
+In "[[Pinewood Derby]]", a supposed intergalactic criminal named [[Kevern Zaksor|Baby Fark McGee-zax]] holds Earth hostage after discovering a "warp drive" made out of a superconducting magnet [[Randy Marsh]] stole from the Large Hadron Collider.
+
+After hearing the Intergalactic Police approaching, he drags [[Stan Marsh]] out of sight and cloaks his ship. The Intergalactic Police question the town of [[South Park (Location)|South Park]], asking if they have seen McGee-zax, as he stole a large sum of "space cash". Fearing for their lives, as well as Stan's life, they do not admit to seeing him.
+
+Shortly afterward, McGee-zax returns, and at Randy's urging, Stan reluctantly stabs him in the neck with a makeshift shank. Later, after Earth's world leaders decided to keep and distribute the "space cash", the Intergalactic Police return, revealing that McGee-zax was not a criminal but an "Ambassador of New Planet Testing", and that he faked his death.
+
+The whole incident was a test to see if Earth was worthy of joining the intergalactic community. They mock the Earthling's stupidity and reveal that Earth failed the test. They then board their ship, lock Earth as well as the moon using a type of force field in order to prevent it from ever communicating with the intergalactic community, and leave.
+
+==Appearance==
+The aliens have two faces on one head, four eyes, and two mouths with one of them having a mustache.
+
+==Prominence==
+*"[[Pinewood Derby]]" -
+*"[[South ParQ Vaccination Special]]" - The mustache one is seen at the end celebrating the end of the pandemic.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Thirteen}}
+[[pl:Intergalaktyczna policja]]
+[[zh:星际警察]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Organizations]]
+[[Category:Aliens]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]

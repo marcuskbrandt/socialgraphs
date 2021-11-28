@@ -1,0 +1,31 @@
+{{South Park character
+|name = Brad Morgan
+|image = Newspeople-brad-morgan.png
+|gender = Male
+|hair = Black
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0761287/|title="South Park" Goobacks (TV Episode 2004)|publisher=IMDb.com}}</ref>
+|appearance = "[[Goobacks]]"
+}}
+'''Brad Morgan''' is a [[CNN]] news reporter that appears in [[Season Eight]] episode "[[Goobacks]]".
+
+==Background==
+During a report on a man from the future, news reporter Brad Morgan reported from a government hospital, that the man had traveled back to the past to look for a job, citing an overwhelmingly populated place where he could no longer find a job there. He mentioned that the money the man earns here would translate into billions of dollars, which would be worth very little in the future, but sufficient to support the man's family.
+
+==Appearance==
+Brad Morgan has a short black hair. He wears a dark green business suit over a white collared shirt and red/white striped tie, with blue pants and black shoes. He carries an earphone set on his right ear while reporting.
+
+==Prominence==
+*"[[Goobacks]]" - Makes news reports on the [[Future Humans]].
+*"[[Britney's New Look]]" - Appears as part of the paparazzi who is chasing after [[Britney Spears]].
+*"[[The Coon]]" - Appears outside [[Park County Police Station]] when [[Mysterion]] revealed his true identity to the public.
+
+==References==
+{{Reflist}}
+[[fr:Brad Morgan]]
+[[zh:布拉德·摩根]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:News reporters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]

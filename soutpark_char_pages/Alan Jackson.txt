@@ -1,0 +1,48 @@
+{{South Park character
+|name = Alan Jackson
+|image = Alan-jackson.png
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|age = {{age|1958|10|17}}
+|birthday = October 17, 1958
+|job = Singer-songwriter
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766077/|title="South Park" A Ladder to Heaven (TV Episode 2002) - IMDb|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Alan Jackson|Alan Jackson]]
+|appearance = "[[A Ladder to Heaven]]"
+}}
+'''Alan Jackson''' is an American country singer and songwriter who appears in the [[Season Six]] episode, "[[A Ladder to Heaven]]".
+
+==Background==
+[[The boys]] try to build a ladder to [[Heaven]] so they can get their ticket stub from [[Kenny McCormick|Kenny]] for the all-you-can-grab candy prize from [[Lolly's Candy Factory]]. The townspeople watch and help the boys try to build the ladder. Alan Jackson comes to sing "[[A Ladder to Heaven (Song)|A Ladder to Heaven]]" to help. Alan adapts the song to the events that occur in the episode.
+
+At the end, the boys explain that Heaven may not actually be a fluffy white place, but may instead be "this moment right now". Alan tries to sing about that but people walk off. In response, he sulks as the boys "ruined his latest song".
+
+==Appearance==
+Alan Jackson wears black cowboy boots, black pants, and a black shirt. He also wears a red and white cowboy coat and a white cowboy hat. He has long, blond hair and is seen carrying an acoustic guitar.
+
+<gallery widths="160" caption="Images of Alan Jackson">
+ALaddertoHeaven051.png|Jackson in "[[A Ladder to Heaven]]".
+</gallery>
+
+==Personality==
+Jackson appears to be greedy and opportunistic, taking advantage of people's emotions to produce evidently cliched songs about grief and loss, all simply to make money. He was also angered when the boys announced they had finished their quest to enter heaven, meaning his only desire was not to produce genuine music but to earn profit. 
+
+==Trivia==
+*His song "A Ladder to Heaven" is a parody of Alan Jackson's "Where Were You (When the World Stopped Turning)".
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Six}}
+{{MusicCelebrities}}
+[[es:Alan Jackson]]
+[[fr:Alan Jackson]]
+[[zh:阿兰·杰克逊]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Music celebrities]]
+[[Category:Celebrities]]
+[[Category:Elderly people]]
+[[Category:Rednecks]]

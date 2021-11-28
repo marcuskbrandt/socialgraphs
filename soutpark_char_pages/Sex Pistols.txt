@@ -1,0 +1,24 @@
+{{Group
+|name = Sex Pistols
+|image = Sexpistols.JPG
+|type = Rock Band
+|wikipedia = [[Wikipedia:Sex Pistols|Sex Pistols]]
+|member1 = Paul Cook
+|member2 = Steve Jones
+|member3 = Johnny Rotten
+|member4 = Sid Vicious (deceased)
+|first = "[[Chef Aid]]"
+}}
+An image of the '''Sex Pistols''' with [[Jerome "Chef" McElroy|Chef]] appears in "[[Chef Aid]]", in Chef's photo album. John Lydon (also known as Johnny Rotten), the lead singer, also narrates the accompanying mockumentary ''[[Chef Aid: Behind the Menu]]''.
+
+One of their songs, "[[Pretty Vacant]]", is played by [[Stan Marsh|Stan]] and [[Kyle Broflovski|Kyle]] on ''[[Guitar Hero]]'' in "[[Guitar Queer-O]]".
+
+{{MusicCelebrities}}
+[[zh:性手枪乐队]]
+[[Category:Music celebrities]]
+[[Category:Bands]]
+[[Category:Mentioned-only characters]]
+[[Category:Groups]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:British characters]]

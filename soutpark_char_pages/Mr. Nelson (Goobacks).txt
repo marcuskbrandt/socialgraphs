@@ -1,0 +1,36 @@
+{{South Park character
+|name = Mr. Nelson
+|image = Geologist-mr-nelson.png
+|gender = Male
+|hair = Brown
+|job = Geologist
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0761287/|title="South Park" Goobacks (TV episode 2004) |publisher=IMDb.com}}</ref>
+|appearance = "[[Goobacks]]"
+}}{{LinkDisambig|Nelson (Disambiguation)}}
+'''Mr. Nelson''' is [[Randy Marsh]]'s boss at the [[South Park Center for Seismic Activity]] who appears in the [[Season Eight]] episode "[[Goobacks]]".
+
+==Background==
+After [[Stan Marsh|Stan]] refers to the [[Future Humans]] as "goobacks" in a fast food restaurant, Randy forces Stan to go to work with him. Mr. Nelson appears, saying that he is surprised to see Randy in his office. He tells Randy that he has been replaced with one of the Future Humans because they work for a lot less, causing Randy to yell out [[Darryl Weathers]]' [["They took our jobs!"|catchphrase]].
+
+In "[[Bloody Mary]]", Randy says goodbye to an offscreen Nelson before driving [[The Boys]] home, though it is unknown whether that was him or his friend [[Peter Nelson]].
+
+In "[[About Last Night...]]", Randy is shown with a completely different boss.
+
+He makes a cameo in "[[The Cissy]]" indicating he still works there.
+
+==Appearance==
+Mr. Nelson has balding brown hair, a large brown beard, and brown eyebrows. He wears a teal collared shirt with a red tie, a black belt, brown pants, and black shoes as well as a wristwatch on his left arm and small reading glasses. He appears slightly overweight.
+<gallery widths="160" caption="Images of Mr. Nelson">
+TheCissy-00052.png|His cameo in "[[The Cissy]]".
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:纳尔逊先生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Overweight characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Townsfolk]]

@@ -1,0 +1,42 @@
+{{South Park character
+|name = Whoopi Goldberg
+|image = Whoopi-goldberg.png
+|gender = Female
+|hair = Black
+|age = {{age|1955|11|13}}
+|dob = November 13, 1955
+|job = Actress, Comedian
+|voice = [[Trey Parker]]<ref>{{Cite web|url=http://www.imdb.com/title/tt0766088/|title="South Park" Spontaneous Combustion (TV Episode 1999)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Whoopi Goldberg|Whoopi Goldberg]]
+|appearance = "[[Spontaneous Combustion]]"
+}}
+'''Whoopi Goldberg''' appears in the [[Season Three]] episode, "[[Spontaneous Combustion]]", as the host of the Nobel Prize Awards ceremony.
+
+==Appearance==
+She wears a white and black striped hood-type shirt with a hot pink inside. She also wears a bow-type object in her hair, pearl necklace, and hot pink lipstick.
+
+<gallery>
+SpontaneousCombustion053.png|Whoopi Goldberg as she appears in "[[Spontaneous Combustion]]".
+</gallery>
+
+==Personality==
+She is shown to have a hateful attitude towards Republicans in "[[Spontaneous Combustion]]", so it can be assumed she is very liberal.
+
+==Quotes==
+:''All quotes are from "[[Spontaneous Combustion]]"''
+*'''Whoopi Goldberg:''' - "Republicans are so stupid."
+*'''Whoopi Goldberg:''' - "I hate Republicans."
+
+==References==
+{{Reflist}}
+{{MovieCelebrities}}
+[[zh:乌比·戈德堡]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Minority characters]]
+[[Category:One-off characters]]
+[[Category:African-American characters]]
+[[Category:Adult characters]]
+[[Category:Female characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Movie celebrities]]

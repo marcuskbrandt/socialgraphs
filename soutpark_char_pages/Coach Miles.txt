@@ -1,0 +1,37 @@
+{{South Park character
+|name = Coach Miles
+|image = Coach-miles.png
+|gender = Male
+|hair = Light brown, gray
+|job = Coach
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt3237510/|title="South Park" Taming Strange (TV episode 2013) |publisher=IMDb.com}}</ref>
+|appearance = "[[Goth Kids 3: Dawn of the Posers]]"
+}}
+'''Coach Miles''' is a coach who works at [[South Park Elementary]]. He made his first appearance in the [[Season Seventeen]] episode "[[Goth Kids 3: Dawn of the Posers]]".
+
+==Background==
+Coach Miles receives his first speaking role in "[[Taming Strange]]", where he tells [[Mr. Mackey]] that his idea to install IntelliLink inside the school was bad, prompting Mr. Mackey to remind Miles that his wife died of an accident while he was drinking on a hike.
+
+In his subsequent appearances, Coach Miles is usually seen in the school faculty lounge along with other staff members of the school discussing whatever issue is going on.
+
+==Appearance==
+Coach Miles has light brown hair with gray sideburns and light brown eyebrows. He wears a white shirt with navy green borders and the South Park Cows logo as well as black and gray shorts, white socks, white sneakers, and a black digital wristwatch. He also appears slightly muscular. 
+
+==Prominence==
+*"[[Goth Kids 3: Dawn of the Posers]]" - Seen in the [[South Park Elementary Gymnasium|gym]] blowing his whistle.
+*"[[Taming Strange]]" - Seen in the faculty lounge discussing IntelliLink.
+*"[[Gluten Free Ebola]]" - Seen in the faculty lounge discussing [[Butters Stotch|Butters]] burning down the gym.
+*"[[SUPER HARD PCness]]" - Seen in the faculty lounge when [[Strong Woman]] introduces herself.
+
+==References==
+{{reflist}}
+{{South Park Elementary Staff}}
+{{Minor Characters from Season Seventeen}}
+[[zh:迈尔斯教练]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:School faculty]]
+[[Category:Townsfolk]]

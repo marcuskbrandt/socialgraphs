@@ -1,0 +1,35 @@
+{{South Park character
+|name = Karate Instructor
+|image = karate-instructor.png
+|gender = Male
+|hair = Black
+|job = Karate instructor
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0761283/|title=Bloody Mary on IMDB}}</ref>
+|appearance = "[[Bloody Mary]]"
+}}
+The '''karate instructor''' works at the [[Ichi Ban Karate Dojo]] and appears in the [[Season Nine]] episode "[[Bloody Mary]]".
+
+==Background==
+[[Randy Marsh]] takes [[Stan Marsh|Stan]], [[Kyle Broflovski|Kyle]], [[Eric Cartman|Cartman]] and [[Ike Broflovski|Ike]] to Ichi Ban Karate Dojo to learn karate, while he waits at the bar. At the martial arts studio, the instructor berates Cartman for lacking discipline, who promptly disagrees and starts arguing. He speaks in a satirical Japanese accent, saying "You rack disiprine" instead of "You lack discipline". Stan appears to admire him quite a lot.
+
+==Appearance==
+The karate instructor wears a traditional karate outfit, consisting of a white gi with a red-fist logo and a black belt. He has a black mustache and black hair He also has stereotypical characteristics of Asians seen in the series such as small eyes.
+
+<gallery widths="160" caption="Images of the karate instructor">
+BloodyMary (2).png|The Karate Instructor teaching
+</gallery>
+
+==Personality==
+The instructor is shown to be strict, pointing out his pupil's aberrant lack of discipline. He is dedicated to his craft, saying that true discipline comes from within.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Nine}}
+[[zh:空手道教练]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minority characters]]
+[[Category:Asian characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

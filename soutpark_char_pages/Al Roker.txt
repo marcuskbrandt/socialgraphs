@@ -1,0 +1,35 @@
+{{South Park character
+|name = Al Roker
+|image = Al-roker.png
+|gender = Male
+|hair = Black
+|age = {{age|1954|8|20}}
+|dob = August 20, 1954
+|job = Television Personality
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1624774/|title="The Tale of Scrotie McBoogerballs" (TV episode 2010)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Al Roker|Al Roker]]
+|appearance = "[[The Tale of Scrotie McBoogerballs]]"
+}}
+'''Albert Lincoln Roker Jr.''' is a television personality for the NBC News. He appears in [[Season Fourteen]] episode "[[The Tale of Scrotie McBoogerballs]]".
+
+==Background==
+Al Roker is one of the four presenters who appears on the ''[[Today Show]]''. They interview [[Butters Stotch|Butters]], then credited as the author of ''[[The Tale of Scrotie McBoogerballs (Book)|The Tale of Scrotie McBoogerballs]]'', along with his parents. Al Roker questions Butters if he is concerned about someone using the book to kill others. When Al Roker mentions Ronald Reagan as an example, Butters goes into a trance and plans to kill Ronald Reagan, only for Al Roker to remind Butters that the former president is already dead.
+
+Later during the release of the second book, ''[[The Poop That Took a Pee]]'', Al Roker is seen reporting outside a book store where people are queuing to purchase the book, carrying buckets to vomit in.
+
+==Appearance==
+Al Roker has short, balding black hair, and wears a black suit with red checkered tie and a pair of glasses.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[es:Al Roker]]
+[[fr:Al Roker]]
+[[zh:阿尔·罗克]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Television celebrities]]
+[[Category:Characters voiced by Matt Stone]]

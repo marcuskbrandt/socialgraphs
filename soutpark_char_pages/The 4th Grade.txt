@@ -1,0 +1,147 @@
+{{Group
+|name = The 4th Grade
+|imagemap = <imagemap>
+Image:Mr. Garrison's 4th Grade Class.png|275px
+circle 901 601 92 [[Stan Marsh]]
+circle 729 580 87 [[Clyde Donovan]]
+circle 1532 596 76 [[Butters Stotch]]
+circle 1700 601 93 [[Bradley Biggle]]
+circle 493 611 91 [[Red McArthur]]
+circle 334 583 96 [[Wendy Testaburger]]
+circle 202 570 85 [[Craig Tucker]]
+circle 1865 597 93 [[Bebe Stevens]]
+poly 38 433 126 453 142 505 106 607 69 636 5 616 3 440 [[Timmy Burch]]
+circle 600 569 84 [[Token Black]]
+poly 1058 505 1111 518 1141 538 1162 566 1162 600 1149 629 1124 661 1082 673 1036 669 996 647 965 596 981 545 1008 528 [[Eric Cartman]]
+poly 1165 652 1155 641 1168 605 1182 576 1181 515 1342 510 1351 519 1354 573 1375 613 1376 645 1370 649 1352 637 1330 670 1301 686 1268 695 1225 686 1186 647 [[Kyle Broflovski]]
+circle 1406 580 85 [[Kenny McCormick]]
+circle 839 553 85 [[Kevin Stoley]]
+circle 431 567 96 [[Annie Knitts]]
+circle 1671 561 89 [[Jimmy Valmer]]
+circle 1219 557 93 [[Boy with Red Shirt and Blue Pants]]
+desc none
+</imagemap>
+|type = Class
+|gender = Male<br>Female
+|age = 9-10
+|job = Students
+|grade = [[:Category:4th graders|4th Grade]]
+|member1 = [[Stan Marsh]]
+|member2 = [[Eric Cartman]]
+|member3 = [[Kyle Broflovski]]
+|member4 = [[Kenny McCormick]]
+|member5 = [[List of Male 4th Graders|Additional Male 4th Graders]]
+|member6 = [[List of Female 4th Graders|Additional Female 4th Graders]]
+|member7 = [[The Other 4th Grade|Additional Other 4th Graders]]
+|first = "[[Fourth Grade]]"
+}}
+'''The 4th Grade''' is the class grade most characters are in since "[[Fourth Grade]]". It encompasses most child characters, although there is most likely another 4th Grade classroom, as many 4th grade characters do not appear in the main classroom.
+
+==Teachers==
+*[[Diane Choksondik]] - The 4th grade teacher from "[[Fourth Grade]]" to "[[Professor Chaos]]".
+*[[Mr. Mackey]] - Covered after Ms. Choksondik's death, also teaching computer class and drug lessons.
+*[[Herbert Garrison]] - 3rd grade teacher from "[[Cartman Gets an Anal Probe]]" to "[[Cartman Joins NAMBLA]]".
+**He later returned to the school as a kindergarten teacher in "[[Trapper Keeper]]".
+**He was rehired as a 4th grade teacher in "[[The Death Camp of Tolerance]]".
+**He was fired from the entire school in "[[Where My Country Gone?]]" for calling his Canadian students "Canucks", and interrupting the Canadian history assembly only so he could insult the Canadians.
+**He was rehired again as a 4th grade teacher in "[[South ParQ Vaccination Special]]" after serving as the 45th US President.
+*[[Margaret Nelson]] - Mr. Garrison's replacement after he was fired for interrupting the Canadian history assembly. So far, she has only appeared a few times teaching the class - about planets - briefly, during the Whole Foods Inspection. She was killed off in "[[South ParQ Vaccination Special]]".
+*[[Mr. Slave]] - Mr. Garrison's teaching assistant From "[[The Death Camp of Tolerance]]" to "[[Fat Butt and Pancake Head]]", and in "[[South Park is Gay!]]".
+**He was part of Mr. Garrison's get-rich-quick plan, which back-fired and ended with a forced stay at the Tolerance Camp for a week.
+*[[Mrs. Dreibel]] - Teaches art in her own classroom during "[[Toilet Paper]]".
+*[[Richard Dawkins]] - Teaches evolutionary studies.
+*[[Mr. Adler]] - He is the teacher in Shop Class.
+*[[Pearl]] - She teaches Home Economics.
+
+==Students==
+:''Also see: [[List of Female 4th Graders]]''
+:''Also see: [[List of Male 4th Graders]]''
+
+===Regulars===
+Students in this section are seen in Mr. Garrison's fourth grade classroom in almost all episodes.
+*[[Annie Knitts]]
+*[[Bebe Stevens]]
+*[[Butters Stotch]]
+*[[Clyde Donovan]]
+*[[Craig Tucker]]
+*[[Eric Cartman]]
+*[[Heidi Turner]]
+*[[Jimmy Valmer]] ("[[D-Yikes!]]" onward)
+*[[Kenny McCormick]]
+*[[Kyle Broflovski]]
+*[[Red|Red McArthur]]
+*[[Stan Marsh]]
+*[[Timmy Burch]]
+*[[Token Black]]
+*[[Wendy Testaburger]]
+
+===Recurring===
+Students in this section are seen in Mr. Garrison's fourth grade classroom but only in some episodes.
+*[[Boy with Red Shirt and Blue Pants]]
+*[[David Rodriguez]]
+*[[Esther]]
+*[[Francis]]
+*[[Heidi Turner]]
+*[[Kevin Stoley]]
+*[[Lola]]
+*[[Millie Larsen]]
+*[[Peter Mullen]]
+*[[Sally Turner]]
+*[[Tweek Tweak]] (regular until "[[Elementary School Musical]]")
+*[[Jenny Simons]] (in "[[Bass to Mouth]]")
+*[[Nichole Daniels]] (in "[[Cartman Finds Love]]")
+*[[Scott Malkinson]] (in "[[Basic Cable]]")
+
+===Other 4th Graders===
+:''See also: [[The Other 4th Grade]]
+Students who have not been seen in Mr. Garrison's fourth grade class but are fourth graders.
+*[[Brimmy]] (was in Third Grade class)
+*[[Damien Thorn]] (was in Third Grade class)
+*[[DogPoo Petuski]] (was in Third Grade class)
+*[[Mark Cotswolds]] (was in Third Grade class)
+*[[Terrance Mephesto]] (was in Third Grade class)
+*[[Bill Allen]] (was in Third Grade class)
+*[[Fosse McDonald]] (was in Third Grade class)
+*[[Nelly]]
+*[[Tommy|Tommy Turner]]
+*[[Lizzy]]
+*[[Allie Nelson]] (replaced Pip after his death)
+*[[Henrietta Biggle]] (member of the [[Goth Kids]])
+*[[Pete]] (member of the Goth Kids)
+*[[Charlotte]] (Canadian)
+
+===Former Students===
+Students who used to appear, but have since vanished without explanation, moved away, died, been expelled, or been incarcerated.
+*[[Pip Pirrip]]
+*[[Gregory]]
+*[[Gary Harrison]]
+*[[Baahir Hassan Abdul Hakeem]]
+*[[Kyle Schwartz]]
+*[[Jason White]]
+*[[Bradley Biggle]]
+*[[Trent Boyett]]
+*[[Leslie Meyers]]
+*[[Kelly Morris]]
+*[[Gary Borkovec]]
+
+== Age Errors ==
+Several characters are mentioned to be eight years old, despite being in the 4th grade (9–10 years old).
+*"[[Cartman Joins NAMBLA]]" - Cartman is mentioned to be eight.
+*"[[Kenny Dies]]" - Kenny is mentioned to be eight.
+*"[[Asspen]]" - Stan is mentioned to be eight.
+*"[[Freak Strike]]" - Butters is mentioned to be eight and a half.
+*"[[Professor Chaos]]" - DogPoo, Tweek, and Jimmy are textually shown to be eight.
+*"[[A Ladder to Heaven]]" - Kenny is mentioned to be eight.
+*"[[The Biggest Douche in the Universe]]" - Kenny is mentioned to be eight.
+*"[[Good Times with Weapons]]" - Butters and Kyle are both mentioned to be eight.
+*"[[Best Friends Forever]]" - Cartman is mentioned to be eight.
+*"[[Bloody Mary]]" - Stan says he's eight.
+*"[[Tsst]]" - Cartman is mentioned to be eight.
+*"[[Cartman Sucks]]" - Butters says he's eight.
+[[ja:4年生]]
+[[zh:四年级生]]
+[[Category:Lists]]
+[[Category:4th graders]]
+[[Category:Characters]]
+[[Category:Groups]]
+[[Category:School children]]

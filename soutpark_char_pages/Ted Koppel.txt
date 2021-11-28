@@ -1,0 +1,30 @@
+{{South Park character
+|name = Ted Koppel
+|image = Ted Koppel.png
+|gender = Male
+|race = Caucasian
+|hair = Red
+|age = {{age|1940|02|08}}
+|dob = February 8, 1940
+|job = Journalist<br>News Anchor
+|religion = Judaism
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766081/|title="South Park" Free Hat (TV episode 2002)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Ted Koppel|Ted Koppel]]
+|appearance = "[[Free Hat]]"
+}}{{LinkDisambig|Ted (Disambiguation)}}
+'''Ted Koppel''' is a news anchor who appears in the [[Season Six]] episode, "[[Free Hat]]", as the host of the show ''Nightline''. [[The boys]] appeared on ''Nightline'' in order to promote their movement to stop Hollywood classics from being revised by their directors, as well as free [[Hat McCullough]], the convicted serial killer guilty for the murder of twenty-three babies.
+
+==Appearance==
+Koppel has graying, auburn hair and wears a black suit, white shirt, and dark blue tie.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+[[zh:泰德·科波尔]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Jewish characters]]
+[[Category:Television celebrities]]

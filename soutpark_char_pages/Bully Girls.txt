@@ -1,0 +1,68 @@
+{{South_Park_character
+|name = Bully Girls
+|image = 5th-8th-graders-girl-bullies.png
+|gender = Female
+|hair = Brown
+|age = 11 - 12
+|appearance = ''[[South Park: The Stick of Truth]]''<br> "[[Board Girls]]" (first show appearance, Bully Girl 2)"
+|grade = 6th Grade}}The '''Bully Girls''' are three unnamed characters who appeared as a Boss in ''[[South Park: The Stick of Truth]]''. One of them appears in the [[Season Twenty-Three]] episode, "[[Board Girls]]" at the Board Girls Gaming Club.
+
+==Background==
+The Bully Girls are seen bullying [[Annie Knitts]] in front of [[City Hall]], they had stolen Annie's [[Justin Bieber]] doll with the intention of breaking it. However [[The New Kid]] appears and defeats the three, causing them to flee from him.
+
+The Bully Girls are later seen in [[Clyde Donovan|Clyde]]'s army when [[The Boys]] discover that He had taken the staff. Then they go to his house and find out what a great army he had. Two of the Bully Girls were in the army while the middle one was absent.
+
+The last appearance of the Bully Girls is in the final mission of the game "[[Beat Up Clyde]]". The third girl is seen at the beginning of the mission fighting a 4th grader in the background and the second girl is seen above Clyde Fort with a Cyclops costume boy, the New Kid will have to defeat her and him to pass. The three are seen fainting in the backyard along with the entire army when [[Kenny McCormick|Kenny]] is defeated.
+
+==Appearance==
+Bully girls are taller than 4th graders. They are probably in the 6th grade. For some strange reason, their appearance in the cutscenes is slightly different from their appearance during the game.
+
+<gallery spacing="small" caption="Images of the Bully Girls" widths="200">
+
+TheBullyGirls1.png|The Bully Girls bullying [[Annie Knitts|Annie]].
+TheBullyGirls2.png|The Bully Girls about to attack [[The New Kid]].
+Bully Girls in Board Girl.png|One of the Bully Girls in "[[Board Girls]]".
+
+</gallery>
+
+===Bully Girl 1===
+[[File:BullyGirl2.png|thumb|233px]]
+
+She seems to be the leader of the group. She wears a red cap, a navy blue short-sleeved shirt with a white collar, a light blue belt with a white buckle, baggy dark blue pants and black shoes. She has tied dark brown hair.
+
+{{clear}}
+
+===Bully Girl 2===
+[[File:BullyGirl1.png|thumb|171px]]
+
+She has long black hair and wears a gray hoodie with a large front pocket and a black shirt underneath, dark blue pants and black shoes.
+
+{{clear}}
+
+===Bully Girl 3===
+[[File:BullyGirl3.png|thumb|240px]]
+
+She wears a dark red sweater under a light blue jacket with two side pockets, dark blue pants and black shoes, she also wears a dark blue bandanna. She has big long black curly hair, she is overweight.
+
+{{clear}}
+
+==Prominence==
+*''[[South Park: The Stick of Truth]]''
+*"[[Board Girls]]" - The girl wearing the gray hood (Bully Girl 2) can be seen at the Board Girls Gaming Club. This is the first time one of them has been seen in an episode.
+
+==Trivia==
+*In the game files they are called "bully_rhat", "bullyhood" and "bullyband".
+*There is an unused character model in the game files called just "bullygirl". It is possible that this character would appear together with these three girls or could be just the beta of one of them. The character model bears a great resemblance to [[Tammy Warner]]. The character's head and hair are missing from the files.
+[[fr:Bully Girls]]
+[[zh:女恶霸]]
+[[Category:Characters]]
+[[Category:Unnamed characters]]
+[[Category:Bullies]]
+[[Category:Female characters]]
+[[Category:Townsfolk]]
+[[Category:School children]]
+[[Category:6th graders]]
+[[Category:Groups]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:The Stick of Truth: Bosses]]

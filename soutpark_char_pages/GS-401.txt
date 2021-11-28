@@ -1,0 +1,34 @@
+{{South Park character
+|name = GS-401
+|image = Gary-0.png
+|gender = Male
+|race = Towel
+|died = "[[Towelie]]"
+|job = Weaponized Smart Towel
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705977/|title="Towelie" on IMDB}}</ref>
+|appearance = "[[Towelie]]"
+|final = "[[Towelie]]"
+}}
+The '''GS-401''' is a weaponized, prototype smart towel, who was developed by [[Tynacorp]]. It appeared in the [[Season Five]] episode, "[[Towelie]]".
+
+==Background==
+[[The boys]] just want their [[2001 Okama Gamesphere|Okama Gamesphere]] back and to do so, they are forced into the middle of a debacle between Tynacorp and a militaristic resistance group. During the boys' infiltration of Tynacorp, the prototype replacement for [[Towelie (Character)|Towelie]], GS-401, is unleashed against them. GS-401 is quickly defeated apathetically by the boys and their Photon rifle.
+
+The boys reacquire their Okama Gamesphere, but the Tynacorp building explodes. During their escape, Towelie and the boys form a chain to help save the Gamesphere. GS-401 tries to get Towelie to drop the boys in a fiery inferno, but falls in himself instead.
+
+==Appearance==
+GS-401 is an anthropomorphic blue towel and is similar in appearance to Towelie, except for large muscles and is  darker. 
+<gallery widths="160" caption="Images of GS-401">
+Towelie093.png|GS-401 attempting to persuade Towelie into killing the boys.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Five}}
+[[es:GS-401]]
+[[zh:GS-401]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]
+[[Category:Monsters]]

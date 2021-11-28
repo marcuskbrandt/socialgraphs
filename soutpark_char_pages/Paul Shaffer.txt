@@ -1,0 +1,33 @@
+{{South Park character
+|name = Paul Shaffer
+|image = Celebrity-music-paul-shaffer.png
+|gender = Male
+|race = Caucasian
+|hair = Bald
+|age = {{age|1949|11|28}}
+|dob = November 28, 1949
+|job = Musician<br>Actor<br>Comedian<br>Author
+|religion = Judaism
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397943/|title="South Park" Fishsticks (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Paul Shaffer|Paul Shaffer]]
+|appearance = "[[Fishsticks]]"
+}}
+'''Paul Shaffer''' appears in the [[Season Thirteen]] episode, "[[Fishsticks]]", along with [[David Letterman]], who told the [[Fishsticks Joke]] to Shaffer on his show. He has yet to make another appearance on ''[[South Park]]''.
+
+==Appearance==
+Paul Shaffer wears a blue shirt, a blue tie with yellow polka dots, a tan coat, and black, rectangular-framed glasses with dark lenses. Unlike many other Canadians depicted on the show, he does not have a floppy head and beady eyes.
+
+==References==
+{{Reflist}}
+
+{{MusicCelebrities}}
+[[zh:保罗·沙弗]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]
+[[Category:Jewish characters]]
+[[Category:Music celebrities]]
+[[Category:Characters voiced by Matt Stone]]

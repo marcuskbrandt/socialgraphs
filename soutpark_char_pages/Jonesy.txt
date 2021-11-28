@@ -1,0 +1,43 @@
+{{South Park character
+|name = Jonesy
+|image = Jonesy.png
+|gender = Male
+|hair = Black
+|job = Musician
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766078/|title="South Park" Cat Orgy (TV episode 1999)|publisher=IMDb.com}}</ref><br>[[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766092/|title="South Park" Timmy 2000 (TV episode 2000)|publisher=IMDb.com}}</ref>
+|appearance = "[[Clubhouses]]"
+}}
+'''Jonesy''' is a musician and a member of [[Skyler]]'s band in "[[Cat Orgy]]" and "[[Timmy 2000]]". He first appears in the [[Season Two]] episodes "[[Clubhouses]]" and "[[Chef Aid]]".
+
+==Appearance==
+Jonesy has long black hair. He wears black pants and a green shirt. In later episodes his shirt has a Zildjian logo on it.
+
+<gallery widths="160" captionalign="left" caption="Images of Jonesy">
+Jonesy.jpg|Jonesy at the drums.
+</gallery>
+
+==Personality==
+Jonesy seems to have a negative attitude, even insulting himself and the other band members in "[[Timmy 2000]]".
+
+==Prominence==
+*"[[Clubhouses]]" -  He and his friend [[Scott ("Clubhouses")|Scott]] are invited by the [[Runaway Girls|runaway girls]] to the Cartman club house.
+*"[[Chef Aid]]" - Attends Chef Aid.
+*"[[Cat Orgy]]" -  Plays with the rest of Skyler's band at Cartman's house.
+*"[[Timmy 2000]]" - Allows Timmy to join the band and competes in the Battle of the Bands.
+*"[[How to Eat with Your Butt]]" - Asks Cartman why he isn't laughing at the movies.
+*"[[Christian Rock Hard]]" - Jonesy and the band follow suit after [[Moop]] strikes.
+
+==Trivia==
+*Jonesy wears a T-shirt which reads, "[[Wikipedia:Avedis Zildjian Company|Zildjian]]" which is a reference to a company of the same name which supplies music to the show.
+
+==References==
+{{Reflist}}
+[[pl:Jonesy]]
+[[zh:琼西]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:The Lords of the Underworld]]

@@ -1,0 +1,29 @@
+{{South Park character
+|name = Katie Foley
+|image = Katie-foley.png
+|gender = Female
+|hair = Blonde
+|job = Student
+|relation1 = Father
+|relativename1 = Mr. Foley
+|relation2 = Mother
+|relativename2 = Mrs. Foley
+|relation3 = Sisters
+|relativename3 = [[Jenny Simons]]<br>[[Girl with Blonde Hair]]
+|appearance = "[[The Ring]]"
+}}
+'''Katie Foley''' is a minor character who first appears in [[Season Thirteen]] episode "[[The Ring]]".
+
+==Background==
+As she was watching the [[Jonas Brothers]]' 3-D concert, she asked her father if it was time to put on the 3D glasses.
+
+==Appearance==
+Katie has a wavy blond hair. She wears a purple blouse, purple shorts and black shoes.
+
+==Family==
+In "[[The Ring]]", her family is shown as a very devout Christian family. She also has two sisters, with one of them appearing to be [[Jenny Simons]] and the other being the [[Girl with Blonde Hair]].
+
+[[zh:凯蒂·弗利]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:One-off characters]]

@@ -1,0 +1,31 @@
+{{South Park character
+|name = Blonde-Haired Girl
+|image = Blonde-girl-transparent.png
+|gender = Female
+|hair = Blond
+|job = Student
+|voice = [[Trey Parker]]<ref>Credited as "Girl on Piano" in {{cite web|url=http://www.imdb.com/title/tt0763047/|title="South Park" Erection Day (TV episode 2005)|publisher=IMDb.com}}</ref>
+|appearance = "[[Erection Day]]"
+}}
+The '''Blonde-Haired Girl''' is a student at [[South Park Elementary]] who appears in the [[Season Nine]] episode, "[[Erection Day]]".
+
+==Background==
+In the episode, she is one of the participants of the [[South Park Elementary Talent Show|school's talent show]]. She plays the piano and sings poorly to "[[Open Arms]]" by American rock band Journey.
+
+==Appearance==
+[[File:ErectionDay (73).png|thumb|left|The Blonde Haired Girl performing at the talent show.]]
+She has short blond hair and wears black glasses. At the Talent show she is seen wearing a pink dress with dark stripes and black shoes.
+{{Clear}}
+==References==
+{{Reflist}}
+{{Minor Characters from Season Nine}}
+{{South Park Children}}
+
+[[zh:金发眼镜女孩]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Unnamed characters]]
+[[Category:Teens]]
+[[Category:School children]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

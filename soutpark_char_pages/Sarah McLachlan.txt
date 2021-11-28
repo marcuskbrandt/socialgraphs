@@ -1,0 +1,37 @@
+{{South Park character
+|name = Sarah McLachlan
+|image = Misc-celebrities-sarah-mclachlan.png
+|gender = Female
+|hair = Brown
+|age = {{age|1968|1|28}}
+|dob = 28 January, 1958
+|job = Singer-Songwriter
+|voice = [[Trey Parker]]<ref>Credited as the "Woman on Appeal" in {{cite web|url=https://www.imdb.com/title/tt1932265/|title="South Park" Crack Baby Athletic Association (TV Episode 2011)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Sarah McLachlan|Sarah McLachlan]]
+|appearance = "[[Crack Baby Athletic Association]]"
+}}
+{{LinkDisambig|Sarah (Disambiguation)}}
+'''Sarah McLachlan''' is a singer-songwriter who appears in [[Season Fifteen]] episode "[[Crack Baby Athletic Association]]".
+
+==Background==
+While [[Stan Marsh|Stan]] and [[Kyle Broflovski|Kyle]] are watching a [[Terrance and Phillip]] show, a commercial on [[Crack Babies|crack babies]] comes on air. It features Sarah McLachlan, who urges the audience to go to their nearest hospital to volunteer to take care of crack babies, while pictures of the babies are shown. Kyle is overwhelmed by the sadness of the commercial and decides to volunteer.
+
+==Trivia==
+*Sarah says that she was famous for two months in the commercial.
+*Despite being a Canadian in real life, Sarah is not depicted with a flappy head and beady eyes like other Canadian characters in the show.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Fifteen}}
+{{MusicCelebrities}}
+[[ja:サラ・マクラクラン]]
+[[pl:Sarah McLachlan]]
+[[zh:莎拉·麦克拉克兰]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Female characters]]
+[[Category:Celebrities]]
+[[Category:Music celebrities]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Canadians]]

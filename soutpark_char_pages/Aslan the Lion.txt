@@ -1,0 +1,46 @@
+{{South Park character
+|name = Aslan the Lion
+|image = <gallery>
+Aslan.png|Current
+Aslan-lion.png|Former
+</gallery>
+|gender = Male
+|race = Lion
+|hair = Brown
+|job = Leader of the [[Council of Nine]]
+|voice = Matthew Prager<ref>{{cite web|url=http://www.imdb.com/title/tt0705931/|title="South Park" Here Comes the Neighborhood (TV episode 2001)|publisher=IMDb.com}}</ref><br>
+[[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995578/|title="South Park" Imaginationland: Episode II (TV episode 2007)|publisher=IMDb.com}}</ref>
+|appearance = "[[Here Comes the Neighborhood]]"
+|wikipedia = [[Wikipedia:Aslan|Aslan the Lion]]
+}}
+'''Aslan the Lion''' is a character from ''The Chronicles of Narnia''. In ''[[South Park]]'', he appears as the leader of the [[Council of Nine]] in the "[[Imaginationland]]" trilogy, as well as the leader of the lions at the zoo in "[[Here Comes the Neighborhood]]". In "[[Imaginationland]]", he scares [[Butters Stotch]] into using his "Key" powers to revive [[Santa Claus]], and later other good characters, so the good creatures could defeat the evil characters.
+
+==Appearance==
+In "[[Here Comes the Neighborhood]]", he looks like a regular lion, with brown fur and a large mane. However, in "[[Imaginationland]]", he appears more realistic and has green emerald eyes. 
+<gallery widths="160" captionalign="left" caption="Images of Aslan the Lion">
+HereComesTheNeighborhood074.png|Aslan, as seen in "[[Here Comes the Neighborhood]]".
+ImaginationlandEpisodeII00103.png|Aslan, as seen in "[[Imaginationland]]".
+</gallery>
+
+==Personality==
+In "[[Here Comes the Neighborhood]]", he seems to have a huge sense of humor, even laughing at every joke he hears. In "[[Imaginationland]]", his sense of humor is largely gone, replaced by a more serious, commanding attitude.
+
+==Prominence==
+*"[[Here Comes the Neighborhood]]"-
+*"[[Imaginationland]]"-
+
+==References==
+{{Reflist}}
+<!--Interwiki links-->
+[[es:Aslan,el leon]]
+[[fr:Aslan the Lion]]
+[[zh:狮王阿斯兰]]
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:Imaginationland characters]]
+[[Category:Crossover characters]]
+[[Category:Council of Nine]]
+[[Category:Characters with superpowers]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Minor characters]]
+[[Category:Male characters]]

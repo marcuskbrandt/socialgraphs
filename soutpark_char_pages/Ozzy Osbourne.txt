@@ -1,0 +1,61 @@
+{{South Park character
+|name = Ozzy Osbourne
+|image = Ozzy-osbourne.png
+|gender = Male
+|hair = Black
+|age = {{age|1948|12|3}}
+|dob = December 3, 1948
+|job = Musician, Songwriter, Actor
+|religion = Anglican
+|voice = Ozzy Osbourne<ref>{{cite web|url=http://www.imdb.com/title/tt0705907/|title="South Park" Chef Aid (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Ozzy Osbourne|Ozzy Osbourne]]
+|relation1 = Daughter
+|relativename1 = Kelly Osbourne
+|relation2 = Son
+|relativename2 = Jack Osbourne
+|appearance = "[[Chef Aid]]"
+}}
+'''Ozzy Osbourne''' is a musician, songwriter, and actor. He appears in the [[Season Two]] episode "[[Chef Aid]]", as one of the performers at the concert.
+
+==Background==
+In "[[My Future Self n' Me]]", [[Stan Marsh|Stan]] is seen watching ''The Osbournes'', featuring Ozzy, his son Jack Osbourne, and his daughter Kelly. Osbourne appears on "[[Chef Aid: The South Park Album]]", singing "[[Nowhere to Run]]" with DMX, Ol' Dirty Bastard, and The Crystal Method. He also appeared in the accompanying mockumentary, ''[[Chef Aid: Behind the Menu]]'', in which he talked about [[Jerome "Chef" McElroy|Chef's]] influence on his career.
+
+==Appearance==
+In "[[Chef Aid]]", he wears an oversized coat, black pants, round sunglasses, and a cross on a necklace. In "[[My Future Self n' Me]]" he is seen wearing a black and purple robe.
+
+<gallery widths="160" spacing="small" caption="Images of Ozzy Osbourne">
+Osbournes.JPG|Ozzy Osbourne in "[[My Future Self n' Me]]"
+Ozzy.JPG|Ozzy Osbourne in ''[[Chef Aid: Behind the Menu]]''
+</gallery>
+
+==Family==
+===Kelly and Jack Osbourne===
+Kelly and Jack Osbourne appeared in "[[My Future Self n' Me]]". In the episode, [[Stan Marsh|Stan]] is seen watching ''The Osbournes'', featuring Kelly, Ozzy, and Jack.
+
+==Trivia==
+*The scene in "[[Chef Aid]]" where Ozzy bites Kenny's head off is a reference to a real incident where he bit the head off of a live bat during a concert.
+
+==Prominence==
+*"[[Chef Aid]]"
+*"[[Timmy 2000]]" - Seeing in the background of MTV News.
+*"[[My Future Self n' Me]]"
+*"[[Christian Rock Hard]]" - Appeared as one of the musicians on strike.
+*"[[Chef Aid: Behind the Menu]]"
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+{{MusicCelebrities}}
+
+[[es:Ozzy Osbourne]]
+[[ja:オジー・オズボーン]]
+[[zh:奥兹·奥斯朋]]
+[[Category:Characters]]
+[[Category:Music celebrities]]
+[[Category:Voice actors]]
+[[Category:British characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Celebrity voice actors]]

@@ -1,0 +1,44 @@
+{{South Park character
+|name = Robert Redford
+|image = Robert-redford.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1936|8|18}}
+|dob = August 18, 1936
+|job = Actor
+|religion = Agnostic
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705909/|title="South Park" Chef's Salty Chocolate Balls (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Robert Redford|Robert Redford]]
+|appearance = "[[Chef's Chocolate Salty Balls]]"
+}}
+{{LinkDisambig|Robert (Disambiguation)}}
+'''Robert Redford''' is a former American actor, He appears in the episode, "[[Chef's Chocolate Salty Balls]]". He later reappears in "[[200]]" and "[[201]]".
+
+==Appearance==
+Robert has short brown hair, brown eyebrows, and several facial wrinkles. He wears a blue, button-up shirt and blue pants.
+
+==Personality==
+He was shown to have a cunning and underhand personality and seems to be very manipulative, turning small towns like [[South Park (Location)|South Park]] into [[Los Angeles]]-esque cities, under the guise of having a "Film Festival", without anyone noticing his true intentions, with no regard for the interests of the townspeople whatsoever.
+
+==Trivia==
+*[[Matt Stone]] and [[Trey Parker]]'s band, [[DVDA]], wrote an unreleased song called "Robert Redford Fucks Babies".
+==Prominence==
+*"[[Chef's Chocolate Salty Balls]]" - Robert Redford and his associates move the Sundance Film Festival to South Park, creating the 1st South Park Film Festival.
+*"[[200]]" - One the celebrities suing South Park.
+*"[[201]]" - One of the pissed off celebrities.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+{{MovieCelebrities}}
+[[zh:罗伯特·雷德福]]
+[[Category:Agnostics]]
+[[Category:Male characters]]
+[[Category:Characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:200 and 201 celebrities]]
+[[Category:Minor characters]]
+[[Category:Adult characters]]
+[[Category:Movie celebrities]]
+[[Category:Elderly people]]

@@ -1,0 +1,34 @@
+{{South Park character
+|name = Predator
+|image = Predator.png
+|gender = Male
+|race = Yautja, Alien-Humanoid
+|job = Hunter, Warrior
+|appearance = "[[Butters' Very Own Episode]]"
+|last = "[[Imaginationland, Episode II]]"
+}}
+The '''Predator''', also sometimes known as a Yautja, is a central character from the ''Predator'' film series. The Predator appears in the [[Season Five]] episode, "[[Butters' Very Own Episode]]", and [[Season Eleven]] episode, [[Imaginationland, Episode III]].
+
+==Background ==
+In "[[Butters' Very Own Episode]]", [[Butters Stotch|Butters]] can be seen being stalked by a Predator via its thermal vision, while Butters is walking through the woods. The three red targeting lasers from its helmet continue to track him, but it decides not to kill him.
+
+It also appears in "[[Imaginationland, Episode II]]" in several scenes, notably with the [[The Alien (Xenomorph)|Alien]] attacking the good characters and Butters.
+
+==Appearance==
+The Predator wears flat-metallic colored armor on the upper half of its torso, shoulders, knees, upper arms, fists, shins, and crotch. It also wears a "Bio-Helmet" covering its face and mandibles, and has wrist gauntlets on the forearms. Its skin is a pale green hue, and it wears a heated wire mesh under-suit. It has long, hair-like appendages on its head.<ref>{{cite web|url=http://avp.wikia.com/wiki/Yautja_(Predator)#Appearance|title="Yautja (Predator): Appearance" on Xenopedia}}</ref>
+
+===Weapons===
+Its most familiar weapons are a pair of wrist-blades on its gauntlet, and a plasmacaster on its shoulder that functions via a unique three laser targeting system in its bio-helmet visor. It also has a combistick, which a type of retractable spear. The species is also known for a variety of short range and ritualistic weapons, electronic scrambling devices, shuriken-type thrown blades (some smart controlled), and even incendiary devices or mines, or energy flechettes.<ref>{{cite web|url=http://avp.wikia.com/wiki/Yautja_(Predator)#Weapons|title="Yautja (Predator): Weapons" on Xenopedia}}</ref> However, one of its most famous tertiary devices is a self-destruct function that is encoded in its gauntlet, as Predator armor is embedded with discreet explosives strong enough that, when triggered to maximum build-up, can extend to at least a 30km radius.
+
+==Prominence==
+*"[[Butters' Very Own Episode]]"
+*"[[Imaginationland, Episode II]]"
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Five}}
+[[zh:铁血战士]]
+[[Category:Aliens]]
+[[Category:Imaginationland characters]]
+[[Category:Characters]]
+[[Category:Minor characters]]

@@ -1,0 +1,43 @@
+{{South Park character
+|name = Clone Stan Marsh
+|image = Evil-clone-stan.png
+|aliases = Stan Marsh
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = 1 day (deceased)
+|job = Science Project
+|died = "[[An Elephant Makes Love to a Pig]]"
+|voice = [[Trey Parker]] <ref>{{cite web|url=http://www.imdb.com/title/tt0705894/|title="An Elephant Makes Love to a Pig" on IMDB}}</ref>
+|relation1 = Creator
+|relativename1 = [[Dr. Alphonse Mephesto|Dr. Mephesto]]
+|appearance = "[[An Elephant Makes Love to a Pig]]"
+|final = "[[2000 New Year's Countdown]]"
+}}
+'''Clone Stan Marsh''' was [[Terrance Mephesto]]'s Science Project. He was created by [[Dr. Alphonse Mephesto|Dr. Mephesto]], who also killed him after it destroyed the town of South Park.
+
+==Background==
+Clone Stan Marsh was a science project for Terrance Mephesto, but it went horribly wrong, as it broke free from Mephesto's ranch and destroyed the town of [[South Park (Location)|South Park]]. Due to his appearance, the townsfolk believed the clone to be [[Stan Marsh]]. [[The Boys|The boys]] found him and persuaded him to attack [[Shelly Marsh]], who, in turn, attacks him by physically beating him. When Shelly was finished, Dr. Mephesto had caught up with the boys and promptly killed the clone.
+
+==Appearance==
+Clone Stan Marsh has a similar appearance to [[Stan Marsh]]. He has a larger head with stringy, black hair and an arm that is longer than the other, and one buck-tooth that sticks out of his mouth.
+
+<gallery widths="120" caption="Images of Clone Stan Marsh">
+Clone-Stan-Marsh-Death.png|Clone Stan Marsh shot by Dr. Mephesto in "[[An Elephant Makes Love to a Pig]]".
+</gallery>
+
+==Quotes==
+{{Quote|Clone Stan Marsh|Bah-chan, bah-chan. Bah-chuy chuy chan.|An Elephant Makes Love to a Pig}}
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season One}}
+[[es:Clon de Stan]]
+[[zh:克隆斯坦]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Monsters]]
+[[Category:Deceased characters]]
+[[Category:Characters with deviations]]

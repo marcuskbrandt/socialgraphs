@@ -1,0 +1,33 @@
+{{South Park character
+|name = Michael Buffer
+|image = Michael-buffer.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1944|11|2}}
+|dob = November 2, 1944
+|job = Boxing Ring Announcer
+|voice = Himself<ref>{{cite web|url=http://www.imdb.com/title/tt0705919/|title="South Park" Damien (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Michael Buffer|Michael Buffer]]
+|appearance = "[[Damien]]"
+}}{{LinkDisambig|Michael (Disambiguation)}}
+'''Michael Buffer''', voiced by himself, appears as the ringside announcer in the [[Season One]] episode, "[[Damien]]".
+
+==Background==
+In "[[Damien]]", he delivers his trademark "Let's Get Ready to Rumble!" line upon announcing the fight between [[Satan]] and [[Jesus Christ]].
+
+==Appearance==
+As he usually appears when he announces boxing matches, Michael Buffer wears a black tuxedo consisting of a black coat, white formal shirt, black pants, and a black bow tie. Although in ''South Park'' his character appears with short brown hair, in reality, he has gray hair.
+
+==References==
+{{Reflist}}
+{{SportsCelebrities}}
+{{Minor Characters from Season One}}
+[[zh:迈克尔·巴弗]]
+[[Category:Sports celebrities]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrity voice actors]]

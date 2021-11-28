@@ -1,0 +1,24 @@
+{{South Park character
+|name = Nishimura Master
+|image = Localbusiness-people-nishimura-master.png
+|race = Japanese
+|hair = Black
+|job = Sumo Wrestling Instructor
+|voice = [[Trey Parker]]<ref>Credited as the "Sumo Teacher" in {{Cite web|url=https://www.imdb.com/title/tt0705979/|title="South Park" Tweek vs. Craig (TV Episode 1999)|publisher=IMDb.com}}</ref>
+|appearance = "[[Tweek vs. Craig]]"
+}}
+The '''Nishimura Master''' is a sumo wrestling instructor at the [[Nishimura School of Martial Arts]]. He appears in [[Season Three]] episode "[[Tweek vs. Craig]]".
+
+==Background==
+[[Eric Cartman|Cartman]] takes [[Craig Tucker|Craig]] to the Nishimura School of Martial Arts to help the latter learn sumo wrestling, preparing him for a fight against [[Tweek Tweak|Tweek]]. The master gave Craig advice on treating "the body like stone, and mind like meatloaf" when it comes to sumo, while bringing out Cartman as a training opponent. Cartman ended up knocking out Craig instead, to which the master suggests to the former that he take up sumo as a profession.
+
+==References==
+{{Reflist}}
+
+[[zh:相扑师傅]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Asian characters]]
+[[Category:Characters voiced by Trey Parker]]

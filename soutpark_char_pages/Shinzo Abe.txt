@@ -1,0 +1,22 @@
+{{South Park character
+|name = Shinzo Abe
+|image = Shinzo Abe.png
+|gender = Male
+|race = Japanese
+|age = {{Age|1954|9|21}}
+|dob = 21 September, 1954
+|job = Former Prime Minister of [[Japan]]
+|wikipedia = [[Wikipedia:Shinzo Abe|Shinzo Abe]]
+|appearance = "[[Handicar]]"
+}}
+'''Shinzo Abe''' is a Japanese politician who formerly served as the prime minister of [[Japan]]. An image of Abe appears in the [[Season Eighteen]] episode, "[[Handicar]]", when news of the Wacky Races being called upon broke out.
+
+==Background==
+It was reported that Shinzo Abe insisted any race would break the Treaty of Salzburg, which called for a cease-fire to the Wacky Races for their senseless brutality. However should the race gets the go-ahead, they would participate with their completely self-driven prototype Lexus. The self-driven car eventually made its way into the race.
+[[zh:安倍晋三]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Political celebrities]]
+[[Category:Mentioned-only characters]]
+[[Category:Celebrities]]

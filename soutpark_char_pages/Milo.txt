@@ -1,0 +1,31 @@
+{{South Park character
+|name = Milo
+|image = Butlers-aides-milo-barbra-streisands-butler.png
+|gender = Male
+|hair = Brown
+|job = Butler
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705941/|title=Mecha-Streisand on IMDB}}</ref>
+|appearance = "[[Mecha-Streisand]]"
+}}
+'''Milo''' is a man who appears as [[Barbra Streisand]]'s butler in the [[Season One]] episode "[[Mecha-Streisand]]".
+
+==Background==
+Milo appears in [[Barbra Streisand's Mountain Condo]] when Streisand tells him that [[Eric Cartman|Cartman]] has one piece of the [[Diamond of Pantheos]] called the Triangle of Zinthar. Later on, he is seen retrieving the triangle piece from Cartman's shoe and giving it to Barbra.
+
+==Appearance==
+Milo has balding brown hair with a few small black strands sticking out from the top middle part of his head. He wears a gray tuxedo with a white undershirt, black bowtie, gray pants with black stripes, and black shoes. He has many wrinkles on his face and he appears to have a mouth similar to that of [[Marvin Marsh]].
+<gallery widths="160" spacing="small" caption="Images of Milo">
+Milo-talking-to-Streisand.png|Milo talking to Barbra Streisand.
+Milo-retrieving-traingle.png|Milo retrieving the triangle from Cartman's shoe.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season One}}
+[[zh:米洛]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Elderly people]]

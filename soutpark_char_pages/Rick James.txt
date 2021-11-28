@@ -1,0 +1,37 @@
+{{South Park character
+|name = Rick James
+|image = Rick-james.png
+|gender = Male
+|hair = Black
+|age = 56 (deceased)
+|dob = February 1, 1948
+|died = August 6, 2004
+|job = Musician
+|religion = Roman Catholic
+|voice = Himself<ref>{{cite web|url=http://www.imdb.com/title/tt0705907/|title="South Park" Chef Aid (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Rick James|Rick James]]
+|appearance = "[[Chef Aid]]"
+}}{{LinkDisambig|Rick (Disambiguation)}}
+'''Rick James''' is an American musician. He appears in the [[Season Two]] episode "[[Chef Aid]]", where he gives [[The Boys|the boys]] money to help out [[Chef]]. Rick James also appears on ''[[Chef Aid: The South Park Album]]'', singing "[[Love Gravy]]" with [[Chef Aid: Behind the Menu#Ike Turner|Ike Turner]].
+
+==Appearance==
+He has long, black, "cornrowed" hair. He wears a black, long-sleeve shirt, and a gold, circular earring on his left ear.
+
+==Personality==
+He was shown to be kind and caring, giving [[The Boys|the boys]] money to help [[Chef]] in "[[Chef Aid]]".
+
+==References==
+{{Reflist}}
+{{MusicCelebrities}}
+[[es:Rick James]]
+[[ja:リック・ジェームス]]
+[[zh:瑞克·詹姆斯]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Music celebrities]]
+[[Category:Minority characters]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:African-American characters]]

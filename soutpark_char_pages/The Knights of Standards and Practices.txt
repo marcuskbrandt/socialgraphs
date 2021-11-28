@@ -1,0 +1,29 @@
+{{Group
+|name = The Knights of Standards and Practices
+|image = Knights-of-standards-n-practices.png
+|type = Knights
+|job = Curse Word Regulation
+|enemies = [[Geldon]]
+|gender = Male
+|first = "[[It Hits the Fan]]"
+|times = 1
+}}
+'''The Knights of Standards and Practices''' are medieval knights formed sworn to keep curse words to a minimum. Should a curse word ever be let out, they would return. A rune for each word of curse was made, representing each of the eight words that so offended God. They made their first and only appearance in the [[Season Five]] episode, "[[It Hits the Fan]]".
+
+==Background==
+===List of Known Offending Words===
+*Fuck
+*Shit
+*Asshole
+*Meecrob
+
+==Appearance==
+There are seven knights, each with identical clothing and armor. They have metal armor protecting most of their bodies, specifically the torso, shoulders, and arms. Two of the knights wear helmets. Each wields identical swords with a black handles.
+
+{{Minor Characters from Season Five}}
+[[zh:护法骑士]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Groups]]

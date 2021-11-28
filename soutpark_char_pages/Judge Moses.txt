@@ -1,0 +1,31 @@
+{{South Park character
+|name = Judge Moses
+|image = Adults-civil-servants-judge-moses.png
+|gender = Male
+|hair = Gray
+|job = Judge
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705907/|title="South Park" Chef Aid (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Chef Aid]]"
+}}
+'''Judge Moses''' is the judge of the [[South Park Courthouse]] who appears in the [[Season Two]] episode, "[[Chef Aid]]".
+
+==Background==
+Judge Moses appears as the judge for the trial between [[Jerome "Chef" McElroy|Chef]] and [[Mr. Big Record Producer]] after Chef is sued for accusing the Mr. Big Record Producer of stealing his song [[Stinky Britches]]. Judge Moses sentences Chef to get two million dollars for the record producer in 24 hours or else he will go to jail for eight million years, though the bailiff corrects him and tells him it is actually four years.
+
+==Appearance==
+Judge Moses has messy gray and white hair, white eyebrows, and a gray and white beard. He wears a black court dress, gray pants, and black shoes.
+
+==Trivia==
+*Judge Moses is most likely a reference to Chef's voice actor [[Isaac Hayes]]' album ''[[wikipedia:Black Moses (album)|Black Moses]]'', which was released in 1971.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[zh:摩西法官]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Elderly people]]
+[[Category:Townsfolk]]
+[[Category:Characters voiced by Trey Parker]]

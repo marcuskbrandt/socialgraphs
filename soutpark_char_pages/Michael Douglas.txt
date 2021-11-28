@@ -1,0 +1,35 @@
+{{South Park character
+|name = Michael Douglas
+|image = Michael-douglas.png
+|gender = Male
+|hair = Gray
+|dob = September 25, 1944
+|age = {{age|1944|9|25}}
+|job = Actor<br>Producer
+|religion = Judaism
+|wikipedia = [[Wikipedia:Michael Douglas|Michael Douglas]]
+|appearance = "[[Sexual Healing]]"
+|last = "[[201]]"
+}}
+{{LinkDisambig|Michael (Disambiguation)}}
+'''Michael Kirk Douglas Jr''' is an American actor best known for his role in the [http://www.imdb.com/title/tt0443632/ ''The Sentinel'']. He first appears in "[[Sexual Healing]]", where he is treated for sex addiction at the [[Karne Institute for Sex Addiction]] and learned that his condition is caused by a [[Wizard Alien]].
+
+==Appearance==
+Michael Douglas has short, gray hair, various facial wrinkles, and thick, gray eyebrows. He wore a dull brown suit and  a light blue, "dress" shirt.
+
+==Prominence==
+*"[[Sexual Healing]]"
+*"[[200]]" - Seen with the other celebrities suing [[South Park (Location)|South Park]].
+*"[[201]]" - Seen with the other celebrities suing South Park.
+
+{{MovieCelebrities}}
+[[zh:迈克尔·道格拉斯]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:200 and 201 celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Jewish characters]]
+[[Category:Elderly people]]
+[[Category:Movie celebrities]]

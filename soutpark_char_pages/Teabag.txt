@@ -1,0 +1,29 @@
+{{South Park character
+|name = Teabag
+|image = Workforce-teabag.png
+|gender = Male
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1629114/|title="South Park" Medicinal Fried Chicken (TV episode 2010)|publisher=IMDb.com}}</ref>
+|appearance = "[[Medicinal Fried Chicken]]"
+}}
+:''Not to be confused with [[Professor Teabag]] from "[[Fantastic Easter Special]]".''
+'''Teabag''' is a character who appears in the [[Season Fourteen]] episode "[[Medicinal Fried Chicken]]".
+
+==Background==
+[[Eric Cartman|Cartman]] meets Teabag behind an alley to get some [[Kentucky Fried Chicken]]. However, when Cartman tastes the product to make sure it is legit, he is able to tell that it is cut with gravy from Boston Market. In response, he pulls a gun on Teabag and threatens him with it until he gets on all fours and tells Cartman that he can keep the money and the KFC.
+
+==Appearance==
+Teabag has brown hair that is spiked on the top, brown eyebrows, and a small brown mustache. He wears gray and black sunglasses on his head, an open yellow shirt over a white shirt, a gold chain necklace, gray pants, and white shoes.
+<gallery widths="160" spacing="small" caption="Images of Teabag">
+MedicinalFriedChicken042.png|Cartman pulls a gun on Teabag
+MedicinalFriedChicken044.png|Cartman pointing the gun at Teabag's head
+</gallery>
+
+==References==
+{{Reflist}}
+[[pl:Teabag]]
+[[zh:茶袋子]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

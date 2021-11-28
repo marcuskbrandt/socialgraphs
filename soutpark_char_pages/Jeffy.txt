@@ -1,0 +1,22 @@
+{{South Park character
+|name = Jeffy
+|image = Jeffy.png
+|race = Duck
+|gender = Male
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705986/|title="South Park" You Got F'd in the A (TV episode 2004)|publisher=IMDb.com}}</ref>
+|appearance = "[[You Got F'd in the A]]"
+}}
+'''Jeffy''' is a duck who appears in the episode "[[You Got F'd in the A]]". He is most notable for his "dancing" whenever [[Jeffy's Song|music]] is played. He is owned by a stereotypical, redneck farmer. He temporarily joined the [[The South Park Diggities|South Park Diggities]] with [[Stan Marsh|Stan]], [[Mercedes]], [[Michael]], and [[Yao]]. in "[[You Got F'd in the A]]", however, he could not compete in the match against the [[The Orange County Crew|Orange County Crew]] as he sprained his ankle shortly before it started.
+
+==Appearance==
+Jeffy is an adult, male duck. Most of his feathers are tints of brown. However, some are gray, green, and white.
+
+==References==
+{{Reflist}}
+[[zh:杰菲]]
+[[Category:Animals]]
+[[Category:One-off characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:The South Park Diggities]]
+[[Category:Characters voiced by Trey Parker]]

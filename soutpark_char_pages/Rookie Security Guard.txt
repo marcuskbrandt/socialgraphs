@@ -1,0 +1,38 @@
+{{South Park character
+|name = Rookie Security Guard
+|image = adults-civil-servants-security-guard-cadet.png
+|gender = Male
+|hair = Brown
+|job = Security Guard
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705960/|title="South Park" Something You Can Do with Your Finger (TV Episode 2000)|publisher=IMDb.com}}</ref>
+|appearance = "[[Something You Can Do with Your Finger]]"
+}}
+The '''Rookie Security Guard''' is a guard at the [[South Park Mall]] that appears in the episode "[[Something You Can Do with Your Finger]]".
+
+==Background==
+During his first day on the job as a security guard of [[South Park Mall]], the rookie takes advice from the veteran [[Security Guard|security guard]], approaching shoppers sternly, including a supposed "terrorist", before asking them to move along. 
+
+Both guards later approached the [[Fingerbang]] crew, accusing them for starting an orange smoothie riot over a Nissan Sentra. As the Fingerbang crew makes their escape, the veteran guard ordered the rookie to give chase, but the latter could only stare.
+
+The rookie was finally seen with the veteran guard during Fingerbang's performance in the mall.
+
+==Appearance==
+He has brown hair and wears the mall's security uniform, which consists of a buttoned blue shirt, black belt and blue jeans.
+
+==Gallery==
+<gallery widths="160" spacing="small">
+SomethingYouCanDoWithYourFinger026.png|The rookie with the veteran Security Guard.
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Four}}
+[[zh:新手保安]]
+[[Category:One-off characters]]
+[[Category:Townsfolk]]
+[[Category:Male characters]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by Matt Stone]]

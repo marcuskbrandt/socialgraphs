@@ -1,0 +1,37 @@
+{{South Park character
+|name = Steve
+|image = Teens-young-adults-steve.png
+|gender = Male
+|hair = Black
+|age = 17
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705929/|title="South Park" Pip (TV episode 2000)|publisher=IMDb.com}}</ref>
+|appearance = "[[Pip]]"
+}}{{LinkDisambig|Steve (Disambiguation)}}
+'''Steve''' is a teenager who appears as one of [[Estella Havisham]]'s boyfriends in the [[Season Four]] episode "[[Pip]]".
+
+==Background==
+Steve appears to take Estella away when [[Pip Pirrip]] shows up to dance with her at the Grand Ballroom at the Palace in order to break Pip's heart as instructed by [[Miss Havisham]]. Estella states that Steve is seventeen years old and has a car. Later on, Miss Havisham captures Steve after he tries to take Estella away from her to use in her Genesis device. She hangs him upside down from his feet along with the rest of Estella's past boyfriends but is saved by the end of the episode.
+
+==Appearance==
+Steve has messy long black hair and black eyebrows. He wears a white T-shirt, cyan pants, and black shoes. He has visible acne on his face.
+<gallery widths="160" spacing="small" caption="Images of Steve">
+414 Pip Pip Pip 00033.jpg|Steve waiting for Estella
+414 Pip Pip Pip 00034.jpg|Steve and Estella drinking a milkshake together
+</gallery>
+
+== Trivia ==
+*Steve sounds a lot like [[Skyler Morse]]. They are both voiced by [[Trey Parker]].
+*Even though the story is set in England, Steve speaks with an American accent.
+*Steve's modern attire of a T-shirt and pants contrasts with the traditional dress of most characters in the episode.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[es:Steve (ex-novio de Estella)]]
+[[zh:史蒂夫（皮普特辑）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters in a relationship]]
+[[Category:Teens]]

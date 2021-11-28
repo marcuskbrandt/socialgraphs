@@ -1,0 +1,35 @@
+{{South Park character
+|name = Mark Fuhrman
+|image = Law-enforcement-celebrity-mark-furhman.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1952|2|5}}
+|dob = February 5, 1952
+|job = Former Detective
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0940288/|title="South Park" With Apologies to Jesse Jackson (TV episode 2007)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Mark Furman|Mark Furman]]
+|appearance = "[[With Apologies to Jesse Jackson]]"
+}}{{LinkDisambig|Mark (Disambiguation)}}
+'''Mark Furman''' is an author and former L.A.P.D. detective who is best known for his involvement in the O.J. Simpson murder trial in 1995. He appears in the [[Season Eleven]] episode, "[[With Apologies to Jesse Jackson]]".
+
+==Background==
+In "[[With Apologies to Jesse Jackson]]", he comes to [[Randy Marsh]]'s defense against the tolerant rednecks, along with [[Michael Richards]] and several other individuals labeled as "N*gger Guys".
+
+==Appearance==
+Mark Furman wears black pants, a gray shirt, and a black suit coat. He has black hair, which is graying on top, and gray eyebrows.
+
+==Real-Life Incident==
+As pointed out by the rednecks who chased Randy, Fuhrman became known for using the N-word during the O.J. Simpson murder trial in 1995. While being cross examined by defense attorneys, he claimed that he had not used the N-word 10 years prior to the trial, but witness testimony and taped interviews later revealed that he had used it multiple times until the late 1980s, leading to him being labeled a racist and severely damaging the prosecution's credibility with the jury.
+
+The incident was also discussed previously by [[Harrison Yates]] in "[[The Jeffersons]]". He pointed out that the L.A.P.D. failed to frame O.J. Simpson, despite their efforts, because "somebody messed up and said the N word out loud too many times".
+
+==References==
+{{reflist}}
+[[zh:马克·福尔曼]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]

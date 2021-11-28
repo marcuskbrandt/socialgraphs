@@ -1,0 +1,24 @@
+{{South Park character
+|name = Bob Ferrin
+|image = Bob Ferrin.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0761289/fullcredits?ref_=tt_cl_sm|title="South Park" Kenny Dies (TV Episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[Kenny Dies]]"
+}}
+'''Bob Ferrin''' is a representative of the Make-a-Wish Foundation. He appears in the [[Season Five]] episode "[[Kenny Dies]]".
+
+==Background==
+When [[Kenny McCormick|Kenny]] was admitted to the [[Hell's Pass Hospital|hospital]] for a terminal illness, Bob Ferrin and [[Laura Jones]] visit Kenny to help fulfil Kenny's wishes. They had planned a surprise visit by [[Madonna]], but after hearing Kenny criticizing the singer, Bob holds back the cue for her to appear.
+
+==Appearance==
+Bob Ferring wears a purple vest over a teal shirt, a green tie, and blue pants. He is seen carrying a black suitcase.
+
+==References==
+{{Reflist}}
+[[zh:鲍勃·费林]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]

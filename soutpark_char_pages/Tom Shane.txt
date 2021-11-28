@@ -1,0 +1,30 @@
+{{South Park character
+|name = Tom Shane
+|image = Adults-business-tom-shane.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = Spokesperson and President of the Shane Company
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995580/|title="South Park" Guitar Queer-o (TV Episode 2007) - IMDb|publisher=IMDb.com}}</ref>
+|appearance="[[Guitar Queer-O]]"
+}}
+{{LinkDisambig|Thomas (Disambiguation)}}
+'''Tom Shane''' is the president and spokesperson for The Shane Company,<ref>{{cite web|url=http://www.bizjournals.com/atlanta/stories/2002/02/18/smallb3.html?page=all|title=Atlanta Business Chronicle on Tom Shane|publisher=bizjournals.com}}</ref> a fine jewelry retailer in Colorado. Shane appears in the [[Season Eleven]] episode "[[Guitar Queer-O]]", where he was seen as a local celebrity at [[Charles Kincade]]'s party.
+
+Other famous people in attendance include [[Jay Cutler]], formerly of the [[Denver Broncos]], and [[Jake Jabs]] of American Furniture Warehouse, another local Colorado company.
+
+==Appearance==
+He wears a blue tailcoat and has combed-down brown hair.
+
+==References==
+{{Reflist}}
+{{BusinessCelebrities}}
+{{Minor Characters from Season Eleven}}
+[[zh:汤姆·谢恩]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Business celebrities]]
+[[Category:Characters voiced by Matt Stone]]

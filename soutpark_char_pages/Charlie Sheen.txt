@@ -1,0 +1,43 @@
+{{South Park character
+|image = Charlie-sheen.png
+|name = Charlie Sheen
+|gender = Male
+|hair = Brown
+|dob = September 3, 1965
+|age = {{age|1965|9|3}}
+|job = Actor
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1615374/|title="South Park" Sexual Healing (TV episode 2010)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Charlie Sheen|Charlie Sheen]]
+|appearance = "[[Sexual Healing]]"
+}}
+{{LinkDisambig|Charlie (Disambiguation)}}
+'''Charlie Sheen''' is an American actor mostly known for his role as Charlie Harper in the sitcom ''Two and a Half Men''. He appears in "[[Sexual Healing]]" where he was enrolled in the [[Karne Institute for Sex Addiction]], "[[200]]" with the other angry celebrities, and "[[Poor and Stupid]]". During these appearances, he is generally depicted as a sex addict.
+
+==Appearance==
+Charlie Sheen, as he appears on ''[[South Park]]'', looks similar to his celebrity counterpart. He has tall, brown spiky hair and black eyebrows. He can be seen wearing a light blue button up shirt with a dark blue coat over it. He also wears dark blue slacks to match his coat.
+<gallery widths="160" caption="Images of Charlie Sheen">
+SexualHealing31.jpg|Charlie Sheen seen in Sex Addiction class in "[[Sexual Healing]]".
+</gallery>
+
+==Prominence==
+*"[[Sexual Healing]]" - Seen in Sex Addiction class.
+*"[[200]]" - Seen suing South Park along with several other celebrities.
+*"[[Poor and Stupid]]" - Appears in ''Two and a Half Men'' as Charlie Harper, with [[Jon Cryer]] and [[Angus T. Jones]].
+
+{{clear}}
+
+==References==
+{{Reflist}}
+{{MovieCelebrities}}
+[[es:Charlie Sheen]]
+[[fr:Charlie Sheen]]
+[[pl:Charlie Sheen]]
+[[zh:查理·辛]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Adult characters]]
+[[Category:200 and 201 celebrities]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Movie celebrities]]

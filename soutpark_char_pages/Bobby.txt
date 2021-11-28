@@ -1,0 +1,30 @@
+{{South Park character
+|name = Bobby
+|image = bobby.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = 9-10
+|job = Student
+|grade = 4th Grade
+|appearance = "[[Faith Hilling]]"
+}}{{LinkDisambig|Robert (Disambiguation)}}
+'''Bobby''' appears in the [[Season Sixteen]] episode, "[[Faith Hilling]]".
+
+==Background==
+In "[[Faith Hilling]]", Bobby and his father walk past [[Eric Cartman]] and [[Kyle Broflovski]] "[[List of Memes|Faith Hilling]]" outside the [[Planned Parenthood Clinic]]. Bobby asks what the two were doing, and the father tells him it's before his time. Bobby comments that it is drole, and the two leave.
+
+==Appearance==
+Bobby wears black shoes, gray pants, and a white shirt with a blue tie that has red stripes. He also wears a black coat and a black cap, both of which adorn the logo of his private school, an academy. Bobby can also be seen holding a multi-colored lollipop.
+
+<gallery caption="Images of Bobby">
+Bobby1.png|Bobby asking about what Cartman is doing.
+</gallery>
+[[fr:Bobby]]
+[[zh:波比]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Male 4th graders]]
+[[Category:4th graders]]
+[[Category:Characters with unknown voice actor]]

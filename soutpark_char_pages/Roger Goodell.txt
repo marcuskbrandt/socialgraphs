@@ -1,0 +1,45 @@
+{{South Park character
+|name = Roger Goodell
+|image = <gallery>
+Roger-goodell.png|Former
+goodell bot malfunction.jpg|Bot
+</gallery>
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|age = {{age|1959|2|19}}
+|dob = February 19, 1959
+|job = Commissioner of the NFL
+|voice = '''"Sarcastaball"''':<br />[[Matt Stone]]<br>'''"Go Fund Yourself"''':<br />Roger Goodell (sound bite)
+|wikipedia = [[wikipedia:Roger Goodell|Roger Goodell]]
+|appearance = "[[Sarcastaball]]"
+}}
+{{LinkDisambig|Roger (Disambiguation)}}
+'''Roger Stokoe Goodell''' is the current commissioner of the NFL. He first appears in the [[Season Sixteen]] episode, "[[Sarcastaball]]", where he, like many other characters in the episode, is sarcastic and rude to [[Randy Marsh]]. He later appears in the [[Season Eighteen]] episode, "[[Go Fund Yourself]]", as a malfunctioning robot.
+
+==Appearance==
+He has blond hair and wears a purple business suit consisting of a purple coat, white dress shirt, a striped tie, purple pants, and black shoes.
+
+==Prominence==
+*"[[Sarcastaball]]" - Debut appearance. Antagonizes Randy.
+*"[[Go Fund Yourself]]" - As a malfunctioning robot.
+*"[[Moss Piglets]]" - Asks [[Jerry Jones]] if he was able to find any Water Bears to use as fans for the NFL.
+
+==Quotes==
+*''"I will get it right, and do whatever is necessary to accomplish that."'' in "[[Go Fund Yourself]]"
+*''"We will continue to identify and add expertise to our team."'' in "[[Go Fund Yourself]]"
+*''"Everyone will participate in educating sessions starting in the next month."'' in "[[Go Fund Yourself]]"
+
+{{Minor Characters from Season Sixteen}}
+{{SportsCelebrities}}
+[[es:Roger Goodell]]
+[[ja:ロジャー・グッデル]]
+[[zh:罗杰·古道尔]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Sports celebrities]]
+[[Category:Minor characters]]
+[[Category:Robots]]
+[[Category:Elderly people]]

@@ -1,0 +1,37 @@
+{{South Park character
+|name = Aaron Brown
+|image = Newspeople-aaron-brown.png
+|gender = Male
+|hair = Brown
+|dob = November 10, 1948
+|age = {{age|1948|11|10}}
+|job = News Reporter
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0761287/|title="South Park" Goobacks (TV episode 2004)|publisher=IMDb.com}}</ref>
+|appearance = "[[Goobacks]]"
+|wikipedia = [[Wikipedia:Aaron Brown (journalist)|Aaron Brown]]
+}}
+'''Aaron Brown''' is an American broadcast journalist and news reporter for [[CNN]] who appears in the [[Season Eight]] episode "[[Goobacks]]".
+
+==Background==
+Aaron Brown reports on the breaking news of a [[Future Humans|man from the future]] after the man gets hit by a car when trying to cross the road. He continues to report on them and asks his fellow reporters more information about them, including their race and language. He is also later seen when a large group of men protest the Future Humans by getting naked in a giant pile and having sex with each other.
+
+==Appearance==
+Aaron has combed brown hair and brown eyebrows. He wears a white collared shirt with a white and green striped tie, dark green pants, black shoes, and small reading glasses. He also wears an earpiece in his right ear.
+<gallery widths="160" captionalign="left" caption="Images of Aaron Brown">
+Goobacks03.jpg|Aaron Brown reporting on breaking news.
+</gallery>
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+[[es:Aaron Brown]]
+[[fr:Aaron Brown]]
+[[zh:亚伦·布朗]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Television celebrities]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:News reporters]]

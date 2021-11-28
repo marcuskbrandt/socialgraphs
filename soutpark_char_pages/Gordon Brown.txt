@@ -1,0 +1,37 @@
+{{South Park character
+|name = Gordon Brown
+|image = Gordon-brown.png
+|gender = Male
+|hair = Dark Brown
+|age = {{age|1951|2|20}}
+|dob = February 20, 1951
+|job = Former Prime Minister of the United Kingdom
+|religion = Church of Scotland
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Gordon Brown|Gordon Brown]]
+|appearance = "[[Canada on Strike]]"
+}}
+'''Gordon Brown''' was the Prime Minister of the [[United Kingdom]] from 2007 to 2010. He appears in the [[Season Twelve]] episode, "[[Canada on Strike]]", and in the [[Season Thirteen]] episode, "[[Pinewood Derby]]".
+
+==Background==
+Gordon Brown denied [[Canada|Canadian]] WCB President [[Stephen Abootman]]'s request for money earned by the Internet in the episode "[[Canada on Strike]]". In "[[Pinewood Derby]]" he was shown as one of the world leaders that congratulated [[Randy Marsh]] on discovering warp drive using the Official Pinewood Derby racecar kit.
+
+==Appearance==
+Gordon Brown has black wavy hair. He wears a black suit, a white shirt, and a purple tie.
+
+==Prominence==
+*"[[Canada on Strike]]" - Denies [[Stephen Abootman]]'s request to give Canada money earned by the internet.
+*"[[Pinewood Derby]]" - Appears as one of the world leaders that congratulated [[Randy Marsh]] on discovering wrap drive using the Official Pinewood Derby racecar kit.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[zh:戈登·布朗]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:British characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]

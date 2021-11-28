@@ -1,0 +1,37 @@
+{{Group
+|name = Fleetwood Mac
+|image = Celebrity-music-fleetwood-mac.png
+|type = Rock Band
+|job = Musicians
+|wikipedia = [[Wikipedia:Fleetwood Mac|Fleetwood Mac]]
+|member1 = Mick Fleetwood (Drummer)
+|member2 = Lindsey Buckingham (Guitar)
+|member3 = Stevie Nicks (Goat, Vocals)
+|member4 = Christine Perfect (Vocals)
+|member5 = John McVie (Bass)
+|first = "[[Osama bin Laden Has Farty Pants]]"
+|times = 4
+}}
+'''Fleetwood Mac''' is a British-American rock band, who first appears in the [[Season Five]] episode, "[[Osama bin Laden Has Farty Pants]]".
+
+==Background==
+In "[[Osama bin Laden Has Farty Pants]]", they performed at a USO show with a goat standing in for Stevie Nicks. Nobody in the audience noticed the substitution.
+
+In the episode, "[[I'm a Little Bit Country]]", Mick Fleetwood can be seen playing drums in [[Randy Marsh]]'s band.
+
+The Fleetwood Mac song "[[Landslide]]" is played over the closing scenes of "[[You're Getting Old]]", which depict [[Sharon Marsh|Sharon]] and [[Randy Marsh]]'s divorce and the aftermath of [[Stan Marsh]]'s cynicism.
+
+The song was later reprised in "[[Ass Burgers]]" under more optimistic circumstances as Sharon and Randy get back together.
+
+==Trivia==
+*The circumstances surrounding the writing of "Landslide" run parallel to the turmoil occurring during Stan's life in "[[You're Getting Old]]". Stevie Nicks wrote the song in Aspen, Colorado while contemplating the direction her life was taking at the time. The lyrical subject matter also touches upon the deterioration of her relationship with her long-time partner, Lindsey Buckingham (who plays lead guitar in the band).
+
+{{MusicCelebrities}}
+{{Minor Characters from Season Five}}
+[[zh:佛利伍麦克]]
+[[Category:Music celebrities]]
+[[Category:Bands]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Groups]]
+[[Category:Celebrities]]

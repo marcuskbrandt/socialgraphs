@@ -1,0 +1,29 @@
+{{South Park character
+|image = Ali-khamenei.png
+|name = Ali Khamenei
+|gender = Male
+|hair = Grey
+|dob = July 16, 1939
+|age = {{age|1939|7|16}}
+|job = Supreme Leader of Iran
+|religion = Shia Islam
+|wikipedia = [[Wikipedia:Ali Khamenei|Ali Khamenei]]
+|appearance = "[[Ginger Cow]]"
+}}
+'''Sayyid Ali Hosseini Khamenei''', often known as just '''Ali Khamenei''', is the incumbent Supreme Leader of [[Iran]] who appears in [[Season Seventeen]] episode "[[Ginger Cow]]".
+
+==Background==
+Upon discovery of a [[Ginger Cow (Animal)|red-haired cow]], the leaders of Islam, Christianity, and Judaism met to discuss the terms of an Armageddon-style war. Ali Khamenei suggested that if chemical weapons could not be used, then nuclear weapons should be ruled out as well. Later, he agrees on the use of non-ballistic nuclear weapons.
+
+==Appearance==
+Ali Khamenei wears black and grey robes. He has a thick beard and wears spectacles. He also wears a turban and is visibly aged.
+
+{{PoliticalCelebrities}}
+[[es:Ali Khamenei]]
+[[fr:Ali Khamenei]]
+[[zh:阿里·哈梅内伊]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Political celebrities]]
+[[Category:One-off characters]]

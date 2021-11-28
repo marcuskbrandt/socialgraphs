@@ -1,0 +1,33 @@
+{{South Park character
+|name = Kevin James
+|image = Kevin James.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1965|4|26}}
+|dob = April 26, 1965
+|job = Actor, Comedian
+|wikipedia = [[Wikipedia:Kevin James|Kevin James]]
+|appearance = "[[Funnybot]]"
+}}
+{{LinkDisambig|Kevin (Disambiguation)}}
+'''Kevin George Knipfing''', better known as '''Kevin James''', is an American actor and comedian who appears in [[Season Fifteen]] episode "[[Funnybot]]".
+
+==Background==
+Kevin James was one of the several comedians who stormed into [[South Park Elementary]], armed with guns and demanding that the school put a stop to [[Funnybot (Character)|Funnybot]] who had left them out of work.
+
+In "[[You're Getting Old]]", he was mentioned by [[Dr. Carroll]] when the latter attempted to show [[Stan Marsh]] an advertisement for ''The Zookeeper''.
+
+==Appearance==
+Kevin James has short brown hair and wears a red jacket over gray T-shirt, gray pants and black shoes.
+
+{{MovieCelebrities}}
+{{Minor Characters from Season Fifteen}}
+[[zh:凯文·詹姆斯]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Movie celebrities]]
+[[Category:One-off characters]]
+[[Category:Overweight characters]]

@@ -1,0 +1,25 @@
+{{Group
+|name = Pandemic Specialists
+|image = Character-debuts-adult-groups-doctors-pandemic-specialists-cc.png
+|type = Scientists
+|gender = Male and Female
+|first = "[[The Pandemic Special]]"
+|times = 1
+|member1 = [[Chief Scientist]]
+|member2 = Unnamed Scientists
+}}
+The '''Pandemic Specialists''' are a team of scientists investigating [[COVID-19]] in the [[Season Twenty-Four]] episode, "[[The Pandemic Special]]".
+
+==Background==
+In the episode, the [[Chief Scientist]] takes the pandemic specialists on a tour of the [[South Park Viral Research Center]]. During the tour, the chief scientist shows them the [[Pangolin]] that started the pandemic. He explains that they have found that another species inserted its DNA up the pangolin which enabled COVID-19 to spread to humans. They need to obtain that DNA (which unknown to them, is [[Randy Marsh]]'s DNA) in order to develop a vaccine. Randy somehow manages to sneak into the tour with the group. Upon hearing the chief scientist's theory, the pandemic specialists start laughing at the idea of another species having sex with the pangolin because it is so ugly. 
+
+When the group moves off to view the containment labs, Randy kidnaps the pangolin to prevent the scientists from finding out that he is responsible for the transmission of COVID-19 to humans.
+
+==Appearance==
+They are of varying appearances but they all wear white lab coats and hold clip boards. A few of them wear glasses.
+{{Minor Characters from Season Twenty-Four}}
+[[zh:传染病专家]]
+[[Category:Groups]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

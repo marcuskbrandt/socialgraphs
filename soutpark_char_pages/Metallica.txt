@@ -1,0 +1,37 @@
+{{Group
+|name = Metallica
+|image = Metallica.png
+|type = Band
+|gender = Male
+|age = '''James Hetfield:''' {{age|1963|8|3}}<br>'''Lars Ulrich:''' {{age|1963|12|26}}<br>'''Kirk Hammett:''' {{age|1962|11|18}}<br>'''Robert Trujillo:''' {{age|1964|10|23}}
+|job = Musicians
+|wikipedia = [[wikipedia:Metallica|Metallica]]
+|member1 = James Hetfield - Lead Vocals
+|voice1 = [[Trey Parker]]<ref name="IMDb">{{cite web|url=https://www.imdb.com/title/tt0705913/|title="South Park" Christian Rock Hard (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|member2 = Lars Ulrich - Drums
+|voice2 = Trey Parker<ref name="IMDb"/>
+|member3 = Kirk Hammett - Lead Guitar
+|member4 = Robert Trujillo - Bass Guitar
+|first = "[[Christian Rock Hard]]"
+|times = 1
+}}
+'''Metallica''' is a famous thrash metal band that appears in the episode "[[Christian Rock Hard]]", in which they joined [[Moop|the boys]] in their strike against illegal music downloading. Drummer Lars Ulrich is also seen looking disappointed over not being able to buy a shark tank as the police chief shows the boys the consequences of illegal music downloading.
+
+==Trivia==
+*The band's lead singer, James Hetfield, performed the song "[[Hell Isn't Good]]" for ''[[South Park: Bigger, Longer & Uncut]]''.
+*Lars Ulrich makes a cameo appearance in "[[201]]" as one of the celebrities suing South Park.
+
+==References==
+{{Reflist}}
+
+{{MusicCelebrities}}
+[[es:Metallica]]
+[[zh:金属乐队]]
+[[Category:Bands]]
+[[Category:Music celebrities]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Groups]]

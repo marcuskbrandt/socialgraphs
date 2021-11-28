@@ -1,0 +1,27 @@
+{{South Park character
+|name = Jerry Sanders
+|image = Politics-san-diego-mayor-jerry-sanders.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = {{age|1950|7|14}}
+|dob = July 14, 1950
+|job = Former Mayor of [[San Diego]]
+|wikipedia = [[Wikipedia: Jerry Sanders (politician)|Jerry Sanders]]
+|appearance = "[[Butterballs]]" 
+}}
+'''Jerry Sanders''' is the former mayor of [[San Diego]]. He appears in the [[Season Sixteen]] episode, "[[Butterballs]]", where he was seen in a mock commercial advertising [[San Diego]]. In the commercial, a montage of various attractions and places to visit appear on a poorly implemented green-screen behind Jerry.
+
+==Appearance==
+Jerry Sanders wears a black business suit consisting of black shoes, black pants, a white shirt, a green patterned tie, and a black coat. He has short, receding gray hair and wrinkles on his face.
+
+{{PoliticalCelebrities}}
+[[zh:杰瑞·桑德斯]]
+[[Category:Celebrities]]
+[[Category:Political celebrities]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Overweight characters]]
+[[Category:Elderly people]]

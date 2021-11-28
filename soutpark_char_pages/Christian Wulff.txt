@@ -1,0 +1,34 @@
+{{South Park character
+|name = Christian Wulff
+|image = Christian_Wulff.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = {{age|1959|6|19}}
+|birthday = June 19, 1959
+|job = Former President of [[Germany]]
+|religion = Roman Catholic
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1908258/|title="South Park" Funnybot (TV Episode 2011)|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Christian Wulff|Christian Wulff]]
+|appearance = "[[Funnybot]]"
+}}
+'''Christian Wilhelm Walter Wulff''' is a German politician who formerly served as the President of [[Germany]]. He appears in [[Season Fifteen]] episode "[[Funnybot]]".
+
+==Background==
+Upon hearing that the Germans were awarded the "Least funny people in the world" at the [[1st Annual Comedy Awards]], the president released a statement denouncing the award. The following day, the president leads a group of German politicians in raiding [[South Park Elementary]], holding the students and staff at gunpoint. He would later unveil their invention, [[Funnybot (Character)|Funnybot]], to the school and forces the students to re-vote.
+
+Towards the end of the episode, he was seen giving orders for the live burial of [[Tyler Perry]].
+
+==Appearance==
+Christian Wulff has gray hair and wears a gray working suit with white shirt and black striped tie, along with a pair of brown-framed glasses.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+{{Minor Characters from Season Fifteen}}
+[[zh:克里斯蒂安·武尔夫]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Political celebrities]]
+[[Category:One-off characters]]

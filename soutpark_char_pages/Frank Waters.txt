@@ -1,0 +1,27 @@
+{{South Park character
+|name = Frank Waters
+|image = Frank-waters.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = CIA Agent
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0983725/fullcredits?ref_=tt_cl_sm#cast|title="South Park" The Snuke (TV Episode 2007) - IMDb|publisher=IMDb.com}}</ref>
+|appearance = "[[The Snuke]]"
+}}
+'''Frank Waters''' is a CIA agent who appears in [[Season Eleven]] episode "[[The Snuke]]".
+
+==Background==
+During [[Hillary Clinton]]'s presidential rally, there were intel that terrorists were in possession of a nuclear device and had it stuck up Clinton's vagina. The agent reported the matter to the head of CIA Alan Thompson, and later to Clinton's aide [[Brian Jeffries]].
+
+==Appearance==
+Frank Waters has combed brown hair. He wears a burgundy working suit over a black shirt, gray pants and black shoes, along with a watch on his left wrist. He carries a CIA security pass on the left side of his chest.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Eleven}}
+[[zh:弗兰克·沃特斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,32 @@
+{{South Park character
+|name = Emmett Hollis
+|image = EmmettHollis.png
+|gender = Male
+|hair = Light Brown
+|job = Student
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|relation1 = Father
+|relativename1 = [[Mr. Hollis]]
+|appearance = "[[Pinewood Derby]]"
+}}
+'''Emmett Hollis''' was a contestant in the Pinewood Derby competition in the eponymous [[Season Thirteen]] episode, "[[Pinewood Derby]]". He has the best car, but loses because [[Randy Marsh|Randy]] ends up cheating. His [[Mr. Hollis|father]], unable to bear the loss, commits suicide in front of him.
+
+==Appearance==
+He has light brown hair, with a prominent parting on the left. He wears the Pinewood Derby Scouts' uniform throughout the episode.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of Emmett Hollis">
+Emmett.png
+1206.jpg|Emmett with the other contestants in "[[Pinewood Derby]]"
+Pinewood_Derby_3.JPG|Emmett and his [[Mr. Hollis|father]].
+Pinewood_Derby_6.JPG|Emmett and his father's corpse.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Thirteen}}
+[[zh:埃米特·霍利斯]]
+[[Category:Characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Male characters]]
+[[Category:One-off characters]]

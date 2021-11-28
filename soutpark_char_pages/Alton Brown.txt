@@ -1,0 +1,36 @@
+{{South Park character
+|name = Alton Brown
+|image = Alton Brown.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1962|7|30}}
+|dob = July 30, 1962
+|job = Celebrity Chef
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1766998/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Crème Fraiche (TV Episode 2010) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Alton Brown|Alton Brown]]
+|appearance = "[[Crème Fraiche]]"
+}}
+'''Alton Crawford Brown Jr.''' is an American celebrity chef who appears in [[Season Fourteen]] episode "[[Crème Fraiche]]".
+
+==Background==
+While [[the boys]] are watching [[Terrance and Phillip]], [[Randy Marsh]] hijacks the controls in order to watch a cooking show known as ''Good Eats'', where Alton Brown is preparing a pork tenderloin dish. Soon after, the TV transmission was cut off when [[Sharon Marsh|Sharon]] enables a parental lock on the food channel.
+
+When Randy takes over the role of [[South Park Elementary]]'s school chef, several celebrities challenge him to a cooking competition, hosted by Alton Brown. During the competition, Alton informs the audience that Randy has left the [[South Park Elementary Cafeteria|cafeteria]] to find his most important ingredient.
+
+==Appearance==
+Alton Brown has a balding, spiked brown hair. He wears a black collared shirt decorated with wine glass patterns, light brown pants, black shoes and brown-framed spectacles.
+
+During the cooking showdown, Alton wears a gray suit over a burgundy collared shirt.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[zh:埃尔顿·布朗]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

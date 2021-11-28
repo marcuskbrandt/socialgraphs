@@ -1,0 +1,44 @@
+{{South Park character
+|name = David Weatherhead
+|image = David Weatherhead 1.png
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|age = 10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|relation1 = Foster Parents (Former)
+|relativename1 = [[Mr. and Mrs. Weatherhead]]
+|relation2 = Foster Brother (Former)
+|relativename2 = [[Kenny McCormick]]
+|relation3 = Foster Brother (Former)
+|relativename3 = [[Kevin McCormick]]
+|relation4 = Foster Sister (Former)
+|relativename4 = [[Karen McCormick]]
+|appearance = "[[The Poor Kid]]"
+}}{{LinkDisambig|David (Disambiguation)}}
+'''David Weatherhead''' is one of the many foster children under the care of the [[Mr. and Mrs. Weatherhead|Weatherheads]]. He attends [[Greeley Elementary]] and appears in the [[Season Fifteen]] episode, "[[The Poor Kid]]".
+
+==Background==
+He claimed he saw an [[Mysterion|angel]] in his room the night before. However, as this claim clashed with the Weatherheads' agnostic doctrine, David was sent to the [[The Punishment Room|punishment room]] to be tortured by the foster father, with [[Dr. Pep-er]] being sprayed into his face until he confessed that certainties such as angels were false. Since the Weatherheads are agonistic, David must not be certain of everything that happens around him.
+
+==Appearance==
+David has messy blond hair. He wears a dirty, ripped blue t-shirt and a dirty pair of red shorts with white stripes. He also wears cheap glasses that are held together by tape.
+
+<gallery widths="160" captionalign="left" caption="Images of David Weatherhead">
+ThePoorKid043.png|David cleaning in "[[The Poor Kid]]".
+ThePoorKid068.png|David's punishment after he claims he saw an angel.
+ThePoorKid065.png|David after being hosed with [[Dr. Pep-er]].
+</gallery>
+{{Minor Characters from Season Fifteen}}
+[[es:David Weatherhead]]
+[[zh:大卫·韦瑟赫德]]
+[[Category:Agnostics]]
+[[Category:One-off characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:School children]]
+[[Category:Characters with unknown voice actor]]
+[[Category:4th graders]]
+[[Category:Male 4th graders]]
+[[Category:Poor characters]]

@@ -1,0 +1,30 @@
+{{South Park character
+|name = John D'Aquino
+|image = Politics-larry.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1958|4|14}}
+|dob = April 14, 1958
+|job = Actor
+|wikipedia = [[Wikipedia:John D'Aquino|John D'Aquino]]
+|appearance = "[[Super Best Friends]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John D'Aquino '''is an American actor, who appeared in the [[Season Five]] episode, "[[Super Best Friends]]", as [[George Bush|George Bush's]] neighbor, '''Larry'''. 
+
+As Bush decides whether to give the [[David Blaine|Blaintologists]] tax-exempt status or let them commit ritual suicide, Larry randomly walks in and says "Hey George!".
+
+==Appearance==
+He appeared in a light blue shirt and brown pants.
+
+==Trivia==
+*The character Larry is from [[Trey Parker]] and [[Matt Stone]]'s sitcom about the White House, ''That's My Bush''. The sitcom was also heavily referenced in "[[Mystery of the Urinal Deuce]]".
+
+{{TelevisionCelebrities}}
+[[zh:约翰·达基诺]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Television celebrities]]

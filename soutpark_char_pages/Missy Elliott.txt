@@ -1,0 +1,30 @@
+{{South Park character
+|name = Missy Elliott
+|image = Missy-elliot.png
+|gender = Female
+|hair = Black
+|age = {{Age|1971|7|1}}
+|dob = 1 July, 1971
+|job = Singer
+|appearance = "[[Cancelled]]"
+}}
+'''Melissa Arnette Elliott''' is an American rapper and singer. She appears in [[Season Seven]] episode "[[Cancelled]]", as one of the forms [[Najix]] took to appear more familiar to the boys.
+
+==Appearance==
+Missy Elliott is depicted with a teal gym outfit and headband, along with large gold earrings, a gold chain necklace and white shoes.
+<gallery widths="120px" caption="Images of Missy Elliott">
+MissyElliottSP.jpg
+</gallery>
+
+==Prominence==
+*"[[Cancelled]]"
+*"[[Christian Rock Hard]]" - Participated in a strike with [[Moop]] and several other music celebrities.
+
+[[zh:梅西·埃丽奥特]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Music celebrities]]
+[[Category:Minor characters]]
+[[Category:Celebrities]]
+[[Category:African-American characters]]

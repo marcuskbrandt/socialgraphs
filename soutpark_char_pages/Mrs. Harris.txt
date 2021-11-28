@@ -1,0 +1,22 @@
+{{South Park character
+|name = Mrs. Harris
+|image = Other-families-mrs-harris.png
+|gender = Female
+|hair = Brown
+|race = Caucasian
+|relation1 = Son
+|relativename1 = [[Billy Harris]]
+|appearance = "[[Trapper Keeper]]"
+}}
+'''Mrs. Harris''' is [[Billy Harris]]' mother. She appears in [[Season Four]] episode "[[Trapper Keeper]]", where she brought her son to school for his class elections so that he could cast his vote for class president.
+
+==Appearance==
+She has long brown hair and wears a navy blue jumper and a dark gray skirt.
+{{Minor Characters from Season Four}}
+[[zh:哈里斯太太]]
+[[Category:Parents]]
+[[Category:Adult characters]]
+[[Category:Townsfolk]]
+[[Category:Female characters]]
+[[Category:Characters]]
+[[Category:One-off characters]]

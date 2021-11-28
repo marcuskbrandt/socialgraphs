@@ -1,0 +1,34 @@
+{{South Park character
+|name = Ted Kennedy
+|image = Ghosts-ted-kennedy.png
+|gender = Male
+|hair = White
+|age = 77 (deceased)
+|dob = February 22, 1932
+|died = August 25, 2009
+|job = Former U. S. Senator from Massachusetts
+|religion = Roman Catholic
+|wikipedia = [[Wikipedia:Ted Kennedy|Ted Kennedy]]
+|relation1 = Brother
+|relativename1 = [[John F. Kennedy]]
+|relation2 = Nephew
+|relativename2 = [[John F. Kennedy Jr.]]
+|appearance = "[[Dead Celebrities]]"
+}}
+{{LinkDisambig|Ted (Disambiguation)}}
+'''Edward "Ted" Moore Kennedy''' was a United States Senator from Massachusetts. Ted Kennedy appeared in the episode "[[Dead Celebrities]]" on board a plane bound for [[Purgatory]], with [[Billy Mays]], [[Natasha Richardson]] and many other deceased celebrities.
+
+==Appearance==
+Ted appears as a relatively faithful portrayal of his real-life self. He has white hair and wears a black suit with a white shirt and gray tie.
+
+{{PoliticalCelebrities}}
+[[zh:泰德·肯尼迪]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:Deceased characters]]
+[[Category:Elderly people]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Catholic characters]]

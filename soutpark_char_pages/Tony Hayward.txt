@@ -1,0 +1,35 @@
+{{South Park character
+|name = Tony Hayward
+|image = Tony-hayward.png
+|gender = Male
+|age = {{age|1957|05|21}}
+|dob = May 21, 1957
+|job = CEO of BP (later DP)
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1747501/|title="South Park" Coon 2: Hindsight (TV episode 2010)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Tony Hayward|Tony Hayward]]
+|appearance = "[[Coon 2: Hindsight]]"
+}}
+{{LinkDisambig|Tony (Disambiguation)}}
+'''Tony Hayward''' is the president of BP (later DP). He appears in the episodes "[[Coon 2: Hindsight]]" and "[[Mysterion Rises]]". He is largely responsible for the oil spill in the [[Gulf of Mexico]] and the subsequent leak of creatures from other dimensions, including [[Cthulhu]].
+
+In response, he creates numerous "apology" videos which become more and more disturbingly erotic in nature.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of Tony Hayward">
+Coon2Hindsight23.png
+Coon2Hindsight35.png
+Coon2Hindsight44.png
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Fourteen}}
+{{BusinessCelebrities}}
+[[zh:托尼·海沃德]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Business celebrities]]

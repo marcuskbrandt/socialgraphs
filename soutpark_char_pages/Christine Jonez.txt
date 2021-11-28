@@ -1,0 +1,30 @@
+{{South Park character
+|name = Christine Jonez
+|image = Christine_jonez.png
+|gender = Female
+|hair = Brown
+|voice = [[Eliza J. Schneider]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766082/|title="South Park" Jared Has Aides (TV episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[Jared Has Aides]]"
+}}
+'''Christine Jonez''' was [[Jared Fogle]]'s fiancé who appears in the [[Season Six]] episode, "[[Jared Has Aides]]".
+
+==Background==
+Christine appears talking to Jared at the Le Place Restaurant and having dinner with him. Jared tells her that he has had "aides" before they were together, but Christine, thinking that Jared meant "[[AIDS]]" the disease, runs out of the restaurant crying. They were originally going to get married, although it is unknown whether or not they got back together by the end of the episode after Jared clarifies to the town what he meant by "aides".
+
+==Appearance==
+Christine has long curly brown hair and brown eyebrows. She wears a blue V-neck and sleeveless shirt, a light blue skirt, and black shoes. She also wears lipstick.
+<gallery widths="160" captionalign="left" caption="Images of Christine Jonez">
+JaredHasAides028.png|Christine horrified after Jared tells her he has aides.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+
+[[pl:Christine Jonez]]
+[[zh:克莉丝汀·乔内斯]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Eliza J. Schneider]]

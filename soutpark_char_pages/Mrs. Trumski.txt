@@ -1,0 +1,28 @@
+{{South Park character
+|name = Mrs. Trumski
+|image = Mrs-trumski.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|voice = [[April Stewart]]<ref>{{cite web|url=https://www.imdb.com/title/tt2079298/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Bass to Mouth (TV Episode 2011) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|relation1 = Son
+|relativename1 = [[Vernon Trumski]]
+|appearance = "[[Bass to Mouth]]"
+}}
+'''Mrs. Trumski''' is a minor character and the mother of [[Vernon Trumski]]. She appears in [[Season Fifteen]] episode "[[Bass to Mouth]]".
+
+==Background==
+After learning from [[Catatafish]] where [[Lemmiwinks]] has been living, the children of [[South Park Elementary]] rush over to the Trumski Residence to retrieve him. As Mrs. Trumski answers the door, she replied that Vernon was in the house, while letting the children in, including Catatafish. Despite calls from Vernon about Lemmiwinks being taken away, she did not respond to him, and the children managed to leave with the pet gerbil anyway.
+
+==Appearance==
+Mrs. Trumski wears a pink shirt, dark brown pants and black shoes.
+
+==References==
+{{Reflist}}
+[[zh:特朗斯基太太]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Parents]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by April Stewart]]

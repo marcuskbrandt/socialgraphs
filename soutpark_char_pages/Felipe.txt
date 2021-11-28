@@ -1,0 +1,33 @@
+{{South Park character
+|name = Felipe
+|image = felipe.png
+|gender = Male
+|race = Latino
+|hair = Black
+|job = Poop Painter
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705946/|title="South Park" My Future Self n' Me (TV Episode 2002) - IMDb|publisher=IMDb.com}}</ref>
+|appearance = "[[My Future Self n' Me]]"
+}}
+'''Felipe''' is a boy [[Eric Cartman]] hires as part of his team to smear poop all over [[Butters Stotch|Butters]]' house in the [[Season Six]] episode, "[[My Future Self n' Me]]".
+
+==Background==
+[[Stan Marsh]] is fed up with his parents deceiving him and after learning that Butters also has a "future self", the two seek out revenge from Cartman. Cartman, who is the sole proprietor of the [[Parental Revenge Center]], convinces Butters to have his house defaced with feces. At the [[Stotch Residence]], Felipe and his team are hard at work painting the walls with different varieties of fecal matter.
+
+==Appearance==
+Felipe wears a white painters uniform, white gloves, and a white mask. He has black hair, and is dirty with various splashes of poop on his uniform.
+
+<gallery widths="160" caption="Images of Felipe">
+felipe2.png|Cartman instructing Felipe on where to deploy the poop.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+[[pl:Felipe]]
+[[zh:费利佩]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Hispanic characters]]
+[[Category:Minority characters]]
+[[Category:Characters voiced by Trey Parker]]

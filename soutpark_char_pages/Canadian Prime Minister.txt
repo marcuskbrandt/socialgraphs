@@ -1,0 +1,31 @@
+{{South_Park_character
+|name = Canadian Prime Minister
+|image = Government-canadian-prime-minister.png
+|gender = Male
+|hair = Gray
+|race = Caucasian
+|voice = [[Trey Parker]] <ref>Credited as the "Box of Faith Message" in {{Cite web|url=https://imdb.com/title/tt1913934/|title="South Park" Royal Pudding (TV Episode 2011)|publisher=IMDb.com}}</ref>
+|appearance = "[[Royal Pudding]]"
+}}
+:''This article covers the former Prime Minister in "[[Royal Pudding]]". For the Prime Minister in "[[It's Christmas in Canada]]", see [[Saddam Hussein]].''
+
+The '''Canadian Prime Minister''' is a minor character featured in [[Season Fifteen]] episode "[[Royal Pudding]]".
+
+==Background==
+Following the disappearance of the [[Prince and Princess of Canada|Princess of Canada]], all Canadians were instructed to open their [[Box of Faith]]. Upon opening, they will view a short video clip of the Prime Minister addressing the nation regarding the royal family, then instructing the Canadians to assemble by the tree in Edmonton, in an attempt to save the nation.
+
+==Appearance==
+Unlike most Canadians, the Prime Minister has a rectangle-shaped head instead of a round one.
+The Prime Minister sports grey hair. He wear a brown suit over a white collared shirt and blue striped tie, decorated with a poppy on the left collar. A white text bearing the words "PM" can be shown on the left side of the chest.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Fifteen}}
+[[fr:Canadian Prime Minister]]
+[[zh:加拿大首相]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Canadians]]
+[[Category:Characters voiced by Trey Parker]]

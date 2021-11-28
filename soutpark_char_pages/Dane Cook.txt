@@ -1,0 +1,26 @@
+{{South Park character
+|name = Dane Cook
+|image = Dane Cook.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1972|3|18}}
+|dob = March 18, 1972
+|job = Actor, Comedian
+|wikipedia = [[Wikipedia:Dane Cook|Dane Cook]]
+|appearance = "[[Funnybot]]"
+}}
+'''Dane Jeffrey Cook''' is an American actor and comedian who appears in [[Season Fifteen]] episode "[[Funnybot]]".
+
+==Background==
+Dane Cook was one of the several comedians who stormed into [[South Park Elementary]], armed with guns and demanding that the school put a stop to [[Funnybot (Character)|Funnybot]] who had left them out of work.
+
+==Appearance==
+Dane Cook has brown spiked hair with five o' shadow. He wears a light-blue T-shirt with black rims and a minimalist palm icon at the chest, and a pair of tattered, loose gray pants. He also has a black watch on his left wrist.
+
+[[zh:丹尼·库克]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

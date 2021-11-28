@@ -1,0 +1,53 @@
+{{South Park character
+|image = HarrisonDave.png
+|name = Dave Harrison
+|gender = Male
+|hair = Strawberry Blond
+|job = Student
+|religion = Mormon
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705893/fullcredits#cast|title="South Park" All About Mormons (2003)|publisher=IMDb.com}}</ref>
+|relation1 = Mother
+|relativename1 = [[Mrs. Harrison]]
+|relation2 = Father
+|relativename2  = [[Mr. Harrison]]
+|relation3 = Brother
+|relativename3 = [[Mark Harrison]]
+|relation4 = Sister
+|relativename4 = [[Jenny Harrison]]
+|relation5 = Brother
+|relativename5 = [[Gary Harrison]]
+|relation6 = Sister
+|relativename6 = [[Amanda Harrison]]
+|appearance = "[[All About Mormons]]"
+}}{{LinkDisambig|David (Disambiguation)}}
+'''Dave Harrison''' is the son of [[Mr. Harrison|Mr.]] and [[Mrs. Harrison]] and the sibling of [[Mark Harrison|Mark]], [[Jenny Harrison|Jenny]], [[Gary Harrison|Gary]], and [[Amanda Harrison]]. He appears in the [[Season Seven]] episode "[[All About Mormons]]".
+
+==Appearance==
+Dave has combed strawberry-blond hair. He wears a collared white shirt under a pair of blue overalls and black shoes.
+
+==Personality==
+Dave's personality appears to be shaped largely by his family and religion, Mormonism. He is overly friendly and optimistic, like the rest of his family.
+
+==Family==
+===Parents===
+Dave is very close to his parents and they are the people who taught him The Book of Mormon.
+
+===Siblings===
+Dave has two brothers and two sisters. They all share a strong bond and are friendly to each other. They never fight and enjoy spending time together. They all play musical instruments and perform a song for their parents and [[Stan Marsh]] in "[[All About Mormons]]".
+
+==References==
+{{reflist}}
+{{South Park Families}}
+{{Harrison Family}}
+[[ja:デイヴ・ハリソン]]
+[[pl:Dave Harrison]]
+[[zh:戴夫·哈里森]]
+[[Category:Characters]]
+[[Category:School children]]
+[[Category:Male characters]]
+[[Category:Kindergartners]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:One-off characters]]
+[[Category:Mormon characters]]
+[[Category:Harrison family]]
+[[Category:Siblings]]

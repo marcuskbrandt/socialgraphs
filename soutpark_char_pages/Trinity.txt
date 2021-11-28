@@ -1,0 +1,18 @@
+{{Group
+|name = Trinity
+|image = Celebrities-fictional-trinity.png
+|type = Band
+|gender = Male
+|first = "[[Christian Rock Hard]]"
+|times = 1
+}}
+'''Trinity''' is a religious-based band that appears in the [[Season Seven]] episode "[[Christian Rock Hard]]".
+
+==Background==
+While the [[Faith + 1]] band is selling their [[Faith + 1 (Album)|album]] at Christ-fest, they hear loud noises from the stadium, and find Trinity performing a religious song in front of a large crowd. To further promote their album, [[Eric Cartman|Cartman]] makes an attempt to get onto the stage, by luring the next performers, [[Sanctified]], off to a dark, locked room and taking their places.
+
+{{Minor Characters from Season Seven}}
+[[zh:三位一体乐队]]
+[[Category:Bands]]
+[[Category:Male characters]]
+[[Category:Groups]]

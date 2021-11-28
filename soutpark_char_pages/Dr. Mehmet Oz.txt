@@ -1,0 +1,33 @@
+{{South Park character
+|name = Mehmet Cengiz Öz
+|image = Dr-mehmet-oz.png
+|gender = Male
+|race = Circassian
+|hair = Black
+|age = {{age|1960|6|11}}
+|dob = June 11, 1960
+|job = Cardiac Surgeon<br>Talk Show Host
+|religion = Islam
+|wikipedia = [[Wikipedia:Mehmet Oz|Mehmet Oz]]
+|appearance = "[[Butterballs]]"
+|voice = [[Trey Parker]]
+}}
+'''Doctor Oz''' is an American talk show host and a cardiac surgeon. He appears in the [[Season Sixteen]] episode "[[Butterballs]]", where he was seen interviewing [[Stan Marsh]] and [[Butters Stotch]] about "[[Make Bullying Kill Itself]]". After making Butters angry by forcing him to speak out against bullying, he is attacked and beaten up by Butters on his television show.
+
+==Appearance==
+Doctor Oz wears blue medical scrubs consisting of blue pants and a blue shirt. He has wavy black hair and wears black shoes.
+
+{{Minor Characters from Season Sixteen}}
+{{TelevisionCelebrities}}
+[[es:Dr. Mehmet Oz]]
+[[zh:迈哈迈特·奥兹医生]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Muslim characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Television celebrities]]
+[[Category:Asian characters]]
+[[Category:Medics]]

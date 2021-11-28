@@ -1,0 +1,30 @@
+{{Group
+|name = The Yanagopa Tribe
+|image = Adults-natives-yanagapa-tribe.png
+|type = Tribe
+|gender = Male
+|first = "[[Rainforest Shmainforest]]"
+|times = 1
+}}
+The '''Yanagopa Tribe''' is a tribe native to [[Costa Rica]] that appears in the [[Season Three]] episode, "[[Rainforest Shmainforest]]".
+
+==Background==
+The Yanagopa tribe lives in the jungles of [[Costa Rica]]. They capture the [[Getting Gay With Kids]] choir and plan to kill them while also sacrificing [[Ms. Stevens]] to their leader. [[Eric Cartman|Cartman]] and some bulldozers intervene and kill a few, causing the others to disperse.
+
+==Appearance==
+They have light-brown skin with very large brown lips. They also have black hair and grey loincloths. They each have a spear in their hands.
+
+==Video Games==
+===[[South Park Let's Go Tower Defense Play!]]===
+They are one of the enemies in later stages of the game, where the Laser tower works best against them. They appear in massive waves to overwhelm the player. Their sudden presence in Colorado is not explained but seems to be connected to the game's villain.
+
+{{Minor Characters from Season Three}}
+[[es:Tribu Yamagampa]]
+[[zh:雅玛冈帕部落]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]
+[[Category:Groups]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Monsters]]
+[[Category:South Park Let's Go Tower Defense Play! Enemies]]

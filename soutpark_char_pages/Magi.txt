@@ -1,0 +1,24 @@
+{{Group
+|name = Magi
+|image = Magi.png
+|gender = Male
+|member1 = Balthazar
+|member2 = Caspar
+|member3 = Melchior
+|first = "[[The Spirit of Christmas#Jesus vs. Frosty|Jesus vs. Frosty]]"
+}}
+The '''Magi''', also known as the '''Three Wise Men''', are a group of religious figures known for visiting [[Jesus Christ]] after his birth, bringing gifts of gold, frankincense, and myrrh. They appears in "[[The Spirit of Christmas#Jesus vs. Frosty|Jesus vs. Frosty]]", as well as [[Season Three]]'s [[Mr. Hankey's Christmas Classics]]".
+
+==Background==
+During the Nativity scene in "Jesus vs. Frosty", [[Stan Marsh|Stan]] and [[Kyle Broflovski|Kyle]] approaches Jesus who is surrounded by the Magi, seeking his help to destroy [[Frosty the Snowman]].
+
+In "[[Mr. Hankey's Christmas Classics]]", as [[Eric Cartman]] is singing "[[O Holy Night]]", he is seen taking the gifts from the Magi and loading them up a camel.
+
+==Appearance==
+The Magi wears headdresses and robes of varying colors, each carrying one of the three gifts.
+
+[[zh:东方三博士]]
+[[Category:Characters]]
+[[Category:Groups]]
+[[Category:Adult characters]]
+[[Category:Male characters]]

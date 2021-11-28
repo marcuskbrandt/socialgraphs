@@ -1,0 +1,16 @@
+{{Group
+|name = Internet Refugees
+|image = Internet refugees.png
+|first = "[[Over Logging]]"
+}}
+The '''Internet Refugees''' are ordinary citizens seeking refuge in the [[Internet Refugee Camp]]. They appear in the [[Season Twelve]] episode "[[Over Logging]]".
+
+==Background==
+Following a shortage of internet, many citizens, including the Marsh family, travel to the Internet Refugee Camp, staying at a transient camp the night before and sharing their own stories about internet use. In the camp, they are rationed with only forty seconds of internet, and refugees who exceed their allocated time would be removed by the military police on-site.
+
+One of the refugees offered [[Randy Marsh]] to use an "internet porn simulator" where anyone can access pornographic materials, when in reality it is just a person behind a makeshift computer doing a quick drawing.
+[[zh:网络难民]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Groups]]

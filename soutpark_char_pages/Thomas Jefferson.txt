@@ -1,0 +1,39 @@
+{{South Park character
+|name = Thomas Jefferson
+|image = Thomas-jefferson.png
+|gender = Male
+|hair = Brown
+|age = 83 (deceased)
+|dob = April 13, 1743
+|died = July 4, 1826
+|job = President of the [[United States]]
+|religion = [[Wikipedia:Thomas Jefferson and religion|Deism]]
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705933/|title=I'm a Little Bit Country on IMDB}}</ref>
+|wikipedia = [[wikipedia:Thomas Jefferson|Thomas Jefferson]]
+|appearance = "[[I'm a Little Bit Country]]"
+}}
+{{LinkDisambig|Thomas (Disambiguation)}}
+'''Thomas Jefferson''' was the third President of the United States, serving from 1801 until 1809. He was a founding father of the country, and wrote the Declaration of Independence during the American Revolution in 1776.
+
+==Background==
+He appeared in "[[I'm a Little Bit Country]]" at the latter event during [[Eric Cartman|Cartman's]] flashback.
+
+==Appearance==
+He wears a brown vest with a white undershirt. He has long brown hair. Like many of the characters seen in Cartman's flashback, he curiously was not drawn with normal South Park facial features, instead having realistic facial proportions. 
+
+==Personality==
+He is obviously extremely patriotic, agitating for war against the [[United Kingdom|British]] in order to secure independence for the newly formed United States of America.
+
+==References==
+{{Reflist}}
+{{HistoricalCelebrities}}
+{{Minor Characters from Season Seven}}
+{{PoliticalCelebrities}}
+[[zh:托马斯·杰弗逊]]
+[[Category:Characters]]
+[[Category:Historical celebrities]]
+[[Category:Deceased characters]]
+[[Category:Presidents of the United States]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]

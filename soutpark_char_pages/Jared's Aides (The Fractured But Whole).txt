@@ -1,0 +1,57 @@
+{{Group
+|name = Jared's Aides (The Fracture But Whole)
+|image = TFBW-jaredaides.png
+|job = [[Jared Fogle]]'s Aides
+|enemies = [[The New Kid]]
+|gender = Male
+|first = ''[[South Park: The Fractured But Whole]]''
+}}
+:''This article covers the characters in [[South Park: The Fractured But Whole]]. For Jared's aides in "[[Jared Has Aides]]", see [[Scott and Tyler]].''
+'''Jared's Aides''' are two unnamed men who appear in the mission "[[The Thin White Line]]" in ''[[South Park: The Fractured But Whole]]''.
+
+==Background==
+While [[Coon and Friends]] and [[Freedom Pals]] infiltrate [[Park County Police Station]], [[Harrison Yates]] released [[Jared Fogle]] to deal with the kids. After a few rounds of combat, Jared calls upon his aides to assist him in battle.
+
+==Abilities==
+{{TFBW Enemy Abilities
+|Name = Jared's Aides
+|Image = Tb jared aid01.png
+|Image2 = Tb jared aid02.png
+|Health = 590 (brown-haired)/980 (black-haired)
+|Move = 1
+|Immunities = None
+|AbilityImage1 = Jaredaids power1.png
+|Ability1 = Punch
+|Description1 = Delivers a single punch.
+|RangeDesc1 = One tile in front of the aide(s)
+|Range1 = Melee.png
+|Effect1 = 96 Damage (Cas.)<br>192 Damage (Hero.)<br>240 Damage (Mast.)<br>336 Damage (Dia.)
+|Status1 = None
+|AbilityImage2 = Jaredaids power2.png
+|Ability2 = Step Aside
+|Description2 = The black-haired aide will charge towards a superhero and inflicts reverse knockback.
+|RangeDesc2 = All targets three tiles in front of the aide. The aide will move to the last target's position.
+|Range2 = Rush 3.png
+|Effect2 = 64 Damage (Cas.)<br>128 Damage (Hero.)<br>160 Damage (Mast.)<br>224 Damage (Dia.)
+|Status2 = Knockback (1)
+|AbilityImage3 = Jaredaids_power3.png
+|Ability3 = Meal Deal
+|Description3 = The brown-haired aide will heal Jared with Subway sandwiches.
+|RangeDesc3 = Used when the aide is standing next to Jared
+|Range3 = Aoe buff.png
+|Effect3 = 365 Heal to Jared
+|Status3 = None
+}}
+
+==Appearance==
+Each of Jared's aide wear black suits with white shirt and a black tie.
+
+==Trivia==
+*The gray-haired aide uses almost the same model as [[Dan Snyder]], but without the glasses and a different tie.
+[[zh:杰瑞德的助手（完整破碎）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:Video Game Exclusive characters]]

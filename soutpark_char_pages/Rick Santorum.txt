@@ -1,0 +1,28 @@
+{{South Park character
+|image = Rick-santorum.png
+|name = Rick Santorum
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1958|5|10}}
+|dob = May 10, 1958
+|job = Former U. S. Senator from Pennsylvania, Attorney
+|religion = Roman Catholic
+|voice = Rick Santorum (sound bite)
+|wikipedia = [[Wikipedia:Rick Santorum|Rick Santorum]]
+|appearance = "[[Faith Hilling]]"
+}}
+'''Rick Santorum''' is an American politician who appears in the [[Season Sixteen]] episode "[[Faith Hilling]]", wherein he appears at the [[Colorado Republican Debate (2012)|Colorado Republican Presidential Debate]] with [[Ron Paul]], [[Newt Gingrich]], and [[Mitt Romney]]. During the conclusion of the episode, Santorum, Gingrich, and Romney debate with the [[Talking Cat]], who replaces Paul.
+
+==Appearance==
+Rick Santorum can be seen wearing a black business suit consisting of black pants, black shoes, a black coat with a gray handkerchief in the pocket, and a gray shirt with a red tie. He has combed black hair.
+
+{{Minor Characters from Season Sixteen}}
+{{PoliticalCelebrities}}
+[[zh:里克·桑托勒姆]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Political celebrities]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]

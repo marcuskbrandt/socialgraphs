@@ -1,0 +1,34 @@
+{{South Park character
+|name = The Lollipop King
+|image = Lollipop-King.png
+|gender = Male
+|job = Lollipop King
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995577/|title=Imaginationland on IMDB}}</ref>
+|appearance = "[[Imaginationland]]"
+}}
+'''The Lollipop King''' appears in the "[[Imaginationland]]" trilogy. He is seen along with [[Snarf]] escorting [[Butters Stotch|Butters]] to Castle Sunshine, at the request of the [[Mayor of Imaginationland]].
+
+==Background==
+Unlike many other imaginary characters in [[List of Characters from Imaginationland|Imaginationland]], the Lollipop King was an original character created for the series, rather than being taken from another franchise.
+
+==Appearance==
+The Lollipop King appears as a lollipop with a golden crown and a thin white body. He also wears a short golden cape.
+<gallery widths="160" spacing="small" caption="Images of the Lollipop King">
+ImaginationlandEpisodeII00041.png|[[Snarf]], [[Butters Stotch|Butters]], and the Lollipop King in "[[Imaginationland, Episode II]]".
+ImaginationlandEpisodeIII00084.png|The Lollipop King in "[[Imaginationland, Episode III]]".
+ImaginationlandEpisodeII00028.png|The Lollipop King and Butters with the dying Mayor of Imaginationland.
+</gallery>
+
+==Trivia==
+*In 2012 Exavier Wardlaw sued ''South Park'', claiming that the character is plagiarized from his children's television show, ''The Lollipop Forest'', and is requesting that all (alleged) references to the show removed.<ref>{{cite web|url=http://www.tmz.com/2012/10/15/south-park-creators-lollipop-king/|title=TMZ.com}}</ref>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+[[zh:棒棒糖国王]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Imaginationland characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Crossover characters]]
+[[Category:Royalty]]

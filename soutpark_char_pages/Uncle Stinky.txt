@@ -1,0 +1,63 @@
+{{South Park character
+|name = Uncle Stinky
+|image = <gallery>
+Uncle-stinky.png|Current
+Cartmans-family-uncle-stinky-funeral-cc.png|Funeral
+</gallery>
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705942/|title="Merry Christmas Charlie Manson!" on IMDB}}</ref>
+|relation1 = Mother
+|relativename1 = [[Mabel Cartman]]
+|relation2 = Wife
+|relativename2 = [[Aunt Lisa|Lisa Cartman]]
+|relation3 = Son
+|relativename3 = [[Elvin Cartman]]
+|relation4 = Daughter
+|relativename4 = [[Alexandra Cartman]]
+|relation5 = Sister
+|relativename5 = [[Liane Cartman]]
+|relation6 = Nephews
+|relativename6 = [[Eric Cartman]]<br>[[Fred Cartman]]
+|relation7 = Father
+|relativename7 = [[Harold Cartman]]
+|relation8 = Brother
+|relativename8 = [[Howard Cartman]]
+|relation9 = Brother
+|relativename9 = [[Fat Bob]]
+|relation10 = Grandmother
+|relativename10 = [[Florence Cartman]]
+|appearance = "[[Merry Christmas Charlie Manson!]]"
+}}
+{{LinkDisambig|Uncle (Disambiguation)}}
+'''Uncle Stinky''' is the uncle of [[Eric Cartman]] who first appeared in the [[Season Two]] episode, "[[Merry Christmas Charlie Manson!]]". He is the husband of [[Lisa Cartman]] and the father of [[Elvin Cartman]] and [[Alexandra Cartman]].
+
+==Background==
+Uncle Stinky later appeared in "[[Cartmanland]]", where he now owns the house in Nebraska seen in "[[Merry Christmas Charlie Manson!]]" due to his mother, [[Mabel Cartman]], dying. Like most of the extended Cartman family, he hasn't made a recent appearance.
+
+==Appearance==
+He wears a dark green sweater with a matching pair of grey trousers and black shoes. He also has depicted facial hair consisting of a mustache that runs down the side of his nose and a small centered goatee. Like the rest of the men in the Cartman family he is obese.
+<gallery spacing="small" caption="Images of Uncle Stinky" widths="160">
+MerryChristmasCharlieManson40.png|Uncle Stinky in "[[Merry Christmas Charlie Manson!]]".
+</gallery>
+
+==Prominence==
+*"[[Merry Christmas Charlie Manson!]]"
+*"[[Cartmanland]]"
+
+==References==
+{{reflist}}
+{{Cartman Family}}
+{{South Park Families}}
+[[es:Tío Stinky]]
+[[ru:Дядя Стинки]]
+[[zh:斯丁奇·卡特曼]]
+[[Category:Characters]]
+[[Category:Cartman/Tenorman family]]
+[[Category:Overweight characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Parents]]
+[[Category:Siblings]]

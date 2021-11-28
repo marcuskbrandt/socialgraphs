@@ -1,0 +1,36 @@
+{{South Park character
+|name = Kurt Loder
+|image = Kurt-loder.png
+|gender = Male
+|hair = Black
+|age = {{age|1945|5|5}}
+|dob = May 5, 1945
+|job = Host of ''MTV News''
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766092/|title="South Park" Timmy 2000 (TV episode 2000)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Kurt Loder|Kurt Loder]]
+|appearance = "[[Timmy 2000]]"
+}}
+'''Kurt Loder''' appears in "[[Timmy 2000]]", as the host of ''MTV News''. In "[[Scott Tenorman Must Die]]", Kurt is seen interviewing [[Radiohead]].
+
+==Appearance==
+Kurt has abnormally large ears, as well as various facial wrinkles. He wears a black coat, black pants, and a black undershirt.
+<gallery widths="160" captionalign="left" caption="Images of Kurt Loder">
+Timmy2000046.png|Kurt on ''MTV News''.
+</gallery>
+
+==Prominence==
+*"[[Timmy 2000]]" - Seen as the host of ''MTV News''.
+*"[[Scott Tenorman Must Die]]" - Seen interviewing [[Radiohead]].
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+[[es:Kurt Loder]]
+[[zh:库尔特·洛德]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:Television celebrities]]

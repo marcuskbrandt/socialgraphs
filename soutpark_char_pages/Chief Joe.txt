@@ -1,0 +1,32 @@
+{{South Park character
+|name = Chief Joe
+|image = Adults-joe-nsa.png
+|gender = Male
+|hair = White
+|job = Head of the NSA
+|voice = [[Trey Parker]]
+|appearance = "[[Let Go, Let Gov]]"
+}}
+'''Chief Joe''' is the head of the [[National Security Agency]] (NSA). He appears in the [[Season Seventeen]] premiere episode "[[Let Go, Let Gov]]".
+
+==Background==
+Chief Joe shows [[Eric Cartman]] (under the disguise of "[[Bill Clinton]]") around the NSA's main office, seemingly unaware that Cartman is undercover to expose the NSA's surveillance. He shows Cartman how the NSA watches people around the USA. Later on, he and Cartman go to a [[Hippies|hippie]]'s home to talk with him after he threatens to blow up the Lincoln Memorial. When Cartman wonders how the NSA is capable of keeping track of everyone in America, Chief Joe reveals that they use [[Santa Claus]] who is hooked up to a machine, resulting in Cartman breaking his cover.
+
+==Appearance==
+Chief Joe has balding white hair, dark gray eyebrows, and a white beard. He wears a black suit over a white shirt, a black tie, black pants, black shoes, and black rimmed glasses. 
+<gallery widths="120" captionalign="left" caption="Images of Chief Joe">
+LetGoLetGov00023.png|Chief Joe talking to his secretary Patricia.
+LetGoLetGov00030.png|Chief Joe and Cartman walking through the NSA's main office.
+LetGoLetGov00032.png|Chief Joe and Cartman driving to the hippie's house.
+LetGoLetGov00046.png|Cartman breaks his cover as Chief Joe looks on.
+</gallery>
+{{Minor Characters from Season Seventeen}}
+[[fr:Chief Joe]]
+[[pl:Dyrektor Joe]]
+[[zh:乔（国家安全局）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Elderly people]]

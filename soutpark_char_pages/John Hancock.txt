@@ -1,0 +1,34 @@
+{{South Park character
+|name = John Hancock
+|image = John-hancock.png
+|gender = Male
+|hair = Gray
+|age = 56 (deceased)
+|dob = January 23, 1737
+|died = October 8, 1793
+|job = Founding Father of the American Revolution
+|voice = [[Trey Parker]]<ref>{{Cite web|url=http://www.imdb.com/title/tt0705933/|title="South Park" I'm a Little Bit Country (TV episode 2003)|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:John Hancock|John Hancock]]
+|appearance = "[[I'm a Little Bit Country]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John Hancock''' was a founding father of the American Revolution, later serving as the first and third Governor of the Commonwealth of Massachusetts. He appeared in "[[I'm a Little Bit Country]]", as a member of the Continental Congress in [[Eric Cartman|Cartman]]'s flashback to 1776.
+
+==Appearance==
+Hancock appeared in a gold-buttoned, blue coat, gold-buttoned, light purple shirt, white blouse, and black pants. 
+<gallery widths="160" captionalign="left" caption="Images of John Hancock">
+JohnHancock2.png|''"Mr. John Adams, will you do the honors of reading the document to Congress please?"''
+</gallery>
+
+==Personality==
+He seems to be relatively calm, remaining quiet despite witnessing the conflict between the pro-war and the anti-war parts of Congress.
+
+==References==
+{{reflist}}
+{{HistoricalCelebrities}}
+{{PoliticalCelebrities}}
+[[zh:约翰·汉考克]]
+[[Category:Characters]]
+[[Category:Historical celebrities]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:One-off characters]]

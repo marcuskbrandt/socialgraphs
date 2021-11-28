@@ -1,0 +1,32 @@
+{{South Park character
+|image = School-faculty-pat-conners.png
+|name = Pat Conners
+|gender = Female
+|hair = Gray
+|voice = [[April Stewart]]
+|appearance = "[[Taming Strange]]"
+}}
+'''Pat Conners''' is a woman who made her only appearance in the [[Season Seventeen]] episode "[[Taming Strange]]".
+
+==Background==
+When the new Intellilink system at [[South Park Elementary]] causes several issues, [[Mr. Mackey]] holds a meeting with the other staff members and invites Pat Conners, a woman hired to make sure the Intellilink system is working correctly, to speak with them. Immediately after Pat comes into the room, Mr. Mackey yells at her, blaming her for Intellilink's problems. After she tells him that she is just getting acclimated with the system, Mr. Mackey yells at her again and fires her on the spot.
+
+==Appearance==
+Pat has medium-length gray hair and thin black eyebrows. She wears a pearl necklace, a pink earring on each ear, a dark blue suit over a black shirt, dark blue pants, and black high-heeled shoes.
+<gallery widths="160" captionalign="left" caption="Images of Pat Conners">
+TamingStrange00034.png|Mr. Mackey yelling at Pat.
+</gallery>
+
+==Trivia==
+*Pat Conners is modeled on Kathleen Sebelius, a politician who served as the U. S. Secretary of Health and Human Services from 2009 until 2014 under [[Barack Obama]], and previously as Governor of Kansas. She oversaw the rollout of Healthcare.gov, which went offline frequently amid technical difficulties when it was first launched, and was asked to resign shortly later.<ref>{{Cite web|url=https://www.politico.com/story/2013/11/obamacare-tv-movie-jokes-099688|title=For Hollywood, the joke's on ACA|publisher=Politico}}</ref>
+
+==References==
+{{reflist}}
+
+{{Minor Characters from Season Seventeen}}
+[[zh:帕特·康纳斯]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by April Stewart]]

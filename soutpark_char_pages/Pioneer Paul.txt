@@ -1,0 +1,27 @@
+{{South Park character
+|name = Pioneer Paul
+|image = pioneer-paul.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = [[Pioneer Village]] Employee
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1220462/|title="South Park" Super Fun Time (TV episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[Super Fun Time]]"
+}}
+'''Pioneer Paul''' is one of the employees at [[Pioneer Village]], who appears in the [[Season Twelve]] episode, "[[Super Fun Time]]".
+
+==Background==
+He is the town's spokesman and supervisor and by far the most dedicated to the rule of never breaking character. When the village is taken over by [[Franz]]'s team of thieves, he proves to be of no help as he continues to act in character, despite the seriousness of the situation. Pioneer Paul even shoots and kills one of the townsfolk for breaking character in an attempt to save his own life by giving Franz the door code he wants, as opposed to shooting any of the thieves. 
+
+Though [[Stan Marsh]] and the police manage to stop the robbers, Paul is nearly killed by another employee playing the part of a criminal. Only when the tone that signal's the village is now closed do the two stop fighting and Paul reveals information that would have been useful earlier.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Twelve}}
+[[zh:开拓者保罗]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters]]
+[[Category:Criminals]]

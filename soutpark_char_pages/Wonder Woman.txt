@@ -1,0 +1,38 @@
+{{South Park character
+|name = Wonder Woman
+|image = Wonder-woman.png
+|aliases = Princess Diana of Themyscira<br>Diana Prince
+|gender = Female
+|race = Themysciran
+|hair = Black
+|job = Member of the [[Council of Nine]]
+|voice = [[Mona Marshall]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995579/|title="South Park" Imaginationland: Episode III (TV episode 2007)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Wonder Woman|Wonder Woman]]
+|appearance = "[[Imaginationland]]"
+}}
+'''Wonder Woman''' is a superhero from the DC Universe. She appeared as a member of the [[Council of Nine]] in the Imaginationland trilogy.
+
+Superman also speaks to [[Kyle Broflovski|Kyle]] in his imagination when he's at the [[Abraham Lincoln|Lincoln]] Memorial, although he is not seen. Other members of the Justice League who make an appearance are The Flash and Batman, although they only appear in the DVD release.
+
+==Appearance==
+She wears a gold tiara, with a red, 7-pointed star in its middle. She also wears a red tank top, with golden designs on its top and bottom, white-starred blue panties, gold cufflinks similar to her tiara, red (white-trimmed) boots, and a golden lasso attached to her waist.
+
+==Trivia==
+*In "[[The Scoots]]", a Wonder Woman costume is seen being sold at the [[Halloween Outlet]].
+<gallery widths="220" position="center" hideaddbutton="true">
+Halloween-outlet.png
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+[[es:La mujer maravilla]]
+[[zh:神奇女侠]]
+[[Category:Characters]]
+[[Category:Imaginationland characters]]
+[[Category:Crossover characters]]
+[[Category:Council of Nine]]
+[[Category:Characters with superpowers]]
+[[Category:Characters voiced by Mona Marshall]]
+[[Category:Female characters]]
+[[Category:Royalty]]

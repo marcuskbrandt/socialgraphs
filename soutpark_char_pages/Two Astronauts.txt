@@ -1,0 +1,31 @@
+{{Group
+|name = Two Astronauts
+|image = Military-astronauts.png
+|job = Astronauts
+|gender = Male
+|member1 = Brown-haired Astronaut
+|voice1 = [[Trey Parker]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt0705896/|title="South Park" Bebe's Boobs Destroy Society (TV episode 2002)|publisher=IMDb.com}}</ref>
+|member2 = Black-haired Astronaut
+|voice2 = [[Matt Stone]]<ref name=imdb />
+|first = "[[Bebe's Boobs Destroy Society]]"
+}}
+The '''Two Astronauts''' are two unnamed men who appeared in the [[Season Six]] episode "[[Bebe's Boobs Destroy Society]]".
+
+==Background==
+When a United States space shuttle crash lands back on Earth in front of [[Bebe Stevens|Bebe]]'s house, two astronauts emerge from the wreckage. They ask the boys to call 911 for them. However, when the boys start making monkey-like sounds again, the astronauts mistakenly believe that they landed on Earth thousands of years in the future and that apes have taken over. In response, they both commit suicide by shooting themselves in the head so they do not have to live in the "futuristic madness".
+
+==Appearance==
+Both astronauts wear large white space suits with red trims and what looks like a parody of the NASA logo. The first astronaut has short brown hair, brown eyebrows, and some facial stubble. The second astronaut has flat black hair, black eyebrows, and a slight cleft chin.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+[[zh:美国宇航局航天员]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]

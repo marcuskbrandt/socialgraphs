@@ -1,0 +1,40 @@
+{{South Park character
+|name = Dr. Zonder
+|image = Adults-doctors-doctor-zonder.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0995582/|title="South Park" Le Petit Tourette (TV Episode 2007)|publisher=IMDb.com}}</ref>
+|job = Doctor
+|appearance = "[[Le Petit Tourette]]"
+}}
+'''Dr. Zonder''' is a doctor at the [[Colorado Neurology Center]] who appears in the [[Season Eleven]] episode "[[Le Petit Tourette]]".
+
+==Background==
+[[Liane Cartman]] takes [[Eric Cartman|her son]] to see Dr. Zonder at the [[Colorado Neurology Center]] four days after he begins exhibiting symptoms of [[Tourette's Syndrome|Tourette's syndrome]], mostly by swearing. He is familiar with the disease and initially dismisses her concern as it is hereditary, but after considering that it often develops later in a child's life and progresses, he admits little is known and offers all the help they can give him, reassuring Cartman everything will be okay.
+
+In "[[Britney's New Look]]", he can be spotted in the crowd.
+
+He can be seen in "[[Hummels & Heroin]]" alongside other doctors for a seminar on pharmaceuticals.
+
+==Appearance==
+Dr. Zonder has dark brown hair and wears the standard doctor's coat with a stethoscope around his neck, a pair of glasses and a surgical mask. He has a name tag that reads "Dr. Zonder".
+
+His model was recolored for the [[Walgreens Pharmacist]] in the "[[South ParQ Vaccination Special]]".
+
+==Prominence==
+*"[[Le Petit Tourette]]"
+*"[[Britney's New Look]]"
+*"[[Hummels & Heroin]]"
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+[[ja:ゾンダー医師]]
+[[zh:赞德医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Medics]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,31 @@
+{{South Park character
+|name = Boris Johnson
+|image = Celebrities-world-leaders-boris-johnson.png
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|age = {{age|1964|06|19}}
+|dob = June 19, 1964
+|job = Politician, Author, Journalist, Current Prime Minister of the United Kingdom, Former Mayor of London
+|religion = Church of England
+|wikipedia = [[wikipedia:Boris Johnson|Boris Johnson]]
+|appearance = "[[Members Only]]"
+}}'''Boris Johnson''' is a British politician who is currently serving as the Prime Minister of the [[United Kingdom]] and was formerly the Mayor of London. He is seen in the [[Season Twenty]] episode, "[[Members Only]]".
+
+==Background==
+In "[[Members Only]]", President [[Herbert Garrison|Garrison]] arrives at the [[Pentagon]] and is given various tools and devices. When he arrives at the Diplomatic Strategy and Negotiating room, Johnson gives him a call warning him not to eat [[Memberberries]]. Garrison, however, is not receptive and aggressively disregards his advice.
+
+==Appearance==
+Boris Johnson wears a blue formal suit, a white shirt, and a purple tie. He has light blond hair which is styled messily. He also has blond eyebrows.
+
+{{PoliticalCelebrities}}
+{{Minor Characters from Season Twenty}}
+[[fr:Boris Johnson]]
+[[zh:鲍里斯·约翰逊]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Adult characters]]
+[[Category:Political celebrities]]
+[[Category:Male characters]]
+[[Category:British characters]]
+[[Category:One-off characters]]

@@ -1,0 +1,44 @@
+{{South Park character
+|name = Mr. Cotswolds
+|image = Mr-cotswolds.png
+|gender = Male
+|hair = Brown
+|Voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0768560/|title="South Park" Hooked on Monkey Fonics (TV episode 1999)|publisher=IMDb.com}}</ref>
+|relation1 = Wife
+|relativename1 = [[Mrs. Cotswolds]]
+|relation2 = Son
+|relativename2 = [[Mark Cotswolds]]
+|relation3 = Daughter
+|relativename3 = [[Rebecca Cotswolds]]
+|appearance = "[[Hooked on Monkey Fonics]]"
+}}
+'''Mr. Cotswolds''' is [[Mark Cotswolds]] and [[Rebecca Cotswolds]]' father who appears in the [[Season Three]] episode, "[[Hooked on Monkey Fonics]]".
+
+==Appearance==
+He wears a red, presumably sweater, white "dress" shirt, a dark red tie, a brown jacket, green pants, and small, rectangular-framed glasses.
+
+==Personality==
+He, along with his wife, and children, lack decent social skills, remaining publicly unknown for quite some time. He looks down upon other adults because he believes they are not well educated compared to himself. He is extremely overprotective of his children. He home-schooled them (until they went to attend [[South Park Elementary]]) as well as sheltered them from anything sexual or social. The fact is, Mr. Cotswolds himself is home-schooled.
+
+However, at the end of "[[Hooked on Monkey Phonics]]", he realized his over-protectiveness was doing more harm than good, and allowed his children to attend public school.
+
+==Family==
+===[[Mrs. Cotswolds]]===
+He is Mrs. Cotswold's husband. They both share similar personality traits, and as such, they tend to get along without issue.
+
+===[[Mark Cotswolds|Mark]] and [[Rebecca Cotswolds]]===
+He treated both of his children similarly, protecting them beyond normal boundaries and shielding them from anything social or sexual. He presumably later started treating them normally, as [[Mark Cotswolds|Mark]] made him realize his parenting style was doing more harm than good.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Three}}
+[[es:Sr. Cotswolds]]
+[[zh:科茨沃尔兹先生]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Characters in a relationship]]
+[[Category:Parents]]
+[[Category:Townsfolk]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]

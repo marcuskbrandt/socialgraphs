@@ -1,0 +1,30 @@
+{{Group
+|name = Internet Scientists
+|image = Internet scientists.png
+|job = Internet Workers
+|gender = Male
+|first = "[[Over Logging]]"
+|times = 1
+}}
+The '''Internet Scientists''' are a group of workers who maintain the internet. They appear in the [[Season Twelve]] episode, "[[Over Logging]]".
+
+==Background==
+Following nationwide shortage of internet, the US military pays a visit to the internet facility to find out what had happened. The scientist on-site presents to them a colossal internet router with a flashing orange light, and explains that it should have a solid green light to denote a working internet. A few other scientists attempt to communicate with the router to no avail.
+
+The internet was eventually restored when [[Kyle Broflovski|Kyle]] pulls out the router's plug, then plugging back in.
+
+==Appearance==
+The lead scientist has a messy brown hair and several freckles on his face. He wears a blue collared shirt with a "Tech support" tag and brown pants, and a pair of rectangle-framed glasses.
+
+Other workers wear a full yellow body suit with black gloves and the "Tech support" tag, white lab coats with protective goggles, or gray coats with gray helmets.
+
+==Prominence==
+*"[[Over Logging]]"
+*"[[Cock Magic]]" - The lead scientist is seen spectating a ''[[Magic: The Gathering (CCG)|Magic: The Gathering]]'' match between [[Kenny McCormick|Kenny]] and [[Slaughterhouse]].
+
+{{Minor Characters from Season Twelve}}
+[[zh:网络科学家]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]

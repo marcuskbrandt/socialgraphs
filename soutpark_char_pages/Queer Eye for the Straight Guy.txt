@@ -1,0 +1,48 @@
+{{Group
+|name = Queer Eye for the Straight Guy
+|image = Queer Eye For The Straight Guy.png
+|aliases = "The Fab Five"
+|gender = Male
+|job = Television Personalities
+|member1 = Carson Kressley
+|voice1 = [[Trey Parker]]<ref name=imdb>{{cite web|url=http://www.imdb.com/title/tt0705961/|title="South Park" South Park Is Gay (TV episode 2003)|publisher=IMDb.com}}</ref>
+|member2 = Jai Rodriguez
+|voice2 = [[Trey Parker]]<ref name=imdb />
+|member3 = Kyan Douglas
+|voice3 = [[Trey Parker]]<ref name=imdb />
+|member4 = Ted Allen
+|member5 = Thom Filicia
+|voice5 = [[Matt Stone]]<ref name=imdb />
+|first = "[[South Park is Gay!]]"
+|times = 1
+}}
+'''Queer Eye for the Straight Guy''' is a show where five "gay guys" called "The Fab Five" go help straight guys to learn how to dress and act. They appeared in [[Season Seven]] episode "[[South Park is Gay!]]". In reality, they are [[Crab People]].
+
+==Appearance==
+Their costumes are that of various male homosexuals. Their true appearance shares the same, crab-like humanoid body. All Crab People appear to be uniquely shaded, from "dirty" yellow to red.
+
+<gallery widths="160" captionalign="left" caption="Images of The Queer Eye Guys">
+SouthParkIsGay095.png|The Queer Eye Guys, out of costume.
+</gallery>
+
+==Personality==
+In costume, they act in the standard gay stereotype; having feminine voices, being obsessed with fashion, etc. Out of costume, they are despicable creatures, obsessed with overtaking humanity. They also appear to be unintelligent, thinking that dressing up someone as a crab person will make them as physically weak as one.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+[[zh:粉雄救兵]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Shows]]
+[[Category:Television celebrities]]
+[[Category:Characters with unknown voice actor]]
+[[Category:Deceased characters]]
+[[Category:Aliens]]
+[[Category:Made-up characters]]
+[[Category:LGBT characters]]

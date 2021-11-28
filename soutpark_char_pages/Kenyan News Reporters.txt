@@ -1,0 +1,32 @@
+{{South Park character
+|name = Kenyan News Reporters
+|image = Kenyan news reporters.png
+|gender = Male, Female
+|race = Bantu
+|hair = Black
+|job = News Reporters
+|died = "[[Ginger Cow]]"
+|voice = '''Male''': Tian Wang<ref>{{cite web|url=https://www.imdb.com/title/tt3237516/|title="South Park" Ginger Cow (TV Episode 2013)}}</ref><br>'''Female''': Ida Onyango
+|appearance = "[[Ginger Cow]]"
+}}
+The '''Kenyan News Reporters''' were news reporters for the Kenya Television News Network (KTNN). They appeared in the [[Season Seventeen]] episode, "[[Ginger Cow]]".
+
+==Background==
+[[Eric Cartman|Cartman]] decides to prank [[Kyle Broflovski|Kyle]] by dressing up a cow to look ginger, and later shares it online. However, the post is discovered by various news networks around the world, the reporters began reporting on the ginger cow on live television. After which, they each drew a gun from under the desk and shot themselves in the head.
+
+==Appearance==
+The male reporter is bald, and wears a dull brown suit with white shirt and black tie.
+
+The female reporter wears a white shirt with brown overall, and a navy blue skirt.
+
+They each have a microphone pinned onto their chests.
+
+==References==
+{{Reflist}}
+
+[[zh:肯尼亚新闻主播]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:News reporters]]
+[[Category:Deceased characters]]

@@ -1,0 +1,39 @@
+{{South Park character
+|name = Jimmy Kimmel
+|image = Jimmy-kimmel.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1967|11|13}}
+|dob = November 13, 1967
+|job = Comedian
+|religion = Roman Catholic
+|voice = [[Jonathan Kimmel]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397943/|title="South Park" Fishsticks (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Jimmy Kimmel|Jimmy Kimmel]]
+|appearance = "[[Fishsticks]]"
+}}{{LinkDisambig|Jimmy (Disambiguation)}}
+'''James Christian "Jimmy" Kimmel''' made an appearance as a talk show host in the episode "[[Fishsticks]]" where he helped spread the [[Fishsticks Joke]] around the world by telling it on his show making everyone on his show laugh. He is also seen as one of the comedians attacking [[South Park Elementary]] in the episode "[[Funnybot]]".
+
+==Appearance==
+Kimmel appeared dressed in a grey suit, a white shirt, and a purple tie. He had black hair.
+
+==Trivia==
+*In "[[Fishsticks]]", his character was voiced by his brother, [[Jonathan Kimmel]], who was previously a writer for ''[[South Park]]''.
+*Trey Parker and Matt Stone have appeared on ''Jimmy Kimmel Live!'' before.
+
+==See Also==
+*[[Jonathan Kimmel]]
+
+==References==
+{{Reflist}}
+
+{{TelevisionCelebrities}}
+[[zh:吉米·坎摩尔]]
+[[de:Jimmy Kimmel]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Catholic characters]]
+[[Category:Television celebrities]]

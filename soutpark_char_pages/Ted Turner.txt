@@ -1,0 +1,25 @@
+{{South Park character
+|name = Ted Turner
+|image = Celebrity-business-ted-turner.png
+|gender = Male
+|race = Caucasian
+|hair = White
+|age = {{age|1938|11|19}}
+|dob = November 19, 1938
+|job = Media Tycoon
+|wikipedia = [[Wikipedia:Ted Turner|Ted Turner]]
+|appearance = "[[The Entity]]"
+}}{{LinkDisambig|Ted (Disambiguation)}}
+'''Ted Turner''' is the media mogul behind the Turner empire. He is one of the select rich and famous people [[Herbert Garrison|Mr. Garrison]] invites to view [[IT]] in the [[Season Five]] episode "[[The Entity]]". This was his only appearance to date.
+
+==Appearance==
+Turner has white hair and wears a black suit with a white shirt and grey tie. He appears on the scene in a private helicopter.
+
+{{BusinessCelebrities}}
+[[zh:特德·特纳]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Business celebrities]]

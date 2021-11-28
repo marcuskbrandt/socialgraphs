@@ -1,0 +1,35 @@
+{{South Park character
+|name = John Walsh
+|image = Johnn-walsh.png
+|gender = Male
+|hair = Black
+|age = {{age|1945|12|26}}
+|dob = December 26, 1945
+|race = Caucasian
+|job = Host of ''[[Wikipedia:America's Most Wanted|America's Most Wanted]]''
+|religion = Roman Catholic
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705903/|title="South Park" Cartman's Mom is Still a Dirty Slut (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:John Walsh|John Walsh]]
+|appearance = "[[Cartman's Mom is Still a Dirty Slut]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John Walsh''' appears in "[[Cartman's Mom is Still a Dirty Slut]]", as the host of ''America's Most Wanted''.
+
+==Appearance==
+Walsh has small eyes, a small nose, and a small chin, and short, black hair. He wears a black suit, a white "dress" shirt, dark gray tie, and gray pants.
+
+==Personality==
+He seems relatively in control of his emotions, easily stating the facts calmly, despite how gruesome they are. However, this is likely just his TV persona.
+
+==References==
+{{reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Two}}
+[[zh:约翰·沃尔什]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Catholic characters]]
+[[Category:Television celebrities]]

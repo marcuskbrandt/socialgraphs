@@ -1,0 +1,38 @@
+{{South Park character
+|name = Elmer Fudd
+|image = Elmer Fudd.png
+|gender = Male
+|race = Caucasian
+|age = 9-10
+|job = Student
+|voice = [[Trey Parker]]<ref>Credited as "Disabled Kid #1" in {{cite web|url=https://www.imdb.com/title/tt1644897/|title="South Park" Crippled Summer (TV episode 2010)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Elmer Fudd|Elmer Fudd]]
+|appearance = "[[Crippled Summer]]"
+}}
+'''Elmer Fudd''' is a character who appears in the [[Season Fourteen]] episode, "[[Crippled Summer]]".
+
+==Background==
+He is a student at [[Lake Tardicaca|Tardicaca Camp]], which is a camp for children with disabilities. He was on the [[Blue Team]] along with [[Jimmy]], [[Timmy]], [[Lenora]], and [[Droopy Dawg]]. His disability makes him look and sound like Elmer Fudd from Merrie Melodies.
+
+==Appearance==
+He wears a blue cap with a gray border, a blue hood with the Camp Tardicaca logo, and light blue pants. He has a large nose and has a large and rather unusual head than other children. He seems to be bald.
+<gallery spacing="small" caption="Images of Elmer Fudd" widths="160">
+ElmerFudd1.png|Elmer Fudd in "[[Crippled Summer]]".
+</gallery>
+
+==Trivia==
+*His cap can be worn as a hat in the Avatar Creator of [[South Park Studios]], but has a different position.
+
+==References==
+{{Reflist}}
+[[zh:埃尔默·福德]]
+[[Category:Characters]]
+[[Category:Crossover characters]]
+[[Category:One-off characters]]
+[[Category:4th graders]]
+[[Category:Male characters]]
+[[Category:Male 4th graders]]
+[[Category:Unnamed characters]]
+[[Category:Characters with deviations]]
+[[Category:Tardicaca campers]]
+[[Category:Characters voiced by Trey Parker]]

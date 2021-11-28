@@ -1,0 +1,30 @@
+{{South Park character
+|name = Mrs. Miller
+|image = Mrs. Miller.png
+|gender = Female
+|race = Caucasian
+|hair = Black
+|voice = [[Mona Marshall]]<ref>{{Cite web|url=https://www.imdb.com/title/tt1629114/fullcredits?ref_=tt_cl_sm|title="South Park" Medicinal Fried Chicken (TV Episode 2010)|publisher=IMDb.com}}</ref>
+|relation1 = Son
+|relativename1 = [[Billy Miller]]
+|appearance = "[[Medicinal Fried Chicken]]"
+}}
+'''Mrs. Miller''' was [[Billy Miller]]'s mother who appeared in the [[Season Fourteen]] episode "[[Medicinal Fried Chicken]]".
+
+==Background==
+[[Eric Cartman]] successfully overthrows Billy as head of the [[Kentucky Fried Chicken|KFC]] smuggling operations, by informing his parents that Billy scored an F on his social studies test. His mother is seen entering their base, looking upset and calling out Billy.
+
+Cartman's addiction to KFC gets the better of him, keeping him from doing proper work for [[Colonel Sanders]]. In response, the Colonel mobilizes his goon squad to deal with Cartman's faction, who in turn face interception by the police, resulting in a massive gun fight. Billy's mother was eventually caught in the middle and killed.
+
+==Appearance==
+Mrs. Miller wears a purple sweater over a white collared shirt, a purple skirt, and a bead necklace.
+
+==References==
+{{Reflist}}
+[[zh:米勒太太]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Female characters]]
+[[Category:Deceased characters]]
+[[Category:Characters voiced by Mona Marshall]]

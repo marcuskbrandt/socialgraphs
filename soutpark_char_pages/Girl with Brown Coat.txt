@@ -1,0 +1,34 @@
+{{South Park character
+|name = Girl with Brown Coat
+|image = Girl with brown coat.png
+|gender = Female
+|hair = Cherry Blonde
+|age = 9-10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|voice = [[April Stewart]]<ref>{{cite web|url=http://www.imdb.com/title/tt1933979/|title="South Park" T.M.I. (TV episode 2011)|publisher=IMDb.com}}</ref>
+|appearance = "[[T.M.I.]]"
+}}
+The '''Girl with Brown Coat''' appears in the [[Season Fifteen]] episode, "[[T.M.I.]]", where she was asked by [[Randy Marsh]] to explain ''"A man and a woman, what do they do to make a baby?"'', to which she replied, ''"They have sex?"''.
+
+==Appearance==
+She has long, cherry blonde hair. She wears a white hair clip which has a design resembling cherries attached to it. She wears a brown jacket and pink pants.
+
+==Personality==
+[[File:GirlwithBrownCoat.png|thumb|left|95px|Girl with Brown Coat in "[[T.M.I.]]".]]
+She seems to be somewhat sexually knowledgeable, as showcased in "[[T.M.I.]]". She also seems to be very straightforward, even answering sexual questions in front of a whole class, without any timidness nor hesitation.
+{{Clear}}
+
+==References==
+{{Reflist}}
+{{South Park Children}}
+[[zh:棕色衣服女孩]]
+[[Category:Female characters]]
+[[Category:Female 4th graders]]
+[[Category:Characters]]
+[[Category:Characters voiced by April Stewart]]
+[[Category:Minor characters]]
+[[Category:Unnamed characters]]
+[[Category:School children]]
+[[Category:4th graders]]
+[[Category:Other 4th graders]]

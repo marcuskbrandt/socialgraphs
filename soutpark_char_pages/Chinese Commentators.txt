@@ -1,0 +1,43 @@
+{{Group
+|name = Chinese Commentators
+|image = Adults-chinese-announcers.png
+|job = Sport Commentators
+|gender = Male
+|member1 = Left
+|voice1 = [[Matt Stone]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt0705916/|title="South Park" Conjoined Fetus Lady (TV episode 1998)|publisher=IMDb.com}}</ref>
+|member2 = Right
+|voice2 = [[Trey Parker]]<ref name=imdb />
+|first = "[[Conjoined Fetus Lady]]"
+}}
+The '''Chinese Commentators''' are two Chinese men who commentate over the dodge ball game between the [[List of South Park Cows Sports Teams|South Park Cows]] and the [[Chinese Dodgeball Players|Chinese dodgeball team]] in the [[Season Two]] episode "[[Conjoined Fetus Lady]]".
+
+==Background==
+These two men appear commentating on the dodge ball game in China. Throughout the game, they repeatedly mock the Americans such as impersonating their voices and saying all Americans look alike. They seem to enjoy doing this, but one of them tells the other that he will get them in trouble again after joking about [[Abraham Lincoln]].
+
+They also make a brief cameo appearance during the large crowd shot in [[Mountain Town (Reprise)]] in ''[[South Park: Bigger, Longer & Uncut]]''.
+
+==Appearance==
+They both wear red collared shirts over a white shirt with a tie, black pants, and black shoes. The taller man also has a yellow star on his shirt. The taller man has curly black hair, a very thin head, and very squinted eyes, just like [[Tuong Lu Kim]]. The shorter man has balding black hair and thin black eyebrows. They both have stereotypical characteristics of Asians seen in the series such as small eyes and even almost completely closed. 
+<gallery widths="160" spacing="small" caption="Images of the Chinese commentators">
+ConjoinedFetusLady73.png|The Chinese Commentators as they appear in "[[Conjoined Fetus Lady]]".
+South Park - Bigger, Longer & Uncut-24 39852.png|Their cameo in ''[[South Park: Bigger, Longer & Uncut]]'' (left side).
+</gallery>
+
+==Trivia==
+*In "[[Stanley's Cup]]", two men who commentate over the [[Colorado Avalanche]] game bear a strong resemblance to the Chinese commentators but with more American features.
+*The shorter commentator's appearance and voice are similar to the later character [[Tuong Lu Kim]], who made his debut in "[[Jared Has Aides]]".
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[zh:中国解说员]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Asian characters]]
+[[Category:Minority characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Bullies]]

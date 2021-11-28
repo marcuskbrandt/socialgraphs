@@ -1,0 +1,29 @@
+{{Group
+|name = United States Coast Guard
+|image = Groups-us-coast-guard.png
+|type = [[United States]] Military Branch
+|enemies = Native Hawaiians
+|gender = Male
+|job = Maritime Law Enforcement
+|first = "[[Going Native]]"
+|times = 1
+}}
+The '''United States Coast Guard''' is a branch of the U.S. Armed Forces and is responsible for maritime law enforcement. They were first seen in the [[Season Sixteen]] episode, "[[Going Native]]".
+
+==Background==
+In "[[Going Native]]", the Native Hawaiians forced all of the tourists off of [[Hawaii]]. After [[Butters Stotch]] sank a cruise ship with a golf ball, the Coast Guard was called to reason with the natives. After closing Hawaii's ports, several large Coast Guard vessels were sent to Hawaii.
+
+Upon arriving at one of the beaches, the Coast Guard was met with hundreds of Hawaiian "natives". The natives all launched golf balls at the short range prosecutor boats, to which the Coast Guard responded by opening fire, killing many.
+
+After Kenny fetched more ingredients for [[Chi Chi]]s from the [[Coco Palms Resort]], the natives made peace with the Coast Guard.
+
+===Vessels Used===
+* (3) [[wikipedia:Short Range Prosecutor|Short Range Prosecutor]].
+* (2) ''Famous'' class [[wikipedia:Medium endurance cutter|Medium Endurance Cutter]].
+* (1) Unknown vessel; not in U.S. Armed Forces arsenal.
+[[zh:美国海岸警卫队]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Police officers]]
+[[Category:Male characters]]
+[[Category:Military personalities]]

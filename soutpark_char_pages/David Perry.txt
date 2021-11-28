@@ -1,0 +1,29 @@
+{{South Park character
+|name = David Perry
+|image = Adults-news-david-perry.png
+|gender = Male
+|hair = Black
+|job = Sports Commentator
+|voice = [[Trey Parker]]
+|appearance = "[[Board Girls]]"
+}}{{LinkDisambig|David (Disambiguation)}}
+'''David Perry''' is a sports commentator who appears in the [[Season Twenty-Three]] episode "[[Board Girls]]".
+
+==Background==
+David appears commentating over the 6th Annual Strong Woman Competition. He interviews [[Strong Woman]] at the event, who tells him that it's an honor to be competing. He asks her how she feels about a trans athlete competing in the event, to which she responds that she is honored. He also interviews and introduces trans athlete [[Heather Swanson]] to Strong Woman, who refers to David as "dingleberry", much to his annoyance.
+
+==Appearance==
+David has combed black hair, black eyebrows, and a small black mustache. He wears a dark blue tuxedo over a white shirt and red tie, black pants, and black shoes. He also has a silver badge on the left side of his shirt with the silhouette of a woman flexing her muscle. 
+<gallery widths="160" spacing="small" caption="Images of David Perry">
+David-talking.png|David introducing the Strong Woman competition
+David-interviewing-Strong-Woman.png|David interviewing Strong Woman
+David-interviewing-Heather.png|David interviewing Heather Swanson
+</gallery>
+{{Minor Characters from Season Twenty-Three}}
+[[zh:大卫·佩里]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:News reporters]]

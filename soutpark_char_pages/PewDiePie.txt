@@ -1,0 +1,40 @@
+{{South Park character
+|name = PewDiePie
+|image = Pewdiepie.png
+|gender = Male
+|race = Caucasian
+|hair = Dirty Blond
+|age = {{age|1989|10|24}}
+|dob = October 24, 1989
+|job = Video Game Commentator<br>Internet Celebrity<br>Youtuber
+|religion = Agnostic
+|voice = Himself<ref>{{Cite web|url=https://www.imdb.com/title/tt4197086/fullcredits?ref_=tt_cl_sm|title="South Park" #REHASH (TV Episode 2014)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:PewDiePie|PewDiePie]]
+|appearance = "[[REHASH|#REHASH]]"
+|last = "[[HappyHolograms]]"
+}}
+'''Felix Arvid Ulf Kjellberg''', popularly known as '''PewDiePie''', is a Swedish video game commentator and internet celebrity who appears in the [[Season Eighteen]] episodes, "[[REHASH|#REHASH]]" and "[[HappyHolograms|#HappyHolograms]]". PewDiePie was the most subscribed channel on YouTube until T-Series overtook him on March 30, 2019. He specializes in the "Let's Play" video game genre. He currently has over 100 million subscribers on YouTube to this day.
+
+==Background==
+PewDiePie is featured in "[[REHASH|#REHASH]]", where his videos have mesmerized [[Ike Broflovski]], as well as his friends, much to the anger and confusion of his brother [[Kyle Broflovski|Kyle]], who Ike and his friends call "grandpa" for not understanding the appeal of PewDiePie. Seeing the appeal of making money and becoming famous for and commenting on things, [[Eric Cartman]] becomes a YouTube commentator, taking the name "[[CartmanBrah]]", and specializes in commenting on other peoples' commenting.
+
+He returns in "[[HappyHolograms|#HappyHolograms]]" to stop CartmanBrah. After doing so, he plays ''Call of Duty: Advanced Warfare'' and thanks ''[[South Park]]'' for featuring him in the show.
+
+==External Links==
+*[https://www.youtube.com/watch?v=h4XifO5eWIo A video by PewDiePie announcing that he got to be on the show.]
+
+==References==
+{{Reflist}}
+
+{{InternetCelebrities}}
+{{Minor Characters from Season Eighteen}}
+[[zh:PewDiePie]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Internet celebrities]]
+[[Category:Celebrities]]
+[[Category:People]]
+[[Category:Celebrity voice actors]]
+[[Category:Agnostics]]

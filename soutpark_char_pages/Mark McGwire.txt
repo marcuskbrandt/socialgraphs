@@ -1,0 +1,34 @@
+{{South Park character
+|name = Mark McGwire
+|image = Mark-mcguire.png
+|aliases = Big Mac
+|gender = Male
+|race = Caucasian
+|age = {{age|1963|10|1}}
+|dob = October 1, 1963
+|job = Professional Baseball Player
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0768561/|title="South Park" Up the Down Steroid (TV episode 2004)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Mark McGwire|Mark McGwire]]
+|appearance = "[[Up the Down Steroid]]"
+}}{{LinkDisambig|Mark (Disambiguation)}}
+'''Mark McGwire''' is a professional baseball player who appears in the episode "[[Up the Down Steroid]]", in which he presented the award at the Special Olympics, along with [[Barry Bonds]] and [[Jason Giambi]]. His role in the episode is minor and he has yet to make another appearance.
+
+==Appearance==
+Mark McGwire wears his St. Louis Cardinals baseball uniform which consists of black shoes, gray pants with a red belt, a gray jersey with 'McGwire' written in red, and a red baseball cap with the word 'Mac' embroidered in white. He appears physically strong, having exaggerated upper body muscles. He also has a blond goatee.
+
+==Trivia==
+*Mark McGwire, Barry Bonds, and Jason Giambi have been linked, or allegedly linked to, the use of steroids in Major League Baseball.
+*The embroidered 'Mac' on his cap is a reference to his nickname "Big Mac".
+
+==References==
+{{Reflist}}
+{{SportsCelebrities}}
+{{Minor Characters from Season Eight}}
+[[zh:马克·麦奎尔]]
+[[Category:Characters]]
+[[Category:Sports celebrities]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,35 @@
+{{South Park character
+|name = Vince McMahon
+|image = Vince-mcmanhon.png
+|gender = Male
+|race = Caucasian
+|hair = Black; graying
+|age = {{age|1945|8|24}}
+|dob = August 24, 1945
+|job = Chairman and CEO of World Wrestling Entertainment (WWE)
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1532990/|title="W.T.F." on IMDB}}</ref>
+|wikipedia = [[Wikipedia:Vince McMahon|Vince McMahon]]
+|appearance = "[[W.T.F.]]"
+}}
+'''Vince McMahon''' is the Chairman of WWE and is seen briefly in the [[Season Thirteen]] episode, "[[W.T.F.]]".
+
+==Background==
+After [[the boys]] attend a WWE match together, they decide they want to become professional wrestlers. In an effort to emulate the WWE, they create their own backyard wrestling show, called the Wrestling Takedown Federation and abbreviated as W.T.F. 
+
+McMahon attends one of the wrestling matches, organized by [[Eric Cartman]], to scout for new talent for the WWE. After a speech denouncing fake wrestling by [[Mr. Conners]], the boys' school wrestling coach, Vince McMahon offers Conners a job with the WWE. McMahon cites Conners as being significantly more talented at wrestling than the boys, much to their disdain.
+
+==Appearance==
+Vince McMahon is shown wearing a black suit, consisting of black shoes, black slacks, a light-blue shirt, and a black coat. He has black, graying hair and black eyebrows.
+
+==References==
+{{reflist}}
+{{SportsCelebrities}}
+{{Minor Characters from Season Thirteen}}
+[[zh:文斯·麦克曼]]
+[[Category:One-off characters]]
+[[Category:Sports celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Celebrities]]

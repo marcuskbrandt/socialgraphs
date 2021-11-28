@@ -1,0 +1,36 @@
+{{South Park character
+|name = Frank Hammond and Phil
+|image = Frank-hammond-and-phil.png
+|gender = Male
+|hair = '''Frank:''' Brown <br> '''Phil:''' Black
+|job = Sports Commentators
+|voice = '''Frank:''' [[Trey Parker]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt0705897/|title="South Park" Big Gay Al's Big Gay Boat Ride (TV episode 1997)|publisher=IMDb.com}}</ref> <br> '''Phil:''' [[Matt Stone]]<ref name=imdb />
+|appearance = "[[Big Gay Al's Big Gay Boat Ride]]"
+}}
+'''Frank Hammond and Phil''' are two sports commentators who first appear in the [[Season One]] episode, "[[Big Gay Al's Big Gay Boat Ride]]".
+
+==Background== 
+In their first appearance, Frank and Phil commentate over the football game between the South Park Cows and the [[Middle Park Cowboys]]. Frank, however, repeatedly makes offensive comparisons between the players and tragic events in history and Phil keeps warning him that he will get them in trouble again if he does not stop.
+
+They both appear again in the [[Season Two]] episode "[[Cow Days]]" as commentators for the bull riding contest that [[Eric Cartman|Cartman]] (who thinks he is a Vietnamese prostitute named [[Eric Cartman/Alter Egos#Ming Lee|Ming Lee]]) participates in. Frank does not have a speaking role in this episode.
+
+==Appearance==
+They both wear dark blue tuxedos over white shirts and black ties as well as dark blue pants and black shoes. Frank has short brown hair that appears to be balding in the middle while Phil has black hair that seems to obscure his eyebrows. In "[[Cow Days]]", due to the improved animation, they appear slightly different, with the small lines in the middle of Frank's hair being gone and Phil's hair being smaller so his eyebrows are visible.
+<gallery widths="160" captionalign="left" caption="Images of Frank Hammond and Phil">
+BigGayAlsBigGayBoatRide084.png|Frank and Phil in their first appearance.
+</gallery>
+
+==Prominence==
+*"[[Big Gay Al's Big Gay Boat Ride]]"
+*"[[Cow Days]]"
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season One}}
+[[zh:弗兰克·哈蒙德和菲尔]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:News reporters]]

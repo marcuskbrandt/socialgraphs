@@ -1,0 +1,26 @@
+{{South Park character
+|name = DEA Agents
+|image = DEA-agents.png
+|gender = Male
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1207526/|title="South Park" Major Boobage (TV Episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[Major Boobage]]"
+}}
+The '''DEA Agents''' are agents for the Drug Enforcement Administration. They appear in [[Season Twelve]] episode "[[Major Boobage]]".
+
+==Background==
+Following the passing of a law banning cats in [[South Park (Location)|South Park]] to prevent cheesing activities, the agents were tasked to seize cats from all households. While [[Tricia Tucker]] was crying over her cat, the agent tells her to get over her "addiction" instead.
+
+The law was later overturned, and the agents began returning all the cats to their respective owners.
+
+==Appearance==
+The agents wear black or navy blue jackets bearing the words "DEA" imprinted on the left side of the chest and on the back, along with a gray shirt underneath, black pants and black boots. Some agents wear a brown cap bearing "DEA" as well.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Twelve}}
+[[zh:缉毒局特工]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]

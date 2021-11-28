@@ -1,0 +1,26 @@
+{{South Park character
+|name = Japanese Singer
+|image = Japanese Singer.png
+|gender = Male
+|race = Japanese
+|hair = Black
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705941/|title="South Park" Mecha-Streisand (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Mecha-Streisand]]"
+}}
+The '''Japanese Singer''' is a Japanese karaoke singer who appears in the [[Season One]] episode, "[[Mecha-Streisand]]".
+
+==Background==
+Upon retrieval of the [[Diamond of Pantheos]], [[Barbra Streisand]] turns into a giant robot monster, the Mecha-Streisand, and begin attacking [[South Park (Location)|South Park]]. The Japanese singer provides music as Mecha-Streisand destroys South Park's infrastructure, as well as when [[Leonard Maltin]], [[Sidney Poitier]], and [[Robert Smith]] transform into their respective ''kaiju'' forms. He appears next to [[Jerome "Chef" McElroy|Chef]] during Sidney Poitier's transformation, with Chef asking the former if it was really necessary to sing.
+
+==Appearance==
+The Japanese singer has a neat black hair, and wears a brown suit with white shirt and black tie. He also has small eyes, which is a stereotypical characteristic of Asians seen in the series.
+
+==References==
+{{Reflist}}
+[[zh:日本歌手]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Asian characters]]
+[[Category:Characters voiced by Trey Parker]]

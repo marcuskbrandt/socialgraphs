@@ -1,0 +1,38 @@
+{{South Park character
+|name = Dylan and Sarah
+|image = Adults-townsfolk-dylan-n-sarah.png
+|race = Caucasian
+|gender = '''Dylan:''' Male <br> '''Sarah:''' Female
+|hair = '''Dylan:''' Brown <br> '''Sarah:''' Brown
+|voice = '''Dylan:''' [[Trey Parker]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt0786244/|title="South Park" Cartoon Wars: Part 1 (TV episode 2006)|publisher=IMDb.com}}</ref> <br> '''Sarah:''' [[April Stewart]]<ref name=imdb />
+|appearance = "[[Cartoon Wars Part I]]"
+}}
+{{LinkDisambig|Sarah (Disambiguation)}}
+'''Dylan and Sarah''' are a married couple who first appear in the [[Season Ten]] episode "[[Cartoon Wars Part I]]".
+
+==Background==
+When the town of [[South Park (Location)|South Park]] agrees to bury their heads in sand to avoid looking like part of the [[Family Guy]] audience to the Muslims, they are shown on [[Main Street]] doing just that. When [[Jimbo Kern|Jimbo]] questions how the last person is going to bury their head in the sand, the leader of the movement Professor Thomas says that one person will have to leave their head exposed. Dylan goes to volunteer on having his head exposed, but his wife Sarah tries to stop him. He tells her to get her head buried in the sand and that he will be alright.
+
+They both make a cameo appearance in the [[Season Twelve]] episode "[[Britney's New Look]]", where they can be seen among the group of people taking pictures of [[Britney Spears]] at the end of the episode.
+
+They were also seen in "[[Over Logging]]" among sad people due to the lack of internet.
+
+==Appearance==
+They both have brown hair and brown eyebrows, though Sarah has hers tied up with a maroon hair tie. Dylan wears a light gray fedora, a light brown button-up shirt with suspenders, dark brown pants, and black shoes. Sarah wears a white shirt with a small circle pattern over a dark blue shirt as well as brown high-heel boots.
+<gallery widths="160" spacing="small" caption="Images of Dylan and Sarah">
+CartoonWars10.jpg|Dylan volunteering to leave his head exposed.
+CartoonWars11.jpg|Dylan comforting Sarah.
+CoupleWhoAppearedInCartoonWars.png|Dylan and Sarah's cameo in "[[Britney's New Look]]".
+</gallery>
+
+==References==
+{{reflist}}
+[[zh:迪伦和莎拉]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by April Stewart]]
+[[Category:Characters in a relationship]]

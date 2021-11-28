@@ -1,0 +1,27 @@
+{{South Park character
+|name = Nazi Zombie Cows
+|image = Zombies-nazi-zombie-cows.png
+|race = Cattle, Zombies
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+'''Nazi Zombie Cows''' are zombified cows that appeared in ''[[South Park: The Stick of Truth]]''.
+
+== Background ==
+The cows are encountered in [[Clyde's Fortress]] during [[Beat Up Clyde]], as well as the [[Magical Songs]] side quest.
+
+== Appearance ==
+The cows has light green skin and wear peak caps or helmets. Some cows have a belt of explosives strapped onto their chest.
+
+==Abilities==
+Nazi Zombie Cows have no defense but high armor and moderately high HP. Players have a single turn to defeat them before they suicide bomb the [[The New Kid|New Kid]] and his Buddy for high damage, but they can be stunned to avoid this for a couple of turns. Use [[The Bard (Character)|The Bard's]] song to sing them to sleep.
+
+*'''Suicide Bomb''' - The Nazi Zombie Cow grabs one of its sticks of TNT and self-destructs in front of the New Kid and his active Buddy for high damage. This can be difficult to block, so it is advised to stun the cow or defeat it before this happens.
+
+[[zh:纳粹僵尸牛]]
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:Nazi Zombies]]
+[[Category:Deceased characters]]
+[[Category:Video Game Exclusive characters]]

@@ -1,0 +1,33 @@
+{{South Park character
+|name = Dale Earnhardt Jr.
+|image = Dale Earnhardt Jr.png
+|gender = Male
+|race = Caucasian
+|hair = Red
+|age = {{age|1974|10|10}}
+|dob = October 10, 1974
+|job = Professional [[NASCAR]] Driver
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt1708917/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Poor and Stupid (TV Episode 2010) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Dale Earnhardt Jr.|Dale Earnhardt Jr.]]
+|appearance = "[[Poor and Stupid]]"
+}}
+'''Ralph Dale Earnhardt Jr.''' is an American professional racing driver who appears in [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+Several drivers were interrupted by [[Eric Cartman]]'s off-topic and redneck-style comments during a NASCAR press conference. When Dale Earnhardt Jr. questioned if he was even a driver, Cartman taunted back, claiming that he is just as "poor and stupid" as Dale himself.
+
+==Appearance==
+Dale Earnhardt Jr. has red hair with five o' clock shadow and wears a red racing suit.
+
+==References==
+{{Reflist}}
+
+{{SportsCelebrities}}
+[[zh:小戴尔·恩哈特]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Sports celebrities]]
+[[Category:Characters voiced by Matt Stone]]

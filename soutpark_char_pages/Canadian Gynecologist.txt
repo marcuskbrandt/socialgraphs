@@ -1,0 +1,28 @@
+{{South Park character
+|name = Canadian Gynecologist
+|image = Canadian-gynecologist.png
+|gender = Male
+|hair = Brown
+|race = Canadian
+|voice = [[Trey Parker]]<ref>Credited as the "Doctor" in {{cite web|url=http://www.imdb.com/title/tt1397942/|title="Eat, Pray, Queef" on IMDB}}</ref>
+|appearance = "[[Eat, Pray, Queef]]"
+}}
+The '''Canadian Gynecologist''' is a minor character who appears in [[Season Thirteen]] episode "[[Eat, Pray, Queef]]".
+
+==Background==
+When the fourth-grader boys are anticipating a new episode of ''[[Terrance and Phillip]]'', they are snubbed by a ''[[Katherine and Katie Queef|Queef Sisters Show]]'', where the gynecologist is constantly queefed on before he could check for cysts. After several instances of queefing, the gynecologist becomes fed up and leave the sisters alone.
+
+==Appearance==
+The gynecologist has a balding brown hair. He wears a doctor's clothing with short sleeves over a grey shirt, blue pants, a pair of glasses and a stethoscope.
+
+==References==
+{{Reflist}}
+[[fr:Canadian Gynecologist]]
+[[zh:加拿大妇科医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Canadians]]
+[[Category:Medics]]
+[[Category:Characters voiced by Trey Parker]]

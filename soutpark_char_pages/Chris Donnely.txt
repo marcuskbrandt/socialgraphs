@@ -1,0 +1,40 @@
+{{South Park character
+|name = Chris Donnely
+|image = ChrisDonnely.png
+|gender = Male
+|hair = Blond
+|age = 10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|appearance = "[[Black Friday]]"
+|speaking = ''[[South Park: The Stick of Truth]]''
+}}
+'''Chris Donnely''' is a minor character seen during the [[Season Seventeen]] "[[Black Friday]]" trilogy as part of the Sony Fighters of Zaron. He was also seen in ''[[South Park: The Stick of Truth]]'' as part of the Elven Kingdom.
+
+==Appearance==
+<gallery widths="120" captionalign="left" caption="Images of Chris Donnely">
+Image:Chris_Donnely_3.png
+Image:Chris_Donnely.png|Chris in "[[Black Friday]]".
+Image:Kyle_Elf_Throne.jpg|Stan, Kyle and Chris in ''The Stick of Truth''.
+</gallery>
+
+==Prominence==
+* "[[Black Friday]]" (cameo)
+* "[[A Song of Ass and Fire]]" (cameo)
+* "[[Titties and Dragons]]" (cameo)
+
+===''[[South Park: The Stick of Truth]]''===
+Chris plays a minor role in the game as a member of the Drow Elves. He expresses distrust toward the [[Douchebag|New Kid]]. He was originally to be the boss fought in the Giggling Donkey and it was going to be in the Donnely Residence, however it was changed to [[Jimmy Valmer|Jimmy]] and the [[Valmer Residence]] in the final game.
+[[zh:克里斯·唐纳利]]
+[[Category:Characters]]
+[[Category:4th graders]]
+[[Category:Male 4th graders]]
+[[Category:Other 4th graders]]
+[[Category:Minor characters]]
+[[Category:School children]]
+[[Category:Male characters]]
+[[Category:Characters with unknown voice actor]]
+[[Category:Background characters]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Drow Elves members]]
+[[Category:The Stick of Truth: Friendable characters]]

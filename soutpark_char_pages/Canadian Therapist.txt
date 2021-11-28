@@ -1,0 +1,28 @@
+{{South Park character
+|name = Canadian Therapist
+|image = Canadian-threapist.png
+|gender = Male
+|hair = Brown
+|race = Canadian
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt3237510/|title="South Park" Taming Strange (TV episode 2013) |publisher=IMDb.com}}</ref>
+|appearance = "[[Taming Strange]]"
+}}
+The '''Canadian Therapist''' is a minor character that appears in [[Season Seventeen]] episode "[[Taming Strange]]".
+
+==Background==
+Following a quarrel between [[Terry]] and [[Terry's Wife|his wife]] over her queefing at his face (as it was what Terry thought how babies were born, which turned out to be false), he agreed to attend a therapy session with his wife. Terry complained to the therapist about the queef, to which the latter advised Terry to spend less time at work making public health films and more time at home.
+
+==Appearance==
+The therapist has a balding brown hair and goatee. He wears a brown jacket over a white shirt and brown pants. He is one of few Canadians that have prominent ears.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seventeen}}
+[[fr:Canadian Therapist]]
+[[zh:加拿大治疗师]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Canadians]]
+[[Category:Characters voiced by Matt Stone]]

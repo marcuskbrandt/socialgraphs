@@ -1,0 +1,41 @@
+{{South Park character
+|name = John Wilkes Booth
+|image = Statue-of-john-wilkes-booth.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = 26 (deceased)
+|dob = May 10, 1838
+|died = April 26, 1865
+|job = Actor<br>Statue
+|wikipedia = [[Wikipedia:John Wilkes Booth|John Wilkes Booth]]
+|appearance = "[[Super Best Friends]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+The '''John Wilkes Booth''' statue was featured in the [[Season Five]] episode, "[[Super Best Friends]]".
+
+==Background==
+The [[Super Best Friends (Group)|Super Best Friends]] created a giant statue of John Wilkes Booth, to stop [[David Blaine]]'s statue of [[Abraham Lincoln]], from destroying Washington D.C. and end the Blaintologist mass suicide protest for tax exempt status.
+
+==Appearance==
+The color statue of Wilkes is light gray. It was sculpted to look as if was wearing a coat, a blouse, a shirt shoes, and pants.
+
+<gallery widths="160" spacing="small" caption="Images of John Wilkes Booth (Statue)">
+John Wilkes Booth 01.JPG|John Wilkes Booth, firing a shot at [[Abraham Lincoln]] in "[[Super Best Friends]]".
+John Wilkes Booth 02.JPG|He didn't miss.
+John Wilkes Booth 08.png|Green-eyed, upon "awakening".
+John Wilkes Booth 09.png|The statue.
+</gallery>
+
+==Trivia==
+*[[Wikipedia:John Wilkes Booth|John Wilkes Booth]] was the American stage actor infamous for perpetrating the assassination of President Abraham Lincoln in 1865.
+
+{{HistoricalCelebrities}}
+[[zh:约翰·威尔克斯·布斯]]
+[[Category:Characters]]
+[[Category:Historical celebrities]]
+[[Category:Deceased characters]]
+[[Category:Mentioned-only characters]]
+[[Category:Pseudo-characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Criminal celebrities]]

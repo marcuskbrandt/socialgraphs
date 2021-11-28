@@ -1,0 +1,24 @@
+{{South Park character
+|name = Canadian Gift Shop Owner
+|image = Canadian-Giftshopowner.png
+|gender = Male
+|race = Canadian
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Canadian Gift Shop Owner''' is a merchant and minor character in ''[[South Park: The Stick of Truth]]''. He manages the gift shop in the [[Prince and Princess of Canada]]'s palace in [[Ottawa]].
+
+==Background==
+In [[O Canada (Quest)|O Canada]] quest, after [[The New Kid]] spoke to the Prince and Princess for the first time, he make his way to the palace exit. At the exit, the gift owner would not let the New Kid and his buddy pass until they pick some images of the Prince and Princess of their preferred photo size.
+
+The gift shop owner also appears as the general store owner in all the towns throughout [[Canada]].
+
+==Appearance==
+Like most Canadians, he has beady eyes and a flapping head. He is bald, has a brown beard, and wears a red jacket with a white shirt, gray pants, and black shoes. He also smokes a pipe.
+[[fr:Canadian Gift Shop Owner]]
+[[zh:加拿大礼品店老板]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:Video Game Exclusive characters]]

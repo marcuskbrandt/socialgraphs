@@ -1,0 +1,40 @@
+{{South Park character
+|name = Tommy
+|image = tommy-kfc.png
+|gender = Male
+|race = Caucasian
+|hair = Light Brown
+|died = "[[Medicinal Fried Chicken]]"
+|job = [[Kentucky Fried Chicken]] dealer<br>Student
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1629114/|title="South Park" Medicinal Fried Chicken (TV Episode 2010) - IMDb|publisher=IMDb.com}}</ref>
+|appearance = "[[Medicinal Fried Chicken]]"
+|final = "[[Medicinal Fried Chicken]]"
+}}{{LinkDisambig|Thomas (Disambiguation)}}
+'''Tommy''' was a [[Kentucky Fried Chicken]] dealer under [[Billy Miller]]. He first appeared in the [[Season Fourteen]] episode, "[[Medicinal Fried Chicken]]".
+
+==Background==
+In "[[Medicinal Fried Chicken]]", a ban on KFC is in effect, and [[Eric Cartman]] finds out that Billy Miller has access to it. He soon begins working for Billy to run a KFC smuggling operation in to [[South Park (Location)|South Park]]. Cartman and Tommy are sent to Kentucky to make a deal with [[Colonel Sanders]] himself to procure KFC in bulk.
+
+Once in Kentucky, Tommy begins negotiating with Sanders, but quickly goes missing. When Cartman talks to Colonel, he finds out that Tommy was an informant for Jaime Oliver, who is then executed by being hanged from a helicopter.
+
+==Appearance==
+Tommy wears black shoes, gray pants, and a teal [[Cuba]]n-style shirt. He also wears various jewelry, including a ring on his left hand, a gold bracelet on his right wrist, and a crucifix necklace. He has wavy, light-brown hair.
+
+<gallery widths="160" caption="Images of Tommy">
+Tommy-kfc-1.png|An undercover Tommy negotiating with Colonel Sanders.
+Tommy-kfc-2.png|Tommy, just prior to his death.
+</gallery>
+
+==Trivia==
+*Tommy bears a resemblance to Tommy Vercetti, the main protagonist of ''Grand Theft Auto: Vice City''. Aside from sharing the same name, they also wear similar clothing and are both involved in the distribution of illegal substances.
+*Tommy's role in the episode mirrors that of Omar Suarez from ''Scarface. ''Tommy also shares his death of being hung from a helicopter by a rival gang.
+
+==References==
+{{Reflist}}
+[[es:Tommy (Pollo Frito Medicinal)]]
+[[zh:托米（药德基）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

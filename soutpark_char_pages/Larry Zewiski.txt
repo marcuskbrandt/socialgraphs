@@ -1,0 +1,45 @@
+{{South Park character
+|name = Larry Zewiski
+|image = Larry Zewiski.png
+|gender = Male
+|race = Caucasian
+|hair = Blonde
+|age = 10
+|grade = 4th Grade
+|voice = Casey Nicholaw<ref>{{Cite web|url=https://www.imdb.com/title/tt6647824/|title="South Park" Bike Parade (TV Episode 2018)|publisher=IMDb.com}}</ref>
+|relation1 = Father
+|relativename1 = [[Mr. Zewiski]]
+|relation2 = Mother
+|relativename2 = [[Mrs. Zewiski]]
+|appearance = "[[Unfulfilled]]"
+}}{{LinkDisambig|Larry (Disambiguation)}}
+'''Larry Zewiski''' is a male 4th grader who made his debut appearance in the [[Season Twenty-Two]] episode "[[Unfulfilled]]". He is the winner of all bike parades as shown in "[[Bike Parade]]".
+
+==Appearance==
+Larry has long blonde hair that is trimmed back at the fringe and sides that curves at the back to come out under the ears as sideburns. He wears a white tee and blue jacket with a tri-prong ornament necklace and standard jeans. He is usually grinning with a cocky smile.
+
+<gallery widths="160" spacing="small" caption="Images of Larry Zewiski">
+LarryZewiski01.png|Larry with his bike.
+LarryZewiski02.png|Larry accompanied by [[Porsche]] and [[Mercedes]]
+LarryZewiski03.png|Larry preparing for the bike parade.
+</gallery>
+
+==Background==
+In "[[Unfulfilled]]", [[Butters Stotch|Butters]] tells [[the boys]] that he will win the big prize at the bike parade and will finally beat Larry Zewiski. Larry arrives, mocking Butters, and then is accompanied by two Raisins girls, [[Porsche]] and [[Mercedes]], which admire him and his bike. Larry continues to boast about how his bike is better, upsetting Butters, and leaves with the girls to show them his blue ribbons.
+
+In "[[Bike Parade]]", Larry gets intimidated by Butters' bike and tells his [[Mr. Zewiski|father]], who was part of the [[Amazon]] workers' strike, to start working again, so he can have a better bike at the bike parade.
+
+==Prominence==
+*"[[Unfulfilled]]"
+*"[[Bike Parade]]"
+
+==References==
+{{Reflist}}
+{{South Park Children}}
+[[zh:拉里·泽维斯基]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Other 4th graders]]
+[[Category:Minor characters]]
+[[Category:Townsfolk]]
+[[Category:4th graders]]

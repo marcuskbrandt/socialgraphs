@@ -1,0 +1,22 @@
+{{South Park character
+|name = Scrambles
+|image = ScramblesTFBW.png
+|race = Cat
+|hair = Brown
+|appearance = ''[[South Park: The Fractured But Whole]]''
+}}
+{{LinkDisambig|Scrambles (Disambiguation)}}
+'''Scrambles''' is a brown tabby that appears in ''[[South Park: The Fractured But Whole]]''.
+
+==Background==
+Scrambles is the core subject for most parts of the game, where it is reported missing and a $100 reward is offered for its return. Both the [[Coon and Friends]] and [[Freedom Pals]] attempt to recover the cat so that they could receive the reward to help support their movie franchise.
+
+Scrambles is eventually found in [[Harrison Yates]]' office during [[The Thin White Line]] mission, where Yates was using it to cheese himself. When Scrambles is recovered, an argument is heated up over which faction should get the reward, starting off another fight between both factions.
+
+[[zh:小挠挠（完整破碎）]]
+[[Category:Animals]]
+[[Category:Video Game Exclusive characters]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:Characters]]
+[[Category:Pets]]
+[[Category:Cats]]

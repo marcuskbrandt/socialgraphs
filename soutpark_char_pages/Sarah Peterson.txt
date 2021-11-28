@@ -1,0 +1,29 @@
+{{South Park character
+|name = Sarah Peterson
+|image = Sarah-peterson-0.png
+|gender = Female
+|hair = Orange
+|job = Student
+|voice = Milan Agnone<ref>{{cite web|url=http://www.imdb.com/title/tt0705940/|title="South Park" Lil' Crime Stoppers (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[Lil' Crime Stoppers]]"
+}}
+{{LinkDisambig|Sarah (Disambiguation)}}
+'''Sarah Peterson''''s only appearance was in the [[Season Seven]] episode, "[[Lil' Crime Stoppers]]".
+
+==Background==
+In "[[Lil' Crime Stoppers]]", she seeks help from [[The Boys|the boys]], who were playing detective, to find her lost doll. They find the doll in Fosse's house, where [[Bill]] and [[Fosse]] are playing with it. The boys go in and retrieve the doll, and return it to Sarah later. Her mom is so appreciative that she advises the [[Park County Police]] department of their heroism.
+
+==Appearance==
+Sarah has long orange hair with yellow ribbons tied in bows to give her pigtails. She wears a yellow dress with green and white trimming. She also wears black shoes and a white skirt.
+
+==References==
+{{reflist}} 
+
+{{Minor Characters from Season Seven}}
+[[zh:莎拉·彼得森]]
+[[Category:Characters]]
+[[Category:Kindergartners]]
+[[Category:School children]]
+[[Category:Female characters]]
+[[Category:One-off characters]]
+[[Category:Gingers]]

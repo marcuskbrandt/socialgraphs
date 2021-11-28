@@ -1,0 +1,41 @@
+{{South Park character
+|name = Charlotte's Mother
+|image = Charlottes-mother.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|relation1=Husband
+|relativename1 = [[Thomas (Charlotte's father)]]
+|relation2 = Daughters
+|relativename2 = [[Charlotte]]<br>[[Charlotte's Sister]]
+|relation3 = Son
+|relativename3 = [[Charlotte's Brother]]
+|appearance="[[Where My Country Gone?]]"
+}}
+'''Charlotte's Mother''' appears in the [[Season Nineteen]] episode, "[[Where My Country Gone?]]".
+
+==Background==
+After [[Butters Stotch|Butters]] is forced by the other boys to date Charlotte, the two end up falling in love. Butters goes to Charlotte's house where he meets her family, including her mother. When [[Thomas (Charlotte's father)|Thomas]] breaks down in tears after telling Butters about the [[Canadian President]], Charlotte's mother also begins crying.
+
+She returns to [[Canada]] with her family after [[Herbert Garrison|Mr. Garrison]] rapes the Canadian President to death. She has not made another appearance since.
+
+==Appearance==
+Charlotte's mother wears a red and white dress and has brown hair. Like most Canadians, she is portrayed with black beady eyes and flappy head.
+
+<gallery widths=120 caption="Images of Charlotte's Mother">
+Where my Country Gone 017.png|Charlotte's Mother eating with her family and [[Butters Stotch|Butters]].
+</gallery>
+
+{{Minor Characters from Season Nineteen}}
+[[fr:Charlotte's Mother]]
+[[ja:シャーロットの母]]
+[[zh:夏洛特的母亲]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Canadians]]
+[[Category:Parents]]
+[[Category:Adult characters]]
+[[Category:Characters with unknown voice actor]]
+[[Category:One-off characters]]
+[[Category:Charlotte's Family]]
+[[Category:Unnamed characters]]

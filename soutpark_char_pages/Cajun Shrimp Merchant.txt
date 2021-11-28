@@ -1,0 +1,34 @@
+{{South Park character
+|name = Cajun Shrimp Merchant
+|image = shrimp-merchant.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job = Shrimp Merchant
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1747501/|title="South Park" Coon 2: Hindsight (TV Episode 2010) - IMDb|publisher=IMDb.com}}</ref>
+|appearance = "[[Coon 2: Hindsight]]"
+}}
+The '''Cajun Shrimp Merchant''' appears in the [[Season Fourteen]] episode, "[[Coon 2: Hindsight]]".
+
+==Background==
+The BP Oil Company caused a huge oil spill in the gulf, and many businesses along the coast were affected, including the Cajun shrimp merchant. He appears on [[Channel 4 News]] to express his concerns about the spill having an effect on his shrimp business.
+
+==Appearance==
+The Cajun shrimp merchant wears brown, rubber boots, dark-yellow overalls, and a green shirt. He also wears a red cap and blue rubber gloves. He has gray hair and a gray mustache.
+
+<gallery caption="Images of the Cajun Shrimp Merchant">
+shrimp-merchant2.png|Seen on the news.
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Fourteen}}
+[[fr:Cajun Shrimp Merchant]]
+[[zh:卡津虾贩]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Elderly people]]

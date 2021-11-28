@@ -1,0 +1,30 @@
+{{South Park character
+|name = Geological Survey Supervisor
+|image = Geological-survey-boss.png
+|gender = Male
+|hair = Grey
+|job = Geologist
+|race = Caucasian
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt1312843/|title="South Park" About Last Night... (TV Episode 2008)|publisher=IMDb.com}}</ref><br>[[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt4080138/|title="South Park" The Cissy... (TV Episode 2014)|publisher=IMDb.com}}</ref>
+|appearance = "[[About Last Night...]]"
+}}
+'''Geological Survey Supervisor''' is the boss of the [[United States Geology Survey]] in Colorado, the former workplace of [[Randy Marsh]]. He first appear in [[Season Twelve]] episode "[[About Last Night...]]".
+
+==Background==
+In "[[About Last Night...]]", a drunk Randy met his supervisor during a street celebration following [[Barack Obama]]'s victory in the 2008 Presidential Election. As the idea of "change is coming to America" gets over Randy's head, he proceeded to insult, flip the supervisor, before breaking his nose. In response, the supervisor fired him from his job the following day.
+
+In "[[The Cissy]]", the supervisor appears to have re-hired Randy. He was pressured by Carol to create a separate bathroom for Randy (as Lorde), as many of the female geologists were not comfortable working with a transwoman, but Carol and the supervisor eventually agreed to let Lorde use the women's bathroom again.
+
+==Appearance==
+The supervisor wears a green working suit with a black tie and black pants.
+
+During the street celebration following Obama's victory, he is seen wearing a grey Obama/Biden shirt over his working attire.
+
+==References==
+{{Reflist}}
+[[zh:地质调查局领导]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]

@@ -1,0 +1,35 @@
+{{South Park character
+|name = Apple Replacement Friend
+|image = Apple-replacement-friend.png
+|gender = Male
+|hair = Brown
+|age = 9-10
+|job = Student
+|grade = 4th Grade
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1884035/|title="South Park" HUMANCENTiPAD (TV episode 2011)|publisher=IMDb.com}}</ref>
+|appearance = "[[HUMANCENTiPAD]]"
+}}
+The '''Apple Replacement Friend''' is a boy who briefly appears in the [[Season Fifteen]] episode, "[[HUMANCENTiPAD]]".
+
+==Background==
+After [[Kyle Broflovski|Kyle]] is kidnapped by [[Apple Inc.]], [[The Boys|the boys]] visit the Genius Bar to seek help. [[Leslie]], the Apple Genius helping them, offers a replacement friend in the place of Kyle. The boys reject the replacement friend and ask for Kyle back.
+
+==Appearance==
+The Apple Replacement Friend wears black shoes, brown slacks, a white button-up shirt, and a red bow-tie. He has wavy, brown hair, and two "buck" teeth. 
+
+<gallery widths="160" caption="Images of Apple Replacement Friend">
+AppleReplacemenFriend2.png|Apple Replacement Friend's brief appearance at the Genius Bar.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Fifteen}}
+[[fr:Apple Replacement Friend]]
+[[zh:苹果替代朋友]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Male 4th graders]]
+[[Category:One-off characters]]
+[[Category:Other 4th graders]]
+[[Category:4th graders]]
+[[Category:Characters voiced by Matt Stone]]

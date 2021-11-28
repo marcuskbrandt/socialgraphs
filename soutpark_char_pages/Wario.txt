@@ -1,0 +1,29 @@
+{{South Park character
+|name = Wario
+|image = Wario.png
+|gender = Male
+|hair = Brown
+|job = Villain<ref>{{cite web|url=http://www.imdb.com/title/tt0995577/|title=Imaginationland on IMDb}}</ref>
+|appearance = "[[Imaginationland]]"
+}}
+'''Wario''' is a fictional character in the ''Mario'' franchise as well as the main protagonist of his own series. The character was featured in the [[Season Eleven]]'s Imaginationland trilogy.
+
+Wario was seen as an antagonist on side of the villains. He is shown prominently in the battle of [[Imaginationland (Location)|Imaginationland]].
+
+==Appearance==
+Wario wears green shoes, navy blue overalls (instead of purple), a yellow cap and beige gloves with the letter V (as opposed to a W) on them, and a yellow shirt.
+
+<gallery widths="160" caption="Images of Wario">
+ImaginationlandEpisodeII00046.png
+</gallery>
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Eleven}}
+[[zh:瓦里奥]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Crossover characters]]
+[[Category:Minor characters]]
+[[Category:Imaginationland characters]]
+[[Category:Overweight characters]]

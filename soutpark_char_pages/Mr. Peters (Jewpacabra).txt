@@ -1,0 +1,20 @@
+{{South Park character
+|name = Mr. Peters
+|image = Mr-peters.png
+|gender = Male
+|hair = Grey
+|job = [[Sooper Foods]] Worker
+|appearance = "[[Jewpacabra]]"
+}}
+'''Mr. Peters''' is a worker for [[Sooper Foods]] who appears in [[Season Sixteen]] episode "[[Jewpacabra]]".
+
+==Background==
+[[Eric Cartman|Cartman]] visited the management of Sooper Foods, warning them about the dangers of "Jewpacabra" and requesting them to cancel their Easter egg hunt in light of the creature's alleged sightings in South Park. Mr. Peters informed the manager, [[Mr. Billings]] that the chance of encountering the creature is 0.000000001%, the latter on the other hand would not take risk, deciding to allocate their resources to Cartman in order to help him catch Jewpacabra.
+
+==Appearance==
+Mr. Peters wears a black Sooper Foods apron with a name tag, over a white working suit, purple striped tie, brown pants, black shoes and a pair of square-framed glasses.
+[[zh:彼得斯先生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

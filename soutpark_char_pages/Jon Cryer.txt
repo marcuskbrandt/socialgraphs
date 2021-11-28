@@ -1,0 +1,26 @@
+{{South Park character
+|name = Jon Cryer
+|image = Jon_Cryer.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1965|4|16}}
+|dob = April 16, 1965
+|job = Actor
+|wikipedia = [[Wikipedia:Jon Cryer|Jon Cryer]]
+|appearance = "[[Poor and Stupid]]"
+}}
+'''Jonathan Niven Cryer''' is an American actor who was featured in [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+In an attempt to make himself poor and stupid, [[Eric Cartman]] ties himself upside down while watching a marathon of ''Two and a Half Men'', starring Jon Cryer, along with [[Charlie Sheen]] and [[Angus T. Jones]]. In the show, Angus (known as Jake) and Charlie notices a hot girl as Cryer (known as Alan) looks on.
+
+==Appearance==
+Jon Cryer is seen with a wide grin. He has a combed dark brown hair, and wears a purple shirt with light brown pants and a pair of brown shoes.
+{{TelevisionCelebrities}}
+[[zh:乔恩·克莱尔]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

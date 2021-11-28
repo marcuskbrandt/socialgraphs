@@ -1,0 +1,33 @@
+{{South Park character
+|name = New York Boy with Blue Cap
+|image = <gallery>
+New-york-kid-blue-hat-current.png|Current
+NewYorkKidTransparent2.png|Former
+</gallery>
+|gender = Male
+|hair = Brown
+|job = Student
+|grade = 3rd Grade
+|appearance = "[[World Wide Recorder Concert]]"
+}}
+The '''New York Boy with Blue Cap''' is a character who appears in the [[Season Three]] episode, "[[World Wide Recorder Concert]]", where he is seen as one of the friends of the [[New York Kids]] [[Smitty|leader]]. He is also one of several cut characters from ''[[South Park: The Stick of Truth]]'' and he is seen on a poster at [[Raisins (Location)|Raisins]] in ''[[South Park: The Fractured But Whole]]''.
+
+==Appearance==
+He has dark Brown hair and wears a light Blue cap with beige edges, a White shirt under a dark Blue Jacket with Red stripes on the sides and Blue pants. In his model found in the game files, he showed a slightly different appearance.
+
+In later episodes, he wears a White jersey with the number 34 on it.
+
+==Prominence==
+*"[[World Wide Recorder Concert]]" - He and the other [[New York Kids]] antagonize the boys during the episode.
+*"[[The Entity]]" - He moves to South Park and is briefly mistaken for [[Kyle Broflovski|Kyle]]'s cousin.
+*"[[Raisins]]" - Seen on a poster at Raisins and also physically appears at one of the tables.
+*"[[You Got F'd in the A]]" - Seen on a poster at [[Raisins (Location)|Raisins]].
+*"[[AWESOM-O]]" - Seen with his parents.
+
+==Trivia==
+*Like Smitty, he also appears in the [[Raisins (Location)|Raisins restaurant]] on a poster.
+*In the ''[[South Park: The Stick of Truth]]'' game files, his character model is described as "newyork_1".
+[[Category:3rd graders]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]

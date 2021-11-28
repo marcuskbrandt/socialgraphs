@@ -1,0 +1,33 @@
+{{South Park character
+|name = Philip Glass
+|image = Philip-glass.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1937|1|31}}
+|dob = January 31, 1937
+|job = Composer
+|religion = Buddhist
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705945/|title="South Park" Mr. Hankey, the Christmas Poo (TV episode 1997)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Philip Glass|Philip Glass]]
+|appearance =  "[[Mr. Hankey, the Christmas Poo]]"
+}}
+'''Philip Glass''' appears in the background in the [[Season One]] episode, "[[Mr. Hankey, the Christmas Poo]]" as the minimalist composer from New York who performs music during the "happy, non-offensive, non-denominational Christmas Play".
+
+==Appearance==
+Phillip Glass wears a black shirt, black pants, and has curly black hair. He can be seen in front of two gray keyboards.
+
+==Trivia==
+*[[Matt Stone]] and [[Trey Parker]] strongly dislike Glass, citing him taking the character and the magic out of Christmas. They they mention that can "you basically give a third grader a keyboard, tell him to mess around, sell that music as one of Phillip Glass' albums, and no one would know the difference."<ref>{{cite web|url=http://southpark.cc.com/collections/925/season-1-creator-commentary/10|title=Creator Commentary: Mr. Hankey, the Christmas Poo}}</ref>
+
+==References==
+{{Reflist}}
+{{MusicCelebrities}}
+[[zh:菲利普·格拉斯]]
+[[Category:Characters]]
+[[Category:Music celebrities]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Buddhists]]

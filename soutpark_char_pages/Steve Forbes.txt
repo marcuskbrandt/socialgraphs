@@ -1,0 +1,31 @@
+{{South Park character
+|name = Steve Forbes
+|image = Business-steve-forbes.png
+|gender = Male
+|race = Caucasian
+|hair = Brown; Graying
+|age = {{age|1947|07|18}}
+|dob = July 18, 1947
+|job = Publisher
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766089/|title="South Park" The Entity (TV episode 2001)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Steve Forbes|Steve Forbes]]
+|appearance = "[[The Entity]]"
+}}
+{{LinkDisambig|Steve (Disambiguation)}}
+'''Steve Forbes''' is an American publisher and business man. He is also the editor-in-chief for his magazine called ''[[wikipedia:Forbes|Forbes]]''. He first appears in the [[Season Five]] episode, "[[The Entity]]", where he is one of the select rich and famous people [[Herbert Garrison|Mr. Garrison]] invited to view his creation, [[IT]].
+
+==Appearance==
+Steve Forbes has brown hair with noticeable signs of graying. He wears gray pants, a white shirt with a yellow tie, and a blue business coat. He also wears round-framed glasses and black shoes.
+
+==References==
+{{reflist}}
+{{PoliticalCelebrities}}
+[[ru:Стив Форбс]]
+[[zh:史蒂夫·福布斯]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Political celebrities]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]

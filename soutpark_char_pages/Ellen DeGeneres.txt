@@ -1,0 +1,43 @@
+{{South Park character
+|name = Ellen DeGeneres
+|image = Ellen-degeneres.png
+|gender = Female
+|race = Caucasian
+|hair = Blonde
+|age = {{age|1958|1|26}}
+|dob = January 26, 1958
+|job = Actress<br>Comedian<br>TV Show Host
+|voice = [[April Stewart]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397943/|title="South Park" Fishsticks (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Ellen DeGeneres|Ellen DeGeneres]]
+|appearance = "[[Fishsticks]]"
+}}
+'''Ellen DeGeneres''' is an American actress, comedian, and TV talk show host. She appears in the [[Season Thirteen]] episode "[[Fishsticks]]" where she had [[Eric Cartman]] and [[Jimmy Valmer]] on her talk show, ''[[The Ellen DeGeneres Show]]''. She also appears as one of the comedians in "[[Funnybot]]".
+
+==Appearance==
+Ellen has blonde hair. She wears a gray jacket, a white shirt, and blue jeans. She also appears to have a very faint mustache.
+<gallery widths="160" captionalign=left caption="Images of Ellen DeGeneres">
+Fishsticks (122).png|[[Eric Cartman|Cartman]] and [[Jimmy Valmer|Jimmy]] on her show, in "[[Fishsticks]]".
+Funnybot052.png|Ellen (left) in "[[Funnybot]]"
+</gallery>
+
+==Prominence==
+*"[[Fishsticks]]"
+*"[[Funnybot]]"
+*"[[South ParQ Vaccination Special]]" - A real life photo of her is seen on [[Robert White]]'s whiteboard.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Thirteen}}
+{{TelevisionCelebrities}}
+
+[[ja:エレン・デジェネレス]]
+[[zh:艾伦·德詹尼丝]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Female characters]]
+[[Category:LGBT characters]]
+[[Category:Celebrities]]
+[[Category:Television celebrities]]
+[[Category:Characters voiced by April Stewart]]
+[[Category:Minor characters]]
+[[Category:Elderly people]]

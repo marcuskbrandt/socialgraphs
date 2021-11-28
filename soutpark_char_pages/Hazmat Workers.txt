@@ -1,0 +1,23 @@
+{{South Park character
+|name = Hazmat Workers
+|image = <gallery>
+Other-hazmat-investigators.png|Investigators
+Papa-johns-hazmat-workers.png|Papa John's Workers
+</gallery>
+|gender = Male
+|appearance = "[[Gluten Free Ebola]]"
+}}
+The '''Hazmat Workers''' appear in the [[Season Eighteen]] episode "[[Gluten Free Ebola]]".
+
+==Background==
+Two workers approach the [[Marsh Residence]] and request an inspection of the house for gluten products. They eventually find an empty can of [[Pabst Blue Ribbon]] in a rubbish bin, and have [[Randy Marsh]] quarantined in [[Papa John's]].
+
+==Appearance==
+The workers wear full Hazmat suits. The investigators who visit Randy's house are equipped with yellow aprons, a pair of safety goggles, and green protective gloves. They carry devices that apparently can detect gluten products. Workers at Papa John's wear full gas masks and are seen carrying rifles to deter trespassers.
+
+{{Minor Characters from Season Eighteen}}
+[[zh:危险品处理员]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]

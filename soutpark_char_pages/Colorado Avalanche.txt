@@ -1,0 +1,19 @@
+{{Group
+|name = Colorado Avalanche
+|image = Colorado-avalance.png
+|gender = Male
+|job = NHL Hockey Team
+|wikipedia = [[Wikipedia:Colorado Avalanche|Colorado Avalanche]]
+|first = "[[Stanley's Cup]]"
+}}
+The '''Colorado Avalanche''' are a NHL professional hockey team. They appear in the episode "[[Stanley's Cup]]", in which they allow the [[Park County Pee-Wee Hockey Team]] to take their place in the latter half of their match against the [[Detroit Red Wings]]. When the Park County Pee-Wee Hockey Team was easily defeated by the Detroit Red Wings and they entire team was severely injured. Following the game [[Nelson Brown]], passed away because he had hope that his team would win the game.
+
+==Appearance==
+Colorado Avalanche hockey team, as they appeared in [[South Park]], wears a red, white, and blue uniform. Their jerseys are mostly red, have blue stripes, the word "Colorado" in blue, and white in the center. They wear white helmets with transparent face masks and black gloves. Their gear is of the brand "CLK" and their numbers are printed on their shoulders and backs in white.
+
+[[zh:科罗拉多雪崩队]]
+[[Category:Characters]]
+[[Category:Sports teams]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Groups]]

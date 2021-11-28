@@ -1,0 +1,31 @@
+{{South Park character
+|name = Swimming Instructor
+|image = Townsfolk-swimming-instructor.png
+|gender = Female
+|hair = Blonde
+|job = Swimming Instructor
+|voice = [[Mary Kay Bergman]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705935/|title="South Park" Summer Sucks (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Summer Sucks]]"
+}}
+The '''Swimming Instructor''' is an unnamed woman who appears in the [[Season Two]] episode "[[Summer Sucks]]" as [[Eric Cartman]]'s swimming teacher.
+
+==Background==
+This Swimming Instructor is first seen in the [[South Park Community Pool]] telling the kids to get into the pool and getting Cartman to jump in the pool, who is too scared to go into it and gets interrupted when the other kids urinate in the pool. Later on, she tries to teach Cartman the doggie-paddle move, but is interrupted once again by the other kids urinating in the pool. After the giant snake that rampaged through town is destroyed, she lets all of the kids into the pool, and they of course urinate in it again.
+
+==Appearance==
+The Swimming Instructor has long wet blond hair. She wears a red swimming suit with a white cross on the right side as well as a whistle around her neck.
+<gallery widths="160" captionalign="left" caption="Images of Swimming Instructor">
+SummerSucks32.png|The instructor in the community pool leading a swimming class.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[zh:游泳教练]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by Mary Kay Bergman]]
+[[Category:Townsfolk]]

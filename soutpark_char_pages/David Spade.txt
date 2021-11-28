@@ -1,0 +1,29 @@
+{{South Park character
+|name = David Spade
+|image = David Spade.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1964|7|22}}
+|dob = July 22, 1964
+|job = Actor, Comedian
+|wikipedia = [[Wikipedia:David Spade|David Spade]]
+|appearance = "[[Funnybot]]"
+}}
+{{LinkDisambig|David (Disambiguation)}}
+'''David Wayne Spade''' is an American actor and comedian who appears in [[Season Fifteen]] episode "[[Funnybot]]".
+
+==Background==
+David Spade was one of the several comedians who stormed into [[South Park Elementary]], armed with guns and demanding that the school put a stop to [[Funnybot (Character)|Funnybot]] who had left them out of work.
+
+He was later seen witnessing the burial of [[Tyler Perry]] towards the end of the episode.
+
+==Appearance==
+David Spade has long brown hair with short balbo beard. He wears a black collared shirt, dull brown pants and brown shoes. He also has a golden watch on his left wrist.
+[[pl:David Spade]]
+[[zh:大卫·斯派德]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

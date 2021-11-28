@@ -1,0 +1,30 @@
+{{South Park character
+|name = Scott Evans
+|image = Police-officers-scott-evans.png
+|gender = Male
+|hair = Brown
+|job = Prison Rehabilitation Counselor
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705975/|title=The Wacky Molestation Adventure on IMDB}}</ref>
+|appearance = "[[The Wacky Molestation Adventure]]"
+}}{{LinkDisambig|Scott (Disambiguation)}}
+'''Scott Evans''' is a prison rehabilitation counselor for the Canyon City Maximum Security Prison who appears in the [[Season Four]] episode, "[[The Wacky Molestation Adventure]]".
+
+==Background==
+Scott introduces himself to the parents who were arrested for molesting their children. He believes that they actually did molest their kids, even though the kids lied to the police about it. He helps the adults fight their urges by bringing out a cardboard cutout of a little boy and telling them to resist their urge to molest him. He is later shown making a list of things for the parents to do besides molest their kids.
+
+==Appearance==
+Scott has short brown hair with a few strands sticking out the top and thick brown eyebrows. He wears a light brown vest over a green button-up shirt, brown pants, and black shoes. He appears much slimmer than most other characters.
+<gallery widths="160" captionalign="left" caption="Images of Scott Evans">
+TheWackyMolestationAdventure073.png|Scott making a list of things to do besides molest kids
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[zh:斯科特·伊万斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Police officers]]

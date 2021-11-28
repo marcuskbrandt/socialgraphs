@@ -1,0 +1,25 @@
+{{South Park character
+|name = Rick the Mountie
+|image = Rick-the-mountie.png
+|gender = Male
+|race = Canadian
+|voice = [[Trey Parker]]
+|appearance = "[[It's Christmas in Canada]]"
+}}{{LinkDisambig|Rick (Disambiguation)}}
+'''Rick the Mountie''' is a member of the Canadian Mounted Police who appears in [[Season Seven]] episode "[[It's Christmas in Canada]]".
+
+==Background==
+As [[the boys]] travel to [[Ottawa]] to see the Prime Minister, they meet Rick, who has been forced to ride on a sheep instead of a horse as decreed by the Prime Minister. Rick, wanting to see the Prime Minister as well, leads the boys to Ottawa. Through the journey, they encounter the [[French Canadian Mime]] and [[Steve (Canadian)|Steve]], before realizing they were going the wrong way.
+
+The group manage to make their way to Ottawa in time, discovering the true identity of the Prime Minister, who turns out to be [[Saddam Hussein]].
+
+Rick later invites the boys for a Christmas celebration on the streets of Ottawa.
+
+==Appearance==
+Rick wears a mountie uniform. Unlike most Canadians, Rick has a pentagon-shaped head instead of round one.
+{{Minor Characters from Season Seven}}
+[[zh:骑警瑞克]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]

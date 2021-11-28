@@ -1,0 +1,29 @@
+{{South Park character
+|name = Alice
+|image = Alice.png
+|gender = Female
+|hair = Brown
+|age = 10-11
+|voice = [[Eliza Schneider]]<ref>{{Cite web|title="South Park" Fat Camp (TV Episode 2000)|url=https://www.imdb.com/title/tt0705924/|publisher=IMDb.com}}</ref>
+|appearance = "[[Fat Camp]]"
+}}
+'''Alice''' is one of the [[Hopeful Hills]] campers in the [[Season Four]] episode "[[Fat Camp]]".
+
+==Background==
+Alice was first seen when [[Eric Cartman|Cartman]] enters the camp, where he watches her and the other campers. She later appeared as one of the children caught by a fake ice cream truck for trying to escape from camp. She later appears at the end of the episode when her parents and those of the other campers come for them because they are not losing weight, she is seen saying goodbye to the camp [[Rick and Susan|counselors]] and thanking them. The campers, feeling guilty, reveal that Cartman was selling candy to the campers while the counselors did not watch over them. Parents then give the counselors another chance and let their children return to camp.
+
+==Appearance==
+Alice has dark brown hair with a ponytail and wears the standard Fat Camp uniform. Outside camp she was wearing a light pink T-shirt and purple pants.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Four}}
+[[es:Alice]]
+[[fr:Alice]]
+[[zh:爱丽丝]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Female characters]]
+[[Category:5th graders]]
+[[Category:Characters voiced by Eliza J. Schneider]]
+[[Category:Overweight characters]]

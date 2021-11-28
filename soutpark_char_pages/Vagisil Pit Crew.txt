@@ -1,0 +1,24 @@
+{{Group
+|name = Vagisil Pit Crew
+|image = Vagisil pit crew.png
+|job = [[NASCAR]] Pit Crewmen
+|member1 = Lead Crewman
+|voice1 = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt1708917/fullcredits?ref_=tt_cl_sm|title="South Park" Poor and Stupid (TV Episode 2010)|publisher=IMDb.com}}</ref>
+|first = "[[Poor and Stupid]]"
+}}
+The '''Vagisil Pit Crew''' are [[NASCAR]] pit crewmen for [[Eric Cartman]]. They appear in the [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+Cartman is set to race against several other NASCAR drivers, using his own vehicle sponsored by [[Vagisil]]. When the cue to start engines was called, Cartman asks what "start your engines" mean, with the lead crewman frustratingly pointing out the instructions.
+
+When Cartman decides to go full speed on the pace lap, the lead crewman interrupts once again, asking Cartman not to do so.
+
+The crewmen could only watch more of Cartman's antics, which eventually led to all other drivers crashing out of the race.
+
+==References==
+{{Reflist}}
+[[zh:卫姿丝赛车维修队]]
+[[Category:Adult characters]]
+[[Category:Groups]]
+[[Category:One-off characters]]
+[[Category:Male characters]]

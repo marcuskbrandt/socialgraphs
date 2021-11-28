@@ -1,0 +1,33 @@
+{{South Park character
+|name = Jamie Oliver
+|image = Jamie-oliver.png
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|age = {{Age|1975|5|27}}
+|dob = May 27, 1975
+|job = Celebrity Chef
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt1766998/|title="South Park" Crème Fraîche (TV episode 2010)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Jamie Oliver|Jamie Oliver]]
+|appearance = "[[Crème Fraiche]]"
+}}
+'''Jamie Trevor Oliver''' is a British chef and restaurateur who appears in [[Season Fourteen]] episode "[[Crème Fraiche]]".
+
+==Background==
+While several chefs were challenging [[Randy Marsh]] to a school cafeteria food throwdown, Jamie Oliver pointed out that school food should be made healthy, but immediately breaks down thinking that nobody was taking him seriously. Later during the challenge, Jamie Oliver was found sitting in a corner crying again over the school cafeteria food.
+
+He is mentioned in "[[Medicinal Fried Chicken]]", where he gives a speech at the United Nations; [[Eric Cartman|Cartman]] was given an order from [[Colonel Sanders]] to kill him before he can give his speech, which he failed to do, resulting in the Colonel calling a strike on Cartman's [[Kentucky Fried Chicken|KFC]]-smuggling operation, which he usurped [[Billy Miller]] as leader of. One of the operation's members, [[Tommy ("Medicinal Fried Chicken")|Tommy]], was a mole for Oliver and was executed via hanging by the Colonel's men as a result.
+
+==Appearance==
+Jamie Oliver has a disheveled blond hair and wears the standard chef's uniform without a hat.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Fourteen}}
+[[zh:杰米·奥利弗]]
+[[Category:Characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]

@@ -1,0 +1,31 @@
+{{South_Park_character
+|image = Adults-celebrities-jake-jabs.png
+|name = Jake Jabs
+|gender = Male
+|hair = White
+|race = Caucasian
+|age = {{age|1930|11|23}}
+|dob = November 23, 1930
+|job = Founder of American Furniture Warehouse
+|appearance = "[[Guitar Queer-O]]"
+}}
+'''Jake Jabs''' is the spokesperson for American Furniture Warehouse in Colorado. He appears as a local celebrity at [[Charles Kincade]]'s party in the episode "[[Guitar Queer-O]]".
+
+==Appearance==
+Jake Jabs has white hair that is combed back. He wears a yellow suit with an orange shirt and black shoes. He can be seen with a black and white tiger on his lap. His face is visibly aged, having wrinkles on his cheeks and forehead.
+
+==Trivia==
+*When he is seen with the tiger on his lap, this is a play on the cover of his book entitled ''An American Tiger''.<ref>{{cite web|url=http://www.amazon.com/An-American-Tiger-ebook/dp/B004GKMHXS|title=An American Tiger - Amazon.com}}</ref>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+{{BusinessCelebrities}}
+[[zh:杰克·贾布斯]]
+[[Category:One-off characters]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Business celebrities]]
+[[Category:Deceased characters]]

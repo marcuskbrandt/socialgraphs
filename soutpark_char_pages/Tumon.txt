@@ -1,0 +1,28 @@
+{{South Park character
+|name = Tumon
+|image = Tumon.png
+|gender = Male
+|race = Persian
+|hair = Black
+|job = 
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0983727/|title="South Park" D-Yikes (TV Episode 2007)|publisher=IMDb.com}}</ref>
+|appearance = "[[D-Yikes!]]"
+}}
+'''Tumon''' is a minor character that appears in the [[Season Eleven]] episode "[[D-Yikes!]]", where he works in [[Club Persh]] and served as the second-in-command for [[Rauf Xerxes]].
+
+==Background==
+[[Emir Hadi]] was sent to [[Les Bos]] and inform the customers that the bar has been bought out by the Persians. Despite his attempts to reason with the customers, he was instead kicked on the groin by [[Herbert Garrison|Janet Garrison]]. Emir returns to Club Persh to report the incident to Tumon, who then called for reinforcements to prepare for an attack on Les Bos and further pursue their cause. Unfortunately the Persians did not succeed, retreating back to their club where Tumon had to answer to Rauf Xerxes for their failure.
+
+==Appearance==
+Tumon has black hair and a five o' clock shadow. He wears a blue and orange striped shirt, brown pants, and a pair of golden watch on his left wrist.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Eleven}}
+[[zh:图蒙]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Middle Eastern characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,46 @@
+{{South Park character
+|name = Joe Gargery
+|image = Joe-gargery.png
+|gender = Male
+|hair = Brown
+|job = Blacksmith
+|voice = [[Kyle McCulloch]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705929/|title="South Park" Pip (TV episode 2000)|publisher=IMDb.com}}</ref>
+|relation1 = Brother-in-law
+|relativename1 = [[Pip Pirrip]]
+|relation2 = Wife
+|relativename2 = [[Mrs. Joe Gargery]]
+|appearance = "[[Pip]]"
+|final = "[[Pip]]"
+}}
+'''Joe Gargery''' was a character created by Charles Dickens in his novel ''Great Expectations''. He appears in an identical role in the episode "[[Pip]]".
+
+Joe Gargery is [[Pip Pirrip|Pip]]'s brother-in-law. He is a blacksmith and is also the husband of Pip's hot-tempered [[Mrs. Joe Gargery|adult sister]].
+
+==Appearance==
+He has an elongated face, a red nose, and really bad teeth. He has brown hair, badly-kept stubble, and hairy arms. He appears dressed in dark red overalls and brown shirt.
+<gallery widths="160" spacing="small" caption="Images of Joe Gargery">
+Pip013.png|Joe Gargery with a metal newspaper.
+Pip030.png|Joe training [[Pip Pirrip]] to be a blacksmith.
+</gallery>
+
+==Family==
+===[[Pip Pirrip]]===
+Joe has taken Pip on as his apprentice and wishes to teach him in the trade of being a blacksmith. When the lawyer from London comes to take Pip to be a gentleman, he appears to be disappointed that Pip is leaving him to be a gentleman rather than a blacksmith, but appears genuinely happy for Pip, remarking that Pip is "A young gentleman of great expectations!"
+===[[Mrs. Joe Gargery]]===
+His short-tempered wife, Pip's grown sister, is dismissive towards him and his work, often being obnoxious and abusive towards him as well as disparagingly calling him things like "metal-pounding fairy".
+
+==Trivia==
+*One of the things Gargery creates is a metal orange. This is likely a reference to the novella ''A Clockwork Orange'' by Anthony Burgess, which was adapted into a film starring [[Malcolm McDowell]], who appeared as the narrator of the episode.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Four}}
+[[es:Joe Gargery]]
+[[zh:乔·盖格瑞]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:British characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Kyle McCulloch]]
+[[Category:Poor characters]]

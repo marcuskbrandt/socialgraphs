@@ -1,0 +1,19 @@
+{{South Park character
+|name = Ms. Herman
+|image = Ms-herman.png
+|gender = Female
+|job = Librarian
+|appearance = "[[Conjoined Fetus Lady]]"
+}}
+'''Ms. Herman''' is the primary librarian at the [[South Park Public Library]]. She was mentioned by [[Mayor McDaniels]] in "[[Conjoined Fetus Lady]]" when she was praised for having opened a new wing to her library.
+
+==Appearance==
+Ms. Herman wears black shoes, brown stockings, a maroon skirt, and an orange shirt. She also has large, teal hair and wears gray, round eyeglasses.
+
+[[zh:荷曼女士]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Townsfolk]]
+[[Category:Elderly people]]

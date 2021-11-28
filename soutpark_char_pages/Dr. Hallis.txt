@@ -1,0 +1,31 @@
+{{South Park character
+|name = Dr. Hallis
+|image = Dr-hallis.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|job = Plastic Surgeon
+|voice = [[Trey Parker]]<ref>Credited as "Dr. Hallas" in {{cite web|url=https://www.imdb.com/title/tt0705896/|title="South Park" Bebe's Boobs Destroy Society (TV Episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[Bebe's Boobs Destroy Society]]"
+}}
+'''Dr. Hallis''' is a plastic surgeon who works in [[Hell's Pass Hospital]] who appears in [[Season Six]] episode, "[[Bebe's Boobs Destroy Society]]".
+
+==Background==
+[[Bebe Stevens]] consults Dr. Hallis on breast reduction as she is overwhelmed by the attention she received from the boys. Dr. Hallis claims he cannot ethically perform as such, but welcomes her to size up.
+
+Later, [[Wendy Testaburger]] sees Dr. Hallis for a breast implant surgery, who immediately accepts upon hearing that she is willing to pay $3,000, and proceeds with the surgery in a violent procedure.
+
+==Appearance==
+Dr. Hallis has balding black hair and black eyebrows. He wears a doctor's clothing, with a teal shirt and black tie underneath, along with brown pants and black shoes.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+
+[[zh:哈里斯医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Medics]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

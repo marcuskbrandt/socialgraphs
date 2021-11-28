@@ -1,0 +1,26 @@
+{{South Park character
+|name = Michael Collins
+|image = Michael Collins.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705913/fullcredits?ref_=tt_cl_sm|title="South Park" Christian Rock Hard (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[Christian Rock Hard]]"
+}}
+'''Michael Collins''' is a representative of the Christian Recording Industry who appears in the [[Season Seven]] episode "[[Christian Rock Hard]]".
+
+==Background==
+[[Eric Cartman]], along with his [[Faith + 1]] members [[Token Black]] and [[Butters Stotch]], having sold one million copies of their [[Faith + 1 (Album)|album]], were invited to an award ceremony to be presented with a "platinum award". However on the ceremony proper, Michael Collins presents them a "myrrh" album instead, further explaining that in Christian rock music, album tiers are named gold, frankincense, and myrrh. This enrages Cartman who now knows that he could never actually have a "platinum" album, going against Collin's advice on not using [[Jesus Christ]]'s name in vain.
+
+==Appearance==
+Michael Collins wears a navy blue suit with white shirt and red tie. 
+
+==References==
+{{Reflist}}
+
+[[zh:迈克尔·柯林斯]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]

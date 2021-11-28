@@ -1,0 +1,31 @@
+{{South Park character
+|name = Davin Miller
+|image = Davin-miller.png
+|gender = Male
+|hair = Red
+|age = 10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|appearance = "[[Ginger Cow]]"
+}}
+'''Davin Miller''' is a fourth-grade student at [[South Park Elementary]] who appears in the [[Season Seventeen]] episode "[[Ginger Cow]]".
+
+==Background==
+When [[Eric Cartman|Cartman]] claims to have seen a [[Ginger Cow (Animal)|ginger cow]], which is actually a regular cow he made to look ginger, he calls the attention of Davin and sarcastically apologizes to him for saying that only human beings can be ginger in an argument he had with [[Kyle Broflovski|Kyle]].
+
+==Appearance==
+Being ginger, Davin has red hair, light skin, and freckles. He wears a gray sweater, dark turquoise pants, and black shoes. Davin does not have any speaking lines in his appearance.
+<gallery widths="160" captionalign="left" caption="Images of Davin Miller">
+1706-2.jpg|The character Corel for Davin
+</gallery>
+
+{{South Park Children}}
+[[zh:达文·米勒]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:4th graders]]
+[[Category:Other 4th graders]]
+[[Category:Male 4th graders]]
+[[Category:School children]]
+[[Category:One-off characters]]
+[[Category:Gingers]]

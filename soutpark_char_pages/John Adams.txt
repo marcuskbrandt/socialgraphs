@@ -1,0 +1,35 @@
+{{South Park character
+|name = John Adams
+|image = John-adams.png
+|gender = Male
+|race = Caucasian
+|hair = White
+|age = 90 (deceased)
+|dob = October 30, 1735
+|died = July 4, 1826
+|job = Former U.S. President
+|religion = Unitarian Christian
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705933/|title= I'm a Little Bit Country (TV episode 2003)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:John Adams|John Adams]]
+|appearance = "[[I'm a Little Bit Country]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John Adams''' appeared in the [[Season Seven]] episode, "[[I'm a Little Bit Country]]", where he was seen during [[Eric Cartman]]'s flashback. He was the second President of the United States as well as the first Vice-President and was a member of the Continental Congress in 1776.
+
+==Appearance==
+He appears in a brown dress coat, brown trousers and white shirt. He had white hair. Like many of the characters seen in Cartman's flashback, he was not drawn with normal ''[[South Park]]'' facial features, instead having realistic facial proportions.
+==References==
+{{reflist}}
+
+{{PoliticalCelebrities}}
+{{HistoricalCelebrities}}
+[[zh:约翰·亚当斯]]
+[[Category:Characters]]
+[[Category:Historical celebrities]]
+[[Category:Deceased characters]]
+[[Category:Political celebrities]]
+[[Category:Presidents of the United States]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Elderly people]]

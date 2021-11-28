@@ -1,0 +1,27 @@
+{{South Park character
+|name = San Diego Singers
+|image = Musice-san-diego-singers.png
+|gender = Males
+|hair = '''Singer 1:''' Light Brown<br>'''Singer 2:''' Blonde<br>'''Singer 3:''' Brown
+|job = Singers
+|voice = [[Trey Parker]]
+|appearance = "[[Butterballs]]"
+}}
+The '''San Diego Singers''' are three male characters who appear in the [[Season Sixteen]] episode "[[Butterballs]]".
+
+==Background==
+These three men appear as the main vocalists for the [[San Diego (Song)|San Diego]] song that is sung at the end of the episode when [[Stan Marsh]] goes "jackin' it in [[San Diego]]". They appear throughout the song, snapping their fingers and bobbing their heads to the song.
+
+==Appearance==
+All three of the singers wear outfits consisting of a light blue top over a white shirt and black tie, a pair of light blue pants, and black shoes. The first singer has combed light brown hair and light brown eyebrows, the second singer has combed blonde hair and blonde eyebrows, and the third singer has combed brown hair and brown eyebrows.
+<gallery widths="160" captionalign="left" caption="Images of the San Diego Singers">
+Butterballs082.png|The singers first showing up during the song.
+</gallery>
+[[zh:圣迭戈歌手]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Unnamed characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Groups]]

@@ -1,0 +1,27 @@
+{{South Park character
+|name = Ann Curry
+|image = Ann Curry.png
+|gender = Female
+|hair = Black
+|age = {{age|1956|11|19}}
+|dob = November 19, 1956
+|job = Television Personality
+|wikipedia = [[Wikipedia:Ann Curry|Ann Curry]]
+|appearance = "[[The Tale of Scrotie McBoogerballs]]"
+}}
+'''Ann Curry''' is a television personality for the NBC News. She appears in [[Season Fourteen]] episode "[[The Tale of Scrotie McBoogerballs]]".
+
+==Background==
+Ann Curry appears as one of the four presenters in the ''[[Today Show]]'', along with [[Al Roker]], [[Matt Lauer]], and [[Meredith Vieira]]. They interview [[Butters Stotch]] and his parents, for supposedly writing the horrifically vulgar and disgusting book ''[[The Tale of Scrotie McBoogerballs (Book)|The Tale of Scrotie McBoogerballs]]''.
+
+==Appearance==
+Ann Curry has the stereotypical characteristics of Asians seen in the series such as small eyes. Ann Curry has black hair and wears a light gray shirt and a dark gray skirt.
+
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[zh:安·克莉]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Television celebrities]]

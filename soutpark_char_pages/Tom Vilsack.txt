@@ -1,0 +1,33 @@
+{{South Park character
+|name = Tom Vilsack
+|image = Doctors-usda-scientist-tom-vilsack.png
+|gender = Male
+|hair = Blond
+|age = {{age|1950|12|13}}
+|dob = December 13, 1950
+|job = Secretary of Agriculture
+|religion = Roman Catholic
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt4063638/?ref_=fn_al_tt_1|title="South Park" Gluten Free Ebola (TV episode 2014)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Tom Vilsack|Tom Vilsack]]
+|appearance = "[[Gluten Free Ebola]]"
+}}
+'''Tom Vilsack''' is the United States Secretary of Agriculture and head of the [[USDA]]. He appears in the [[Season Eighteen]] episode, "[[Gluten Free Ebola]]", in which he leads the effort to find a solution to the anti-gluten panic in the United States, spurred on by [[South Park (Location)|South Park]].
+
+==Appearance==
+Tom Vilsack wears a black business suit, which consists of black shoes, black pants, a black coat, a white shirt, and a blue tie, as well as a white lab coat and a USDA name badge. He has combed blond hair.
+
+==References==
+{{reflist}}
+{{PoliticalCelebrities}}
+{{Minor Characters from Season Eighteen}}
+[[es:Tom Vilsack]]
+[[zh:汤姆·维尔萨克]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Political celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:USDA workers]]
+[[Category:Catholic characters]]

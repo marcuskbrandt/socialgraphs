@@ -1,0 +1,40 @@
+{{South Park character
+|name = Anderson Cooper
+|image = Anderson-cooper.png
+|gender = Male
+|race = Caucasian
+|hair = White
+|age = {{age|1967|06|03}}
+|dob = June 3, 1967
+|job = Journalist for CNN
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt3237516/|title="South Park" Ginger Cow (TV Episode 2013)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Anderson Cooper|Anderson Cooper]]
+|appearance = "[[Ginger Cow]]"
+}}
+'''Anderson Cooper''' is an American journalist on [[CNN]]. He is first seen in the [[Season Seventeen]] episode "[[Ginger Cow]]".
+
+==Background==
+In "[[Ginger Cow]]", Cooper appears on his show ''Anderson Cooper 360'' and reports on the possibility of peace in the Middle East after the "red heifer" is discovered, which is really a normal cow that [[Eric Cartman|Cartman]] had dressed up to look like a ginger.
+
+Cooper appears again in "[[Board Girls]]", where he appears on his show after [[PC Principal]] switches to it because the [[PC Babies]] are upset by ''Mulan''.
+
+==Appearance==
+Cooper wears a black business suit with a blue undershirt, gray pants, and black shoes. He has white hair that is combed to one side and brown eyebrows.
+
+==Prominence==
+*"[[Ginger Cow]]"
+*"[[Board Girls]]"
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seventeen}}
+[[es:Anderson Cooper]]
+[[fr:Anderson Cooper]]
+[[zh:安德森·库珀]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Television celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:News reporters]]
+[[Category:Minor characters]]

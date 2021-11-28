@@ -1,0 +1,29 @@
+{{South Park character
+|name = Neve Campbell
+|image = Neve-campbell.png
+|gender = Female
+|hair = Black
+|age = {{age|1973|10|03}}
+|dob = October 3, 1973
+|job = Actress
+|wikipedia = [[Wikipedia:Neve Campbell|Neve Campbell]]
+|appearance = "[[Handicar]]"
+}}
+'''Neve Campbell''' is a Canadian actress who makes a brief appearance in the [[Season Eighteen]] episode "[[Handicar]]".
+
+==Background==
+Neve Campbell appears as a contestant on Wacky Races, racing in her car, 'The Queef', which is powered entirely by "female natural gas". She demonstrates by queefing into the fuel pipe herself.
+
+==Appearance==
+Being a Canadian, Neve has the typical features of most Canadians on South Park, including a flappy head and beady eyes. She has black hair fixed into a ponytail. She wears an entirely pink racing suit and a red and white helmet with the Canadian maple leaf on it, as well as a pair of yellow goggles.
+
+{{MovieCelebrities}}
+{{Minor Characters from Season Eighteen}}
+[[zh:内芙·坎贝尔]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:Movie celebrities]]
+[[Category:Canadians]]

@@ -1,0 +1,34 @@
+{{South Park character
+|name = Ranger McFriendly
+|image = Ranger-mcfriendly.png
+|gender = Male
+|hair = Black
+|job = Ranger
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0783418/|title="South Park" Smug Alert! (TV episode 2006)|publisher=IMDb.com}}</ref>
+|appearance = "[[Smug Alert!]]"
+}}
+'''Ranger McFriendly''' is a park ranger who appears in the [[Season Ten]] episode, "[[Smug Alert!]]". 
+
+==Background==
+After [[Stan Marsh|Stan]]'s [[Hey People, You Gotta Drive Hybrids Already|song]] causes everyone to drive hybrids and be smug about it, the toxic gas "smug" covers [[South Park (Location)|South Park]], causing McFriendly to angrily hit Stan and show him the effects of driving hybrids. After informing the [[City People|townsfolk]] of the smug, he forces Stan to destroy all the hybrids by himself, just in time for the smug storm to have the least impact on the town.
+
+==Appearance==
+He wears the standard park ranger's uniform: tan hat, beige button-up shirt, and taupe pants. He also has a badge near his left shoulder, as well as a utility belt on his waist.
+<gallery widths="160" captionalign="left" caption="Images of Ranger McFriendly">
+SmugAlert085.png|Ranger McFriendly after punching [[Stan Marsh]].
+</gallery>
+
+==Personality==
+He is quite mean, contrary to his name, although his attitude was justified considering the danger Stan unintentionally put South Park in. Although, it is debatable if punching Stan was also justified, or further confirming his spitefulness. He is also very forceful, making Stan destroy all the hybrid cars by himself despite his small stature, and age.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Ten}}
+[[zh:麦克弗兰德利护林员]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Townsfolk]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Bullies]]

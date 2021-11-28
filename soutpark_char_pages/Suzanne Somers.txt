@@ -1,0 +1,38 @@
+{{South Park character
+|name = Suzanne Somers
+|image = Suzanne-somers.png
+|gender = Female
+|hair = Blonde
+|age = {{age|1946|10|16}}
+|dob = October 16, 1946
+|job = Actress
+|voice = [[Mary Kay Bergman]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705920/|title="South Park" Death (TV Episode 1997)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Suzanne Somers|Suzanne Somers]]
+|appearance = "[[Death]]"
+}}
+'''Suzanne Somers''' is an American actress and singer best known for roles in television series such as ''Three's Company'' and ''She's the Sheriff''. She appears in the [[Season One]] episode "[[Death]]".
+
+==Background==
+Suzanne Somers appears in the show under her role in the television series ''She's the Sheriff'' after [[Cartoon Central]] decides to make it the replacement for ''The [[Terrance and Phillip]] Show''. [[Sheila Broflovski]] is horrified to discover that Somers' character is just as vulgar and inappropriate as Terrance and Phillip.
+
+Somers is also mentioned in "[[Fun with Veal]]", when [[Butters Stotch]] buys a calf exercising product called the [[Susanne Sommers Calf Exerciser]] to help let the [[Baby Cows]] get exercise, mistaking the "calf" body part for the "calf" animal.
+
+==Appearance==
+Somers as depicted on the show has long blonde hair and blonde eyebrows. She wears a sheriff outfit which consists of a light brown shirt with a golden star badge, a brown belt with another golden star buckle, light brown pants, and black shoes. Unlike most other characters on the show, she has much smaller eyeballs and has visible purple irises instead of simple black dots for pupils. A similar design was previously used for [[Richard Stamos]] in "[[Big Gay Al's Big Gay Boat Ride]]".
+<gallery widths="160" spacing="small" caption="Images of Suzanne Somers">
+Death096.png|Somers as she appears in "[[Death]]".
+CalfExerciser.png|The "Susanne Sommers Calf Exerciser" as seen in "[[Fun with Veal]]".
+</gallery>
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season One}}
+[[zh:苏珊娜·萨默斯]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Mary Kay Bergman]]
+[[Category:Celebrities]]
+[[Category:Television celebrities]]

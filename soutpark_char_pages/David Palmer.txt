@@ -1,0 +1,34 @@
+{{South Park character
+|name = David Palmer
+|image = david-palmer.png
+|aliases = Ol' Smithy
+|gender = Male
+|hair = Brown
+|birthday = April 15, 1962
+|age = 46 (deceased)
+|job = [[Pioneer Village]] Character Actor
+|voice = [[Trey Parker]]<ref>Credited as "Chad" in {{cite web|url=http://www.imdb.com/title/tt1220462/|title="South Park" Super Fun Time (TV episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[Super Fun Time]]"
+|final = "[[Super Fun Time]]"
+}}{{LinkDisambig|David (Disambiguation)}}
+'''David Palmer''', also known as "'''Ol' Smithy'''", was an employee at [[Pioneer Village]], who played the blacksmith. He appeared in [[Season Twelve]] episode "[[Super Fun Time]]".
+
+==Background==
+He got into trouble with [[Pioneer Paul]] for wearing a visible digital watch while on duty. When the thieves who had taken Pioneer Village over wanted to know the door code for the old mine shaft, David refused to break character and was shot in the head by [[Franz]].
+
+==Appearance==
+David Palmer, as he appeared as a pioneer villager, wore a blue long-sleeved shirt with a collar under a long, brown apron. He also wore a large, tan hat with a large brim, a digital watch, and fake black eyebrows. He has brown hair and although he doesn't have any real facial hair, he wears make up or dirt as a fake beard.
+
+==Trivia==
+*When [[Pioneer Paul]] chastises 'Smithy' for wearing a digital watch, he calls him Chad. However, Franz later reveals the actor's name to be David Palmer.
+
+==References==
+{{reflist}}
+[[zh:大卫·帕尔默]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Deceased characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Overweight characters]]

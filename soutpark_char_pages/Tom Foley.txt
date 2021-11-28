@@ -1,0 +1,30 @@
+{{South Park character
+|name = Tom Foley
+|image = Medical-dentist-tom-foley.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job = Dentist<br>[[American Dental Association]] Member
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705974/|title=The Tooth Fairy Tats 2000 on IMDB}}</ref>
+|appearance = "[[The Tooth Fairy Tats 2000]]"
+}}
+{{LinkDisambig|Thomas (Disambiguation)}}
+'''Tom Foley''' is the dentist that confronts [[Loogie]] in the [[Season Four]] episode, "[[The Tooth Fairy Tats 2000]]".
+
+==Background==
+Being the only clever and rational dentist in the [[American Dental Association|ADA]], Dr. Foley does not believe in the wild theory of the other dentists concerning the overabundance of missing juvenile teeth. After correctly guessing it is the work of a black market tooth stealing operation instead of a "chicken-squirrel" monster, Dr. Foley decides to put a clever trap: publicly announcing that a couple is going to leave $600 to their sick child Billy after he has lost a tooth. Loogie and his gang, along with [[the boys]], all fall for it, allowing Foley and several dentists to finally capture them. Delighted that he has finally succeeded in exposing the Tooth Fairy Scam, Foley orders his men to arrest the boys, but [[Kyle Broflovski|Kyle]] appears wielding control over all reality, even becoming the half-chicken half-squirrel beast. This starts to scare everyone, including Dr. Foley, who tells everyone to get out of here. He and his men, along with Loogie's gang, scatter away from the scene. Despite this, Foley is still delighted that he finally ended the tooth racketeering.
+
+==Appearance==
+Tom Foley wears a light-teal dentist lab coat over a white button shirt with a black tie. He has gray receding hair, wrinkles on his forehead, and a gray mustache. His coat has a tag that says ADA, which stands for the American Dental Association. He also has two dental tools in his coat pocket.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Four}}
+[[es:Tom Foley]]
+[[zh:汤姆·弗利]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

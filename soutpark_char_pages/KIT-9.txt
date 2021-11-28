@@ -1,0 +1,26 @@
+{{South_Park_character
+|name = KIT-9
+|image = Kit-9.png
+|job = Robot
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0895578/|title="South Park" Go God Go XII (TV episode 2006)|publisher=IMDb.com}}</ref>
+|appearance = "[[Go God Go XII]]"
+}}
+'''KIT-9''' was [[Eric Cartman]]'s robot cat in the [[Season Ten]] episode, "[[Go God Go XII]]".
+
+==Background==
+Cartman froze himself waiting for the Nintendo Wii to be released but was revived 500 years in the future. His only friend is a robot dog named [[K-10]]. When the two steal a [[Crank Prank Time Phone]], he calls [[Kyle Broflovski|Kyle]], telling him to warn his past self to warn his past self about the danger of freezing himself. Kyle then misses his bus, causing the future to change, turning K-10 into KIT-9.
+
+KIT-9 follows Cartman into the room and explained the "Great Question", he also mentioned [[Mrs. Garrison]], who Cartman should then call. When he does this, [[Richard Dawkins]] answers. Cartman lets slip to him that Garrison used to be a man, causing the two to split, which changes the future. KIT-9 then changes into [[KOK-A-3]].
+
+==Appearance==
+KIT-9 is an upright robot with feline features. It is silver, with gold shoulders, arms and legs. It has "KIT-9" written on its chest. Its colors are inverted from K-10.
+
+==References==
+{{Reflist}}
+[[zh:KIT-9]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Animals]]
+[[Category:Robots]]
+[[Category:Objects]]
+[[Category:Characters voiced by Matt Stone]]

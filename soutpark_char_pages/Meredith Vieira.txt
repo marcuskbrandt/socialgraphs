@@ -1,0 +1,30 @@
+{{South Park character
+|name = Meredith Vieira
+|image = Celebrity-journalism-meredith-vieira.png
+|gender = Female
+|hair = Brown
+|age = {{age|1953|12|30}}
+|dob = December 30, 1953
+|job = Television Personality
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1624774/|title="The Tale of Scrotie McBoogerballs" (TV episode 2010)|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Meredith Vieira|Meredith Vieira]]
+|appearance = "[[The Tale of Scrotie McBoogerballs]]"
+}}
+'''Meredith Vieira''' is a television personality. She appears in [[Season Fourteen]] episode, "[[The Tale of Scrotie McBoogerballs]]".
+
+==Background==
+Meredith Vieira is one of the four presenters who appear on the ''[[Today Show]]''. They interview [[Butters Stotch|Butters]], then credited as author of ''[[The Tale of Scrotie McBoogerballs (Book)|The Tale of Scrotie McBoogerballs]]'', along with his parents.
+
+During the interview, Vieira throws up when she mentions a line in the book. Later in the episode, she and the other presenters appear again, on the day a second book, ''[[The Poop That Took a Pee]]'', is unveiled, prepared with buckets to throw up in.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[zh:梅莉蒂丝·维埃拉]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Television celebrities]]
+[[Category:Characters voiced by Trey Parker]]

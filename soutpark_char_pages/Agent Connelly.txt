@@ -1,0 +1,25 @@
+{{South Park character
+|name = Agent Connelly
+|image = Agent Connelly.png
+|gender = Male
+|hair = Black
+|job = FBI Agent
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705963/fullcredits?ref_=tt_cl_sm|title="South Park" Starvin' Marvin in Space (TV episode 1999)|publisher=IMDb.com}}</ref>
+|appearance = "[[Starvin' Marvin in Space]]"
+}}
+'''Agent Connelly''' is an CIA agent who appears in the [[Season Three]] episode "[[Starvin' Marvin in Space]]".
+
+==Background==
+He is one of two CIA agents alongside [[Agent Fields]] in search of an alien ship piloted by [[Starvin' Marvin (Character)|Starvin' Marvin]], retrieving the information from the boys and bribing [[Sally Struthers]] with [[Kenny McCormick|Kenny's]] body.
+
+==Appearance==
+He wears the standard CIA uniform which consists of a black suit, a white undershirt with a black tie, and black pants.
+
+==References==
+{{Reflist}}
+[[zh:康纳利特工]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]

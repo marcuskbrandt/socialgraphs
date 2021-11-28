@@ -1,0 +1,31 @@
+{{South Park character
+|name = Van Gelder
+|image = Simon-van-gelder.png
+|gender = Male
+|race = Caucasian
+|hair = Dark Brown
+|occupation = Planetarium Volunteer Worker
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766086/|title="South Park" Roger Ebert Should Lay off the Fatty Foods (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance  = "[[Roger Ebert Should Lay off the Fatty Foods]]"
+}}
+'''Van Gelder''' is a volunteer worker for the [[Tantalus V. Observatory]] who appears in the [[Season Two]] episode, "[[Roger Ebert Should Lay off the Fatty Foods]]".
+
+==Background==
+After being hypnotized into working at the Planetarium, Van Gelder manages to escape via the school bus. Through [[Mr. Mackey]]'s use of mind-meld, he reveals [[Dr. Tristan Adams]]' plans. He is very unstable due to his hypnosis.
+
+==Appearance==
+He wears the standard Tantalus V. Observatory uniform; a black shirt, with a light blue V-neck shirt and a picture of a dark cloud and sun.
+
+==Trivia==
+*Van Gelder is a parody of the character Simon Van Gelder who had narrowly escaped the Tantalus Penal Colony in the ''Star Trek: The Original Series (1966-1969)'' season one episode Ten "Dagger of the Mind".<ref>{{cite web|url=http://en.memory-alpha.org/wiki/Dagger_of_the_Mind_(episode)|title="Dagger of the Mind"|publisher=Memory Alpha, Star Trek Wiki}}</ref>
+*In the 1999 [[South Park (Video Game)|South Park video game]], entering the cheat "PLANEARIUM" unlocks a "pen and ink mode", which drastically alters the game's graphics.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Two}}
+[[zh:范·格尔德]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters with deviations]]

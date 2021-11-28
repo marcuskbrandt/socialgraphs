@@ -1,0 +1,103 @@
+{{South Park character
+|name = Jared Fogle
+|image = <gallery>
+Jared_9.png|Current
+Jared-fogle.png|Former
+</gallery>
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1977|08|23}}
+|dob = August 23, 1977
+|died = "[[200]]" (revived)
+|job = Former Subway Spokesperson
+|religion = Judaism
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766082/|title="South Park" Jared Has Aides (TV episode 2002)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Jared Fogle|Jared Fogle]]
+|appearance = "[[Jared Has Aides]]"
+}}{{Featured Winner|September 2014}}
+'''Jared Scott Fogle''' appears in the [[Season Six]] episode "[[Jared Has Aides]]", in which he encourages the people of ''[[South Park (Location)|South Park]]'' to lose weight. He claimed that this was the result of a diet where he only ate Subway sandwiches but later admitted that he actually had help from his assistants, who he referred to as his 'aides'.
+
+==Background==
+He later appeared in "[[200]]" as one of the celebrities suing the town. He and [[Phil Collins]] were sent by [[Tom Cruise]] to pick up [[Muhammad]], but they are killed when their limo is blown up by [[Ginger Separatist Movement|Ginger Kids]].
+
+Jared made a cameo appearance in the [[Season Nineteen]] episode, "[[Stunning and Brave]]". He was seen trying to catch [[Syrian refugee children]] at the [[PC Delta]] fraternity house, satirizing the controversy over his outing as a child sex offender, and losing his sponsorship at Subway.
+
+==Appearance==
+Jared wears a blue, striped shirt, brown pants, and a brown belt with a golden colored belt buckle. He has brown hair and thick, brown eyebrows, and wears glasses.
+
+Later in "[[Stunning and Brave]]", his appearance basically stays the same, but now with an aggressive and predatory smile on his face, and always holding out his hands, ready to catch his "prey". This appearance is added to The Fractured But Whole, where he also has Subway footlong sandwiches in his hands.
+
+He also appears as a boss in Fractured But Whole.
+
+==Personality==
+Whilst he was initially portrayed as a well-intentioned and honest individual, he is in reality an evil and predatory [[Pedophilia|pedophile]] who enjoys vulnerable chasing down Syrian refugee children, with the intention of molesting them, showing him to have no qualms about harming young children.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of Jared Fogle">
+S6E1-Thumbnail2-Jared.png|Jared and his aides in "[[Jared Has Aides]]"
+JaredHasAides050.png|Jared upset due to Subway firing him over the confusion between "aides" and "AIDS".
+JaredHasAides074.png|Jared literally beating a dead horse with a bat.
+JaredHasAides029.png|Jared confused after his girlfriend hears "aides" as "AIDS".
+JaredHasAides083.png|Jared about to be hanged due to everyone's misunderstanding of "aides".
+20000049.png|Jared in the limo with [[Phil Collins]] in "[[200]]".
+Stunning Brave-017.png|Jared chasing [[Syrian refugee children]] in "[[Stunning and Brave]]"
+</gallery>
+
+==Prominence==
+*"[[Jared Has Aides]]" - Lies to everyone about how he lost weight.
+*"[[I'm a Little Bit Country]]" - Seen in the crowd.
+*"[[200]]" - Appears among the celebrities suing South Park.
+*"[[Stunning and Brave]]" - Chases Syrian refugee children.
+*"[[South ParQ Vaccination Special]]" - Seen attempting to take the vaccines from the boys.
+
+==Video games==
+===''[[South Park: The Fractured But Whole]]''===
+Jared is fought along with his [[Jared's Aides (The Fractured But Whole)|aides]] in [[The Thin White Line]] mission.
+
+{{TFBW Enemy Abilities
+|Name = Jared Fogle
+|Image = Tb jared.png
+|Health = 1460
+|Move = 2
+|Immunities = Charmed, Chilled, Confused, Enraged
+|AbilityImage1 = Jared_candyenticement.png
+|Ability1 = Candy Enticement
+|Description1 = Attracts a superhero towards him, then tosses candy on them.
+|RangeDesc1 = Entire row from the direction Jared is facing (telegraphed)
+|Range1 = St range 1 5 aligned.png
+|Effect1 = 14 Damage (Cas.)<br>28 Damage (Hero.)<br>35 Damage (Mast.)<br>49 Damage (Dia.)
+|Status1 = Slow
+|AbilityImage2 = Jared_power2.png
+|Ability2 = Sandwich Artisan
+|Description2 = Rams a Subway sandwich five times onto a superhero in an indelicate manner
+|RangeDesc2 = One tile in front of Jared
+|Range2 = Melee.png
+|Effect2 = 280 Damage (Cas.)<br>560 Damage (Hero.)<br>700 Damage (Mast.)<br>980 Damage (Dia.)
+|Status2 = Defense Down
+}}
+
+==Trivia==
+*Jared is killed in "[[200]]", yet he appears alive and well in "[[Stunning and Brave]]", with a new design. It is possible that [[Trey Parker]] and [[Matt Stone]] intended to keep him dead until he was discovered to be a pedophile in 2015.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+{{CriminalCelebrities}}
+
+[[es:Jared Fogle]]
+[[ja:ジャレド・フォーグル]]
+[[pl:Jared Fogle]]
+[[zh:杰瑞德·弗戈尔]]
+[[Category:Characters]]
+[[Category:200 and 201 celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Jewish characters]]
+[[Category:Revived characters]]
+[[Category:Criminal celebrities]]
+[[Category:Criminals]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]

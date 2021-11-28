@@ -1,0 +1,23 @@
+{{Group
+|image = Detroit-redwings.png
+|name = Detroit Red Wings
+|gender = Male
+|type = Sports Team
+|job = NHL Hockey Team
+|religion = Various
+|first = "[[Stanley's Cup]]"
+|times = 1
+}}
+The '''Detroit Red Wings''' are a NHL professional hockey team. They appear in the [[Season Ten]] episode, "[[Stanley's Cup]]". The [[Colorado Avalanche]] players were willing to let the [[Park County Pee-Wee Hockey Team]] take their place against the Red Wings, after the opposing pee-wee team did not show up. Unfortunately, the Red Wings did not go easy on Park County, and end up not only winning the game by many goals, but also severely injuring the pee-wee players in the process.
+
+==Appearance==
+The uniform of the Detroit Red Wings consists of the colors red and white. They wear red a white striped shorts and a red jersey with the word "Detroit" and their number in white. Their carried equipment consists of red gloves, a white helmet with a clear mask, and black ice skates. They use a brown hockey stick with a black handle and the acronym CLK written several times on the handle in red and white.
+
+{{Minor Characters from Season Ten}}
+[[zh:底特律红翼队]]
+[[Category:Characters]]
+[[Category:Sports teams]]
+[[Category:One-off characters]]
+[[Category:Bullies]]
+[[Category:Male characters]]
+[[Category:Adult characters]]

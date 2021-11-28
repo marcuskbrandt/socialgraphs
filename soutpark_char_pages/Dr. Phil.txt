@@ -1,0 +1,29 @@
+{{South Park character
+|image = Dr-phil-mcgraw.png
+|name = Dr. Phil
+|gender = Male
+|race = Caucasian
+|hair = Gray, Balding
+|age = {{age|1950|9|1}}
+|dob = September 1, 1950
+|job = Psychologist
+|religion = Christian
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1884035/|title="South Park" HUMANCENTiPAD (TV episode 2011)|publisher=IMDb.com}}</ref>
+|wikipedia  = [[wikipedia:Phil McGraw|Phil McGraw]]
+|appearance = "[[HUMANCENTiPAD]]"
+}}
+'''Phillip Calvin McGraw''', better known as '''Dr. Phil''', is an American television personality who hosted his eponymous talk show in the [[Season Fifteen]] episode, "[[HUMANCENTiPAD]]". He helped [[Eric Cartman]], who thought his mother had "fucked" him by talking to Eric about his problem and rewarding him. He was able to give Eric the first [[HUMANCENTiPAD (Product)|HUMANCENTiPAD]].
+
+==Appearance==
+Dr. Phil is mostly bald with gray hair on the sides and back of his head with gray eyebrows and a gray mustache. He wears a black suit with a light blue button-up shirt and a blue tie. He also wears black shoes.
+
+==References==
+{{reflist}}
+[[zh:菲尔博士]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Celebrities]]
+[[Category:Television celebrities]]

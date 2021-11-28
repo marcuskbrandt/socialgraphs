@@ -1,0 +1,29 @@
+{{South Park character
+|name = Chinese Shopkeeper
+|image = Chinese-shopkeeper-0.png
+|gender = Female
+|race = Chinese
+|hair = Black
+|appearance = "[[Band in China]]"
+}}
+The '''Chinese Shopkeeper''' is the manager of a tea shop in [[China]]. She appears in the [[Season Twenty-Three]] episode, "[[Band in China]]".
+
+==Background==
+When [[Winnie the Pooh]] and his companion, [[Piglet]], wander the streets of China, in search of honey to eat, they stumble into a tea shop where they find the Chinese shopkeeper sweeping the floor. Pooh asks her if she has some honey for them to eat but the shopkeeper shoos them away, telling them not to bother her in Mandarin.
+
+==Gallery==
+<gallery widths="200" caption="Images of the Chinese Shopkeeper">
+Chinese-tea-shop.png|The Chinese Shopkeeper cleaning her shop.
+</gallery>
+
+{{Minor Characters from Season Twenty-Three}}
+[[zh:中国店主]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Elderly people]]
+[[Category:Minority characters]]
+[[Category:Chinese characters]]
+[[Category:Unnamed characters]]
+[[Category:One-off characters]]
+[[Category:Asian characters]]

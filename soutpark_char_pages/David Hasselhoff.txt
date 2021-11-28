@@ -1,0 +1,33 @@
+{{South Park character
+|name = David Hasselhoff
+|image = Tv-actors-david-haselhoff.png
+|gender = Male
+|hair = Brown
+|age = {{age|1952|7|17}}
+|birthday = July 17, 1952
+|job = Actor
+|religion = Lutheran
+|wikipedia = [[Wikipedia:David Hasselhoff|David Hasselhoff]]
+|appearance = "[[Super Fun Time]]"
+}}{{LinkDisambig|David (Disambiguation)}}
+'''David Hasselhoff''' is an American actor who is popular for his role as Michael Knight in the 1980s TV-series ''Knight Rider''. [[Herbert Garrison|Mr. Garrison]] takes the appearance of David Hasselhoff after having plastic surgery in the episode, "[[Tom's Rhinoplasty]]". In the episode, "[[Cartoon Wars Part I]]", an episode of ''[[Family Guy]]'' is seen where Peter Griffin talks about the time he auditioned for the role of KITT from the ''Knight Rider''.
+
+==Appearance==
+[[File:Hasselhoff.JPG|thumb|left|150px|Mr. Garrison as he appears with a live-action face of David Hasselhoff.]]
+David Hasselhoff, as he appeared in the ''Family Guy'' parody, wore gray pants and black belt with a large, metal belt buckle. He also wore a leather jacket over a red, collared button up shirt that was partially unbuttoned. He has brown, curly hair and brown eyebrows.
+
+{{clrl}}
+
+==''[[South Park: The Stick of Truth]]''==
+*A player can have his appearance changed by going to Tom's Rhinoplasty clinic, just like Mr. Garrison.
+
+{{MovieCelebrities}}
+[[pl:David Hasselhoff]]
+[[zh:大卫·哈塞尔霍夫]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Mentioned-only characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Movie celebrities]]

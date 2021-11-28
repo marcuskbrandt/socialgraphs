@@ -1,0 +1,28 @@
+{{South Park character
+|name = DOI Agents
+|image = Dept-of-the-interior.png
+|gender = Male
+|job = DOI Workers
+|voice = [[Trey Parker]]<br>[[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705937/|title="South Park" Jakovasaurs (TV Episode 1999)|publisher=IMDb.com}}</ref>
+|appearance = "[[Jakovasaurs]]"
+}}
+The '''DOI Agents''' are representatives of the United States Department of Interior who appear in [[Season Three]] episode "[[Jakovasaurs]]".
+
+==Background==
+Upon discovery of a female [[Jakovasaur]], it was taken to the [[City Hall]] and presented to three Department of Interior agents. The agents claimed that a live Jakovasaur had never been seen, and requested that it gets a chance at repopulation, granting a Jakovasaur couple to a [[Jakov Residence|new home]] where it can produce offspring.
+
+Upon realizing that the Jakovasaur population had grown out of control, the agents decided to flee [[South Park (Location)|South Park]], but not before appointing [[Eric Cartman]] an official member of the DOI, granting him authority over all wildlife in South Park.
+
+==Appearance==
+Each of the agents wear working suits of different colors, and a pair of black square-framed glasses.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Three}}
+[[zh:美国内政部]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]

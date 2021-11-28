@@ -1,0 +1,28 @@
+{{South Park character
+|name = Canadian Minister of Sports
+|image = Minister-of-sports.png
+|gender = Male
+|hair = Grey
+|race = Canadian
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt4093298/|title="South Park" Freemium Isn't Free (TV Episode 2014)|publisher=IMDb.com}}</ref>
+|appearance = "[[Freemium Isn't Free]]"
+}}
+The '''Canadian Minister of Sports''' is a minor character that appears in [[Season Eighteen]] episode "[[Freemium Isn't Free]]".
+
+==Background==
+During the fight between [[Satan]] (possessing [[Stan Marsh|Stan's]] body) and [[Canadian Minister of Mobile Gaming|Beelzaboot]], the Minister of Sports was interviewed by a [[Canadian Reporter]] on his prediction, to which he replied that supporting the Canadian Devil is naturally a patriotic thing to do, but was also concerned about the Devil promising them pain and servitude for a million years.
+
+==Appearance==
+The Minister wears a black suit with a white collared shirt and red tie. A small badge bearing the maple leaf can be seen on the left side of the chest.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eighteen}}
+[[fr:Canadian Minister of Sports]]
+[[zh:加拿大体育部部长]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

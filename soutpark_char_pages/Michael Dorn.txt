@@ -1,0 +1,42 @@
+{{South Park character
+|name = Michael Dorn
+|image = Michael-dorn.png
+|gender = Male
+|hair = Black
+|age = {{age|1952|12|9}}
+|dob = December 9, 1952
+|job = Actor
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0759312/|title="South Park" Fun with Veal (TV episode 2002)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Michael Dorn|Michael Dorn]]
+|appearance = "[[Fun with Veal]]"
+}}{{LinkDisambig|Michael (Disambiguation)}}
+'''Michael Dorn''' is an actor best known for his portrayal of [[w:c:memory-alpha:Worf|Lieutenant Commander Worf]], from the television series ''Star Trek: The Next Generation'' and ''Star Trek: Deep Space Nine''. He appears in the [[Season Six]] episode "[[Fun with Veal]]".
+
+==Background==
+When [[The Boys|the boys]] kidnap a supply of [[Baby Cows|baby cows]], to keep them from being slaughtered for veal, [[Eric Cartman]] negotiates with the [[Federal Bureau of Investigation|F.B.I.]] negotiator, [[Glen Dumont]], for weapons and an escape from [[Stan Marsh]]'s house. One of the conditions that Cartman asks for is that "the guy who plays Worf on Star Trek" be the driver of their getaway truck. The F.B.I. then gets Michael Dorn to South Park, in full Worf Make-up, to drive the truck. As they start their escape, Cartman requires that Mr. Dorn call him "Captain" whenever he address him, much to Dorn's obvious annoyance.
+
+==Appearance==
+He appeared in full "Worf" make-up, with the characteristic face ridges. He wore a dark red, blue brimmed t-shirt with "PASADENA CITY" at its center. He also wore black pants.
+<gallery widths="160" captionalign="left" caption="Images of Michael Dorn">
+Dorn.png|Michael Dorn talking to an FBI employee.
+</gallery>
+
+==Personality==
+He appears to be one of the more rational adults, although he does seem easily annoyed.
+
+==Trivia==
+*After this episode was broadcast, Dorn revealed that he is a fan of ''South Park'', and would have provided his voice for the episode if he had been asked.<ref>{{cite web|url = http://www.startrek.com/startrek/view/community/chat/archive/transcript/1119.html|title = Michael Dorn Interview|accessdate = 2007-10-10|publisher = Startrek.com|date = 2006-12-11}}</ref>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+{{MovieCelebrities}}
+[[zh:迈克尔·多恩]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:African-American characters]]
+[[Category:Movie celebrities]]

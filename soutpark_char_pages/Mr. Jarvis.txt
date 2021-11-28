@@ -1,0 +1,30 @@
+{{South Park character
+|name = Mr. Jarvis
+|image = Mr-jarvis.png
+|hair = Gray
+|gender = Male
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://imdb.com/title/tt0897215/|title="South Park" Stanley's Cup (TV episode 2006) |publisher=IMDb.com}}</ref>
+|job = Publisher
+|appearance = "[[Stanley's Cup]]"
+}}
+'''Mr. Jarvis''' is the lead publisher of the [[South Park Gazette]] who appears in [[Season Ten]] episode, "[[Stanley's Cup]]".
+
+==Background==
+At the South Park Gazette office, Mr. Jarvis reviews [[Stan Marsh|Stan's]] performance as lower than expected, commenting that Stan is not delivering papers on time. While Stan explains that he is getting his bike, Mr. Jarvis points to a tow truck outside the office that is about to tow Stan's bike away.
+
+==Appearance==
+Mr. Jarvis wears a light grey shirt, an orange striped tie that has been undone, and dark grey pants with brown suspenders. He carries a watch on his left wrist.
+
+==Prominence==
+*"[[Stanley's Cup]]"
+*"[[South ParQ Vaccination Special]]" - Seen at the end celebrating the end of the [[COVID-19|pandemic]].
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Ten}}
+[[zh:贾维斯先生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]

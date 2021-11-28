@@ -1,0 +1,38 @@
+{{South Park character
+|name = Clark
+|image = ClarkErectionDay.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = 10-11
+|job = Student
+|grade = 5th grade
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0763047/|title="South Park" Erection Day (TV Episode 2005)|publisher=IMDb.com}}</ref>
+|appearance = "[[Erection Day]]"
+}}
+:''For [[Scott Malkinson]]'s father, see [[Clark Malkinson]].''
+'''Clark''' is a 5th grade student at [[South Park Elementary]]. He appears in the [[Season Nine]] episode, "[[Erection Day]]".
+
+==Background==
+In "[[Erection Day]]", he and [[Laura]] perform a magic act during the [[South Park Elementary Talent Show]]. Clark plays the role as the magician, and Laura plays the assistant. Clark make Laura disappear and brings her back using a box.
+
+==Appearance==
+Clark wore a black tuxedo with a black bow tie. He also wore white gloves and a black top hat with a red trim. He has long, brown hair.
+
+<gallery widths="160" caption="Images of Clark">
+ErectionDay (85).png|Clark after being making [[Laura]] "reappear" in "[[Erection Day]]".
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Nine}}
+[[ja:クラーク]]
+[[zh:克拉克]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:School children]]
+[[Category:Male characters]]
+[[Category:5th graders]]
+[[Category:Background characters]]
+[[Category:Characters voiced by Trey Parker]]

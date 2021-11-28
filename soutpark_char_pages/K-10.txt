@@ -1,0 +1,30 @@
+{{South Park character
+|name = K-10
+|image = K-10.png
+|job = Robot
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0890648/|title="South Park" Go God Go (TV episode 2006)|publisher=IMDb.com}}</ref>
+|appearance = "[[Go God Go XII]]"
+}}
+'''K-10''' was [[Eric Cartman]]'s robot dog in the [[Season Ten]] episode, "[[Go God Go XII]]".
+
+==Background==
+Cartman froze himself waiting for the Nintendo Wii to be released but was revived 500 years in the future. His only friend is a robot dog named K-10.
+
+When the two steal a [[Crank Prank Time Phone]] to warn his past self about the danger of freezing himself, his past self does not believe him. After repeatedly making calls to the past, his surroundings change. K-10 becomes a cat robot named [[KIT-9]], and then a robot bird, called [[KOK-A-3]].
+
+==Appearance==
+K-10 is a bipedal robot with canine features. It is mostly gold colored, with black flexible joints, black ears, and chrome hands and feet.
+
+==Trivia==
+*The K-10 robot is a reference of to the robots Twiki in the 1970s TV show, ''Buck Rogers in the 25th Century'' and K-9 from the ''Doctor Who'' series and its many spin-offs.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Ten}}
+[[zh:K-10]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Robots]]
+[[Category:Minor characters]]
+[[Category:Objects]]
+[[Category:Characters voiced by Matt Stone]]

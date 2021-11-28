@@ -1,0 +1,26 @@
+{{Group
+|name = Tardicaca Indians
+|image = Natives-tardicaca-indians.png
+|type = Tribe
+|gender = Male
+|appearance = "[[Crippled Summer]]"
+|times = 1
+}}
+The '''Tardicaca Indians''' are a Native American tribe that resides in a reservation around [[Lake Tardicaca]] in the [[Season Fourteen]] episode "[[Crippled Summer]]".
+
+==Background==
+In an attempt to get [[Jimmy Valmer]] and the rest of the [[Blue Team]] killed by the Tardicaca Indians, [[Nathan]] hatches a plan to replace Jimmy's map to the scavenger hunt with a map to the Indians' reservation. He tells [[Mimsy]] to switch the maps, but he ends up screwing up the plan and Nathan ends up with the map to the reservation. The Indians then show on on horseback and attack Nathan by shooting him with arrows. Towards the end of the episode, the Indians show up again to shoot more arrows at Nathan after his plan to kill Jimmy with a ukulele solo backfires on him. 
+
+==Appearance==
+Most of the Tardicaca Indians wear feathered headbands on their heads while some are seen wearing vests and pants made of animal fur.
+<gallery widths="160" captionalign="left" caption="Images of Tardicaca Indians">
+Crippled.Summer055.png|The Tardicaca Indians show up after Nathan trespasses on their land.
+</gallery>
+[[zh:塔蒂喀喀印第安人]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Native American characters]]
+[[Category:Minority characters]]
+[[Category:One-off characters]]
+[[Category:Groups]]

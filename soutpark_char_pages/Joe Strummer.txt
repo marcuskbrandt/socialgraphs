@@ -1,0 +1,35 @@
+{{South Park character
+|name = Joe Strummer
+|image = Joe-strummer_copy.png
+|gender = Male
+|hair = Black
+|age = 50 (deceased)
+|dob = 21 August 1952
+|died = 22 December 2002
+|job = Musician, Songwriter
+|voice = Himself<ref>{{cite web|url=http://www.imdb.com/title/tt0705907/|title="South Park" Chef Aid (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Joe Strummer|Joe Strummer]]
+|appearance = "[[Chef Aid]]"
+}}
+'''Joe Strummer''' was the lead singer and rhythm guitarist of the seminal British punk rock band The Clash. Strummer passed away in real life on December 22, 2002, aged 50, of an undiagnosed congenital heart defect.
+
+Joe Strummer voiced himself in the episode "[[Chef Aid]]", in which he played a song at the benefit concert for [[Chef]]. Strummer performed the song "[[It's a Rockin' World]]" on ''[[Chef Aid: The South Park Album]]''. He also appeared in the accompanying mockumentary, ''[[Chef Aid: Behind the Menu]]'', in which he talked about [[Jerome "Chef" McElroy|Chef]]'s influence on his career.
+
+==Appearance==
+On ''[[South Park]]'', Strummer appears as a relatively faithful representation of his real-life self, dressed in a sleeveless black shirt and blue jeans. He is seen playing the acoustic guitar in the episode.
+<gallery widths="160" caption="Images of Joe Strummer">
+Joestrummer2.JPG|Joe Strummer in the mockumentary ''[[Chef Aid: Behind the Menu]]''.
+</gallery>
+
+==References==
+{{Reflist}}
+{{MusicCelebrities}}
+[[ja:ジョー・ストラマー]]
+[[zh:乔·斯特鲁默]]
+[[Category:Characters]]
+[[Category:Music celebrities]]
+[[Category:Deceased characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Celebrities]]

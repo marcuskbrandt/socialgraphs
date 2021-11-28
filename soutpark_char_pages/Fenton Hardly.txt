@@ -1,0 +1,27 @@
+{{South Park character
+|name = Fenton Hardly
+|image = Fenton-hardly.png
+|gender = Male
+|hair = Gray
+|voice = [[Trey Parker]]<ref>Credited as "Detective Hardly" in {{cite web|url=https://www.imdb.com/title/tt0871765/|title="South Park" Mystery of the Urinal Deuce (TV Episode 2006)|publisher=IMDb.com}}</ref>
+|relation1 = Sons
+|relativename1 = [[Hardly Boys]]
+|appearance = "[[Mystery of the Urinal Deuce]]"
+}}
+'''Fenton Hardly''' is a detective that appears in [[Season Ten]] episode "[[Mystery of the Urinal Deuce]]".
+
+==Background==
+In [[Chicago]], as [[Stan Marsh|Stan]] and [[Kyle Broflovski|Kyle]] were chasing the [[911 Truth Webmaster]], the latter was shot down by Mr. Hardly, who then escorts the boys to his mansion. He revealed to the boys as the [[Hardly Boys]]' father, and explained the events behind the 911 conspiracy.
+
+==Appearance==
+Mr. Hardly sports grey hair and a full beard. He wears a dark green jacket, blue shirt with a blue striped tie, brown pants and brown shoes.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Ten}}
+[[zh:芬顿·哈德利]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,58 @@
+{{South Park character
+|name = Danny Ganz
+|image = Adults-federal-government-military-atf-commander-danny-ganz.png
+|gender = Male
+|hair = Brown
+|job = ATF Commander
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705980/|title="South Park" Two Guys Naked in a Hot Tub (TV Episode 1999)|publisher=IMDb.com}}</ref>
+|appearance = "[[Two Guys Naked in a Hot Tub]]"
+}}
+'''Danny Ganz''' is an ATF Commander who first appear in the [[Season Three]] episode "[[Two Guys Naked in a Hot Tub]]".
+
+== Background ==
+Being a typical smart-ass, Danny Ganz is assertive and dumb, extremely poor at negotiating and reasoning. He persists in believing that people inside [[Mackey Residence|Mr. Mackey's house]] are religious cultists although obviously they aren't, which leads to a series of absurd actions that kill at least two innocent people. Then he tries to cover it up by calling it a simulation. He once took part in [[wikipedia:Waco Siege|the siege of Waco]].
+
+He is also seen as a guard at [[Alamosa Maximum Security Juvenile Hall]], in "[[Cartman's Silly Hate Crime 2000]]".
+
+==Appearance==
+Danny is slightly overweight. He has short brown hair, brown mustache and a double chin. He wears a dark blue ATF uniform, black belt with gray buckle, gray pants and black shoes. He also wears a dark blue AFT hat.
+
+==Quotes==
+*''Oh don't worry, we won't let that happen, even if it means we have to kill each and every one of them.''
+
+*''Attention cult people, do not commit mass suicide. There are so many reasons not to kill yourself, flowers, for instance, and back rubs.''
+
+==Ganz Technique==
+Danny Ganz claims to have invented the Ganz Technique, which is named after him. This is how he describes it to [[Officer Barbrady]]:
+
+"''Play really bad music really loud until it drives 'em nut and makes them want to come out.''"
+
+The ATF indeed utilized this kind of technique in Waco, but certainly it is not invented by him.
+
+===''[[South Park: The Fractured But Whole]]''===
+Ganz Technique is one of Cyborg's skills. Enrages a foe within three tiles and gains yourself block for one turn. It takes one turn to cool down. Similar to [[Super Craig]]'s Hate Finger.
+
+==Prominence==
+*"[[Two Guys Naked in a Hot Tub]]" - Debut
+*"[[The Wacky Molestation Adventure]]" - Seen arresting [[Sheila Broflovski|Sheila]] with the other parents.
+*"[[Cartman's Silly Hate Crime 2000]]"
+
+==Gallery==
+<gallery widths="200" position="center">
+Ganz_technique.jpg|Ganz technique in "[[Two Guys Naked in a Hot Tub]]".
+CartmansSillyHateCrime2000036.png|Danny Ganz in "[[Cartman's Silly Hate Crime 2000]]".
+Ganz_technique_cyborg.jpg|Ganz technique in game.
+</gallery>
+
+==Trivia==
+*Both in game and in episode, a [[Cher]]-like dance music is played when using Ganz Technique. It is a parody of Cher's 1998 song "[[Believe]]".
+
+==References==
+{{Reflist}}
+[[zh:达尼·甘茨]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Police officers]]
+[[Category:Overweight characters]]

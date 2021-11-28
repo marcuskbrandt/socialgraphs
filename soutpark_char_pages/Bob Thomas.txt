@@ -1,0 +1,31 @@
+{{South Park character
+|name = Bob Thomas
+|image = Adults-denever-volleyball-coach-bob-thomas.png
+|gender = Male
+|hair = Gray
+|job = [[Denver Elementary]] dodgeball coach
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705916/|title="South Park" Conjoined Fetus Lady (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Conjoined Fetus Lady]]"
+}}{{LinkDisambig|Robert (Disambiguation)}}
+'''Bob Thomas''' is a dodgeball coach for a school in Denver. He appears in "[[Conjoined Fetus Lady]]", where they faced the [[South Park (Location)|South Park]] Cows.
+
+==Appearance==
+Bob has a large forehead along with various facial wrinkles. He wears a red hoodie, white undershirt and red shorts.
+
+<gallery widths="160" captionalign="left" caption="Images of Bob Thomas">
+screenshot00022.png|''"Well, we promise we won't make it too painful for ya."''
+</gallery>
+
+==Personality==
+Bob is very arrogant. When he found out [[Chef]] and the team were from South Park, he replied "My god, amazing where people can live nowadays".
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[fr:Bob Thomas]]
+[[zh:鲍勃·托马斯]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Male characters]]

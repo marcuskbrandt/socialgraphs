@@ -1,0 +1,33 @@
+{{South Park character
+|name = Mills Lane
+|image = Mills Lane.png
+|gender = Male
+|race = Caucasian
+|hair = Bald
+|age = {{age|1937|11|12}}
+|dob = November 12, 1937
+|job = Boxing Referee
+|voice = [[Matt Stone]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705919/fullcredits?ref_=tt_cl_sm|title="South Park" Damien (TV Episode 1997)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Mills Lane|Mills Lane]]
+|appearance = "[[Damien]]"
+}}
+'''Mills Bee Lane III''' is a former boxer and boxing referee who appears in [[Season One]] episode "[[Damien]]".
+
+==Background==
+Mills Lane serves as the referee for the boxing match between [[Jesus Christ]] and [[Satan]], asking from the contenders that he "want[s] a good clean fight, guys, no punching below the belt, holding, or miracles." The match concludes with Jesus emerging victorious, but it is later revealed that Satan takes defeat on purpose so that he could take all of the audience's bets on himself, and use the money to buy property.
+
+==Appearance==
+Mills Lane wears a boxing referee uniform which consists of a white shirt with black bowtie, brown belt, and black pants.
+
+==References==
+{{Reflist}}
+
+{{SportsCelebrities}}
+[[zh:米尔斯·洛讷]]
+[[Category:Celebrities]]
+[[Category:Sports celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

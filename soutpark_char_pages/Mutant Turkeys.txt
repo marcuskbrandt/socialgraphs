@@ -1,0 +1,36 @@
+{{South Park character
+|name = Mutant turkeys
+|image = Mutant-turkeys.png
+|race = Turkey
+|hair = Brown, Black Feathers
+|died = "[[Starvin' Marvin]]"
+|job = Food
+|appearance = "[[Starvin' Marvin]]"
+|final = "[[Starvin' Marvin]]"
+}}
+The '''Mutant Turkeys''' were a group of genetically-altered turkeys who appear in the [[Season One]] episode, "[[Starvin' Marvin]]".
+
+==Background==
+[[Dr. Alphonse Mephesto]] created genetically-altered turkeys for Thanksgiving, but they escaped from his lab and began rampaging through [[South Park (Location)|South Park]]. The turkeys destroyed several structures, including [[Herbert Garrison|Mr. Garrison]]'s classroom, and murdered several [[City People|townsfolk]] at [[Stark's Pond]]. 
+
+Dr. Mephesto attempted to warn [[Mayor McDaniels]], but she dismissed his claims, citing Mephesto for being crazy. The turkeys are later seen rampaging a canned food drive near the South Park Library. 
+
+In an attempt to get the turkeys under control, [[Jerome "Chef" McElroy|Chef]] leads the townsfolk in a battle dressed as William Wallace, from the movie ''Braveheart''. During the debacle, [[Kenny McCormick]] is killed by the turkeys. Eventually the townspeople are able to kill them all. The [[Federal Bureau of Investigation|FBI]] soon arrives to escort [[Starvin' Marvin (Character)|Starvin' Marvin]] back to Ethiopia, with turkeys to feed his [[Ethiopian Tribe|tribe]].
+
+<gallery widths="160" spacing="small" caption "Images of mutant turkeys">
+19003.png|Character model in ''[[South Park (Video Game)]]''
+</gallery>
+
+==Appearance==
+The mutant turkeys resemble regular turkeys, only larger and having a much meaner demeanor.
+
+==Trivia==
+*The mutant turkeys made a comeback in the [[South Park (Video Game)|''South Park'' video game]], where they serve as the main enemies in the level 'Operation: Turkey Butt', and minor enemies in later levels. They also appeared in ''[[South Park Let's Go Tower Defense Play!]]''.
+
+{{Minor Characters from Season One}}
+[[zh:变异火鸡]]
+[[Category:Animals]]
+[[Category:Monsters]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]

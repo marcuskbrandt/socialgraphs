@@ -1,0 +1,27 @@
+{{South Park character
+|name = Matt Hasselbeck
+|image = Matt-hasselbeck.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1975|9|25}}
+|dob = September 25, 1975
+|job = Professional Football Player
+|religion = Christian
+|wikipedia = [[Wikipedia:Matt Hasselbeck|Matt Hasselbeck]]
+|appearance = "[[Insheeption]]"
+}}
+'''Matt Hasselbeck''' is a football player who played the position of quarterback for several National Football League teams throughout his career. He appears in the [[Season Fourteen]] episode, "[[Insheeption]]", as the football player entering [[Mr. Mackey]]'s dream. His role in the dream and episode is minimal and his speaking lines do not consist of more than a few words.
+
+==Appearance==
+Matt Hasselbeck wears his former Seattle Seahawks football uniform which consists of a blue jersey, a helmet, and pants with white trimming. He also wears white wrist sweat bands.
+
+{{SportsCelebrities}}
+[[zh:马特·哈塞尔贝克]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters with unknown voice actor]]
+[[Category:Sports celebrities]]
+[[Category:Celebrities]]

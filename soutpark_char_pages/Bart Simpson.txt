@@ -1,0 +1,65 @@
+{{South Park character
+|name = Bartholomew JoJo Simpson
+|image = <gallery>
+Simpsons-bart.png|Current
+celebritites-fictional-bart-simpson.png|Former
+</gallery>
+|gender = Male
+|hair = Blond
+|birthday = April 1<ref name=simpsons>{{cite web|url=http://simpsons.wikia.com/wiki/Bart_Simpson|title=Bart Simpson on the Simpsons Wiki}}</ref>
+|age = 10<ref name=simpsons/>
+|job = Student at Springfield Elementary
+|religion = Christian
+|relation1 = Father
+|relativename1 = [[w:c:simpsons:Homer Simpson|Homer Simpson]]
+|relation2 = Mother
+|relativename2 = [[w:c:simpsons:Marge Simpson|Marge Simpson]]
+|relation3 = Sisters
+|relativename3 = [[w:c:simpsons:Lisa Simpson|Lisa]] and [[w:c:simpsons:Maggie Simpson|Maggie Simpson]]
+|voice    = [[w:c:simpsons:Nancy Cartwright|Nancy Cartwright]] (''The Simpsons'' original series)<br />[[Mona Marshall]] ("[[Cartoon Wars Part II]]")<br>[[Matt Stone]] ("[[The Problem with a Poo]]")
+|appearance = "[[Cartoon Wars Part II]]"
+}}'''Bartholomew "Bart" JoJo Simpson''' is a character of ''[[The Simpsons]]'', which has been both an inspiration and competitor to ''[[South Park]]''. He was voiced by [[Mona Marshall]].
+
+He is first parodied when [[Butters Stotch|Butters]] hallucinates [[Dougie]] resembling Bart Simpson in "[[The Simpsons Already Did It]]".
+
+A boy resembling Bart (presumed to be Bart himself) appears in "[[Cartoon Wars Part II]]". He mentions historical moments from Bart's life and assisted [[Eric Cartman|Cartman]] to try to cancel ''[[Family Guy]]'' and convince FOX Network to stop airing the show.
+
+When [[Kyle Broflovski|Kyle]] arrives to stop Cartman, Bart knocks him out with his skateboard. After hearing one of Kyle's "gay little speeches", Bart instead decides to help save Kyle and ''Family Guy.''
+
+In "[[The Problem with a Poo]]", he meets [[Mr. Hankey]] when he arrives in Springfield.
+
+==Appearance==
+In "[[Cartoon Wars Part II]]", Bart has blond spiky hair and wears a red T-shirt, blue pants, and blue and white shoes. In "[[The Problem with a Poo]]", Bart's appearance has finally starting to resemble the actual self, but with yellow skin and wears an orange T-shirt, green pants, and red and white shoes.
+
+<gallery widths="120">
+File:Simpsons2.JPG|Butters hallucinates [[Dougie]] as Bart in "[[The Simpsons Already Did It]]".
+File:Bart Cartoon Wars II chalkboard gag.png|Bart in "[[Cartoon Wars Part II]]".
+SPPWP - 00263.png|Bart Simpson seen in "[[The Problem with a Poo]]"
+File:Bart Simpson (The Simpsons version).png|Artwork of Bart Simpson on ''The Simpsons''.
+</gallery>
+
+== Personality ==
+On ''The Simpsons'', Bart is usually portrayed as mischievous, rebellious, and cunning, but with a good heart. On ''South Park'', he is portrayed similarly, but may be somewhat more bad-intentioned and destructive, as he stated that he could do terrorism. Additionally, Bart later helped Cartman with said terrorism by knocking out the clearly good-intentioned Kyle with his skateboard, then helped keep him trapped. However, Kyle does seemingly convince him to free him so he can stop Cartman by telling him something about becoming as bad as he is, likely indicating more moral responsibility. He also seems to strongly dislike ''Family Guy''.
+
+==Trivia==
+* Unlike his appearance on ''The Simpsons'', Bart's hairline is slightly more yellow than his skin on ''[[South Park]]''. However, his hair color is more beige than on ''The Simpsons''.
+* Bart is voiced by a female actress (Nancy Cartwright) on ''The Simpsons''. Similarly, he is also one the of few male characters on ''South Park'' to also be voiced by a woman.
+*Bart is based on Matt Groening, just like how Kyle and Stan are based on Matt Stone and Trey Parker.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Ten}}
+<!--Interwiki links-->
+[[es:Bart_Simpson]]
+[[fr:Bart Simpson]]
+[[pl:Bart Simpson]]
+[[ru:Барт Симпсон]]
+[[zh:巴特·辛普森]]
+[[Category:The Simpsons]]
+[[Category:Crossover characters]]
+[[Category:Male characters]]
+[[Category:Characters]]
+[[Category:Characters voiced by Mona Marshall]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Criminals]]
+[[Category:Minor characters]]

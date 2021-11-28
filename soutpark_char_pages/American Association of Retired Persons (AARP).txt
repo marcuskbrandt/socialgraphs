@@ -1,0 +1,29 @@
+{{Group
+|image = Workforce-aarp-cc.png
+|name = American Association of Retired Persons (AARP)
+|type = Interest group
+|member1 = [[Bill Stewart]]
+|member2 = The retired elderly
+|first = "[[Grey Dawn]]"
+|times = 1
+}}
+The '''American Association of Retired Persons (AARP)''' is a non-profit organization that lobbies the [[United States]] government on behalf of elderly and retired citizens. It appears in the [[Season Seven]] episode, "[[Grey Dawn]]".
+
+==Background==
+The townsfolk of [[South Park (Location)|South Park]] vote to have the driver's licenses of the elderly revoked, due to the many accidents they cause. In response to this, [[Marvin Marsh]] leads the other tenants of the [[Shady Acres]] retirement home in a militant protest.
+
+The AARP soon later captures the town, holds the younger townsfolk hostage, and makes unfair demands in their favor. Before their threats are allowed to be carried out, the elderly are defeated when their food supply is cut off at the [[Country Kitchen Buffet]].
+
+<gallery widths="160" captionalign="left" caption="Images of American Association of Retired Persons">
+GreyDawn025.png|The AARP holding guns behind a barricade.
+</gallery>
+{{Minor Characters from Season Seven}}
+[[fr:American Association of Retired Persons (AARP)]]
+[[zh:美国退休人员协会]]
+[[Category:Organizations]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Elderly people]]
+[[Category:One-off characters]]
+[[Category:Terrorists]]
+[[Category:Criminals]]

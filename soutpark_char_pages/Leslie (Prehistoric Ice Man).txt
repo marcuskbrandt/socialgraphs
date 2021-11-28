@@ -1,0 +1,36 @@
+{{South Park character
+|name = Leslie
+|image = leslie-prehistoriciceman.png
+|gender = Female
+|race = Caucasian
+|hair = Dark Gray
+|voice = [[Mary Kay Bergman]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705950/|title="South Park" Prehistoric Ice Man (TV Episode 1999) - IMDb|publisher=IMDb.com}}</ref>
+|relation1 = Husband
+|relativename1 = [[Buck]]
+|relation2 = Sons
+|relativename2 = [[Buck Jr.]]<br>[[Calvin]]
+|relation3 = Ex-husband
+|relativename3 = [[Larry ("Prehistoric Ice Man")|Larry]]
+|appearance = "[[Prehistoric Ice Man]]"
+}}{{LinkDisambig|Leslie (Disambiguation)}}
+'''Leslie''' is [[Buck]]'s wife and the mother of [[Buck Jr.]] and [[Calvin]]. She appears in the [[Season Two]] episode, "[[Prehistoric Ice Man]]".
+
+==Background==
+[[Larry ("Prehistoric Ice Man")|Larry]] had gone missing on Kenosha Pass, and Leslie sends out a search party in the afternoon. After waiting 3 days, she moved on. However, sometime prior to this, she had met [[Buck]] and started a secret life with him. The two had two kids together, much to the surprise of Larry.
+
+==Appearance==
+Leslie wears black shoes, green pants, and a light-green shirt. Her shirt has the word "FLO" written in yellow below red, white, and blue stripes. She has gray hair, which was once brown.
+
+<gallery widths="160" caption="Images of Leslie">
+PrehistoricIceMan64.png|Leslie while Larry tries reuniting with her.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[zh:莱斯利（史前冰人）]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Mary Kay Bergman]]

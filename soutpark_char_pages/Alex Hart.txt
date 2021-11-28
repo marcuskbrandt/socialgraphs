@@ -1,0 +1,30 @@
+{{South Park character
+|image = Alex-hart.png
+|name = Alex Hart
+|gender = Male
+|hair = Gray
+|job = Records producer
+|voice = [[Trey Parker]]<ref>Credited as "Alan Hart" in {{cite web|url=http://www.imdb.com/title/tt0995580/|title="South Park" Guitar Queer-o (TV Episode 2007) - IMDb|publisher=IMDb.com}}</ref>
+|appearance = "[[Guitar Queer-O]]"
+}}
+'''Alex Hart''' is a music record producer and manager of the ''Kincade Talent Agency''. He appears in [[Season Eleven]] episode "[[Guitar Queer-O]]".
+
+==Background==
+When [[Stan Marsh|Stan]] and [[Kyle Broflovski|Kyle]] reached 100,000 points on Guitar Hero, they got the attention of [[Charles Kincade]], who offered to be the boys' manager. Charles brought them to Alex Hart, who was impressed with the boys' performance in Guitar Hero, signing them into a contract and inviting them to a party at his mansion. Charles would later replace Kyle with [[Thad Jarvis]].
+
+Meanwhile, Alex secure both Stan and Thad a Guitar Hero station in [[Gamecraft Arcade]] for practice, hoping for them to break one million points.
+
+==Appearance==
+Alex Hart wears a grey business suit, black shoes, and a pair of tinted glasses.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+[[es:Alex Hart]]
+[[fr:Alex Hart]]
+[[zh:亚历克斯·哈特]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

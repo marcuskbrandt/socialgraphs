@@ -1,0 +1,33 @@
+{{South Park character
+|name = Officer Adams
+|image = Officer Adams.png
+|aliases = Mitchell Adams
+|gender = Male
+|race = Caucasian
+|hair = Light Brown
+|job = Police Officer
+|appearance = "[[The China Probrem]]"
+}}
+'''Mitchell Adams''', or '''Officer Adams''', is a police officer in [[Park County Police Station]]. He first appears in [[Season Twelve]] episode "[[The China Probrem]]".
+
+==Appearance==
+Officer Adams wears the standard police uniform. He has light brown hair and features a protruding chin.
+
+==Prominence==
+*"[[The China Probrem]]" - Involved in a standoff at [[P.F. Chang's]].
+*"[[A Nightmare on Face Time]]" - Seen arresting [[The Redbox Killers]].
+*"[[HappyHolograms|#HappyHolograms]]" - Reported to [[Harrison Yates]] that he had arrested and attempted to choke [[Michael Jackson Hologram]]. His named was revealed to be "Mitchell Adams".
+
+==''[[South Park: The Fractured But Whole]]''==
+Officer Adams is one of several police officers that are fought during [[The Thin White Line]] mission.
+
+===Abilities===
+*'''Taser''' - Fires a taser gun. Inflicts Shocked status.
+*'''Pepper Spray''' - Delivers a dose of pepper spray. Inflicts Grossed Out status.
+
+[[zh:亚当斯警官]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Police officers]]

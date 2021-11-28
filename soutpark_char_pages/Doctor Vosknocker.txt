@@ -1,0 +1,26 @@
+{{South Park character
+|name = Doctor Vosknocker
+|image = Dr-vosknocker.png
+|gender = Male
+|hair = Grey
+|job = Scientist
+|voice = [[Wikipedia:Eric Idle|Eric Idle]]<ref>{{cite web|url=http://www.imdb.com/title/tt0158983/|title=South Park: Bigger Longer & Uncut (1999)|publisher=IMDb.com}}</ref>
+|appearance = ''[[South Park: Bigger, Longer & Uncut]]''
+}}
+'''Doctor Vosknocker''' appears in ''[[South Park: Bigger, Longer & Uncut]]'' and was voiced by "[[Monty Python]]" star [[Eric Idle]]. He introduced the [[V-Chip]] and implants it into [[Eric Cartman|Cartman's]] head to stop him from swearing. His name deliberately sounds like Balls Knocker.
+
+==Appearance==
+Doctor Vosknocker wears a white suit with a white shirt and a red bow tie. He has mad scientist-like hair, gray poofy hair on the sides of his head and bald on the top. He has gray eyebrows and a gray mustache that is parted in a similar way to his hair. He wears glasses that have rectangular frames with rounded corners and has a blue pocket protector with several pens in it. He has wrinkles on his cheeks and forehead.
+
+==References==
+{{reflist}}
+
+{{Minor Characters Movie}}
+[[zh:沃斯诺克博士]]
+[[Category:Characters]]
+[[Category:South Park: Bigger, Longer & Uncut]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Elderly people]]
+[[Category:Medics]]

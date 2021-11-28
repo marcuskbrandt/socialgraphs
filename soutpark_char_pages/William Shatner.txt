@@ -1,0 +1,42 @@
+{{South Park character
+|image = WilliamShatner.jpg
+|name = William Shatner
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1931|03|22}}
+|dob = March 22, 1931
+|job = Actor, Musician, Novelist, Spokesman
+|religion = Judaism
+|voice = [[Matt Stone]]
+|wikipedia = [[Wikipedia:William Shatner|William Shatner]]
+|appearance = "[[Spookyfish]]"
+}}{{LinkDisambig|William (Disambiguation)}}
+'''William Shatner''' is an actor most famous for his role as Captain Kirk on ''[[Star Trek]]''. He is first referenced in the [[Season Two]] episode, "[[Spookyfish]]", and later appears on ''[[Family Guy]]'' in the [[Season Ten]] episode, "[[Cartoon Wars Part I]]".
+
+==Background==
+In "[[Spookyfish]]", Shatner's photo is shown to [[Sharon Marsh]] by [[Officer Barbrady]] while searching for missing people. Shatner appears as Captain Kirk in "[[Cartoon Wars Part I]]", on ''[[Family Guy]]'', as Peter Griffin tries to sell him pancakes. Instead, the two dressed as Captain and Tenille and sang "[[Love Will Keep Us Together]]".
+
+==Appearance==
+In "[[Spookyfish]]", Shatner is seen in a real-life picture of him, where he appears to be shirtless. In "[[Cartoon Wars Part I]]", he appears in a yellow Star Trek shirt and black pants.
+
+<gallery widths="120" captionalign="left" caption="Images of William Shatner">
+Shatner.JPG|William Shatner, as seen in "[[Cartoon Wars Part I]]".
+</gallery>
+
+==Personality==
+He enjoys singing, as he sings "Love Will Keep Us Together" with Peter Griffin, in "[[Cartoon Wars Part I]]".
+
+{{MovieCelebrities}}
+[[es:William Shatner]]
+[[zh:威廉·夏特纳]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Mentioned-only characters]]
+[[Category:Canadians]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Adult characters]]
+[[Category:Jewish characters]]
+[[Category:Realistic characters]]
+[[Category:Movie celebrities]]

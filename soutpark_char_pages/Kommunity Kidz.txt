@@ -1,0 +1,31 @@
+{{Group
+|name = Kommunity Kidz
+|image = Groups-kommunity-kidz.png
+|type = Elderly Care
+|gender = Male
+|age = 9-10
+|grade = [[The 4th Grade|4th Grade]]
+|member1 = [[Stan Marsh]]
+|member2 = [[Kyle Broflovski]]
+|member3 = [[Kenny McCormick]]
+|member4 = [[Eric Cartman]]
+|first = "[[South ParQ Vaccination Special]]"
+|times = 1
+}}
+'''Kommunity Kidz''' is an elderly care group formed by [[the boys]] in the [[Season Twenty-Four]] episode "[[South ParQ Vaccination Special]]".
+
+While the group claims to be assisting elderly people who need help in getting to their vaccination locations, their true purpose is to steal [[COVID-19 Vaccine|vaccines]] for [[Margaret Nelson]].
+
+==Background==
+Following a prank on Mrs. Nelson from the boys, the fourth grade teacher decides that she can not go with teaching anymore, and is replaced by [[Herbert Garrison|Mr. Garrison]]. The boys then seek advice from [[Mr. Mackey]] on getting Mrs. Nelson to return to teaching. Mackey tells the boys that they need to steal vaccines from [[Walgreens]] and bring them to the teachers.
+
+The boys come up with a plan to show up outside Walgreens dressed up as healthcare workers and accompanying a [[Elderly Woman in Wheelchair|wheelchair-bound elderly woman]]. Claiming to be "Kommunity Kidz with a K", and they are admitted into the supermarket. Their plan takes a downturn however when the elderly woman claims to have forgotten that she had been paid for her role, demanding payment from the boys once again. She ultimately reveals the truth to [[Walgreens Pharmacist|the pharmacist]] attending to them. Realizing that their cover has been blown, the boys resort to kicking the pharmacist and stealing the vaccines before making their escape. This incident is later reported on by news reporter [[Bill Keegan|Chris]], glorifying the boys for their act.
+
+Following disputes over the use of vaccines, Cartman declares that they are no longer bros, with Chris reporting the breakup of "Kommunity Kidz" and blaming it on the [[Tom (Newsman)|anchorman]].
+
+{{Minor Characters from Season Twenty-Four}}
+[[ja:コミュニティーキッズ]]
+[[zh:社区好少年]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Groups]]

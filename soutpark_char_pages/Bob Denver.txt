@@ -1,0 +1,34 @@
+{{South Park character
+|name = Bob Denver
+|image = Bob-denver.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = 70 (deceased)
+|dob = January 9, 1935
+|died = September 2, 2005
+|job = Actor
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766090/fullcredits?ref_=tt_cl_sm#cast|title="South Park" The Mexican Staring Frog of Southern Sri Lanka (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Bob Denver|Bob Denver]]
+|appearance = "[[The Mexican Staring Frog of Southern Sri Lanka]]"
+}}
+'''Robert Osbourne Denver''' was an American actor who appeared in [[Season Two]] episode "[[The Mexican Staring Frog of Southern Sri Lanka]]".
+
+== Background ==
+Bob Denver was invited to be a guest in the [[Jesus and Pals]] talk show. However, the conversation with [[Jesus Christ|Jesus]] was short and dull, with Bob Denver saying that he just got into town and had not done anything else.
+
+== Appearance ==
+Bob Denver has short gray hair and several freckles and wrinkles on his face. He wears a white hat, red long-sleeved shirt, blue pants and white shoes.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Two}}
+[[zh:鲍勃·丹佛]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,26 @@
+{{South Park character
+|name = ''Lava and You'' Narrator
+|image = Lava and You narrator.png
+|gender = Male
+|job = Host for ''[[Lava and You]]''
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705981/fullcredits?ref_=tt_cl_sm|title="South Park" Volcano (TV Episode 1997)|publisher=IMDb.com}}</ref>
+|appearance = "[[Volcano]]"
+}}
+The '''''[[Lava and You]]'' Narrator''' appears in the [[Season One]] episode, "[[Volcano]]".
+
+==Background==
+A safety video on volcano is shown to the South Park townsfolk, who are attempting to rescue [[The Boys]], [[Jimbo Kern|Jimbo]], and [[Ned Gerblanski|Ned]] from an erupting volcano. In the video, the narrator explains the "duck and cover" procedure, using the [[Stevens Family ("Volcano")|Stevens Family]] as an example of how one can protect themselves from lava.
+
+==Appearance==
+The narrator has a neatly combed hair, cand wears a suit with white shirt and tie, as well as a pair of square-framed glasses.
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''Lava and You'' Narrator}}
+[[zh:《岩浆与你》主持人]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]

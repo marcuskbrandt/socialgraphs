@@ -1,0 +1,25 @@
+{{South Park character
+|name = Louis C.K.
+|image = Louis CK.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1967|9|12}}
+|dob = September 12, 1967
+|job = Actor, Comedian
+|wikipedia = [[Wikipedia:Louis C.K.|Louis C.K.]]
+|appearance = "[[Funnybot]]"
+}}
+'''Louis Székely''', better known by his stage name '''Louis C.K.''', is an American stand-up comedian that appears in [[Season Fifteen]] episode "[[Funnybot]]".
+
+==Background==
+Louis C.K. was one of several comedians who witnessed the burial of [[Tyler Perry]] towards the end of the episode.
+
+==Appearance==
+Louis C.K. has balding brown hair and beard. He wears a black T-shirt, blue pants and black shoes.
+
+[[zh:路易·C·K]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]

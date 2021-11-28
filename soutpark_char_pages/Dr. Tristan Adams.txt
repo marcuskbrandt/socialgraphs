@@ -1,0 +1,35 @@
+{{South Park character
+|name = Dr. Tristan Adams
+|image = Tristan-adams.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = Planetarium Owner
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766086/|title="South Park" Roger Ebert Should Lay off the Fatty Foods (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Roger Ebert Should Lay off the Fatty Foods]]"
+}}
+'''Dr. Tristan Adams''' is the owner of the [[Tantalus V. Observatory]]. He appears in the [[Season Two]] episode, "[[Roger Ebert Should Lay off the Fatty Foods]]" as the main antagonist.
+
+==Background==
+In "[[Roger Ebert Should Lay off the Fatty Foods]]", Dr. Adams uses his "star machine" to hypnotize people into loving and volunteering for the planetarium.
+
+He almost got away with it, but [[Eric Cartman]], pissed off, breaks the machine, resulting in Dr. Adams getting a full dose of the "stars". With no one to tell him what to do, his mind was erased. Due to a bone disease, he cannot pronounce the "t" in "planetarium".
+
+==Appearance==
+Dr. Adams has many wrinkles in his face and is balding. He wears the standard uniform at the planetarium: A black shirt with a light blue v-neck shirt with a dark cloud and sun on it.
+
+==Trivia==
+*Dr. Tristan Adams is a parody of psychologist and director of the Tantalus Penal Colony in the ''Star Trek: The Original Series (1966-1969)'' season one episode Ten "Dagger of the Mind".<ref>{{cite web|url=http://en.memory-alpha.org/wiki/Dagger_of_the_Mind_(episode)|title="Dagger of the Mind"|publisher=Memory Alpha, Star Trek Wiki}}</ref>
+*In the 1999 [[South Park (Video Game)|South Park video game]], entering the cheat "PLANEARIUM" unlocks a "pen and ink mode", which drastically alters the game's graphics.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Two}}
+[[zh:特里斯坦·亚当斯博士]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Deceased characters]]
+[[Category:Criminals]]

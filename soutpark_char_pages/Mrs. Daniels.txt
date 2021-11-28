@@ -1,0 +1,49 @@
+{{South Park character
+|name = Mrs. Daniels
+|image = Mrs-daniels.png
+|gender = Female
+|race = African-American
+|hair = Black
+|voice = [[Mona Marshall]]<ref>{{cite web|url=http://www.imdb.com/title/tt2128148/|title="South Park" Cartman Finds Love (TV Episode 2012) - IMDb|publisher=IMDb.com}}</ref>
+|relation1 = Husband
+|relativename1 = [[William Daniels]]
+|relation2 = Daughter
+|relativename2 = [[Nichole Daniels]]
+|appearance = "[[Cartman Finds Love]]"
+}}
+'''Mrs. Daniels''' is [[Nichole Daniels|Nichole]]'s mother and she first appears in the [[Season Sixteen]] episode, "[[Cartman Finds Love]]".
+
+==Background==
+In "[[Cartman Finds Love]]", Nichole and her family are eating dinner when her father brings up that Nichole has a boyfriend, [[Token Black]]. After her father teases her for dating the only other African American student, Mrs. Daniels supports Nichole and is very happy for her. 
+
+==Appearance==
+Mrs. Daniels wears black shoes, a red v-neck dress, and a light-yellow shirt. She has long, black hair and wears a gold necklace and maroon lipstick. She is slightly overweight.
+
+Her hair has been largely trimmed since "[[The Pandemic Special]]".
+
+<gallery widths="160" caption="Images of Mrs. Daniels">
+CartmanFindsLove047.png|Mrs. Daniels and her family eating dinner.
+SPPDS52.png|Mrs. Daniels in a zoom conference with Mr. Mackey and oher parents
+</gallery>
+
+==Prominence==
+*"[[Cartman Finds Love]]" - Seen with her  family eating dinner at her home.
+*"[[Member Berries]]" - Seen watching the football game.
+*"[[Splatty Tomato]]" - Seen at the end of the episode in the crowd.
+*"[[Turd Burglars]]" - Seen at the women's meeting at [[Park County Community Center]].
+*"[[The Pandemic Special]]" - Appeared in a Zoom conference with [[Mr. Mackey]] and other parents.
+
+==References==
+{{Reflist}}
+[[zh:丹尼尔斯太太]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Parents]]
+[[Category:Minority characters]]
+[[Category:African-American characters]]
+[[Category:Characters voiced by Mona Marshall]]
+[[Category:Minor characters]]
+[[Category:Townsfolk]]
+[[Category:Characters in a relationship]]
+[[Category:Overweight characters]]

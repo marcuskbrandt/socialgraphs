@@ -1,0 +1,34 @@
+{{South Park character
+|name = Charlie Rose
+|image = Charlie-rose.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{Age|1942|1|5}}
+|dob = January 5, 1942
+|job = Former talk show host
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766092/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Timmy 2000 (TV episode 2000)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Charlie Rose|Charlie Rose]]
+|appearance = "[[Timmy 2000]]"
+}}
+{{LinkDisambig|Charlie (Disambiguation)}}
+'''Charles Peete Rose Jr.''' is an American journalist and former talk show host. He appears in [[Season Four]] episode, "[[Timmy 2000]]".
+
+==Background==
+In [[The Charlie Rose Show]], the titular host reports on the growing popularity of [[The Lords of the Underworld]] band, and that they were planning a performance in the [[Lalapalalapaza]] event, opening for [[Phil Collins]]. Phil Collins however, was not satisfied with the presence of [[Timmy Burch]] in the band, thinking that Timmy is only being ridiculed.
+
+Charlie Rose appeared again in "[[A Scause For Applause]]", where he interviews [[Stan Marsh]] who had kept his "What Would Jesus Do" wristband despite allegations of [[Jesus Christ]] using [[Human Growth Hormone (HGH)|HGH]] during his crucifixion. Charlie Rose would also take the discussion to Chris Martin and the [[Retarded Fish]].
+
+==Appearance==
+Charlie Rose has brown hair with gray highlights, and has a protruding chin. He wears a blue suit with red tie, black pants, and black shoes.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+
+[[zh:查理·罗斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,43 @@
+{{South Park character
+|name = John and Patricia Ramsey
+|image = John-and-patricia-ramsey copy.png
+|gender = '''John:''' Male<br>'''Patricia:''' Female
+|hair = '''John:''' Brown, gray <br> '''Patricia:''' Brown
+|dob = '''John:''' December 7, 1943 <br> '''Patricia:''' December 29, 1956
+|died = '''Patricia:''' June 24, 2006
+|age = '''John:''' {{age|1943|12|7}}<br>'''Patricia:''' 49 (deceased)
+|job = '''John:''' Founder of the ''Advanced Product Group''
+|voice = '''John:''' [[Matt Stone]]<ref name="IMDb">{{Cite web|url=https://www.imdb.com/title/tt0705899/|title="South Park" Butters' Very Own Episode (TV Episode 2001)|publisher=IMDb.com}}</ref><br>'''Patricia:''' [[Trey Parker]]<ref name="IMDb"/>
+|relation1 = Daughter
+|relativename1 = [[JonBenét Ramsey]]
+|appearance = "[[Butters' Very Own Episode]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John and Patricia Ramsey''' appeared in "[[Butters' Very Own Episode]]" in which they join [[Butters Stotch|Butters]]' parents in searching for [[Some Puerto Rican Guy]], who allegedly kidnapped or killed their respective children.
+
+==Appearance==
+===John===
+John has brown, graying hair, as well as several facial wrinkles. He wears a blue suit, white shirt, and striped, green tie.
+
+===Patricia===
+Patricia had brown hair. She wore a white-trimmed, black coat, white undershirt, and black pants.
+<gallery widths="160" captionalign="left" caption="Images of John and Patricia Ramsey">
+ButtersVeryOwnEpisode057.png|John and Patricia meeting with Butters' parents.
+ButtersVeryOwnEpisode066.png|John and Patricia, along with O.J. Simpson and Gary Condit, attempts to initiate Butters' parents into their support group.
+</gallery>
+
+==Personality==
+They both appear to be mentally unstable, as it is heavily implied that they were behind the murder of their daughter, not "Some Puerto Rican Guy".
+
+==References==
+{{Reflist}}
+
+{{CriminalCelebrities}}
+{{Minor Characters from Season Five}}
+[[ru:Джон и Патрисия Рэмси]]
+[[Category:Celebrities]]
+[[Category:Deceased characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Female characters]]
+[[Category:One-off characters]]
+[[Category:Criminal celebrities]]

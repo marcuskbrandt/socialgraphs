@@ -1,0 +1,37 @@
+{{South Park character
+|name = Mr. and Mrs. Drordy
+|image = Mr-and-mrs-drordy.png
+|gender = '''Mr. Drordy:''' Male <br> '''Mrs. Drordy:''' Female
+|hair = '''Mr. Drordy:''' Brown <br> '''Mrs. Drordy:''' Light Brown
+|voice = '''Mr. Drordy:''' [[Trey Parker]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt1633052/|title="South Park" You Have 0 Friends (TV episode 2010)|publisher=IMDb.com}}</ref> <br> '''Mrs. Drordy:''' [[April Stewart]]<ref name=imdb />
+|relation1 = Son
+|relativename1 = [[Kip Drordy]]
+|appearance = "[[You Have 0 Friends]]"
+}}
+'''Mr. and Mrs. Drordy''' are the parents of [[Kip Drordy]] who appear in the [[Season Fourteen]] episode "[[You Have 0 Friends]]".
+
+==Background==
+Mr. and Mrs. Drordy are seen at the kitchen table when Kip tells them that he made a friend on [[Facebook]], that friend being [[Kyle Broflovski]]. They congratulate him on finally getting his first Facebook friend. They are seen again later when Kip tells them what he has been doing with Kyle all day.
+
+==Appearance==
+Mr. Drordy has balding brown hair and brown eyebrows. He wears a light blue collared shirt, a brown tie, a black belt, black pants, and black shoes.
+
+Mrs. Drordy has light brown curly hair and small light brown eyebrows. She wears a sky blue shirt with white borders, light brown pants, black shoes, pink lipstick, and small earrings on both ears.
+
+==Family==
+===[[Kip Drordy]]===
+Kip Drordy is Mr. and Mrs. Drordy's son. They appear to be very proud of him for making his first Facebook friend, though it is unknown whether they are aware that he isn't physically hanging out with Kyle or not.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Fourteen}}
+[[zh:卓迪先生和太太]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by April Stewart]]
+[[Category:Parents]]
+[[Category:Townsfolk]]

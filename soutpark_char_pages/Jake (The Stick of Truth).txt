@@ -1,0 +1,40 @@
+{{South_Park_character
+|name = Jake
+|image = Jake-stick-of-truth.png
+|gender = Male
+|hair = Brown
+|age = 10-11
+|job = Student
+|grade = 5th Grade
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+:''For the 4th grader, see [[Jake]].''
+'''Jake''' is [[Monica Ryland]]'s boyfriend who appears only as a Boss in ''[[South Park: The Stick of Truth]]''.
+
+==Background==
+[[Bebe]] thinks Monica was a two-faced bitch so she had [[The New Kid|New Kid]] pretend to be her long-distance boyfriend to see if Monica hits on him. As New Kid talks to Monica, immediately Bebe and the other girls show up and bring Jake. He will attack New Kid for thinking he has done something bad for Monica, but is easily defeated. During the fight Jake is called "Monica's Boyfriend".
+
+==Appearance==
+Jake wears a white shirt under a blue jacket with a drawing of a soccer ball on the right side with two white stripes underneath, black shorts with white stripes and black shoes. Jake has brown hair and is bigger than a 4th grader.
+
+<gallery caption="Images of Jake" spacing="small" widths="160">
+Jake1.png|Jake about to attack New Kid.
+Jake2.png|
+Jake facebook profile.png|Jake's unused friend icon.
+</gallery>
+
+==Trivia==
+*A friend icon of Jake can be found in the game files indicating that instead of attacking New Kid he would befriend him on Facebook. Jake's appearance on the icon is slightly different from his appearance in the game.
+*He is in 5th Grade, since in the game files his model is classified as a 5th Grader.
+*Jake's voice is very similar to [[Hallway Monitor Boss]]'s voice.
+[[zh:杰克（真理之杖）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters in a relationship]]
+[[Category:5th graders]]
+[[Category:Bullies]]
+[[Category:Video Game Exclusive characters]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:The Stick of Truth: Bosses]]

@@ -1,0 +1,26 @@
+{{South Park character
+|name = IRS Agents
+|image = IRS Agents.png
+|gender = Male
+|job = IRS Workers
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705906/|title="South Park" Cartmanland (TV Episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[Cartmanland]]"
+}}
+The '''IRS Agents''' are representatives of the Internal Revenue Service who appear in [[Season Five]] episode "[[Cartmanland]]".
+
+==Background==
+[[Eric Cartman]] spent his inherited money of one million dollars to buy [[North Park Funland]] and kept everyone else out of the park. However, as more people were allowed into the park, the crowd had recovered back to how it was before. Cartman decided to sell the park back to [[Frank Fun]], but later met with the IRS agents who seized all of the money, informing Cartman that he now has a debt of $13,000.
+
+==Appearance==
+The agents wear brown working suits with white shirt and black ties.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Five}}
+[[zh:国家税务局]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]

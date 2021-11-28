@@ -1,0 +1,31 @@
+{{Group
+|name = 24-Hour Clerks
+|image = 24-hour-clerks.png
+|job = Convenience Store Workers
+|gender = Male
+|member1 = Asian Clerk (deceased)
+|member2 = White Clerk
+|voice2 = [[Trey Parker]]
+|first = "[[With Apologies to Jesse Jackson]]"
+}}
+The '''24-Hour Clerks''' are convenience store workers who first appeared in [[Season Eleven]] episode, "[[With Apologies to Jesse Jackson]]".
+
+They are first employed in [[Day Time 24 Night Time]], and later in [[Kum & Go]] since "[[A Nightmare on Face Time]]".
+
+==Appearance==
+The clerks wear red collared shirts as uniforms. It bears the Day Time 24 Night Time logo on the right chest, even after moving to Kum & Go.
+
+==Prominence==
+*"[[With Apologies to Jesse Jackson]]" - The store clerks turn [[Randy Marsh]] away from the store, saying that he is not welcomed.
+*"[[Faith Hilling]]" - The Asian clerk sells a copy of the Denver Post to [[the boys]].
+*"[[A Nightmare on Face Time]]" - The Asian clerk was shot dead by [[The Redbox Killers]] following a robbery attempt.
+*"[[Mexican Joker]]" - [[Eric Cartman]] speaks to the white clerk about the problems his generation has inherited.
+
+==Trivia==
+*A man who looks similar to the Asian clerk appears in "[[Le Petit Tourette]]", where he shoots himself upon seeing [[Chris Hansen]] on the latter's talk show set.
+
+[[zh:24小时超市员工]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]

@@ -1,0 +1,92 @@
+{{South Park character
+|name = Dave Bartles
+|image = 5th-8th-graders-davey-0.png
+|gender = Male
+|hair = Light brown
+|age = 11-12
+|job = Student
+|grade = [[The 6th Graders|6th grade]]
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705949/|title="South Park" Pre-School (TV episode 2004)|publisher=IMDb.com}}</ref>
+|appearance = "[[Clubhouses]]"
+}}
+'''Dave Bartles''' is a [[The 6th Graders|6th grade]] boy who attends [[South Park Elementary]]. Although appearing in the show many times, he was unnamed until the [[Season Twelve]] episode, "[[Britney's New Look]]", where he was referred to as "Dave". He was later revealed to be known as "Bartles" in ''[[South Park: The Fractured But Whole]]''.
+
+==Appearance==
+He has large ears and light-brown messy hair. He wears an orange and blue striped shirt and blue jeans. He can be seen riding a yellow bicycle.
+<gallery widths="156" position="center" caption="Images of Bartles" spacing="small">
+SPBNL12.jpg|Bartles is called "Dave" by his mother.
+</gallery>
+
+==Prominence==
+*"[[Clubhouses]]" - Seen at [[Eric Cartman|Cartman]]'s party.
+*"[[Chef Aid]]" - Seen in the crowd.
+*"[[Timmy 2000]]" - Seen in the crowd.
+*"[[Fourth Grade]]" - He and his two friends push [[the boys]] at the beginning of the episode.
+*"[[The Wacky Molestation Adventure]]" - Seen with the other kids.
+*"[[Scott Tenorman Must Die]]" - Appears watching Cartman's video.
+*"[[The Entity]]"
+*"[[Toilet Paper]]" - Seen in detention.
+*"[[Fat Butt and Pancake Head]]" - Seen watching [[Kyle Broflovski|Kyle]]'s presentation.
+*"[[Pre-School]]" - Seen with the other 6th graders.
+*"[[Two Days Before the Day After Tomorrow]]" - Seen in the [[South Park Elementary Cafeteria|cafeteria]].
+*"[[Britney's New Look]]" - Named "Davy" by his mother when handed a camera.
+*"[[Breast Cancer Show Ever]]" - Watches Eric and [[Wendy Testaburger|Wendy]]'s fight.
+*"[[Elementary School Musical]]" - Seen singing with the other students.
+*"[[Butters' Bottom Bitch]]" - Seen in the [[South Park Elementary Playground|school's playground]].
+*"[[City Sushi]]" - Seen at the school assembly.
+*"[[Cash For Gold]]" - Seen in the background on the playground.
+*"[[Jewpacabra]]" - Seen in the Easter egg hunt.
+*"[[Butterballs]]" - Seen at the school assembly.
+*"[[You're Not Yelping]]" - Seen having lunch with his father at [[Whistlin' Willy's]].
+*"[[Hummels & Heroin]]" - Seen watching [[Marcus Preston]]'s speech.
+*"[[SUPER HARD PCness]]" - Seen at the [[South Park Elementary Gymnasium|gym]] during the bombing of [[Canada]].
+*"[[Buddha Box]]" - Seen in the playground.
+*"[[Bike Parade]]" - Appears at the end of the episode.
+
+==''[[South Park: The Fractured But Whole]]''==
+While on the way to [[Tucker Residence|Super Craig's house]], [[The New Kid]] will encounter Bartles bullying [[Peter Mullen]] and intervenes.
+
+===Abilities===
+{{TFBW Enemy Abilities
+|Name = Bartles
+|Image = Tb 6thgrader bartles.png
+|Health = 180
+|Move = 1
+|Immunities = None
+|AbilityImage1 = 6thgrader_wetwillie.png
+|Ability1 = Wet Willy
+|Description1 = Inserts a wet finger into the New Kid's ear.
+|RangeDesc1 = Bartles will stand next to the New Kid or Human Kite and attack
+|Range1 = Melee.png
+|Effect1 = 8 Damage
+|Status1 = None
+|AbilityImage2 = 6thgrader_tittytwister.png
+|Ability2 = Titty Twister
+|Description2 = Twist the New Kid's nipples.
+|RangeDesc2 = Bartles will stand next to the New Kid or Human Kite and attack
+|Range2 = Melee.png
+|Effect2 = 8 Damage
+|Status2 = None
+|AbilityImage3 = 6thgrader_charliehorse.png
+|Ability3 = Haymaker
+|Description3 = Punches an enemy next to him.
+|RangeDesc3 = Bartles will stand next to the New Kid or Human Kite and attack
+|Range3 = Melee.png
+|Effect3 = 8 Damage
+|Status3 = None
+}}
+
+==References==
+{{reflist}}
+{{South Park Children}}
+[[fr:Bartles]]
+[[zh:巴特莱斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Bullies]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:School children]]
+[[Category:6th graders]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]

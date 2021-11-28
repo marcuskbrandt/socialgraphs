@@ -1,0 +1,157 @@
+{{CharTab|quotes=yes|tabbers=2}}
+{{South Park character
+|name = Michael Jackson
+|image = <gallery>
+Michael-jackson.png|Current
+Michael-jackson (1).png|Hologram
+Identities-martin-jefferson.png|Martin Jefferson
+Jefferson.png|Decaying
+</gallery>
+|aliases = Martin Jefferson <br/> "Corey Haim"
+|gender = Male
+|race = African-American
+|hair = Black
+|age = 50 {{s|(deceased)}}
+|dob = August 29, 1958
+|died = June 25, 2009 (Revived)
+Between "[[200]]" and "[[REHASH|#REHASH]]"
+|job = Former Singer, Musician
+|religion = Jehovah's Witness (formerly)
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705970/|title="South Park" The Jeffersons (TV episode 2004)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Michael Jackson|Michael Jackson]]
+|appearance = "[[Krazy Kripples]]" {{s|(mentioned only)}}<br/> "[[The Jeffersons]]" {{s|(physically)}}
+|relation1 = Son
+|relativename1 = [[Blanket Jackson]]
+}}
+{{LinkDisambig|Michael (Disambiguation)}}
+'''Michael Joseph Jackson''' was an American singer who made his first appearance in "[[The Jeffersons]]", where he was referred to as '''Martin Jefferson'''. After his death in 2009, he made three more appearances: in "[[Dead Celebrities]]", which mainly focuses on his and other celebrities' deaths; in "[[200]]", where he is seen among the crowd of celebrities suing [[South Park (Location)|South Park]]; and in "[[REHASH|#REHASH]]", as a hologram. Michael also appears as a boss in the ''[[South Park: The Fractured But Whole]]'' DLC ''[[From Dusk till Casa Bonita]]'' under the name "Corey Haim".
+
+In real-life, Michael Jackson was a famous singer, dancer, and songwriter. He was most notable for being a dominant figure in popular music with songs like "Billie Jean", "Beat It", "Thriller", and many others. However, Jackson was also infamously known for being accused of pedophilia and being charged with child molestation crimes in the 1990s and 2000s. ''South Park'' mocks Jackson for these charges, as well as his childlike persona and addiction to plastic surgery. 
+
+==Background==
+In "[[The Jeffersons]]", after years of being targeted by the police, Jackson moves to [[South Park (Location)|South Park]] into what is said to be "The Donovans' Old Residence" with his son, [[Blanket Jackson]]. Michael hopes that he can escape the police's constant attempts at framing him for child molestation. When Blanket makes friends with [[the boys]], Jackson quickly steals them for himself, in his continued attempts at regaining his lost childhood, often at the neglect of his own son. Jackson is quickly targeted by the [[Park County Police Force]], upon discovering that a rich black man had moved to town.
+
+His new home in South Park is similar to his Neverland Ranch, as he has various expensive things including a cotton candy machine, arcade games, an amusement park, a train that children can ride, and even a small zoo in his backyard. He seems most fond however of his 'wishing tree' in which he climbs into and sings.
+
+==Personality==
+[[File:Jefferson (6).png||thumb|180px|Michael swinging with [[Bebe Stevens|Bebe]].]]
+Though talented, he is extremely childish, irresponsible, and delusional, playing with various children's toys, living in a fantasy world as well as neglecting his parental responsibilities in "[[The Jeffersons]]". He also saw no problem with sleeping in the same bed as young children that were not his children, despite the obvious inappropriate nature of such a situation. He also refused to accept his death in "[[Dead Celebrities]]", even going as far as to possess [[Ike Broflovski]] in order to participate in a little girls' talent show.
+
+===Death===
+In "[[Dead Celebrities]]", Michael refuses to accept his death, causing himself and other celebrities who died during [[Season Thirteen]] to be trapped in [[Purgatory]]. Michael Jackson then possessed [[Ike Broflovski]], so the boys had to help him live his dream of being a little white girl in order to banish his ghost from Ike's body. After Michael Jackson won a beauty pageant, in Ike's body, he accepted his death. He and the other celebrities were able to leave purgatory. Michael Jackson presumably now resides in [[Hell]]. He, however, was shown in the crowd of angry celebrities in "[[200]]". It is likely he returned to Earth, as people are able to return to Earth from Hell, as shown in "[[Hell on Earth 2006]]".
+
+{{clear}}
+
+==Appearance==
+[[File:Michael Jackson in Purgatory.png|thumb|left|150px|Michael Jackson at the end of "[[Dead Celebrities]]".]]
+Michael has pale white skin (medium brown skin as a child, teenager, and young adult) and black hair. He wears a white t-shirt and red trousers. He also wears a white glove on his left hand. He has unique circle-shaped eyes instead of oval-shaped eyes that of a typical ''South Park'' character.
+
+In the episode "[[The Jeffersons]]", he sports a fake mustache (so no one can realize that he is Michael Jackson). Towards the end of the episode, however, Jackson's appearance begins to become mutilated, as his face begins to fall apart and melt, causing him to become skeletal and zombie-like. He goes on to wear the red jumpsuit from his music video "Thriller."
+
+At the end of "[[Dead Celebrities]]", he is shown wearing the formal outfit he wore during the 1984 Grammy Awards.
+
+{{clrl}}
+
+==''[[South Park: The Fractured But Whole]]''==
+Michael appears in ''[[From Dusk till Casa Bonita]]'', where he is known as "Corey Haim". Upon appearing from the portal conjured by [[Mr. Adams|Master Vampire Adams]], he proceeds to grab [[Karen McCormick|Karen]] and dive down the cliff waterfall inside [[Casa Bonita (Location)|Casa Bonita]], forcing [[the New Kid]] to give chase by diving down the cliff as well.
+
+Corey is then seen later at the ground-level dining floor after The New Kid emerges from the wishing well inside Casa Bonita, engaging The New Kid, [[Henrietta Biggle|Henrietta]], [[The Coon (Character)|The Coon]] and [[Mysterion]] into combat. After being defeated, he is then sucked back into the portal previously conjured by Master Vampire Adams, never to be seen again.
+
+===Abilities===
+====State 1====
+In this state, Corey Haim moves around within two squares of the battle grid, is free to attack and has three different moves.
+*'''MoonRush''' - Executes a moonwalk-style attack
+**Range: 5 tiles in a row
+**Damage: Moderate
+**Status Effect: None
+
+*'''EO Blast''' - Spin and damage all adjacent enemies
+**Range: Four tiles next to him
+**Damage: Moderate
+**Status Effect: None
+*'''Thrilling Touch''' - Performs a series of dance moves that revives fallen Kinder Vamps and damage others. A telegraphed power.
+**Range: 4 by 4 tiles in the combat grid
+**Damage: High
+**Status Effect: Revives all Vampire Swarmers in Range, also provides protection.
+
+====State 2====
+After his health is less than 50%, Corey Haim will possess Karen, and use her as a method to deliver a more powerful version of Thrilling Touch. However, he will no longer launch any offensive attacks.
+*'''Thrilling Touch''' - Performs a series of dance moves that revives fallen Kinder Vamps.
+**Range: 4x6 tiles in the combat grid
+**Damage: None
+**Status Effect: Revives all Vampire Swarmers in Range, also provides protection.
+
+==Gallery==
+<tabber>South Park=
+<gallery widths="160" spacing="small">
+Jefferson (1).png|Michael throwing [[Kenny McCormick]], who was disguised as [[Blanket Jackson|Blanket]].
+Jefferson (2).png|Michael riding his toy train.
+Jefferson (4).png|Michael talking to [[Blanket Jackson]] and [[the boys]].
+Jefferson (5).png|Michael singing in his "wishing tree".
+Jefferson (7).png|Michael at his cotton candy machine.
+Jefferson (8).png|Michael and Cartman singing together.
+Jefferson (9).png|Michael and most of [[The 4th Grade|the 4th grade]] populace playing in his backyard.
+Jefferson (10).png|[[Gerald Broflovski]] talking to Michael.
+Jefferson (11).png|Michael in Stan's room, dressed as Peter Pan.
+Jefferson (15).png|Michael talking to [[the boys]] through his window.
+Jefferson (17).png|Michael playing "got your nose" with [[Blanket Jackson|Blanket]].
+Jefferson (20).png|Michael chasing [[Stan Marsh]], [[Kyle Broflovski]], and [[Blanket Jackson]].
+Jefferson (24).png|Michael realizing he was wrong to neglect Blanket.
+Jefferson (21).png|Michael singing with most of [[South Park (Location)|South Park]]'s populace.
+Michael_Izzy.png|Michael Hologram performing with [[Iggy Azalea]] on stage in "[[REHASH]]"
+MJaspeterpan.png|Michael Hologram as Peter Pan in the [[Washington Redskins: Go Fuck Yourself Holiday Special]] promo
+HappyHolograms00029.png|Michael Hologram talking with [[Randy Marsh|Randy]] and [[Sharon Marsh|Sharon]] in "[[HappyHolograms|#HappyHolograms]]"
+</gallery>
+|-|South Park: The Fractured But Whole=
+<gallery widths="160" spacing="small">
+CoreyHaim01.jpg|''"I'm coming! Weeehee! I'm here! Yay! Casa Bonita! Shamone!"''
+CoreyHaim02.jpg|Corey Haim jumps off the cliff while holding Karen.
+CoreyHaim03.jpg|Corey Haim preparing to engage in combat.
+CoreyHaim04.jpg|''"No one wants to be defeated! Shamone!"''
+CoreyHaim05.jpg|Corey Haim's battlefield platform.
+CoreyHaim06.jpg|Corey Haim starting his moves.
+CoreyHaim07.jpg|Corey Haim possessing Karen.
+CoreyHaim08.jpg|Corey Haim dancing
+CoreyHaim09.jpg|Moon Walk attack.
+CoreyHaim10.jpg|Ready to revive fallen Vamp Kids.
+CoreyHaim11.jpg|Corey Haim defeated.
+</gallery>
+</tabber>
+
+==Prominence==
+*"[[Krazy Kripples]]" - Named by Jimmy.
+*"[[The Jeffersons]]" - Moves to South Park.
+*"[[Tonsil Trouble]]" - Seen in a photograph in Magic Johnson's house.
+*"[[Dead Celebrities]]" - Appears as a ghost who possesses Ike.
+*"[[200]]" - He is shown in the crowd of angry celebrities.
+*"[[REHASH|#REHASH]]" - Appears as a hologram.
+*"[[HappyHolograms|#HappyHolograms]]" - Returns as a [[Michael Jackson Hologram|hologram]], and teams up with the [[Tupac Shakur Hologram]] to kill the [[Record Producer]].
+*"[[SUPER HARD PCness]]" (V.O.) - Believed to be the one who sings while Kyle changes his appearance.
+
+==Trivia==
+*Michael Jackson appears in a portrait in [[Magic Johnson]]'s home in "[[Tonsil Trouble]]".
+*Though he did not make an appearance, he and his child molestation accusations were mentioned by a [[Michael Jackson Fan|viewer]] on the [[Jesus and Pals]] show in "[[The Mexican Staring Frog of Southern Sri Lanka]]".
+
+==References==
+{{Reflist}}
+{{MusicCelebrities}}
+{{Minor Characters from Season Eight}}
+[[es:Michael Jackson]]
+[[zh:迈克尔·杰克逊]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Music celebrities]]
+[[Category:Male characters]]
+[[Category:Parents]]
+[[Category:African-American characters]]
+[[Category:Characters from Hell]]
+[[Category:200 and 201 celebrities]]
+[[Category:Adult characters]]
+[[Category:Ghosts]]
+[[Category:Minor characters]]
+[[Category:Deceased characters]]
+[[Category:Characters with deviations]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:The Fractured But Whole: Bosses]]

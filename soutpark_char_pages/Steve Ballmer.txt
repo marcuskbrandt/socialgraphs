@@ -1,0 +1,32 @@
+{{South Park character
+|name = Steve Ballmer
+|image = Business-steven-ballmer.png
+|gender = Male
+|race = Caucasian
+|hair = Balding, gray on the sides
+|age = {{age|1956|3|24}} (deceased)
+|dob = March 24, 1956
+|died = "[[A Song of Ass and Fire]]"
+|job = Former CEO of Microsoft
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt3237526/?ref_=fn_al_tt_1|title="South Park" A Song of Ass and Fire (TV episode 2013)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Steve Ballmer|Steve Ballmer]]
+|appearance = "[[A Song of Ass and Fire]]"
+|final = "[[A Song of Ass and Fire]]"
+}}{{LinkDisambig|Steve (Disambiguation)}}
+'''Steve Ballmer''' was the CEO of Microsoft in the [[Season Seventeen]] episode, "[[A Song of Ass and Fire]]".
+
+==Background==
+[[Bill Gates]] has Steve murdered for not taking the console war seriously. Steve believes that if people want to buy the PS4 instead of the Xbox One, it is their choice. Bill takes his place as head of Microsoft once more after disposing of Steve.
+
+==References==
+{{Reflist}}
+{{BusinessCelebrities}}
+{{Minor Characters from Season Seventeen}}
+[[zh:史蒂夫·鲍尔默]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:One-off characters]]
+[[Category:Business celebrities]]

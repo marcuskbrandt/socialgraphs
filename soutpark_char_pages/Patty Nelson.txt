@@ -1,0 +1,39 @@
+{{South Park character
+|name = Patty Nelson
+|image = Patty-nelson.png
+|gender = Female
+|race = Caucasian
+|hair = Black
+|age = 9-10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995582/|title="South Park" Le Petit Tourette (TV episode 2007)|publisher=IMDb.com}}</ref>
+|appearance = "[[Le Petit Tourette]]"
+}}{{LinkDisambig|Patty (Disambiguation)}}
+{{LinkDisambig|Nelson (Disambiguation)}}
+'''Patty Nelson''' is a girl that appears in "[[Le Petit Tourette]]", where [[Eric Cartman]] blurts out that he has a crush on her, and fantasizes about kissing, much to her disgust. She is one of the few women or girls in the show that Cartman has ever been shown to be attracted to, the only others being [[Ms. Ellen]] in "[[Tom's Rhinoplasty]]", [[Wendy Testaburger]] in "[[Chef Goes Nanners]]", and [[Heidi Turner]] in [[Season Twenty]] and [[Season Twenty-One]].
+
+==Appearance==
+Patty has short black hair and wears a purple jacket with black details, gray pants and black shoes. She has no other distinguishable characteristics.
+<gallery spacing="small" caption="Images of Patty Nelson" widths="160">
+PattyNelson.png|Patty after finding out that [[Eric Cartman|Cartman]] had a crush on her.
+</gallery>
+
+==Trivia==
+*She shares the same last name as [[Tammy Nelson]], [[Allie Nelson]], [[Mrs. Nelson]], and [[Liza Nelson]].
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+{{South Park Children}}
+[[es:Patty Nelson]]
+[[zh:帕蒂·尼尔森]]
+[[Category:Characters]]
+[[Category:School children]]
+[[Category:Female characters]]
+[[Category:4th graders]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Townsfolk]]
+[[Category:Other 4th graders]]
+[[Category:Female 4th graders]]

@@ -1,0 +1,28 @@
+{{South Park character
+|name = Paolo Captain
+|image = Paolo-captain.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|voice = [[Matt Stone]]<ref>Credited as the "American Captain" in {{cite web|url=https://www.imdb.com/title/tt1397945/|title="South Park" Fatbeard (TV Episode 2009)|publisher = IMDb.com}}</ref>
+|job = Naval Officer
+|appearance = "[[Fatbeard]]"
+}}
+The '''Paolo Captain''' is a naval officer and served as the captain of ''Paolo''. He appears in [[Season Thirteen]] episode "[[Fatbeard]]".
+
+==Background==
+After being raided by a group of pirates led by [[Eric Cartman]], the crew of a French luxury liner was rescued by ''Paolo''. The captain of the rescue ship reports to NATO that the pirates had forced the crew off with a lightsaber, and that the crew were all French, therefore surrendering immediately.
+
+==Appearance==
+He has gray hair and wears the standard naval officer uniform with peak cap.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Thirteen}}
+[[zh:保罗号舰长]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

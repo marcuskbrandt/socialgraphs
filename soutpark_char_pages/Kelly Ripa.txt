@@ -1,0 +1,34 @@
+{{South Park character
+|name = Kelly Ripa
+|image = Kelly Ripa.png
+|gender = Female
+|race = Caucasian
+|hair = Blonde
+|age = {{age|1970|10|2}}
+|dob = October 2, 1970
+|job = Actress<br>Talk Show Host
+|voice = [[Mona Marshall]]<ref>Credited as the "Woman on Regis" in {{Cite web|url=https://www.imdb.com/title/tt1397942/|title="South Park" Eat, Pray, Queef (TV Episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Kelly Ripa|Kelly Ripa]]
+|appearance = "[[Eat, Pray, Queef]]"
+}}
+{{LinkDisambig|Kelly (Disambiguation)}}
+'''Kelly Maria Ripa''' is an American actress and talk show host who appears in the [[Season Thirteen]] episode, "[[Eat, Pray, Queef]]".
+
+==Background==
+The [[Katherine and Katie Queef|Queef Sisters]] are invited to a talk show hosted by Kelly Ripa and [[Regis Philbin]]. During the interview, the Queef Sisters present their [[Eat, Pray, Queef (Book)|new book]], queefing several times as well. Kelly Ripa applauds them as the driving force for the feminist movement, before raising her legs and letting a queef out herself, much to the disgust of Regis Philbin.
+
+==Appearance==
+Kelly Ripa has a long, blonde hair, and wears a turquoise blouse, gray skirt with belt, and brown shoes.
+
+==References==
+{{Reflist}}
+
+{{TelevisionCelebrities}}
+[[zh:凯利·里帕]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Television celebrities]]
+[[Category:Characters voiced by Mona Marshall]]

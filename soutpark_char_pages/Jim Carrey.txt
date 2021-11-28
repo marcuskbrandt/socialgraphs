@@ -1,0 +1,31 @@
+{{South Park character
+|name = Jim Carrey
+|image = Jim_Carrey.PNG
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1962|1|17}}
+|dob = January 17, 1962
+|job = Actor
+|religion = Christian
+|wikipedia = [[wikipedia:Jim Carrey|Jim Carrey]]
+|appearance = "[[You're Getting Old]]"
+}}
+'''James Eugene "Jim" Carrey''' is a Canadian-American actor famous for his comedic roles. He appears in the [[Season Fifteen]] episode, "[[You're Getting Old]]".
+
+==Background==
+Carrey's new movie, ''Mr. Popper’s Penguins'', seemed to have a terrible comedy plot, according to [[Stan Marsh|Stan]] as he watched the film preview at the cinema. Carrey had no speaking role but rather danced around with penguin-shaped pieces of feces.
+
+==Appearance==
+Carrey has brown hair and eyebrows and was seen dressed in a blue shirt and black pants. Despite being a Canadian American, he was not drawn with Canadian features, likely to make more him recognizable.
+
+{{TelevisionCelebrities}}
+[[es:Jim Carrey]]
+[[zh:金·凯瑞]]
+[[Category:Male characters]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Canadians]]
+[[Category:Television celebrities]]
+[[Category:Movie celebrities]]

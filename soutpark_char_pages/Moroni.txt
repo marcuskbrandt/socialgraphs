@@ -1,0 +1,33 @@
+{{South Park character
+|name = Moroni
+|image = Religious-figures-moroni.png
+|gender = Male
+|hair = Gray
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705893/|title="South Park" All About Mormons (TV episode 2003) |publisher=IMDb.com}}</ref>
+|appearance = "[[All About Mormons]]"
+}}
+'''Moroni''' is a white Native American angel whom the founder of the Mormon religion [[Joseph Smith]] had claimed to have visited him on multiple occasions. He made his only appearance in the [[Season Seven]] episode "[[All About Mormons]]".
+
+==Background==
+When the new student [[Gary Harrison]] invites [[Stan Marsh|Stan]] over to his [[Harrison Residence|house]] to meet his family, they decide to tell Stan the story of Joseph Smith. At one point of the story, the angel Moroni appears at Joseph Smith's bedside, telling Smith what had happened to his people and saying that there is a book as well as two seer stones buried near [[Joseph Smith's Residence|Smith's home]], allowing him to translate the writings. Later on, when the townspeople ask Smith where the seer stones and gold plates are, he says that Moroni appeared to him again and told him not to show either of them to anybody.
+
+==Appearance==
+Moroni appears as a very tall man with gray hair and gray eyebrows. He wears a long yellow robe. He has a yellow glow around him and speaks with a slight echo in his voice.
+<gallery widths="160" captionalign="left" caption="Images of Moroni">
+AllAboutMormons033.png|Moroni at Joseph Smith's bedside.
+</gallery>
+
+==References==
+{{Reflist}}
+[[ja:モロナイ]]
+[[pl:Moroni]]
+[[zh:摩罗乃]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Religious characters]]
+[[Category:Mormon characters]]
+[[Category:Native American characters]]
+[[Category:Minority characters]]

@@ -1,0 +1,46 @@
+{{South Park character
+|name = Donald Trump
+|image = Trump.png
+|gender = Male
+|race = Caucasian
+|hair = Gold
+|age = {{age|1946|06|14}}
+|birthday = June 14, 1946
+|job = Businessman<br>Television Personality<br>45th President of the United States of America (real life)
+|religion = Presbyterian
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766089/?ref_=fn_al_tt_1|title="South Park" The Entity (TV Episode 2001) - IMDb|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Donald Trump|Donald Trump]]
+|appearance = "[[The Entity]]"
+}}
+'''Donald John Trump''' is an American businessman, television personality, and politician who appears in the [[Season Five]] episode "[[The Entity]]".
+
+In real-life, he was the 45th President of the United States. However, he is not directly portrayed as such in the show, he is instead parodied by having [[Mr. Garrison]] becoming the President. In the 2020 Presidential Election, major news organizations have projected that Trump lost his bid for re-election.
+
+==Background==
+Mr. Garrison, tired of the airline check-ins, designed a new way of transport, known as [[IT]]. He invites a group of rich and famous people to view IT. Trump is shown to be impressed with it.
+
+==Appearance==
+Donald Trump wears a black jacket and a white shirt. He is shown to have wrinkles.
+
+==Trivia==
+*There have been many parodies of Donald Trump in the series.
+**In "[[Where My Country Gone?]]", a [[Canadian President|Canadian version]] of Donald Trump appeared. He built a wall to keep all the Americans out. Mr. Garrison traveled to [[Canada]] and fucked him to death.
+**In [[Season Twenty]], due to the [[Canadian President|Canadian version]] being killed off, Mr. Garrison replaced Donald Trump in the 2016 election. He realized he does not know what he is doing and tried to get people to vote for [[Hillary Clinton]] but eventually, due to the [[Memberberries]], became president, like Trump in real life.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Five}}
+{{PoliticalCelebrities}}
+
+[[es:Donald Trump]]
+[[pl:Donald Trump]]
+[[zh:唐纳德·特朗普]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Political celebrities]]
+[[Category:Presidents of the United States]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Elderly people]]
+[[Category:Business celebrities]]
+[[Category:Television celebrities]]

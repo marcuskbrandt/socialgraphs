@@ -1,0 +1,41 @@
+{{Group
+|name = Adams County Pee-Wee Hockey Team
+|image = Local-teams-adams-county-pee-wee-hocky-team.png
+|type = Sports Team
+|rivals = [[Park County Pee-Wee Hockey Team]]
+|gender = Male
+|age = 5-6
+|job = Pee-Wee Hockey Team; Likely Students
+|grade = '''Coach''': [[The 4th Grade|4th Grade]]<br>'''Players''': [[Kindergartners|Kindergarten]]
+|religion = Unknown; likely Roman Catholic
+|voice = Unknown
+|member1 = [[Gavin Throttle]]
+|member2 = Various kindergartners
+|first = "[[Stanley's Cup]]"
+|times = 1
+}}
+'''The Adams County Pee-Wee Hockey Team''' is a pee-wee hockey team made up of kindergartners from Adams County. The team is part of the [[Pee-Wee Hockey League]]. Their coach is '''[[Gavin Throttle]]'''. They appear in "[[Stanley's Cup]]".
+
+==Appearance==
+Their coach wears a brown suit, red tie, and gray pants. The team itself wears a standard uniform, a red shirt with "Adams County" printed on it, white helmets, gray-green gloves, and black shorts.
+
+==Personality==
+The whole team, as well as their coach, share a similar mindset. They are arrogant, immediately dismissing any other teams that challenge them. However, despite their cocky attitudes, the players do not manage to score in the match and are tied with their opponent team, the [[Park County Pee-Wee Hockey Team]].
+
+==Quotes==
+All quotes are from "[[Stanley's Cup]]".
+*'''Adams County Coach to [[Stan Marsh|Stan]]:''' "Look, why don't you just give up? You can't beat us. You really want to embarrass your players?"
+*'''All:''' "Right! Follow!"
+*'''Adams County Coach:''' "We're gonna beat you into the ground, cancer or no!"
+*'''All:''' "Win! Win! Win! Win! Win! Win!"
+
+{{Minor Characters from Season Ten}}
+[[fr:Adams County Pee-Wee Hockey Team]]
+[[ru:Детская хоккейная команда округа Адамс]]
+[[zh:亚当斯县小小冰球队]]
+[[Category:Characters]]
+[[Category:Sports teams]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Kindergartners]]
+[[Category:Groups]]

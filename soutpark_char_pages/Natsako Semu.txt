@@ -1,0 +1,31 @@
+{{South Park character
+|name = Natsako Semu
+|image = Natsako Semu.png
+|gender = Female
+|race = Japanese
+|hair = Black
+|job = News Reporter
+|voice = [[Eliza J. Schneider]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766077/|title="South Park" A Ladder to Heaven (TV Episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[A Ladder to Heaven]]"
+}}
+'''Natsako Semu''' is a weatherwoman for the [[List of News Channels#SNN|SNN news channel]] who appears in the [[Season Six]] episode, "[[A Ladder to Heaven]]".
+
+==Background==
+[[Eric Cartman|Cartman]], [[Stan Marsh|Stan]], and [[Kyle Broflovski|Kyle]] aims to build a massive ladder to [[Heaven]] so they can get tickets to [[Lolly's Candy Factory]] from [[Kenny McCormick|Kenny]]. However, news reporter [[Nobunaga Hiroichi]] reports that [[Japan]] has reached "Heaven" (that was actually a studio decorated to look like heaven) and claimed it as their own.
+
+Nobunaga then turns to the Natsako Semu for the weather, who reports "Heaven" to be partly cloudy.
+
+==Appearance==
+Natsako Semu has a long, black hair, and wears a white suit with light green tie, a gray skirt and white shoes. She has stereotypical characteristics of Asians seen in the series such as small eyes and a distinctive accent.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+
+[[zh:濑间奈津子]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Eliza J. Schneider]]
+[[Category:Asian characters]]

@@ -1,0 +1,42 @@
+{{Group
+|image = City-ninjas.png
+|name = City Ninjas
+|job = Ninjas
+|enemies = [[The New Kid]]
+|gender = Male
+|first = ''[[South Park: The Fractured But Whole]]''
+}}
+The '''City Ninjas''' are an enemy faction led by [[Tuong Lu Kim]] in ''[[South Park: The Fractured But Whole]]''.
+
+==Background==
+In [[The Invitation]] mission, [[The New Kid]] is called by [[Mitch Conner]] to meet at [[SoDoSoPa]]. Upon arrival, a representative shows up and revealed that the meeting was a set-up for a hired group of ninjas to kill the New Kid, but not before making payment to the ninjas for their services first. Lu Kim proceeded with his task (despite offering to let the New Kid free for $5,000, an amount which the New Kid could not possibly have at the time), which ended in failure.
+
+From then on, City Ninjas are scattered across [[South Park (Location)|South Park]], preparing to fight the New Kid once again.
+
+===''[[Danger Deck]]''===
+Holographic versions of the City Ninjas are prominent during some of the Danger Challenges, teaming up with other enemies. They appear in the following challenges: "Scorched Earth", "Boneyard Bullies" and "Shadow Swarm".
+
+==Appearance==
+Among the ninjas, Lu Kim is the easiest to spot with his closed eyes. All ninjas wear black ninja costumes, with various colored belts to differentiate ranks:
+*Red for Ninja Sniper
+*Grey for Ninja Assassin
+*White for Ninja Summoner
+
+==Abilities==
+*'''Shuriken''' - Throws a shuriken for moderate damage. Inflicts bleeding.
+*'''Whirlwind''' - Spins a katana for moderate damage. Inflicts bleeding. Exclusive to Lu Kim and the Assassins.
+*'''Shinobi Summon''' - Summons a Sniper, has a cooldown for 1 turn. Exclusive to the Summoners.
+
+==Trivia==
+*The Ninjas (other than Lu Kim) speak Korean, although they occasionally converse in English during combat. Despite this, no subtitles for their dialogues other than "[speaking in Korean]" are provided.
+** Despite the subtitles imply they all speak Korean, the actual lines they say includes English and Japanese.
+** In some cases of random glitches, the actual English conversation will pop up as subtitles, and will quickly disappear and get replaced by "[Speaking Korean]".
+*The phone number shown on the City Ninjas leaflet can be found at the end of [[Season Twenty-Three]] episode "[[Basic Cable]]".
+[[zh:城市忍者]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Groups]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:Video Game Exclusive characters]]

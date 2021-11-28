@@ -1,0 +1,36 @@
+{{South Park character
+|name = Malcolm McDowell
+|image = Pip002.png
+|aliases = British Person
+|gender = Male
+|hair = White
+|age = {{age|1943|6|13}}
+|dob = June 13, 1943
+|job = Actor; Voice Actor
+|wikipedia = [[Wikipedia:Malcolm McDowell|Malcolm McDowell]]
+|appearance = "[[Pip]]"
+}}
+'''Malcolm McDowell''' is the narrator of the [[Season Four]] episode, "[[Pip]]". 
+
+==Background==
+Introducing himself as "a British person", he opens with telling the audience that [[Trey Parker]] and [[Matt Stone]] have decided to tell the origins of [[Pip Pirrip]]. He narrates various parts of the story, but most of it is shown as an actual episode with the viewer following the characters. He closes the episode as well.
+
+==Appearance==
+Dressed in a suit, the British Person is sat in a chair in a study with the book ''[[wikipedia:Great Expectations|Great Expectations]]'' in his hand, though towards the end of the episode the plot takes a much more unusual path in reference to a regular ''[[South Park]]'' twist of a story. He has white hair and has a British accent and heritage, which is where he derives his name from.
+
+Naturally, he has the appearance of his actor, though it is not known if he is intended to be Malcolm McDowell or someone else.
+
+{{MovieCelebrities}}
+[[es:Malcolm McDowell]]
+[[zh:马尔科姆·麦克道威尔]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Realistic characters]]
+[[Category:Elderly people]]
+[[Category:British characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Actors]]
+[[Category:People]]
+[[Category:Movie celebrities]]

@@ -1,0 +1,30 @@
+{{South_Park_character
+|name = DJ Hippo
+|image = Local-business-people-peppermint-hippo-dj.png
+|gender = Male
+|hair = Black
+|job = Disc Jockey
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0780944/|title="South Park" The Return of Chef|publisher=IMDb.com}}</ref>
+|appearance = "[[Lil' Crime Stoppers]]"
+|last = "[[South ParQ Vaccination Special]]"
+}}
+'''DJ Hippo''' is the DJ who works at [[The Peppermint Hippo]].
+
+==Prominence==
+*"[[Lil' Crime Stoppers]]" - Debut.
+*"[[The Return of Chef]]" - Seen performing at The Peppermint Hippo.
+*"[[South ParQ Vaccination Special]]" - Hosted the vaccination party at [[Club Dosage]].
+
+===''[[South Park: The Fractured But Whole]]''===
+In [[The Bowels of the Beast]] mission, [[Captain Diabetes]] and [[The New Kid]] infiltrate the strip club in search for [[Classi]]. They decide to distract the DJ by offering him a drink laced with disgusting ingredients, which would send him to the bathroom, allowing the superheroes to take his place and call out for Classi to the main stage.
+
+During the fight against the [[strippers]], the DJ makes an off-camera introduction for each stripper as they enter the battlefield.
+
+==References==
+{{Reflist}}
+[[ja:DJヒッポー]]
+[[zh:薄荷河马唱片骑师]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]

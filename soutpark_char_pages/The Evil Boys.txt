@@ -1,0 +1,43 @@
+{{Group
+|image = EVIL.png
+|name = The Evil Boys
+|gender = Male
+|age = 8
+|grade = 4th Grade
+|member1 = Evil Stan
+|voice1 = [[Trey Parker]]
+|member2 = Evil Kyle
+|voice2 = [[Matt Stone]]
+|member3 = Evil Cartman
+|voice3 = [[Trey Parker]]
+|member4 = Evil Kenny
+|first = "[[Spookyfish]]"
+}}
+'''The Evil Boys''' were the boys from a parallel universe seen in the [[Season Two]] episode, "[[Spookyfish]]".
+
+==Background==
+Due to the portal being opened at the [[Indian Burial Ground Pet Store]], the "evil" counterparts of animals and some of the boys invade [[South Park (Location)|South Park]] from another universe.
+
+==Personalities==
+The boys' evil doubles have personalities that are contrary to their regular selves; [[Stan Marsh]] and [[Kyle Broflovski]] are mean and pick on [[Eric Cartman]], while Eric is polite and generous, which are the personalities of their counterparts reversed. [[Kenny McCormick]]'s evil double is said by evil Cartman to be wealthy and recently bought a new car.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of the Evil Boys">
+Spookyfish5.png|Cartman's double.
+Spookyfish57.png|Cartman with his double
+Spookyfish61.png
+Spookyfish71.png|Evil Cartman pets Mr. Kitty
+Spookyfish89.png|Evil Stan and Evil Kyle enter South Park from their parallel world
+</gallery>
+
+==Appearance==
+The only change to the boys' appearance is the mustaches and goatee beards. The beards match their hair, except for Kyle, implying that he has brown hair instead of red.
+{{Minor Characters from Season Two}}
+[[zh:邪恶四人组]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Characters with deviations]]
+[[Category:One-off characters]]
+[[Category:4th graders]]
+[[Category:Male 4th graders]]
+[[Category:Bullies]]

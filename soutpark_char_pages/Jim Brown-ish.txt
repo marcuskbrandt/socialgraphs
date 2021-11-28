@@ -1,0 +1,27 @@
+{{South Park character
+|name = Jim Brown-ish
+|image = Jim-brown-ish.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = [[Channel 4 News]] Anchor
+|voice = [[Trey Parker]] <ref>{{cite web|url=http://www.imdb.com/title/tt0705902/|title="South Park" Cartman's Incredible Gift (TV episode 2004)|publisher=IMDb.com}}</ref>
+|appearance  = ''[[South Park: Bigger, Longer & Uncut]]''
+}}
+'''Jim Brown-ish''' is a news anchor for [[Channel 4 News]]. He first appears in ''[[South Park: Bigger, Longer & Uncut]]'' and then in the [[Season Eight]] episode, "[[Cartman's Incredible Gift]]".
+
+In ''[[South Park: Bigger, Longer & Uncut]]'', he reports on the [[American-Canadian War]]. In "[[Cartman's Incredible Gift]]", he reports on Cartman's being psychic.
+
+==Appearance==
+Jim Brown-ish wears the normal Channel 4 News wear, which is a brown suit with a white shirt and a blue tie underneath. He has combed brown hair and brown eyebrows.
+
+==References==
+{{reflist}}
+[[zh:吉姆·布朗尼什]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Minor characters]]
+[[Category:South Park: Bigger, Longer & Uncut]]
+[[Category:News reporters]]

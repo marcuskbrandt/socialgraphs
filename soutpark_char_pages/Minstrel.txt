@@ -1,0 +1,27 @@
+{{South Park character
+|name = Minstrel
+|image = Minstrel.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job = Bard
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt4093234/|title="South Park" The Magic Bush (TV Episode 2014)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Magic Bush]]"
+}}
+The '''Minstrel''' appears in the [[Season Eighteen]] episode, "[[The Magic Bush]]".
+
+== Background ==
+He performed a celebratory musical poem about [[Craig Tucker|Craig]]'s [[Laura Tucker|mom's]] bush, "[[The Tale of Craig's Mom's Bush]]", much to her dismay.
+
+==Appearance==
+The Minstrel wears blue and gold medieval, bardic clothing, a blue hat, and black and gold glasses. He has gray hair and a gray mustache.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Eighteen}}
+[[zh:老吟游诗人]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

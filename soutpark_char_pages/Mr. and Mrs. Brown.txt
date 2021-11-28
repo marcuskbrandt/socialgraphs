@@ -1,0 +1,29 @@
+{{South Park character
+|name = Mr. and Mrs. Brown
+|image = Mr-and-mrs-brown.png
+|gender = '''Mr. Brown:''' Male <br> '''Mrs. Brown:''' Female
+|hair = Brown
+|voice = '''Mr. Brown:''' [[Trey Parker]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt0897215/|title="South Park" Stanley's Cup (TV episode 2006)|publisher=IMDb.com}}</ref> <br> '''Mrs. Brown:''' [[April Stewart]]<ref name=imdb />
+|relation1 = Son
+|relativename1 = [[Nelson Brown]]
+|appearance = "[[Stanley's Cup]]"
+}}
+'''Jack Brown''' and '''Mrs. Brown''' are the parents of [[Nelson Brown]] who appear in the [[Season Ten]] episode "[[Stanley's Cup]]".
+
+==Background==
+Nelson, who was diagnosed with terminal cancer, was admitted to the [[Hell's Pass Hospital|hospital]] when his condition worsened. As the [[Park County Pee-Wee Hockey Team]] were training at the [[Park County Hockey Rink|hockey rink]], Nelson's parents approach coach [[Stan Marsh]] with grief, informing him of Nelson's condition and that Nelson would unlikely survive. They plead Stan to relay the news to Nelson instead of doing it themselves.
+
+==Appearance==
+Mr. Brown wears a black suit over a light blue shirt and navy blue pants. He also carries a tan hat.
+
+Mrs. Brown wears a white shirt over a blue dress with a golden buckle at the waist, along with a small silver pendant.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Ten}}
+[[zh:布朗先生和太太]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Parents]]
+[[Category:Townsfolk]]

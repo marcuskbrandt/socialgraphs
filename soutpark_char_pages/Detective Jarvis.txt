@@ -1,0 +1,36 @@
+{{South Park character
+|name = Detective Jarvis
+|image = Detective-jarvis.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = Detective
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0780944/|title="The Return of Chef" on IMDB}}</ref>
+|appearance = "[[The Return of Chef]]"
+}}
+'''Detective Jarvis''' appears in the [[Season Ten]] episode, "[[The Return of Chef]]". He comes to [[South Park Elementary]] to talk to the children about [[Jerome "Chef" McElroy|Chef]]'s recent pedophilic behavior, which was later revealed that it was from the brainwashing by the [[Super Adventure Club]]. He says that he wants to collect testimony from the children, but only shows how a pedophile would treat them.
+
+==Appearance==
+He has brown hair, which he combs back, and wears a black suit with a dark red tie and a yellow badge.
+
+His character model was reused with modified coloration, no badge, and a more youthful face, as weatherman [[Keenan Williams]] in "[[Smug Alert!]]".
+
+<gallery widths="160" spacing="small" caption="Images of Detective Jarvis">
+TheReturnofChef036.png|Detective Jarvis questioning [[The 4th Grade]] class about Chef's behavior in "[[The Return of Chef]]".
+DetectiveJarvisOooh.png|Jarvis seen getting excessive in his demonstrations.
+</gallery>
+
+==Personality==
+He seems to take his demonstrations very seriously, demonstrating the actions of pedophiles with unusual enthusiasm. He also seems very childish when convinced of something, as shown from his responses to [[Stan Marsh]] refusing that Chef is a pedophile.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Ten}}
+[[pl:Detectyw Jarvis]]
+[[zh:贾维斯警探]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Police officers]]

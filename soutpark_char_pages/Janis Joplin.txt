@@ -1,0 +1,31 @@
+{{South Park character
+|name = Janis Joplin
+|image = Joplin.JPG
+|gender = Female
+|race = Caucasian
+|hair = Light Brown
+|age = 27 (deceased)
+|dob = January 19, 1943
+|died = October 4, 1970
+|job = Singer<br>Songwriter
+|religion = Churches of Christ<ref>{{cite web|url=http://www.adherents.com/people/pj/Janis_Joplin.html|title=The religion of Janis Joplin, singer|publisher=adherents.com}}</ref>
+|wikipedia= [[wikipedia:Janis Joplin|Janis Joplin]]
+|appearance =  "[[Chef Aid]]"
+}}
+A photograph of '''Janis Joplin''' with [[Chef]] appears in "[[Chef Aid]]", in Chef's photo album.
+
+==Appearance==
+Janis Joplin wore maroon colored pants, a lavender-colored shirt, and purple elevator shoes. She had long, light-brown hair, red lipstick, and thick eyebrows. She can be seen with two needles sticking out of her right arm, and another on her left.
+
+==References==
+{{reflist}}
+{{MusicCelebrities}}
+[[zh:詹尼斯·乔普林]]
+[[Category:Characters]]
+[[Category:Mentioned-only characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Music celebrities]]
+[[Category:Celebrities]]
+[[Category:Deceased characters]]

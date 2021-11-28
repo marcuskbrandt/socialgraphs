@@ -1,0 +1,23 @@
+{{South Park character
+|name = Schroeder
+|image = Schroeder.png
+|gender = Male
+|hair = Blond
+|job = Pianist
+|appearance = "[[Something You Can Do with Your Finger]]"
+}}
+'''Schroeder''', from the comic strip ''Peanuts'', appeared in the [[Season Four]] episodes, "[[Something You Can Do with Your Finger]]", "[[A Very Crappy Christmas]]", and "[[Probably]]". Although he often appeared whenever music auditions take place, he has yet to make another appearance.
+
+==Appearance==
+Schroeder wears white shoes, black pants, and a red and black striped shirt. He has thick blond hair. Schroeder is always seen playing the piano.
+{{Clear}}
+
+==Prominence==
+*"[[Something You Can Do with Your Finger]]"
+*"[[A Very Crappy Christmas]]"
+*"[[Probably]]"
+[[zh:史洛德]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Characters]]
+[[Category:Crossover characters]]

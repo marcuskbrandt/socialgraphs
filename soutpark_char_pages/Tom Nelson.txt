@@ -1,0 +1,41 @@
+{{South Park character
+|name = Tom Nelson
+|image = Bat-dad.png
+|aliases = Bat Dad<br>Chris
+|gender = Male
+|voice = Diedrich Bader<ref>{{cite web|url=https://www.imdb.com/title/tt0763051/fullcredits?ref_=tt_cl_sm#cast|title="South Park" The Losing Edge (TV Episode 2005)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Losing Edge]]"
+}}
+{{LinkDisambig|Thomas (Disambiguation)}}
+{{LinkDisambig|Nelson (Disambiguation)}}
+'''Tom Nelson''' is a trash talking parent who appears in the [[Season Nine]] episode, "[[The Losing Edge]]".
+
+==Background ==
+When [[the boys]] are playing baseball, [[Randy Marsh]] gets drunk and starts trash-talking and fighting other parents. He does this confidently, until he meets Tom Nelson, who refers to himself as "Bat Dad". Bat Dad intimidates Randy, making him realize he may not win the next brawl. He decides not to attend the next game.
+
+During the game, when the boys are about to win, Randy turns up to confront Bat Dad. Randy is certain to lose the fight, when the announcer intervenes. He declares the next person to fight will have their team disqualified. The boys, wanting to lose, persuade Randy to finish the altercation. Randy hits Bat Dad, causing his team to be disqualified.
+
+==Appearance==
+Bat Dad wears a purple Batman mask and cape, as well as a black loincloth and a black wristwatch. He is shown to be overweight.
+
+<gallery widths="160" spacing="small" caption="Images of Tom Nelson">
+TheLosingEdge (103).png|Bat Dad making a scene.
+You're the best.png|Bat Dad being hit by Randy.
+</gallery>
+
+==Personality==
+Bat Dad is obnoxious, ruining the game with his trash talk. He is also egotistical, believing when the umpire tries to break up the fight that he had already won.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Nine}}
+
+[[ja:トム・ネルソン]]
+[[zh:蝙蝠老爸]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Overweight characters]]
+[[Category:Parents]]
+[[Category:Bullies]]

@@ -1,0 +1,46 @@
+{{South Park character
+|name = Hopkins
+|image = Hopkins3.png
+|gender = Male
+|hair = Brown
+|job = Detective
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705940/|title="South Park" Lil' Crime Stoppers (TV episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[Lil' Crime Stoppers]]"
+}}
+'''Hopkins''' was a detective with the [[Park County Police Force]], who appears in the [[Season Seven]] episode, "[[Lil' Crime Stoppers]]".
+
+==Background==
+He is often seen with his cohorts [[Murphy and Jenkins]]. Unlike them, however, he was not corrupt and was not antagonistic towards [[the boys]] in "[[Lil' Crime Stoppers]]".
+
+He insisted the other two be nice to them. During the raid on the Peppermint Hippo, Hopkins was sent in along with Murphy and Jenkins by [[Lieutenant Dawson]]. When Murphy and Jenkins revealed their true colors, Hopkins protected the boys by returning fire at them and was wounded by Murphy. He was later taken to the hospital.
+
+==Appearance==
+Hopkins has brown hair with a noticeable widow's peak and an elongated nose. He wears a hunter green "business" shirt, light green suspenders, a black tie, and dark gray pants.
+
+<gallery widths="160" captionalign="left" caption="Images of Hopkins">
+hopkinsbackoff.png|Hopkins telling the other cops to leave [[The Boys|the boys]] alone.
+Hopkinsshot.png|Hopkins after being shot.
+</gallery>
+
+==Personality==
+He seems kind and incorruptible, unlike Murphy and Jenkins. In "[[Lil' Crime Stoppers]]", he defended the boys on numerous occasions and told Jenkins and Murphy to leave them alone when they bully them.
+
+==''[[South Park: The Fractured But Whole]]''==
+Detective Hopkins is one of several police officers that are fought during [[The Thin White Line]] mission.
+
+==Trivia==
+*In the Mandarin Chinese dub, Hopkins is named "晨泳人" (Pinyin: ''Chén yǒng rén''). This name, along with those of Murphy and Jenkins, parody the main characters of the ''[[Wikipedia:Infernal Affairs (film series)|Infernal Affairs]]'' film series.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seven}}
+
+[[zh:霍普金斯警探]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Police officers]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]

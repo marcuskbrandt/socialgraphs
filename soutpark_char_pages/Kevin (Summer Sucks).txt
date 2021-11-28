@@ -1,0 +1,55 @@
+{{South Park character
+|name = Kevin
+|image = KevinSummerSucks.png
+|gender = Male
+|voice = Nico Agnone<ref>{{Cite web|url=http://www.imdb.com/title/tt0705930/|title="Helen Keller! The Musical" on IMDB}}</ref>
+|hair = Brown
+|age = 9-10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|relation1 = Father
+|relativename1 = [[Tom ("Summer Sucks")|Tom]]
+|relation2 = Mother
+|relativename2 = Kevin's Mother
+|appearance = "[[Summer Sucks]]"
+|speaking = "[[Helen Keller! The Musical]]"
+}}{{LinkDisambig|Kevin (Disambiguation)}}
+'''Kevin''' is a male minor character. His only appearances were in "[[Summer Sucks]]" and "[[Helen Keller! The Musical]]".
+
+==Background==
+He is [[Tom ("Summer Sucks")|Tom]]'s son. He first appears in "[[Summer Sucks]]", where he was found thawed by his parents. At once, his mother says ''"Oh holy Kevin honey."'', and his father continues ''"Good to see you again son."'' In "[[Helen Keller! The Musical]]" it is revealed that his mother died. He is shown crying with his father over his loss.
+
+==Appearance==
+Kevin wears a yellow long-sleeved shirt, blue jeans, and black boots. His hair is brown, and he seems to have sideburns. His appearance is similar to Jimmy's.
+
+<gallery widths="160" spacing="small" caption="Images of Kevin">
+KevinfromSummerSucks.png|Kevin, as he appears in "[[Helen Keller! The Musical]]".
+208-5.png|Kevin found.
+Summer kevin facebook profile.png|Kevin's scrapped photo from ''[[South Park: The Stick of Truth]]''.
+</gallery>
+
+==Personality==
+He was found frozen in ice in "[[Summer Sucks]]", so it can be assumed that he is either prone to accidents or unintelligent. In "[[Helen Keller! The Musical]]" he appeared to not understand the concept of death.
+
+==Prominence==
+*"[[Summer Sucks]]" - Found in a pile of snow after it melts.
+*"[[Helen Keller! The Musical]]" - Seen crying with his father about his deceased mother.
+
+==Trivia==
+*He was set to reappear in ''[[South Park: The Stick of Truth]]'' wearing a warrior outfit, but he was scrapped from the game.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Two}}
+{{South Park Children}}
+[[zh:凯文（夏天很糟糕）]]
+[[es:Kevin (Verano de Mierda)]]
+[[Category:Male characters]]
+[[Category:School children]]
+[[Category:4th graders]]
+[[Category:Characters]]
+[[Category:Characters voiced by Nico Agnone]]
+[[Category:Background characters]]
+[[Category:Other 4th graders]]
+[[Category:Male 4th graders]]

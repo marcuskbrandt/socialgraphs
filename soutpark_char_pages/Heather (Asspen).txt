@@ -1,0 +1,29 @@
+{{South Park character
+|name = Heather
+|image = Other-heather-asspen.png
+|gender = Female
+|hair = Blonde
+|voice = [[Eliza J. Schneider]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705895/|title=Asspen on IMDB}}</ref>
+|appearance = "[[Asspen]]"
+}}
+'''Heather''' is a woman who appears as [[Tad Mikowski]]'s girlfriend in the [[Season Six]] episode "[[Asspen]]".
+
+==Background==
+Heather is first introduced to [[Stan Marsh|Stan]] by Tad Mikowski, who asks Stan if he doesn't mind if he takes Heather out for fondue. Later on, Stan competes in a skiing race with Tad in order to gain Heather's affection despite not even having met Heather prior to coming to Aspen. He ends up losing the match, but competes in a rematch with Tad by skiing down the [[K-13]] mountain, the most dangerous mountain in Aspen. Stan ends up winning the rematch and Heather asks him if he would like to go out, but he decides that skiing sucks and leaves Aspen.
+
+==Appearance==
+Heather has long blonde hair and blonde eyebrows. She wears a maroon headband, a pink ski suit with a red and yellow trim and a head made of fur, red snow boots, and purple mittens.
+<gallery widths="160" captionalign="left" caption="Images of Heather">
+Asspen07.jpg|Tad holding Heather.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+[[zh:希瑟（阿屎彭）]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters in a relationship]]
+[[Category:Characters voiced by Eliza J. Schneider]]

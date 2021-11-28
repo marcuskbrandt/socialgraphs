@@ -1,0 +1,32 @@
+{{South Park character
+|name = Saint Joseph
+|image = Religious-saint-joseph.png
+|gender = Male
+|race = Caucasian (Levantine)
+|hair = Brown
+|dob = 30 BC
+|job = Father of [[Jesus Christ]]
+|religion = Judaism
+|wikipedia = [[wikipedia:Saint Joseph|Saint Joseph]]
+|relation1 = Son
+|relativename1 = [[Jesus Christ]]
+|relation2 = Wife
+|relativename2 = [[Mary, Mother of Jesus|Mary]]
+|appearance = "[[Mr. Hankey's Christmas Classics]]"
+}}
+'''Saint Joseph''' appeared briefly in the background, alongside [[Mary, Mother of Jesus]], during the song, "[[O Holy Night]]", in the [[Season Three]] episode, "[[Mr. Hankey's Christmas Classics]]".
+
+==Appearance==
+Saint Joseph wears a long white robe with a red scarf. He has long brown hair and has noticeable signs of aging.
+
+[[zh:圣若瑟]]
+[[Category:Characters]]
+[[Category:Religious Figures]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Jewish characters]]
+[[Category:Middle Eastern characters]]
+[[Category:Asian characters]]
+[[Category:Religious characters]]
+[[Category:Deceased characters]]

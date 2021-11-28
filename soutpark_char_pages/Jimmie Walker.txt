@@ -1,0 +1,22 @@
+{{South Park character
+|name = Jimmie Walker
+|image = Jimmie Walker.png
+|gender = Male
+|hair = Black
+|age = {{Age|1947|6|25}}
+|dob = June 25, 1947
+|job = Actor, Comedian
+|appearance = "[[Cancelled]]"
+}}
+'''James Carter Walker Jr.''' is an American actor and comedian who appears in [[Season Seven]] episode "[[Cancelled]]", as one of the forms [[Najix]] took to appear more familiar to the boys.
+
+==Appearance==
+Jimmie Walker wears a teal hat, pink long-sleeved shirt, teal pants and black shoes.
+
+[[zh:吉米·沃克]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:African-American characters]]

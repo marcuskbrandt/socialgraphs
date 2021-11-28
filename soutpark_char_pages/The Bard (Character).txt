@@ -1,0 +1,119 @@
+{{SPGamesCharacters
+|name = The Bard
+|image = The-bard.png
+|aliases = [[Jimmy Valmer]]
+|hair = Brown
+|occupation = Bard
+|age = 10
+|voiced_by = [[Trey Parker]]
+|first = "[[Black Friday]]"
+|latest = "[[Titties and Dragons]]"
+}}
+:''For the main quest in [[South Park: The Stick of Truth]], see [[The Bard]].''
+'''The Bard''' is [[Jimmy Valmer]]'s alter-ego in ''[[South Park: The Stick of Truth]]''. He is the singing bard of the [[Drow Elves]] and is one of the six playable partners in the game.
+
+==Appearance==
+The Bard wears a yellow shirt, a belt, blue pants, and brown bardic boots. He has a green lumpy scarf that doubles as a cape, a brown satchel, and a newspaper hat with a long white feather and holds crutches.
+
+==Quests Given==
+*[[Magical Songs]]
+
+==Prominence==
+*[[The Bard]] - Possessed the Stick of Truth and is hiding at the Inn of the Giggling Donkey and serves as the boss for the quest.
+*[[Attack the School]] - If you sided with the Drow Elves, he gets you into the school with his buddy ability.
+*[[Beat Up Clyde]] - Uses buddy ability to open the snuke.
+*[[Betrayal From Within]] - One of the buddies that helps in the final boss fight.
+*[[Magical Songs]] - He and the player goes to the farm in the northeast corner of South Park, kills Nazi Zombie Cows, and obtains a flute.
+
+=="The Maiden from Stonebury Hollow"==
+The Bard sings this song in "Song of Buffness" to boost the ability power of his allies, as he is a bard. To ensure that The Bard succeeds in doing that however, the player must mash a specific button if he stammers. The first time he had to sing it is the attack on the Giggling Donkey Inn, in which The Bard is the player's enemy. During this time, he always succeeds in singing perfectly to his allies without any problem, but when he is one of your allies, he will always have problems stuttering while singing.
+
+<poem><i>There once was a maiden from Stonebury Hollow.
+She didn't talk much, but boy, did she swallow.
+I had a nice lance that she sat upon.
+The maiden from Stonebury who is also your mom.</i></poem>
+
+==Role==
+The Bard does not make an appearance until the quest [[The Bard]], where he is in possession of the Stick. He is the main boss of the level. He doesn't reappear until you are brought to the [[Elven Kingdom]], and only has one line. He again shows up when the school is being attacked if the player chooses to team with the elves. He helps you get inside with "bard access". Otherwise, he is only seen in the classroom. He helps in the attack of Clyde's Fortress and in the final boss battle, where he is one of the buddies that fight with you.
+
+==Ally==
+During the Recruit the Goth Kids quest, The Bard becomes an available ally. His standard attack is ranged, which allows him to hit any enemy for moderate damage. Despite lower-than-average HP, The Bard is a decent, all-around Buddy, and can help with his many odd special attacks, acting as a supporting cleric more than a fighter. Despite this, The Bard has no added perks which he can use in battle, and his basic attack can be weak later in the game.
+
+===Abilities===
+{{AbilitySoTstart}}
+{{AbilitySoT
+|name=Power Chord
+|abilityimage=Ic abl pwr chord.png
+|type=Buddy Ability
+|description=Jimmy rocks out with his lute out, restoring PP to the party.
+|effect=Jimmy restores 6 PP to himself and the New Kid.}}
+{{AbilitySoT
+|name=Song of Buffness
+|abilityimage=Ic abl buffness.png
+|type=Ability
+|description=Jimmy sings a song that weakens enemies while making the party stronger!
+|effect=Jimmy grants Ability Up on the party and Ability Down and small damage on all opponents.}}
+{{AbilitySoT
+|name=Lullabye
+|abilityimage=Ic abl lullabye.png
+|type=Ability
+|description=Jimmy sings enemies to Sleep, preventing them from taking turns until they take damage or wake up naturally.
+|effect=Jimmy puts every opponent to sleep, which lasts longer the better you do executing the commands.}}
+{{AbilitySoT
+|name=Brown Note
+|abilityimage=Ic abl brown note.png
+|type=Ability
+|description=Playing the dreaded Brown Note will loosen the bowels of all who hear it.
+|effect=Jimmy damages all opponents moderately and causes Defense Down on all those who were hit.}}
+{{AbilitySoTend}}
+
+==Facebook Messages==
+[[File:Jimmy facebook message.png|700px]]
+[[File:Jimmy facebook message 2.png|700px]]
+
+==Gallery==
+<gallery widths="200">
+JimmySOTCard.jpg|Character Card
+Jimmy the bard.jpg|The Bard in the basement of the Giggling Donkey.
+Jimmy holding doorknob.jpg|''"I have the Stick of Truth which means I control the universe, and I say holding the doorknob is okay."''
+Jimmy Valmer.png
+Cartman Jimmy the bard.jpg|Cartman confronting The Bard.
+Jimmy boss battle.jpg|The Bard and his bardic rats with bardic hats.
+Attack School1.jpg
+Jimmy magical songs.jpg|The Bard talking to Farmer Denkins about the flute in "Magical Songs".
+Jimmy playing flute.jpg|The Bard playing the flute in "Magical Songs".
+Jimmy charming rats.jpg|The Bard charming Princess Kenny's Nazi Zombie rats.
+The Bard with giutar.png
+1921021 10152020470472005 1720600154 o.jpg
+</gallery>
+
+==Trivia==
+*After defeating The Bard in the Inn of the Giggling Donkey, you can loot his crutch from him, which is a weapon called the "Crutch of Weakness". Despite this, he's seen later in the game with both crutches.
+*The Bard and Hallway Monitor Boss are the only bosses who are not immune to stun.
+*The Bard's hat is a newspaper throughout the game, but on his Facebook profile picture, the hat is simply grey paper. Along with the feather on the hat is sometimes placed on different sides.
+*It is revealed in The Bard's Facebook messages that he performs at the Inn of the Giggling Donkey.
+*The Bard is the only Buddy whose parents are never seen but are only mentioned.
+**It is revealed from [[Grand Wizard King]], during the events of [[The Bard]], that they're out of town.
+*The Bard is the only Buddy who is part of Craig's gang (along with Craig, Token, Tweek, and Clyde).
+*The only time the player can't skip The Bard's stuttering is during his side quest [[Magical Songs]]. It also makes him the only character that enjoys a cut scene alone that can't be skipped.
+*The Bard, along with [[Princess Kenny]], are the only buddies that are fought in the game regardless of what The New Kid does. The other buddies do not count as their fight with New Kid because they are caused by choice.
+*The Bard playing the pipe/flute to summon rats during his boss battle and to lure Nazi Zombie rats in the final battle is a reference to the classic story of The Pied Piper.
+*During the battle, The Bard is the only Buddy to defend with another object (his crutches) instead of using his signature weapon (his crossbow).
+*The Bard, alongside Grand Wizard King, were the only buddy characters who do not take out a phone during their idle state.
+
+{{Elves}}
+[[de:Barde (Jimmy)]]
+[[zh:吟游诗人吉米]]
+[[Category:Characters]]
+[[Category:Alter egos]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Video Games: Bosses]]
+[[Category:Video Games: Enemies]]
+[[Category:The Stick of Truth: Drow Elves members]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:The Stick of Truth: Playable characters]]
+[[Category:The Stick of Truth: Quest Givers]]
+[[Category:The Stick of Truth: Friendable characters]]
+[[Category:The Stick of Truth: Bosses]]

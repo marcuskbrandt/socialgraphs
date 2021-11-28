@@ -1,0 +1,42 @@
+{{South Park character
+|name = Linda Triscotti
+|image = Linda.png
+|gender = Female
+|hair = Dull Brown
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|religion = Roman Catholic
+|relation1 = Parents
+|relativename1 = [[Mr. and Mrs. Triscotti]]
+|appearance = "[[Go God Go]]"
+}}{{LinkDisambig|Linda (Disambiguation)}}
+'''Linda Triscotti''' is a character who appears in the [[Season Ten]] episode "[[Go God Go]]". She comes from a strict Catholic family who reprimanded the school for trying to teach her and the other [[The 4th Grade|4th grade]] students evolution. The only known information about her name is her last name, Triscotti.<ref>Minutes 5:40-5:45 in "[[Go God Go]]"</ref>
+
+==Appearance==
+She has dull brown hair with a purple clip in it. She appears to be a combination of [[Sally Turner]] and [[Heidi Turner]]. She wears a green coat with red trim and dark blue pants.
+<gallery widths="120" captionalign="left" caption="Images of Linda Triscotti">
+GirlwithGreenCoat_desk.png|Linda at her desk.
+GirlwithGreenCoat_Parents.png 
+GirlwithGreenCoat_parents2.png|Linda being taken out of the Principal's office by [[Mr. and Mrs. Triscotti|her parents]].
+</gallery>
+==Personality==
+She seems to have a compassion to learn, telling her parents that she wants to learn evolution despite their strict devotion to Catholicism. 
+==Family==
+===[[Mr. and Mrs. Triscotti]]===
+[[File:GoGodGo045.png|thumb|130px|[[Mr. and Mrs. Triscotti]] yelling at [[Principal Victoria]] for allowing their daughter to learn evolution.]]
+In "[[Go God Go]]", her parents learned that [[South Park Elementary]] was teaching evolution, which angered them due to them being strict Catholics. They later complained to [[Principal Victoria]] that their daughter should not be learning evolution due to her faith. Despite her pleas that she wants to learn, her parents had her pulled out of the class. {{Clear}}
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Ten}}
+{{South Park Children}}
+[[es:Linda Triscotti]]
+[[zh:琳达·特里斯科蒂]]
+[[Category:Characters]]
+[[Category:Female 4th graders]]
+[[Category:Female characters]]
+[[Category:4th graders]]
+[[Category:Characters with unknown voice actor]]
+[[Category:School children]]
+[[Category:One-off characters]]
+[[Category:Catholic characters]]

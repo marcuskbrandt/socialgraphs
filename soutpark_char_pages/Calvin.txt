@@ -1,0 +1,41 @@
+{{South Park character
+|name = Calvin
+|image = calvin.png
+|gender = Male
+|race = Caucasian
+|hair = Red
+|age = 8<ref>Mentioned by [[Leslie]] in "[[Prehistoric Ice Man]]"</ref>
+|job = Student
+|relation1 = Father
+|relativename1 = [[Buck]]
+|relation2 = Mother
+|relativename2 = [[Leslie ("Prehistoric Ice Man")|Leslie]]
+|relation3 = Brother
+|relativename3 = [[Buck Jr.]]
+|appearance = "[[Prehistoric Ice Man]]"
+}}
+'''Calvin''' is an 8-year-old boy and is the son of [[Larry ("Prehistoric Ice Man")|Larry]]'s ex-wife, [[Leslie ("Prehistoric Ice Man")|Leslie]]. He appears in the [[Season Two]] episode, "[[Prehistoric Ice Man]]".
+
+==Background==
+After Larry escapes from [[Dr. Alphonse Mephesto|Dr. Mephesto]]'s lab, he seeks out his wife, Leslie. When he meets her, he learns that she had a new life with [[Buck|another man]] and the couple have two kids together, [[Buck Jr.]] and Calvin.
+
+==Appearance==
+Calvin wears black shoes, dark blue pants, and a maroon jacket. He also wears dark blue gloves and has red hair.
+
+<gallery widths="160" caption="Images of Calvin">
+Calvinandbuck.png|[[Buck Jr.]] and Calvin with their mother.
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Two}}
+[[fr:Calvin]]
+[[zh:卡尔文]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:3rd graders]]
+[[Category:Gingers]]
+[[Category:Townsfolk]]
+[[Category:Background characters]]

@@ -1,0 +1,37 @@
+{{South Park character
+|image = Pat-O-brien.png
+|name = Pat O'Brien
+|gender = Male
+|race = Caucasian
+|hair = Red
+|age = {{age|1948|2|14}}
+|dob = February 14, 1948
+|religion = Lutheran
+|job = Radio Host
+|voice = [[Trey Parker]]<ref>Credited as the "Excess Hollywood Presenter" in {{Cite web|url=https://www.imdb.com/title/tt0766081/|title="South Park" Free Hat (TV Episode 2002)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Pat O'Brien (radio and television personality)|Pat O' Brien]]
+|appearance = "[[Free Hat]]"
+}}
+'''Pat O'Brien''' is an American radio host and sportscaster that appears in the episode "[[Free Hat]]" as the host of ''Excess Hollywood''.
+
+==Background==
+He announces that the updated version of ''Raiders of the Lost Arc'' has been completed and is to be premiered in front of celebrities and other rich guests.
+
+==Appearance==
+Pat O'Brien wears a black suit with a white shirt and a red tie. He has red, receding hair and a thick red mustache. He also wears black, round-framed glasses.
+
+==References==
+{{Reflist}}
+
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Six}}
+
+[[zh:帕特·奥布莱恩]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Gingers]]
+[[Category:Television celebrities]]
+[[Category:Characters voiced by Trey Parker]]

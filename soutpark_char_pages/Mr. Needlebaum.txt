@@ -1,0 +1,22 @@
+{{South Park character
+|name = Mr. Needlebaum
+|image = Mr-needlebaum.png
+|gender = Male
+|hair = Brown
+|voice = [[Trey Parker]]<ref>Credited as the "Publisher" in {{cite web|url=http://www.imdb.com/title/tt1624774/|title="The Tale of Scrotie McBoogerballs" (TV episode 2010)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Tale of Scrotie McBoogerballs]]"
+}}
+'''Mr. Needlebaum''' is a representative from Penguin Publishing who appears in [[Season Fourteen]] episode "[[The Tale of Scrotie McBoogerballs]]".
+
+==Background==
+The parents of South Park invited Mr. Needlebaum to read ''[[The Tale of Scrotie McBoogerballs (Book)|The Tale of Scrotie McBoogerballs]]'', then have him at [[Broflovski Residence|Kyle's house]] to award publishing rights to whoever wrote the book. After [[Butters Stotch|Butters]] was identified as the author (which was not true), he was given the publishing rights.
+
+==References==
+{{Reflist}}
+
+[[zh:尼德鲍姆先生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

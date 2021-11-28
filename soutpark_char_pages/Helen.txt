@@ -1,0 +1,39 @@
+{{South Park character
+|name = Helen
+|image = Helen.png
+|gender = Female
+|hair = Black
+|died = "[[Spontaneous Combustion]]" {{S|(revived)}}
+|voice = [[Mary Kay Bergman]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766088/|title="South Park" Spontaneous Combustion (TV Episode 1999) - IMDb}}</ref>
+|appearance = "[[Spontaneous Combustion]]"
+}}
+'''Helen''' appears in the [[Season Three]] episode "[[Spontaneous Combustion]]".
+
+==Background==
+When [[Kenny McCormick|Kenny]] spontaneously combusts, a funeral is held for him. On the way back to her car after the funeral, Helen spontaneously combusts as well. Seeking assistance from local scientist [[Randy Marsh]], the town reveals Helen was on her way to her new boyfriend's house. This crucial information about Helen, combined with similar information about Kenny, leads Randy to discover the truth behind the combustions. Like Kenny, Helen's combustion was caused by her holding in her flatulence, to avoid embarrassment in front of her new significant other.
+
+==Appearance==
+Helen wears a black pleated dress and black shoes. She has black hair and wears red lipstick.
+
+<gallery widths="160" caption="Images of Helen">
+SpontaneousCombustion018.png|The remains of Helen after being spontaneously combusted
+</gallery>
+
+==Prominence==
+*"[[Spontaneous Combustion]]"
+*"[[The Wacky Molestation Adventure]]" - Seen with her family at the end of the episode.
+*"[[Two Guys Naked in a Hot Tub]]" - Seen at the Meteor Shower Party.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Three}}
+
+[[zh:海伦（人体自燃）]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Revived characters]]
+[[Category:Adult characters]]
+[[Category:Townsfolk]]
+[[Category:Parents]]
+[[Category:Characters voiced by Mary Kay Bergman]]
+[[Category:Minor characters]]

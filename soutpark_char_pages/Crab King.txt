@@ -1,0 +1,55 @@
+{{South Park character
+|name = Crab King
+|image = Creatures-local-creatures-crab-king.png
+|race = Crab person
+|gender = Male
+|hair = Gray
+|job = Ruler of the Crab People
+|appearance = ''[[South Park: The Fractured But Whole]]''
+}}
+The '''Crab King''' is the leader of the [[Crab People]]. It first appeared in ''[[South Park: The Fractured But Whole]]''.
+{{Spoiler}}
+==Background==
+As [[Call Girl]] had her mobile plan disabled, she seeks help from [[The New Kid]] to accompany her to [[D-Mobile]] and try resolve the issue. When it was discovered that the store had been taken over by crab people, the superheroes fought the new employees. After a few rounds, the crab people will summon the Crab King (who acted as the new manager) into the battlefield.
+
+Once the superheroes defeat the Crab King, it will explode and disintegrate into nothing but green slime.
+
+==Appearance==
+The Crab King has a much redder appearance compared to the subordinates. It wears a crown on its head, a purple cape, a necklace and wields a golden staff that has a golden claw at its tip.
+
+==Abilities==
+{{TFBW Enemy Abilities
+|Name = Crab King
+|Image = Tb crabpeople kingcrab.png
+|Health = 530
+|Move = 2
+|Immunities = None
+|Description = 
+|AbilityImage1 = Kingcrab_power1.png
+|Ability1 = Employee Discount
+|Description1 = Heals 125 health for itself and its allies.
+|RangeDesc1 = All standing crab people
+|Range1 = Roomwide heal.png
+|Effect1 = Heals 125 health
+|Status1 = Attack Up
+|AbilityImage2 = Kingcrab_power2.png
+|Ability2 = Employees Only
+|Description2 = Executes a magic attack from its staff.
+|RangeDesc2 = T-shaped area up to three tiles in front of Crab King
+|Range2 = 2 range multilane.png
+|Effect2 = 24 Damage (Cas.)<br>48 Damage (Hero.)<br>60 Damage (Mast.)<br>84 Damage (Dia.)
+|Status2 = Knockback (3)
+}}
+
+==Trivia==
+*A [[Cut Content in South Park: The Stick of Truth|scrapped friend icon]] indicates he was first intended to appear in ''[[South Park: The Stick of Truth]]''.
+
+[[zh:蟹王]]
+[[Category:Characters]]
+[[Category:Aliens]]
+[[Category:Animals]]
+[[Category:Male characters]]
+[[Category:Characters with superpowers]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:Video Game Exclusive characters]]

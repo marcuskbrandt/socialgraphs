@@ -1,0 +1,38 @@
+{{Group
+|name = Toto
+|image = Toto.png
+|type = Rock Band
+|job = Musicians
+|gender = Male
+|wikipedia = [[Wikipedia:Toto (band)|Toto]]
+|member1 = Steve Lukather
+|member2 = Mike Porcaro
+|member3 = David Paich
+|first = "[[Gnomes]]"
+|times = 1
+}}
+'''Toto''' (stylized as '''TOTO''') is an American rock band that appears in the [[Season Two]] episode, "[[Gnomes]]".
+
+==Background==
+In "[[Gnomes]]", for the Proposition 10 voting day, the city gets Toto to perform on [[Main Street]] before the voting.
+
+Their song "[[Africa]]" is later featured in the [[Season Twenty]] episodes "[[Fort Collins]]" and "[[Members Only]]".
+
+==Appearance==
+As the band appears in "[[Gnomes]]", the member on the left has long curly hair with a beard and wears a white tank top and has green trousers and holds an electric bass. The middle member has combed black hair and a black tie over an icy pink colored collar over a white shirt and dark blue jeans and has a microphone in front of him. The member on the right is an overweight man with combed-down black hair and a brown beard, as well as a black vest over a white shirt and navy blue jeans, he also holds a guitar. 
+
+<gallery widths="160" captionalign="left" caption="Images of Toto">
+Totoperformance.png|Toto performing in Main Street.
+</gallery>
+
+{{Minor Characters from Season Two}}
+{{MusicCelebrities}}
+[[zh:托托乐队]]
+[[Category:Groups]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Bands]]
+[[Category:Music celebrities]]
+[[Category:Celebrities]]

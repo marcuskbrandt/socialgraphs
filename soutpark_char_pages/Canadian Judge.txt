@@ -1,0 +1,30 @@
+{{South Park character
+|name = Canadian Judge
+|image = Criminal-justice-canadian-judge.png
+|gender = Female
+|hair = Black
+|job = Judge
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0757027/|title="South Park" Terrance and Phillip in Not Without my Anus (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Terrance and Phillip in Not Without My Anus]]"
+}}
+The '''Canadian Judge''' appears in the [[Season Two]] episode, "[[Terrance and Phillip in Not Without My Anus]]".
+
+==Background==
+In the episode, the Canadian judge is in charge of a trial of [[Terrance and Phillip|Terrance]]'s murder of Dr. Jeffrey O'Dwyer.
+
+==Appearance==
+She wears a black judicial robe with a white undershirt and a white "J" on the robe. She has red lipstick.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Two}}
+[[fr:Canadian Judge]]
+[[zh:加拿大法官]]
+[[Category:Characters]]
+[[Category:Minority characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Canadians]]
+[[Category:Adult characters]]
+[[Category:Female characters]]
+[[Category:African-American characters]]

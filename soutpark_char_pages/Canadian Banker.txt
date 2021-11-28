@@ -1,0 +1,35 @@
+{{South Park character
+|image = Canadian Banker.png
+|name = Canadian Banker
+|gender = Male
+|hair = Brown
+|job = Banker
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Canadian Banker''' is a minor character in ''[[South Park: The Stick of Truth]]''.
+
+==Appearance==
+Like most Canadians, he has beady eyes and a flapping head. He has brown hair and wears a black suit, red tie, and brown pants and shoes.
+
+==''[[South Park: The Stick of Truth]]''==
+The Canadian Banker works in [[Ottawa]], [[Canada]] and plays a role in currency exchange between US Dollars (USD) and Canadian Dollars (CAD) for [[The New Kid]] to spend in Canadian shops.
+
+===Exchange Rates===
+*Converting American to Canadian
+**5.00 USD for 6.20 CAD
+**20.00 USD for 24.80 CAD
+
+*Converting Canadian to American
+**5.00 CAD for 4.03 USD
+**20.00 CAD for 16.12 USD
+
+==Trivia==
+*Unlike the [[Benny|bank teller]] from the [[Bank of South Park]], the Canadian Banker will not outright rob the New Kid's money.
+[[fr:Canadian Banker]]
+[[zh:加拿大银行家]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:Video Game Exclusive characters]]

@@ -1,0 +1,28 @@
+{{South Park character
+|name = Robin Meade
+|image = Robin Meade.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|age = {{age|1969|4|21}}
+|dob = April 21, 1969
+|job = News Anchor
+|wikipedia = [[Wikipedia:Robin Meade|Robin Meade]]
+|appearance = "[[Go Fund Yourself]]"
+}}
+'''Robin Michelle Meade''' is an American news anchor who appears in the [[Season Eighteen]] episode, "[[Go Fund Yourself]]".
+
+==Background==
+After realizing the existence of a startup company named "[[Washington Redskins (Startup Company)|Washington Redskins]]", [[Dan Snyder]], the owner of a [[Washington Redskins (Football Team)|football team of the same name]], contacts the startup company and tries to plea with [[Eric Cartman|Cartman]] to change their name, but to no avail. While on board a private jet, Dan Snyder watches a news program, with Robin Meade reporting that the success of the startup company inspired many others to follow their path on [[Kickstarter]], much to his chagrin.
+
+==Appearance==
+Robin Meade has long, brown hair, and wears a pair of large earrings, a black dress, and light brown shoes.
+
+{{TelevisionCelebrities}}
+[[zh:罗宾·米德]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Television celebrities]]

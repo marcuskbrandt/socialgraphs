@@ -1,0 +1,41 @@
+{{South Park character
+|name = Mrs. Cotswolds
+|image = MrsCotswolds.png
+|gender = Female
+|race = Caucasian
+|hair = Dark Brown
+|voice = [[Mary Kay Bergman]]<ref>{{cite web|url=http://www.imdb.com/title/tt0768560/|title="South Park" Hooked on Monkey Fonics (TV episode 1999)|publisher=IMDb.com}}</ref>
+|relation1 = Husband
+|relativename1 = [[Mr. Cotswolds]]
+|relation2 = Son
+|relativename2 = [[Mark Cotswolds]]
+|relation3 = Daughter
+|relativename3 = [[Rebecca Cotswolds]]
+|appearance = "[[Hooked on Monkey Fonics]]"
+}}
+'''Mrs. Cotswolds''' is the mother of [[Mark Cotswolds|Mark]] and [[Rebecca Cotswolds]] who appears in the [[Season Three]] episode "[[Hooked on Monkey Fonics]]". She, along with her husband, home school their two children who later choose to attend [[South Park Elementary|public school]].
+
+==Appearance==
+She wears a dark blue shirt with a pink overcoat and a light blue skirt. She has black shoes and wavy brown hair that has been styled.
+
+<gallery widths="160" spacing="small" caption="Images of Mrs. Cotswolds">
+HookedOnMonkeyFonics008.png|Mr. and Mrs. Cotswolds cheering for their children in the spelling bee in "[[Hooked on Monkey Fonics]]".
+MrsCotswolds3.png|Mr. and Mrs. Cotswolds shocked that Mark wants to go to a public school.
+</gallery>
+
+==Personality==
+She, along with her husband and children, lack decent social skills, remaining publicly unknown for quite some time. Despite being academically successful, she is ignorant of simple social skills, such as inviting someone inside her house.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Three}}
+[[es:Sra. Cotswolds]]
+[[zh:科茨沃尔兹太太]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:One-off characters]]
+[[Category:Characters in a relationship]]
+[[Category:Parents]]
+[[Category:Townsfolk]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Mary Kay Bergman]]

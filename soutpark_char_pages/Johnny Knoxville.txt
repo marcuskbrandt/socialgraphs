@@ -1,0 +1,37 @@
+{{South Park character
+|name = Johnny Knoxville
+|image = Johnny-knoxville.png
+|gender = Male
+|hair = Black
+|age = {{age|1971|3|11}}
+|dob = March 11, 1971
+|job = Actor<br>Comedian<br>Screenwriter<br>Stunt Performer
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705924/|title="South Park" Fat Camp (TV episode 2000)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Johnny Knoxville|Johnny Knoxville]]
+|appearance = "[[Fat Camp]]"
+}}
+'''Johnny Knoxville''' is an actor and comedian who appears in the [[Season Four]] episode, "[[Fat Camp]]".
+
+==Background==
+In "[[Fat Camp]]", he was seen being interviewed by [[Howard Stern]], along with [[Kenny McCormick]] and [[Tom Green]].
+
+==Appearance==
+He wears yellow sunglasses, a black-sleeved, white t-shirt with "SKATE" printed on its center, and dark blue pants.
+
+==Personality==
+He supposedly does sick and disgusting acts for money, which, according to [[Howard Stern]], makes him a "whore".
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Four}}
+[[pl:Johnny Knoxville]]
+[[ru:Джонни Кноксвилл]]
+[[zh:约翰尼·纳什维尔]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Television celebrities]]

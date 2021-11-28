@@ -1,0 +1,39 @@
+{{South Park character
+|name = Nicole Kidman
+|image = Nicole-kidman.png
+|gender = Female
+|hair = Brown
+|age = {{age|1967|6|20}}
+|dob = June 20, 1967
+|job = Actress
+|religion = Roman Catholic
+|voice = [[April Stewart]]<ref>{{cite web|url=http://www.imdb.com/title/tt0761294/|title="South Park" Trapped in the Closet (TV episode 2005)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Nicole Kidman|Nicole Kidman]]
+|appearance = "[[Trapped in the Closet]]"
+}}
+'''Nicole Kidman''' is an Australian-born Hollywood actress and ex-wife of actor [[Tom Cruise]]. She appears in "[[Trapped in the Closet]]".
+
+==Background==
+When [[Tom Cruise]] is told that his acting isn't great by [[Stan Marsh]], the supposed reincarnation of [[L. Ron Hubbard]], he locks himself in Stan's closet and refuses to come out. After various individuals tried to get him to emerge, Nicole was called in to try and coerce Tom out of the closet. She tried to convince him that no one would judge him, including herself and his current wife, Katie Holmes. All of Nicole's attempts at getting Tom Cruise to come out failed.
+
+==Appearance==
+Nicole was shown wearing blue pants, a black dress with red accents, and a necklace. She has long brown hair, brown eyebrows, and an oval-shaped head.
+
+<gallery widths="160" caption="Images of Nichole Kidman">
+TrappedInTheCloset (72).png|Kidman trying to convince [[Tom Cruise]] to come out of the closet.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Nine}}
+{{MovieCelebrities}}
+[[ja:ニコール・キッドマン]]
+[[zh:妮可·基德曼]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Female characters]]
+[[Category:Characters voiced by April Stewart]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Catholic characters]]
+[[Category:Movie celebrities]]

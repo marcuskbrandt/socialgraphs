@@ -1,0 +1,34 @@
+{{South Park character
+|name = Human Pete Puma
+|image = Pete Puma.png
+|gender = Male
+|hair = Brown
+|age = 9-10
+|job = Student
+|voice = [[Trey Parker]]<ref>Credited as "Disabled Kid #4" in {{cite web|url=https://www.imdb.com/title/tt1644897/|title="South Park" Crippled Summer (TV episode 2010)|publisher=IMDb.com}}</ref>
+|appearance = "[[Crippled Summer]]"
+}}
+'''Pete Puma''' is a character who appears in [[Season Fourteen]] episode, "[[Crippled Summer]]".
+
+==Background==
+He is a student at [[Lake Tardicaca|Tardicaca Camp]], which is a camp for children with disabilities. He was on the [[Blue Team]] with [[Jimmy]], [[Timmy]], [[Lenora]], [[Droopy Dawg]], and [[Elmer Fudd]]. He later appears at the end of the episode saying he never saw a child being raped by a shark, which was what had happened to [[Nathan]]. His disability makes him look and sound like the Pete Puma character
+
+==Appearance==
+He wears a blue long-sleeved shirt with the Lake Tardicaca logo and dark purple pants. He is almost always smiling and has a wide nose and a big mouth, his eyes are almost closed and he also has big hands. He has brown hair.
+
+<gallery widths="160" caption="Images of Pete Puma" spacing="small">
+PetePuma1.png|Pete Puma in "[[Crippled Summer]]".
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:皮特·彪马]]
+[[Category:Characters]]
+[[Category:Crossover characters]]
+[[Category:Characters with deviations]]
+[[Category:One-off characters]]
+[[Category:Unnamed characters]]
+[[Category:Male characters]]
+[[Category:Male 4th graders]]
+[[Category:Tardicaca campers]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,39 @@
+{{Group
+|name = Dio
+|image = Dio.png
+|type = Band
+|job = Musicians
+|gender = Male
+|wikipedia = [[Wikipedia:Dio (band)|Dio]]
+|member1 = Ronnie James Dio; Lead vocalist
+|member4 = [[Fonics Monkey]]; Drummer
+|first = "[[Hooked on Monkey Fonics]]"
+|times = 1
+}}
+'''Dio''' appeared in the [[Season Three]] episode, "[[Hooked on Monkey Fonics]]", where they were seen playing one of their most well known hit songs, "[[Holy Diver]]", at [[South Park Elementary]]'s [[Bay of Pigs Memorial Dance]]. The [[Fonics Monkey]] also joined them on drums.
+
+==Background==
+Dio was a Heavy Metal/Hard Rock band led by Ronnie James Dio. They are described as a musical force of the '70s and '80s by [[Principal Victoria]].
+
+In a 2002 interview for Reality Check TV, when asked about his parodied appearance in ''[[South Park]]'', Ronnie James described it as being "wonderful". He commented that he initially did not want to let it be done because he felt that they were just going to "crucify" him, although the producers ended up convincing him that they were fans of his music and that he would like it, so he ultimately accepted.
+
+He showed some reservations about how they portrayed his talking voice, though (which in the episode, following the usual ''South Park'' trend, is comically high-pitched). When asked if the producers had approached him to lend his own voice for his animated version, he responded that they did not do so and that he would not have done it, anyway. He then confirmed that they had indeed obtained the rights to play their hit song "[[Holy Diver]]" in the episode.<ref>[https://www.youtube.com/watch?v=75TCYuq0-Lw&t=7m20s "Ronnie James Dio on Reality Check TV (2002)".] YouTube. June 25, 2009.</ref>
+
+==Trivia==
+*Even though the band was still active at the time of this episode, the members likenesses do not match the band's line-up at the time.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Three}}
+{{MusicCelebrities}}
+
+[[es:Dio]]
+[[zh:罗尼·詹姆斯·迪奥]]
+[[Category:Adult characters]]
+[[Category:Bands]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Groups]]
+[[Category:Male characters]]
+[[Category:Music celebrities]]
+[[Category:One-off characters]]

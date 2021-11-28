@@ -1,0 +1,38 @@
+{{South Park character
+|name = Mrs. Gray
+|image = Adults-sophie-grays-mom.png
+|gender = Female
+|hair = Orange
+|relation1 = Husband
+|relativename1 = Mr. Gray
+|relation2 = Daughter
+|relativename2 = [[Sophie Gray]]
+|appearance = "[[Basic Cable]]"
+}}
+'''Mrs. Gray''' is the mother of [[Sophie Gray]] who appears in the [[Season Twenty-Three]] episode "[[Basic Cable]]".
+
+==Background==
+When [[Scott Malkinson]]'s father [[Clark Malkinson]] ends up shutting down the streaming services in order to save the cable business, Mrs. Gray is shown talking to [[Officer Bright]] after a show called "[[Crab People]]" comes on her television while she tries to watch ''Stranger Things''.
+
+==Appearance==
+Like her daughter, Mrs. Gray has long orange hair and orange eyebrows. She wears a blue sweater with a gray V-neck shirt underneath,  light blue jeans, and white shoes. She also wears small yellow earrings on both ears.
+
+<gallery widths="160" captionalign="left" caption="Images of Mrs. Gray">
+Officer-Bright-talking-to-Sophie's-Mom.png|Mrs. Gray talking to Officer Bright
+</gallery>
+
+==Prominence==
+*"[[Basic Cable]]" - Debut appearance.
+*"[[South ParQ Vaccination Special]]" - Seen at the end celebrating the end of the pandemic.
+{{Minor Characters from Season Twenty-Three}}
+{{South Park Families}}
+[[es:Sra. Gray]]
+[[zh:格雷太太]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Minor characters]]
+[[Category:Characters with unknown voice actor]]
+[[Category:Parents]]
+[[Category:Townsfolk]]
+[[Category:Gingers]]
+[[Category:Adult characters]]

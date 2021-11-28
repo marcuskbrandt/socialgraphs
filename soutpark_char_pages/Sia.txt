@@ -1,0 +1,30 @@
+{{South Park character
+|name = Sia
+|image = Sia.png
+|aliases = Blonde Girl
+|gender = Female
+|hair = Blonde
+|job = Student
+|voice = [[Mona Marshall]]<ref>{{cite web|url=http://www.imdb.com/title/tt4080138/|title="South Park" The Cissy (TV episode 2014)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Cissy]]"
+}}
+'''Sia''' is a student at [[South Park Elementary]] who first appears in the [[Season Eighteen]] episode, "[[The Cissy]]". Although no other character refers to her by name in the episode, her voice credit is listed as "Sia".
+
+==Background==
+She appears in "[[The Cissy]]", holding her nose and begging [[Eric Cartman]] to leave the [[South Park Elementary Bathrooms|girls' bathroom]].
+
+==Appearance==
+She has very pale short blonde hair with bangs. She wears a short black jacket over a black-and-white striped shirt, with a red skirt.
+
+==Personality==
+Sia exhibits frustration and anger at Cartman's refusal to leave the girls' bathroom.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eighteen}}
+{{South Park Children}}
+[[zh:希雅]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:School children]]
+[[Category:One-off characters]]

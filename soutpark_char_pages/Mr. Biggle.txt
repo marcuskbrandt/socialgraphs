@@ -1,0 +1,42 @@
+{{South Park character
+|name = Mr. Biggle
+|image = MrBiggle.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt3169686/|title="South Park" Goth Kids 3: Dawn of the Posers (TV Episode 2013)|publisher=IMDb.com}}</ref>
+|relation1 = Wife
+|relativename1 = [[Harriet Biggle]]
+|relation2 = Adopted Son
+|relativename2 = [[Bradley Biggle]]
+|relation3 = Daughter
+|relativename3 = [[Henrietta Biggle]]
+|appearance = "[[Goth Kids 3: Dawn of the Posers]]"
+}}
+'''Mr. Biggle''' is the biological father of [[Henrietta Biggle]], the adoptive father of [[Bradley Biggle]] and husband of [[Harriet Biggle]]. He only appears in "[[Goth Kids 3: Dawn of the Posers]]", where he and Mrs. Biggle sent Henrietta to a camp for [[Troubled Acres|troubled kids]].
+
+==Appearance==
+Mr. Biggle is almost bald, he has brown hair on the sides of his head, a brown mustache, small light eyebrows, and a double chin. He wears an aqua-blue shirt under a gray jacket with white details, a black belt with a white buckle, blue pants, and black shoes. He is slightly overweight.
+
+==Family==
+===[[Bradley Biggle]]===
+Bradley is his adopted son. Nothing is known about their relationship, although Bradley does not appear in any of the family portraits the Biggle family has in their living room.
+
+===[[Henrietta Biggle]]===
+Henrietta is his biological daughter. Mr. Biggle is somewhat stricter with her than Mrs. Biggle.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seventeen}}
+{{South Park Families}}
+[[zh:毕格先生]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Parents]]
+[[Category:Townsfolk]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Unnamed characters]]
+[[Category:Overweight characters]]
+[[Category:The Fractured But Whole: Characters]]

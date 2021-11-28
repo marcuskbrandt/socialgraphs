@@ -1,0 +1,45 @@
+{{South Park character
+|name = Miles
+|image = Business-vape-clerk.png
+|gender = Male
+|hair = Black
+|job = Budtender
+|appearance = "[[Tegridy Farms]]"
+}}
+'''Miles''' is a budtender. He appears in [[Season Twenty-Two]] episode "[[Tegridy Farms]]" working at [[Big Vape Colorado]], and in ''[[South Park: The Fractured But Whole]]'' working at [[Medicinal Fried Chicken (Location)|Medicinal Fried Chicken]].
+
+==Background==
+He appears in "[[Tegridy Farms]]" as a cashier at Big Vape, where he can be seen dispensing vape products to customers. He is later present when [[Randy Marsh]] declares vape users are "pussies" and proceeds to beat up several people there.
+
+===''[[South Park: The Fractured But Whole]]''===
+In [[Medicinal Fried Fiasco]] mission, [[The New Kid]] enters the pot store and find [[Towelie (Character)|Towelie]]. During the combat with Towelie, Miles shows up with [[Todd|one other opponent]]. The New Kid managed to defeat the Towelie by burning four piles of weed that were spilled on the combat area.
+
+====Abilities====
+{{TFBW Enemy Abilities
+|Name = Budtender
+|Image = Tb hipsterbudtender b.png
+|Health = 270
+|Move = 1
+|Immunities = None
+|AbilityImage1 = Budtender power1.png
+|Ability1 = Kickball Kick
+|Description1 = A single kick that also inflicts knockback.
+|RangeDesc1 = One tile in front of the budtender
+|Range1 = Melee.png
+|Effect1 = 22 Damage (Cas.)<br>44 Damage (Hero.)<br>55 Damage (Mast.)<br>77 Damage (Dia.)
+|Status1 = Knockback (2)
+}}
+
+==Appearance==
+Miles has short, combed black hair and a full black beard. He appears to have tattoos on his right arm. He wears a green apron over a blue collared shirt, a pair of denim, black working shoes, glasses and black earrings.
+<gallery widths="160" captionalign="left" caption="Images of Miles">
+SPTF - 00331.png
+</gallery>
+
+[[zh:迈尔斯（完整破碎）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]

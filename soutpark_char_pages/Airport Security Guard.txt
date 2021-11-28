@@ -1,0 +1,25 @@
+{{South Park character
+|name = Airport Security Guard
+|image = Airport security guard.png
+|gender = Male
+|race = Caucasian
+|job = Security Guard
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0766089/fullcredits?ref_=tt_cl_sm|title="South Park" The Entity (TV Episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Entity]]"
+}}
+The '''Airport Security Guard''' is a security guard for [[Denver International Airport]]. He appears in the [[Season Five]] episode "[[The Entity]]".
+
+==Background==
+In an attempt to send [[Kyle Schwartz]] back to his home state of Connecticut, [[the boys]] trick the former into playing hide-and-seek in the airport. As the security guard is screening [[Kenny McCormick|Kenny]] at the boarding gate, he finds a nail clipper on Kenny's possession, and reacts by shooting Kenny, killing him.
+
+==Appearance==
+The airport security guard has only three strands of black hair, large ears, and a mole on his right cheek. He wears a security guard uniform which consists of a white collared shirt, blue tie, and blue pants.
+
+==References==
+{{Reflist}}
+[[zh:机场保安]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

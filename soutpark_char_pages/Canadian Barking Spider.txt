@@ -1,0 +1,28 @@
+{{South Park character
+|image = BarkingSpider.png
+|name = Canadian Barking Spider
+|race = Spider
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Canadian Barking Spider''' is a giant spider found only in [[Canada]].
+
+==''[[South Park: The Stick of Truth]]''==
+The Canadian Barking Spider is fought as part of the [[Big Game Huntin' With Jimbo]] side quest. It is spawned when [[The New Kid]] places a serving of Poutine on a spider web north of the Catacombs of Quebec.
+
+Upon defeat, the spider drops a pair of Barbarian Gloves.
+
+==='''Abilities'''===
+*'''Melee Attack''' - 
+*'''Spider Baby Blast''' - 
+*'''Canadian Spider Bark''' - Similar to the Canadian Greeting attacks from the dire animals, it causes Grossed Out if not blocked and inflicts heavy damage.
+*'''Web Shot''' - Will slow down the player or his buddy.
+
+==Trivia==
+*The barking spider is the only animals in Canada that does not inflict Dire AIDS.
+[[fr:Canadian Barking Spider]]
+[[zh:咆哮蜘蛛]]
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:Monsters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:Video Game Exclusive characters]]

@@ -1,0 +1,32 @@
+{{South Park character
+|name = Mrs. Sanders
+|image = horace-mom.png
+|gender = Female
+|hair = Red
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705924/|title="South Park" Fat Camp (TV Episode 2000)|publisher=IMDb.com}}</ref>
+|relation1 = Son
+|relativename1 = [[Horace Sanders]]
+|relation2 = Husband
+|relativename2 = [[Mr. Sanders]]
+|appearance = "[[Fat Camp]]"
+}}
+'''Mrs. Sanders''' appears in the [[Season Four]] episode, "[[Fat Camp]]".
+
+==Background==
+Mrs. Sanders and her [[Mr. Sanders|husband]] go to [[Hopeful Hills|fat camp]] to see how [[Horace Sanders|their son]] is doing. After discovering that he has not lost any weight, they decide to take him out of camp and call all the campers' parents to come and fetch their children. Later in the episode, [[Chad]] reveals that [[Eric Cartman]] was selling candy to campers without [[Rick and Susan Tyler|the counselors]] knowing. They, along with the other parents, leave their child at camp, giving them another chance to lose weight.
+
+==Appearance==
+Mrs. Sanders wears a dark pink dress and has long red hair and red lipstick. Like all other campers' parents, she is obese.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[zh:桑德斯太太]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:One-off characters]]
+[[Category:Female characters]]
+[[Category:Gingers]]
+[[Category:Overweight characters]]

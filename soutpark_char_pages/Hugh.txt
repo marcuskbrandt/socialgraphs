@@ -1,0 +1,45 @@
+{{South Park character
+|name = Hugh
+|image = Hugh.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|appearance = "[[Dead Kids]]"
+}}
+'''Hugh''' is a ''[[South Park]]'' character based and drawn on the real-life person with the same name who had won the Omaze Campaign for "NEXT for AUTISM"<ref>{{cite web|url=https://youtu.be/36Ps4dH-Sm4|title=This Omaze Winner is Going to Get Drawn into South Park!|publisher=Omaze}}</ref>. He first appear in the [[Season Twenty-Two]] episode, "[[Dead Kids]]".
+
+==Background==
+In "[[Dead Kids]]", he was seen as one of the [[City People|townsfolk]] surprising [[Sharon Marsh]] at [[South Park Elementary]].
+
+In "[[Nobody Got Cereal?]]", he hosts the symposium titled "When should I start to worry?".
+
+==Appearance==
+Hugh wears a buttoned shirt, with long trousers. He has brown eyebrows and a brown goatee. He also wears glasses and is bald.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of Hugh">
+S22E01 Behind The Scenes 6.jpg|Art for Hugh's look
+SPEPITEST - 00147.png|Hugh seen with the other townsfolk surprising Sharon
+SPNGC - 00532.png|Hugh hosting a symposium
+</gallery>
+
+==Prominence==
+*"[[Dead Kids]]"
+*"[[Nobody Got Cereal?]]"
+
+==Trivia==
+*Hugh was the third of four ''[[South Park]]'' fans who have guest starred on the show. The other guests include:
+**[[Alex Glick]], who appeared in "[[Red Man's Greed]]".
+**[[Matthew Klinner]], who appeared at the end of the [[South Park Title Sequence|title sequence]] for "[[Sexual Healing]]".
+**[[Sef Furman]], who appeared in "[[The Pandemic Special]]".
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Twenty-Two}}
+[[pl:Hugh]]
+[[zh:休]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Townsfolk]]

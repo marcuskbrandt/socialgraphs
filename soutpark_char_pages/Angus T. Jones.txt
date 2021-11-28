@@ -1,0 +1,32 @@
+{{South Park character
+|name = Angus Turner Jones
+|image = Angus_T_Jones.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1993|10|8}}
+|dob = October 8, 1993
+|job = Actor (formerly)
+|voice = [[Matt Stone]]<ref>Credited as Jacob Harper in {{cite web|url=https://www.imdb.com/title/tt1708917/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Poor and Stupid (TV Episode 2010) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Angus T. Jones|Angus T. Jones]]
+|appearance = "[[Poor and Stupid]]"
+}}
+'''Angus Turner Jones''' is an American former actor who appears in [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+In an attempt to make himself poor and stupid, [[Eric Cartman]] ties himself upside down while watching a marathon of ''Two and a Half Men'', starring Angus T. Jones, along with [[Charlie Sheen]] and [[Jon Cryer]]. Jones (known as Jake in the show), comments on a girl wearing a sweater before starting to giggle.
+
+==Appearance==
+Jones is slightly overweight and has a long brown hair. He wears a green T-shirt featuring an octopus carrying a radio set, a pair of black shorts, white socks and white sports shoes.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[ru:Ангус Т. Джонс]]
+[[zh:安格斯·琼斯]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

@@ -1,0 +1,28 @@
+{{South Park character
+|name = Female Thief
+|image = Female-thief.png
+|gender = Female
+|hair = Light Brown
+|job = Thief
+|voice = [[Mona Marshall]]
+|appearance = "[[Super Fun Time]]"
+}}
+The '''Female Thief''' was a member of the [[The Burger King Bandits|Burger King Bandits]]. She was shot by the police when they retook [[Pioneer Village]]. She only appeared in "[[Super Fun Time]]".
+
+==Appearance==
+She has short dirty blond hair, dirty blond eyebrows and wears pink lipstick. She also wears a black dress under a black winter jacket, gray leggings and black sandals.
+
+<gallery widths="160" spacing="small" caption="Images of Female Thief">
+FemaleThief01.png|The Female Thief along with the other Burger King Bandits.
+FemaleThief03.png|The Female Thief after being shot.
+</gallery>
+{{Minor Characters from Season Twelve}}
+[[zh:女劫匪]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Mona Marshall]]
+[[Category:Unnamed characters]]
+[[Category:Criminals]]

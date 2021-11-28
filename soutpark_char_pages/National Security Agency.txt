@@ -1,0 +1,37 @@
+{{Group
+|name = National Security Agency
+|image = NSA.png
+|aliases = NSA
+|type = Government Agency
+|job = Intelligence Agents
+|gender = Male and Female
+|enemies = [[Eric Cartman]]
+|wikipedia = [[Wikipedia:National Security Agency|National Security Agency]]
+|member1 = [[Chief Joe]]
+|member2 = Agent Clark
+|member3 = Agent Marx
+|member4 = Patricia
+|member5 = Other NSA Workers
+|first = "[[Pinewood Derby]]"
+|times = 2
+}}
+The '''National Security Agency''' (NSA) is a real intelligence agency that first appear in the [[Season Thirteen]] episode, "[[Pinewood Derby]]". It was featured prominently in the [[Season Seventeen]] episode, "[[Let Go, Let Gov]]".
+
+==Background==
+In "[[Pinewood Derby]]", [[Stan Marsh|Stan]]'s Pinewood Derby car shoots off the track and into space, reaching warp speed. Not long afterward, two NSA agents, Agent Clark and Agent Marx, visit [[Portal:Characters/Families#Kern / Kimble / Marsh Family|the Marshes]] and tell them that an alien species found the car and are on the way to Earth to make contact. 
+
+In "[[Let Go, Let Gov]]", [[Eric Cartman]] talks non-stop about the NSA spying on everyone, much to the annoyance of [[Kyle Broflovski]]. [[Butters Stotch]] misunderstands his paranoia, prays to the government, and starts a new religion of confessing one's perceived "sins" at the [[Department of Motor Vehicles]].
+
+Cartman then goes undercover to expose the NSA's surveillance by disguising himself as [[Bill Clinton]]. The head of the NSA, [[Chief Joe]], is apparently unaware that Cartman is undercover and gives him the job. He shows Cartman how the NSA watches people around the US, with the workers reporting to him about nonchalant things which they see as important. Later on, he and Cartman go to a [[Hippies|hippie]]'s home to talk with him after he threatens to blow up the Lincoln Memorial.
+
+When they get back, Cartman tries to find out information about himself and asks the other workers about the profile of "Eric Cartman". It turns out that the NSA deems him as "fat and unimportant". Cartman immediately tries to convince them to change the profile, but they refuse. 
+
+Chief Joe later reveals how the NSA is capable of keeping track of everyone in America. They use [[Santa Claus]] who is hooked up to a machine. Cartman then breaks his cover and puts the revelations on the Internet. The next day, however, Cartman is seen crying in his room. He had  expected people to be mad at the government and to think he is cool, but he realizes that no one cares about the truth he uncovered.
+
+{{Minor Characters from Season Seventeen}}
+[[zh:国家安全局]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Groups]]
+[[Category:Organizations]]
+[[Category:Minor characters]]

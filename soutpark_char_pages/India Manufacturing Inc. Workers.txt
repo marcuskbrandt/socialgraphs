@@ -1,0 +1,26 @@
+{{Group
+|name = India Manufacturing Inc. Workers
+|image = CashForGold077.png
+|type = Laborers
+|gender = Male/Female
+|job = Fine Jewelry Makers
+|first = "[[Cash For Gold]]"
+|times = 1
+}}
+The '''India Manufacturing Inc. Workers''' are a group of underaged workers for [[India Manufacturing Inc.]]. They appear in the [[Season Sixteen]] episode, "[[Cash For Gold]]", where they are seen making fine jewelry to be sold at an extremely high profit margin. 
+
+==Background==
+The workers at India Manufacturing Inc. are all children, who work in a sweatshop-like fashion to reprocess gold and gems to make jewelry. 
+
+==Appearance==
+All of the workers have tattered clothes, bruises, and poor hygiene. This is indicative of the poor working conditions where they are most likely forced to work.
+
+==Personality==
+None of the children working at India Manufacturing Inc. are shown to speak, and none of them appear to be remotely happy. They all seem extremely exhausted and are not proud of what they do. The look on their faces is indicative of their acceptance of their position.
+
+{{Minor Characters from Season Sixteen}}
+[[Category:Characters]]
+[[Category:Organizations]]
+[[Category:One-off characters]]
+[[Category:Unnamed characters]]
+[[Category:Groups]]

@@ -1,0 +1,26 @@
+{{South Park character
+|name = Mr. McGillicuddy
+|image = Mr. McGillicuddy.png
+|gender = Male
+|race = Caucasian
+|hair = 
+|job = Owner of [[The T-Shirt Factory]]
+|voice = [[Matt Stone]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0761290/fullcredits?ref_=tt_cl_sm|title="South Park" Krazy Kripples (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[Krazy Kripples]]"
+}}
+'''Mr. McGillicuddy''' is the owner of [[The T-Shirt Factory]]. He appears in the [[Season Seven]] episode "[[Krazy Kripples]]".
+
+==Background==
+[[Jimmy Valmer]] and [[Timmy Burch]] decide to form their own club for genuine cripples known as the Crips, unaware that there is already another [[Crips (Gang)|gang]] that shares the same name. When they visit the T-Shirt Factory to have their T-shirt printed, Mr. McGillicuddy tells them of the gang's existence in [[Denver, Colorado|Denver]], but refuses to explain further.
+
+==Appearance==
+Mr. McGillicuddy has balding gray with mustache. He wears a white T-shirt (bearing the text "T-SHIRT FACTORY" in violet) over an orange collared shirt and blue pants.
+
+==References==
+{{Reflist}}
+[[zh:麦吉利库迪先生]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Matt Stone]]

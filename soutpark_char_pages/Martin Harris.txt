@@ -1,0 +1,42 @@
+{{South Park character
+|name = Martin Harris
+|image = Martin-harris.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = 92 (deceased)
+|dob = May 18, 1783
+|died = July 10, 1875
+|job = Book of Mormon Witness
+|religion = Mormonism
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705893/|title="South Park" All About Mormons (TV episode 2003)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Martin Harris (Latter Day Saints)|Martin Harris]]
+|relation1 = Wife
+|relativename1 = [[Lucy Harris]]
+|appearance = "[[All About Mormons]]"
+}}
+'''Martin Harris''' appeared in the [[Season Seven]] episode, "[[All About Mormons]]", where he helps [[Joseph Smith]] translate the tablets into the Book of Mormon. 
+
+==Background==
+He explains the tablets to his wife, [[Lucy Harris]], but she does not believe him. She hid the original translations so that Joseph Smith could translate the tablets again, thus proving his story. Joseph Smith told Martin that god was angry and that the second translation would be different.
+
+==Appearance==
+Martin Harris has gray hair and has side burns going to the bottom of his cheeks. He wears formal clothing consisting of gray pants, a white shirt, a black neck tie, and black shoes.
+
+==References==
+{{Reflist}}
+{{HistoricalCelebrities}}
+{{Minor Characters from Season Seven}}
+[[ja:マーティン・ハリス]]
+[[zh:马丁·哈里斯]]
+[[Category:Characters]]
+[[Category:Historical celebrities]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Mormon characters]]
+[[Category:Celebrities]]
+[[Category:Elderly people]]
+[[Category:Religious Figures]]

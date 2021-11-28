@@ -1,0 +1,42 @@
+{{South Park character
+|name = Mr. Conners
+|image = Mr-connors.png
+|gender = Male
+|hair = Brown
+|job = '''Formerly:''' Wrestling Teacher<br>'''Currently:''' WWE Wrestler
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1532990/|title="W.T.F." on IMDB}}</ref>
+|appearance = "[[W.T.F.]]"
+}}
+'''Mr. Conners''' is the former wrestling teacher at the [[South Park Elementary]]. He appears in the [[Season Thirteen]] episode, "[[W.T.F.]]".
+
+==Background==
+Mr. Conners was fired due to the lack of interest among the students in real wrestling. [[Principal Victoria]] confuses the sport with W.W.E. type events and cites the dramatic adult story-lines in the newspaper as well as mistaking wrestling videos on his iPhone with "gay" pornography.
+
+He was also a highly accomplished Olympic wrestler as his living room was filled with awards and trophies.
+
+==Appearance==
+He wears a gray wrestling singlet. He also wears large, gray and white sneakers, long gray socks, a gray kneecap on his right knee, and white protective headgear.
+<gallery widths="160" spacing="small" caption="Images of Mr. Conners">
+WTF010.png|Mr. Conners teaching wrestling to a few [[List of Male 4th Graders|male fourth graders]].
+WTF012.png|Mr. Adams putting [[Butters Stotch|Butters]] and [[Eric Cartman|Cartman]] in a wrestling position.
+WTF043.png|''"This is not wrestling!!!"''
+WTF059.png|Mr. Conners after being fired.
+WTF071.png|Mr. Conners wrestling a security guard.
+WTF077.png|Mr. Conners about to fire a rocket at the WWE president.
+WTF079.png|''"This is wrestling!"''
+</gallery>
+
+==Personality==
+Mr. Conners appeared to be very devoted to wrestling, even going as far as to try and kill the W.W.E. President [[Vince McMahon]], in order to show people what real wrestling is. After giving a heartfelt speech to the [[Wrestling Takedown Federation]] audience, Vince McMahon offers him a job and proclaims "Sir, that was one of the finest wrestling performances I have ever seen". Mr. Conners accepts the offer, backsliding on his former hatred of the W.W.E., now that he is recognized for his real wrestling talents.
+
+==References==
+{{reflist}}
+{{South Park Elementary Staff}}
+{{Minor Characters from Season Thirteen}}
+[[zh:康纳斯教练]]
+[[Category:One-off characters]]
+[[Category:Characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Former school faculty]]

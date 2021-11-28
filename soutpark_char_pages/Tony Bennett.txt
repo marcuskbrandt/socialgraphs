@@ -1,0 +1,38 @@
+{{South Park character
+|name = Tony Bennett
+|image = 1810-celebrities-tony-bennett-0.png
+|gender = Male
+|race = Caucasian
+|hair = Grey
+|age = {{age|1926|8|3}}
+|birthday = August 3, 1926
+|job = Singer, Painter
+|religion = Atheist
+|wikipedia = [[Wikipedia:Tony Bennett|Tony Bennett]]
+|appearance = "[[HappyHolograms|#HappyHolograms]]"
+}}
+{{LinkDisambig|Tony (Disambiguation)}}
+'''Anthony Dominick Benedetto''', known professionally as '''Tony Bennett''', is an American singer known for his songs such as "Because of You" and "I Left My Heart In San Francisco". He appears in the [[Season Eighteen]] episode, "[[HappyHolograms|#HappyHolograms]]".
+
+==Background==
+Tony was seen singing Christmas songs on stage with [[Lady Gaga]] in [[Washington Redskins: Go Fuck Yourself Holiday Special]].
+
+==Appearance==
+Tony Bennett wears a formal black suit with a white shirt underneath and a black tie. He is also visibly aged.
+
+==Gallery==
+<gallery widths="160" caption="Images of Tony Bennett">
+HappyHolograms00021.png|Tony Bennett singing Christmas songs with Lady Gaga
+</gallery>
+
+{{MusicCelebrities}}
+{{Minor Characters from Season Eighteen}}
+[[zh:托尼·班奈特]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Elderly people]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:Music celebrities]]
+[[Category:Atheists]]

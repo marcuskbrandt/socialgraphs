@@ -1,0 +1,34 @@
+{{Group
+|name = Hopeful Hills Campers
+|image = Kid-groups-fat-camp-kids.png
+|member1 = [[Horace Sanders]]
+|voice1 = [[Trey Parker]]<ref name="IMDb">{{cite web|url=http://www.imdb.com/title/tt0705924/|title="South Park" Fat Camp (TV episode 2000)|publisher=IMDb.com}}</ref>
+|member2 = [[Chad]]
+|voice2 = Trey Parker<ref name="IMDb"/>
+|member3 = [[Alice]]
+|voice3 = [[Eliza J. Schneider]]<ref name="IMDb"/>
+|member4 = [[Tony]]
+|first = "[[Fat Camp]]"
+}}
+The '''[[Hopeful Hills]] Campers''' are a group of overweight children that appear in [[Season Four]] episode "[[Fat Camp]]".
+
+==Appearance==
+All campers are overweight students. They wear the white Hopeful Hills uniform. They all have a double chin, just like [[Eric Cartman|Cartman]].
+
+==Personality==
+Most of them do not seem to care about losing weight at the beginning of the episode, as they avoid the healthy food that the [[Rick and Susan Tyler|counselors]] offered them and even trying to escape from the camp. They also buy the candy that Cartman sells at bedtime. However, they feel guilty about this and tell their parents and counselors about buying candy, and even promise that they will really try to lose weight.
+
+==Members==
+*[[Horace Sanders]]
+*[[Chad]]
+*[[Alice]]
+*[[Tony]]
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[zh:减肥营儿童]]
+[[Category:Characters]]
+[[Category:Groups]]
+[[Category:Overweight characters]]
+[[Category:One-off characters]]

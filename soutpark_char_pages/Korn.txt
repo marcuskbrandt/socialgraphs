@@ -1,0 +1,53 @@
+{{Group
+|name = Korn
+|image = Korn.png
+|type = Band
+|job = Musicians
+|gender = Male
+|wikipedia = [[Wikipedia:Korn|Korn]]
+|member1 = Jonathan Davis<ref name=imdb>{{Cite web|url=http://www.imdb.com/title/tt0705939/|title="Korn's Groovy Pirate Ghost Mystery" on IMDB}}</ref>
+|member2 = James "Munky" Shaffer<ref name=imdb/>
+|member3 = Reginald "Fieldy" Arvizu|Reginald Arvizu<ref name=imdb/>
+|member4 = David Silveria<ref name=imdb/>
+|member5 = Brian "Head" Welch|Brian "Head" Welch<ref name=imdb/>
+|member6 = [[Nibblet]]
+|first = "[[Korn's Groovy Pirate Ghost Mystery]]"
+|times = 1
+}}
+'''Korn''' is an American nu metal band that appear in the [[Season Three]] episode, "[[Korn's Groovy Pirate Ghost Mystery]]", as a ''Scooby-Doo'' parody.
+
+==Background==
+The group also appears to have useless super-powers in which clasping each other's wrists they are able to turn into two stalks of corn with butter, a kernel of corn, popcorn, and a can of creamed corn. They agree that it is useless when facing off against three pirate ghosts, but admit they do it solely because they say "It's just cool to do." The band is from Bakersfield, California and they premiered "[[Falling Away from Me]]", the first single from their fourth album, ''Issues'', in this episode. They also have a cameo in the intro from [[Season Six]].
+
+==Appearance==
+They are all very off-style, almost nothing like a ''[[South Park]]'' character model. They all have beady eyes and the same skin color. They are of varying weights.
+
+<gallery widths="160" spacing="small" caption="Images of Korn">
+Korn_Lg.png|Korn in their car
+KoRnSP_Lg.png|Korn performing in "[[Korn's Groovy Pirate Ghost Mystery]]".
+</gallery>
+
+==Personality==
+The group behaves like five wholesome, polite, and sweet young men, with the stereotypical personalities of characters from 1960's Hanna-Barbara hit cartoon ''Scooby-Doo''. They often use phrases like "Groovy" and "Golly".
+
+==Trivia==
+*The five band members all performed their own voices in "[[Korn's Groovy Pirate Ghost Mystery]]".
+*Jonathan can be seen performing in a background screen during the MTV News in "[[Timmy 2000]]".
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Three}}
+{{MusicCelebrities}}
+
+[[es:Korn]]
+[[zh:科恩乐队]]
+[[Category:Characters]]
+[[Category:Bands]]
+[[Category:Music celebrities]]
+[[Category:Celebrity voice actors]]
+[[Category:Characters with superpowers]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Groups]]
+[[Category:Celebrities]]

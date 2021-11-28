@@ -1,0 +1,34 @@
+{{South Park character
+|name = Michael's Parents
+|image = Michaels-parents.png
+|hair = Father: Gray<br>Mother: Black
+|voice = Father: [[Matt Stone]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt3169686/|title="South Park" Goth Kids 3: Dawn of the Posers (TV episode 2013)|publisher=IMDb.com}}</ref>
+Mother: [[Trey Parker]]<ref name=imdb/>
+|appearance = "[[Goth Kids 3: Dawn of the Posers]]"
+}}
+'''[[Michael]]'s Parents''' appear in the [[Season Seventeen]] episode, "[[Goth Kids 3: Dawn of the Posers]]".
+
+==Background==
+Michael's parents are seen when he is entering his home. They mistake their son as emo instead of [[Goth Kids|Goth]]. After a brief discussion, Michael's father immediately forcibly takes him to [[Troubled Acres|a camp for troubled children]] while his mother watches.
+
+==Appearance==
+Michael's father has short curly dark gray hair, crow's feet and thick eyebrows, a slight double chin, and a similar nose to his son. He wears a white shirt under a light blue coat with two side pockets, dark yellow pants, and black shoes. Michael's mother appears to be Asian as she has narrow eyes and speaks in a stereotypical accent. She has short black hair and crow's feet. She wears red lipstick, a dull green blouse, gray pants, and high-heeled black shoes. 
+
+<gallery spacing="small" caption="Images of Michael's parents" widths="160">
+GothKids3DawnofthePosers028.png
+</gallery>
+
+==Trivia==
+*Michael's mother is one of the few female characters to be voiced by [[Trey Parker]].
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seventeen}}
+[[zh:迈克尔的父母]]
+[[Category:Characters]]
+[[Category:Unnamed characters]]
+[[Category:Minor characters]]
+[[Category:Adult characters]]
+[[Category:Parents]]
+[[Category:One-off characters]]
+[[Category:Characters in a relationship]]

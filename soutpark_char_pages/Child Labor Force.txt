@@ -1,0 +1,25 @@
+{{Group
+|name = Child Labor Force
+|image = Kid-groups-city-wok-child-labor.png
+|type = Labor
+|job = [[City Wok]] employees
+|gender = Male and female
+|member1 = [[Kenny McCormick]]
+|voice1 = [[Matt Stone]]
+|member2 = [[Liza Nelson]]
+|member3 = Various unnamed children
+|first = "[[The City Part of Town]]"
+|times = 1
+}}
+{{stub}}
+The '''child labor force''' is a team that [[Tuong Lu Kim]] recruits in the [[Season Nineteen]] episode, "[[The City Part of Town]]". 
+
+== Background ==
+Tuong Lu Kim recruits children, mostly of minority races, to help out at [[City Wok]] and to "bring [[SoDoSoPa]] to its knees". [[Kenny McCormick]] and [[Liza Nelson]] are part of the child labor force. The adults of [[South Park (Location)|South Park]] then battle the child labor force after they make a commercial about [[CtPaTown]], and how they want to have a good town reputation for their new [[Whole Foods Market]] in front of the [[Whole Foods Representative]].
+
+{{Minor Characters from Season Nineteen}}
+[[zh:城市中餐童工]]
+[[Category:Groups]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:School children]]

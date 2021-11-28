@@ -1,0 +1,30 @@
+{{South Park character
+|name = Randy Newman
+|image = Randy-newman.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = {{age|1943|11|28}}
+|dob  = November 28, 1943
+|job = Singer-songwriter, Composer
+|wikipedia = [[Wikipedia:Randy Newman|Randy Newman]]
+|appearance = "[[Raising the Bar]]"
+|voice = [[Trey Parker]]
+}}
+'''Randall Stuart "Randy" Newman''' is an American singer-songwriter who appears in the [[Season Sixteen]] episode, "[[Raising the Bar]]", where he is hired by [[Token Black]] to write a theme song for his show "[[Here Comes Fatty Doo Doo]]".
+
+==Background==
+Randy Newman is seen in-person deep under the ocean by [[James Cameron]], who tries to "raise The Bar". He wishes to keep [[The Bar]] low because "People won't hire him". After James Cameron finds Randy Newman in the ocean, he says he will, "Send him to Hell!".
+
+{{Minor Characters from Season Sixteen}}
+{{MusicCelebrities}}
+[[pl:Randy Newman]]
+[[zh:兰迪·纽曼]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Music celebrities]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Jewish characters]]
+[[Category:Characters voiced by Trey Parker]]

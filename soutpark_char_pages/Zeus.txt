@@ -1,0 +1,40 @@
+{{South Park character
+|name = Zeus
+|image = Zeus.png
+|race = God
+|gender = Male
+|hair = White
+|age = Immortal
+|job = [[Council of Nine]] Member<br>Ancient Greek Deity
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995578/|title="South Park" Imaginationland: Episode II (TV episode 2007)|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Zeus|Zeus]]
+|appearance = "[[Imaginationland]]"
+}}
+'''Zeus''' is the king of the gods in Greek mythology. He appeared as a member of the [[Council of Nine]] in the [[Imaginationland]] trilogy. He gets killed when [[Imaginationland (Location)|Imaginationland]] is blown up by a nuclear missile but gets revived when [[Butters Stotch|Butters]] reimagines Imaginationland as it was before the evil creatures burst out of the barrier.
+
+==Appearance==
+Zeus has white hair, along with a white goatee. He wears the standard, white, Greek toga, and golden wrist bands. He also has a muscular build and appears to be taller than the average ''[[South Park]]'' character.
+
+==Personality==
+Despite being in the Council of Nine, he seems cowardly, wanting to run instead of fight the evil imaginary characters in the Imaginationland trilogy. He had to be coerced into fighting by the other council members.
+
+==References==
+{{Reflist}}
+
+==See Also==
+*[[Council of Nine]]
+*[[Imaginationland]]
+{{Minor Characters from Season Eleven}}
+[[es:Zeus]]
+[[pl:Zeus]]
+[[zh:宙斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Religious Figures]]
+[[Category:Imaginationland characters]]
+[[Category:Immortals]]
+[[Category:Council of Nine]]
+[[Category:Characters with superpowers]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Crossover characters]]
+[[Category:Royalty]]

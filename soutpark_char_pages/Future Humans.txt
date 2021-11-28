@@ -1,0 +1,41 @@
+{{South Park character
+|name = Future Humans
+|image = Goobacks.png
+|gender = Male and Female
+|hair = None
+|age = Various
+|job = Unemployed
+|voice = [[Trey Parker]], [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0761287/|title="South Park" Goobacks (TV episode 2004)|publisher=IMDb.com}}</ref>
+|appearance = "[[Goobacks]]"
+}}
+The '''Future Humans''' appear in [[Season Eight]] episode "[[Goobacks]]", as Americans from the year 3045 who travel to present-day [[South Park (Location)|South Park]] looking for work.
+
+==Background==
+The Future Humans travel to the present looking for employment, as the world is grossly overpopulated in their time and there is no work to be found. They agree to perform services for next to nothing, as their plan to enrich themselves involves depositing small amounts of money into bank accounts and allowing the accounts to collect interest for over 1000 years, whereupon they can collect their billions in the future.
+
+The Future Humans are derisively referred to as "Goobacks" by the residents of South Park, due to the purple ectoplasmic "goo" they are covered in upon emergence from their time portal.
+
+==Appearance==
+The Future Humans are a "hairless uniform mix of all races", and are described as having a "yellowy-light-brownish-whitish color" to their skin, due to all ethnicities having eventually mixed into one. They wear single-color unitards of various hues.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of the Future Humans">
+GB32.png|Future Humans coming.
+GB49.png|Future Humans working around the town.
+GB50.png|Future Humans riding in an enhanced automobile.
+GB51.png|Future Humans working at [[Wendell's Burgers]].
+</gallery>
+
+==Trivia==
+*The first Future Human is employed by Wendy's fast-food restaurant.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Eight}}
+[[es:Future Humans]]
+[[zh:未来人]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Deceased characters]]

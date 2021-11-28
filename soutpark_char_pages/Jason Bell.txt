@@ -1,0 +1,42 @@
+{{South Park character
+|name = Jason Bell
+|image = Jason Bell.png
+|gender = Male
+|race = Caucasian
+|hair = Auburn
+|job = Store Clerk
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0761293/|title="South Park" Toilet Paper (TV Episode 2003) - IMDb}}</ref>
+|appearance = "[[Toilet Paper]]"
+}}{{LinkDisambig|Jason (Disambiguation)}}
+'''Jason Bell''' is a grocery store clerk who first appears in the [[Season Seven]] episode, "[[Toilet Paper]]".
+
+==Background==
+In "[[Toilet Paper]]", he sells several packages of toilet paper to [[the boys]]. Despite the suspicious amount of toilet paper, he instead warns the boys about chewing gum. After the boys toilet paper [[Mrs. Streibel]]'s home, [[Officer Barbrady]] investigates and calls in Jason to identify the toilet paper.
+
+When Jason arrives at the police department, he is immediately disgusted at the sight of the decaying toilet paper. He eventually identifies it as being sold from his store.
+
+==Appearance==
+Jason wears brown shoes, teal pants, a white shirt with a red vest, and a blue apron. His apron features several pens and pencils, as well as his name tag. He has auburn hair and a blond mustache. In "[[A History Channel Thanksgiving]]", he is referred to as "Chet" and does not have his mustache.
+<gallery widths="160" spacing="small" caption="Images of Jason Bell">
+ToiletPaper012.png|Jason Bell selling toilet paper.
+ToiletPaper062.png|Jason Bell identifying the toilet paper.
+1513 A History Channel Thanksgiving 17.jpg|Jason Bell, referred to as "Chet", without his mustache in "[[A History Channel Thanksgiving]]"
+</gallery>
+
+==Prominence==
+*"[[Toilet Paper]]" - Sells many rolls of toilet paper to the boys.
+*"[[Britney's New Look]]"
+*"[[A History Channel Thanksgiving]]"
+*"[[Christmas Snow]]"
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seven}}
+[[zh:杰森·贝尔]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Townsfolk]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Minor characters]]
+[[Category:Characters with changed names]]

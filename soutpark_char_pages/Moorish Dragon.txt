@@ -1,0 +1,42 @@
+{{South Park character
+|name = Moorish Dragon
+|image = TFBWDragon.png
+|race = Dragon
+|appearance = ''[[South Park: The Fractured But Whole]]''
+}}
+The '''Moorish Dragon''' is a made-up dragon controlled by the Moorish army. It is encountered during the combat tutorial in ''[[South Park: The Fractured But Whole]]''.
+
+==Background==
+During the battle against the Moorish, [[The New Kid|King Douchebag]] brought down several warriors before approaching [[Cartman Residence|Cartman's house]], home to the [[Kingdom of Kupa Keep]]. In their final attempt to defeat the king, the Moorish released the dragon from [[Stotch Residence|Butters' house]], but was defeated by the King's ultimate power, which awarded them the "Dragon Slayer" title.
+
+==Appearance==
+The dragon is green in color and entirely crafted with cardboard. Similar to the Trojan Horse, the dragon can house about two Moorish men. The dragon is maneuvered with a red wagon which must be controlled by external units.
+
+==Abilities==
+{{TFBW Enemy Abilities
+|Name = Moorish Dragon
+|Image = Tb dragon.png
+|Health = 400
+|Move = 0
+|Immunities = None
+|AbilityImage1 = Dragon power1.png
+|Ability1 = Deadly Arrow
+|Description1 = Garrisoned units on the dragon will shoot an arrow on the New Kid
+|RangeDesc1 = Where the New Kid is positioned. Cannot be avoided.
+|Range1 = Lobbed st no min range.png
+|Effect1 = 8 Damage
+|Status1 = None
+|AbilityImage2 = Dragon power3.png
+|Ability2 = Fire Breath
+|Description2 = The dragon will unleash its fiery breath
+|RangeDesc2 = Any character within a 2x3 range
+|Range2 = Large cone.png
+|Effect2 = 50 Damage
+|Status2 = None
+}}
+
+[[zh:巨龙]]
+[[Category:Characters]]
+[[Category:Video Game Exclusive characters]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:The Fractured But Whole: Characters]]

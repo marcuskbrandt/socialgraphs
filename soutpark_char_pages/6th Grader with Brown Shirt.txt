@@ -1,0 +1,35 @@
+{{South Park character
+|name = 6th Grader with Brown Shirt
+|image = 6th-grader-boy2.png
+|gender = Male
+|hair = Brown
+|age = 11-12
+|job = Student
+}}
+The '''6th Grader with brown shirt''' is a student at [[South Park Elementary]] who only appears as a background character. He is usually seen in the [[South Park Elementary Cafeteria|cafeteria]] talking to other [[The 6th Graders|6th Graders]].
+
+==Appearance==
+He is a medium-sized 6th grader with short brown hair and wears a brown shirt with a beige collar and gray pants.
+
+==Prominence==
+{{Incomplete|item=list}}
+*"[[Breast Cancer Show Ever]]" - Seen leaving the sixth grade classroom.
+*"[[Butterballs]]" - Seen in Stan's anti-bullying video.
+*"[[Time To Get Cereal]]" - Seen in the [[South Park Elementary Playground|Playground]].
+*"[[Let Them Eat Goo]]" - Seen in the Cafeteria.
+*"[[The Pandemic Special]]" - Seen on the call with his parents.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of the 6th Grader with Brown Shirt">
+Butterballs00026.png|Seen in [[Stan Marsh|Stan]]'s anti-bullying video.
+Classroom 5.png|His first appearance.
+PDS90.png|Seen wearing a mask at the computer lab.
+</gallery>
+{{South Park Children}}
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Townsfolk]]
+[[Category:Background characters]]
+[[Category:School children]]
+[[Category:6th graders]]
+[[Category:Unnamed characters]]

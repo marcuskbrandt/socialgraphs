@@ -1,0 +1,31 @@
+{{South Park character
+|name = Terry's Wife
+|image = Terrys-wife.png
+|gender = Female
+|hair = Light brown
+|race = Canadian
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt3237510/|title="South Park" Taming Strange (TV episode 2013) |publisher=IMDb.com}}</ref>
+|relation1 = Husband
+|relativename1 = [[Terry]]
+|appearance = "[[Taming Strange]]"
+}}
+'''Terry's Wife''' is a minor character who appears in [[Season Seventeen]] episode "[[Taming Strange]]".
+
+==Background==
+As [[Terry]] confronted his wife over her queefing on his face, she retorted that she was being sarcastic, while angry that he did not want to attend therapy with her.
+
+It was later determined that the IntelliLink system which Terry had been relying on was causing the issue, and Terry finally realized why he had been queefed on the face. He make amends with his wife, informing her that he is no longer using IntelliLink.
+
+==Appearance==
+Terry's Wife wears a pink dress and black shoes, and appears with eyelashes and lipstick. As with other Canadians, she is depicted with a flapping head and beady eyes.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seventeen}}
+[[zh:泰瑞的妻子]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Canadians]]
+[[Category:Characters voiced by Trey Parker]]

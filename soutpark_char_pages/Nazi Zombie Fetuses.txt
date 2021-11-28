@@ -1,0 +1,21 @@
+{{South Park character
+|name = Nazi Zombie Fetuses
+|image = Nazi-zombie-fetuses.png
+|race = Zombies
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Nazi Zombie Fetuses''' are enemies that appear in ''[[South Park: The Stick of Truth]]''.
+
+==Background==
+The fetuses are first encountered during the "[[Unplanned Parenthood]]" quest, when green goo was leaked into the [[Unplanned Parenthood Clinic]]. In the clinic, the government agents struggled to contain the situation, with most being killed by the fetuses. However [[The New Kid]] fought their way through the clinic, before being approached by the [[Giant Nazi Zombie Fetus]].
+
+==Abilities==
+*'''Ranged Attack''' - Spews four balls of vomit on both the New Kid and buddy (two vomit balls per character).
+*'''Brain Damage''' - Leaps at target dealing medium damage and inflicts Defense Down if not blocked.
+*'''Projectile Vomit''' - Vomits on the New Kid or buddy, deals Ability Down if not blocked.
+[[zh:纳粹僵尸胎儿]]
+[[Category:Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:Nazi Zombies]]
+[[Category:Video Game Exclusive characters]]

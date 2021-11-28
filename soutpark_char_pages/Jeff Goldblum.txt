@@ -1,0 +1,44 @@
+{{South Park character
+|name = Jeff Goldblum
+|image = Jeff-goldblum.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1952|10|22}}
+|dob = October 22, 1952
+|job = Actor<br>Musician
+|religion = Judaism
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705900/|title="South Park" Cancelled (TV episode 2003)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Jeff Goldblum|Jeff Goldblum]]
+|appearance = "[[Cancelled]]"
+|last = "[[Britney's New Look]]"
+}}
+'''Jeffry L. Goldblum''' is an American actor and musician, who appears in the episodes "[[Cancelled]]" and "[[Britney's New Look]]".
+
+==Background==
+He appears in the [[Season Seven]] episode, "[[Cancelled]]", parodying his role in ''Independence Day'', as the scientist researching alien life forms. Jeff Goldblum also makes a cameo in the episode, "[[Britney's New Look]]", where he can be seen right behind [[Gerald Broflovski|Gerald]] and [[Sheila Broflovski]] as they make their way into the front of the crowd of photographers.
+
+==Appearance==
+As he appears on South Park, Jeff Goldblum wears a white lab coat with his name tag over a formal red shirt. His name tag reads Dr. Goldbloom. He also wears a gray undershirt, round-framed glasses, and has black hair.
+
+==Personality==
+While he is portrayed as intelligent and inquisitive, being heavily interested in researching extraterrestrial life, he relies on a sort of strange circular logic to solve problems.
+
+==Prominence==
+*"[[Cancelled]]"
+*"[[Britney's New Look]]"
+*"[[Skank Hunt]]" - Mentioned by the [[Memberberries]]
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seven}}
+{{MovieCelebrities}}
+[[ja:ジェフ・ゴールドブラム]]
+[[zh:杰夫·高布伦]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Jewish characters]]
+[[Category:Movie celebrities]]
+[[Category:Elderly people]]

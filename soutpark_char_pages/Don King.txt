@@ -1,0 +1,44 @@
+{{South Park character
+|name = Don King
+|image = Sports-don-king.png
+|gender = Male
+|hair = Gray
+|race = African-American
+|age = {{age|1931|08|20}}
+|dob = August 20, 1931
+|job = Boxing Promoter
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705919/|title="South Park" Damien (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia: Don King (boxing promoter)|Don King]]
+|appearance = "[[Damien]]"
+}}
+:''Not to be confused with [[Butters Stotch/Alter Egos#Don King Butters|Don King Butters]], an alter-ego of [[Butters Stotch]] in "[[The China Probrem]]" and [[South Park: Phone Destroyer]].
+
+'''Donald King''' is a professional boxing promoter who appears promoting [[Satan]] in his fight against [[Jesus Christ|Jesus]] in the [[Season One]] episode "[[Damien]]".
+
+==Background==
+Don appears as Satan's boxing promoter. When one of the interviewers asks Satan about the rumors of his involvement in the Gulf War, King interrupts and angrily rants about how he is sick of everyone accusing his fighters of being mean and causing all the death in the world.
+
+==Appearance==
+Don King is overweight and appears to use the same character model as [[Jerome "Chef" McElroy|Chef]]. He wears a black suit with a white undershirt and a black bowtie, gray pants, and black shoes. He has extremely spiky gray hair and a black mustache as well as a pair of glasses.
+<gallery spacing="small" caption="Images of Don King" widths="160">
+Donking.JPG|Don King in "[[Cancelled]]".
+</gallery>
+
+==Prominence==
+*"[[Damien]]"
+*"[[Cancelled]]" - [[Najix]] transforms into Don King.
+*"[[Tweek x Craig]]" - Mentioned by [[Thomas Tucker]].
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season One}}
+[[zh:唐·金]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Celebrities]]
+[[Category:Television celebrities]]
+[[Category:Minority characters]]
+[[Category:African-American characters]]
+[[Category:Overweight characters]]
+[[Category:Characters voiced by Trey Parker]]

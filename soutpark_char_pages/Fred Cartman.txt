@@ -1,0 +1,45 @@
+{{South Park character
+|name = Fred Cartman
+|image = Fred-cartman.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|relation1 = Parents
+|relativename1 = [[Cartman's Unnamed Relatives]]
+|relation2 = Aunts
+|relativename2 = [[Liane Cartman]]<br>[[Lisa Cartman]]
+|relation3 = Uncles
+|relativename3 = [[Howard Cartman]]<br>[[Fat Bob]]<br>[[Uncle Stinky]]
+|relation4 = Cousins
+|relativename4 = [[Eric Cartman]]<br>[[Elvin Cartman]]<br>[[Alexandra Cartman]]
+|relation5 = Grandmother
+|relativename5 = [[Mabel Cartman]]
+|relation6 = Grandfather
+|relativename6 = [[Harold Cartman]]
+|relation7 = Great-grandmother
+|relativename7 = [[Florence Cartman]]
+|appearance = "[[Merry Christmas Charlie Manson!]]"
+}}
+'''Fred Cartman''' is [[Liane Cartman]]'s nephew, the son of Cartman's [[Cartman's Unnamed Relatives|unnamed uncle and aunt]] and [[Eric Cartman]]'s cousin. He made his first appearance in "[[Merry Christmas Charlie Manson!]]". His only other appearance was in "[[Cartmanland]]".
+
+==Appearance==
+Fred wears a turquoise jacket, blue jeans and black shoes. He also has fairly short curly brown hair and a double chin, just like the rest of the family, he's obese. He has no other distinguishable characteristics.
+<gallery widths="140" caption="Images of Fred Cartman">
+FredCartman in South Park- Bigger, Longer & Uncut.png|Fred on the cover of ''[[South Park: Bigger, Longer & Uncut]]''.
+</gallery>
+
+==Prominence==
+*"[[Merry Christmas Charlie Manson!]]"
+*"[[Cartmanland]]" - Appear at Mabel's funeral
+{{Cartman Family}}
+{{South Park Families}}
+
+[[es:Fred Cartman]]
+[[pl:Fred Cartman]]
+[[zh:弗莱德·卡特曼]]
+[[Category:Male characters]]
+[[Category:Cartman/Tenorman family]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Overweight characters]]
+[[Category:Siblings]]

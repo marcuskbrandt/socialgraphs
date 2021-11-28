@@ -1,0 +1,42 @@
+{{South Park character
+|name = Mr. Garrett
+|image = MrGarret.png
+|gender = Male
+|hair = Gray
+|job = Basketball Coach
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1312844/|title="South Park" Elementary School Musical (TV episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[Elementary School Musical]]"
+}}
+'''Mr. Garrett''' is the basketball coach at [[South Park Elementary]]. He appears in [[Season Twelve]]'s "[[Elementary School Musical]]", where he managed the schools basketball team.
+
+==Background==
+In "[[Elementary School Musical]]", Mr. Garrett is introduced as the school's basketball coach when [[Stan Marsh]] recognizes him in the hall and encourages [[Bridon Gueermo]] to join the team. He encourages Bridon to try out during recess and is impressed with his work on the team, and argues with [[Mr. Gueermo]] when he angrily interrupts a tryout. He is seen pleased with Bridon's plays at a later basketball game.
+
+In "[[Funnybot]]" and "[[SUPER HARD PCness]]", he is seen in the background of the gymnasium when students are gathered there due to threatening situations.
+
+==Appearance==
+Mr. Garrett has short, gray hair. He wears a murky green jacket with a dark green trim that has the [[List of South Park Cows Sports Teams|South Park Cows]] logo on it, underneath that, he wears a white t-shirt. He also wears dark green shorts with shin high white socks a whistle around his neck. 
+
+==Personality==
+He seems very passionate about his basketball team, even being able to convince Bridon Gueermo to come play with them, despite Bridon knowing that his father has a negative feeling about team sports.
+
+==Trivia==
+*He was assumed to have replaced the late [[Jerome "Chef" McElroy|Chef]] as the sports teacher, but he has never been seen teaching a class nor appeared in faculty meetings like [[Coach Miles]]. Garrett is assumed to only coach the basketball team.
+
+==Prominence==
+*"[[Elementary School Musical]]" - introduced as coach of the basketball team and encourages Bridon to stay onboard despite his father's opposition.
+*"[[Funnybot]]" - Seen when the school is held hostage by the Germans.
+*"[[SUPER HARD PCness]]" - Seen when the school gathers in the gymnasium during the nuclear war.
+
+==References==
+{{Reflist}}
+{{South Park Elementary Staff}}
+{{Minor Characters from Season Twelve}}
+[[zh:加勒特老师]]
+[[Category:Characters]]
+[[Category:School faculty]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Minor characters]]
+[[Category:Townsfolk]]

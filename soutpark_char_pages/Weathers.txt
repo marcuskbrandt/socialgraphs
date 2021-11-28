@@ -1,0 +1,24 @@
+{{South Park character
+|name = Weathers
+|image = Weathers.png
+|gender = Male
+|race = African-American
+|hair = Black
+|job = Military Officer
+|appearance = "[[PC Principal Final Justice]]"
+}}
+'''Weathers''' is a USAF officer who appears in [[Season Nineteen]] episode "[[PC Principal Final Justice]]".
+
+==Background==
+Following incidents of [[PC Principal]] travelling around the world and trying to convert locals, only to have shot them, the US Navy have PC Principal arrested and brought on board an aircraft carrier. There, Weathers demanded an explanation from PC Principal, but was interrupted by a phone call allegedly from [[Barack Obama]] (who actually turned out to be [[Leslie Meyers]]), requesting that PC Principal be released.
+
+==Appearance==
+Weathers has short black hair and mustache. He wears the USAF working uniform, decorated with him name tag on the right chest and a gold badge on the left.
+
+{{Minor Characters from Season Nineteen}}
+[[zh:韦瑟斯（政确校长的最终正义）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:African-American characters]]

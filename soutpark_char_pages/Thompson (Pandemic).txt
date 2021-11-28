@@ -1,0 +1,28 @@
+{{South Park character
+|name = Thompson
+|image = Thompson the translator.png
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|job = Interpreter
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1312012/|title="South Park" Pandemic (TV episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[Pandemic]]"
+}}
+'''Thompson''' is an interpreter who appears in the [[Season Twelve]] episode "[[Pandemic]]".
+
+==Background==
+After having captured several Peruvian flute bands, including [[the Llama Brothers]], [[Michael Chertoff]] announces to the flute bands that they will be sent to Guantanamo Bay, with Thompson translating the announcement to Spanish.
+
+Later, a guard calls up Thompson to help translate what the musicians were trying to tell them. Thompson explains that the musicians are the "protectors" from [[Furry Death]].
+
+==Appearance==
+Thompson has thick blond hair, and wears a brown suit with yellow shirt and a dark blue tie. He carries a megaphone, only using it when translating Chertoff's announcement.
+
+==References==
+{{Reflist}}
+[[zh:汤普森（无处不在）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

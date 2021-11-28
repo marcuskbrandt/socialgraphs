@@ -1,0 +1,27 @@
+{{South_Park_character
+|name = Hakeem Korashki
+|image = Hakeem Korashki Tom's Rhinoplasty.png
+|gender = Male
+|hair = Black
+|job = Iraqi Police
+|voice = [[Matt Stone]]<ref>{{Cite web|url=http://www.imdb.com/title/tt0705976/|title="South Park" Tom's Rhinoplasty (TV episode 1997)|publisher = IMDb.com}}</ref>
+|appearance = "[[Tom's Rhinoplasty]]"
+}}
+'''Hakeem Korashki''' is an Iraqi police officer. He arrested [[Ms. Ellen]] in the [[Season One]] episode, "[[Tom's Rhinoplasty]]".
+
+==Background==
+Hakeem Korashki, and his team of Iraqi officers, arrest substitute teacher Ms. Ellen. They claim that she is a traitor to Iraq and has killed thousands. As proof, Hakeem shows a black-and-white photo of Ms. Ellen, with [[Saddam Hussein]], to [[Principal Victoria]]. 
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season One}}
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Muslim characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minority characters]]
+[[Category:Middle Eastern characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Asian characters]]
+[[Category:Better image needed]]

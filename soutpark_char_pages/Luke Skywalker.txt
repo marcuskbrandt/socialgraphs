@@ -1,0 +1,38 @@
+{{South_Park_character
+|name = Luke Skywalker
+|image = Luke-skywalker.png
+|gender = Male
+|hair = Blond
+|job = [[Council of Nine]] Member<br>Jedi Master
+|religion = Jedi
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995578/|title="Imaginationland, Episode II" on IMDB}}</ref>
+|wikipedia = [[Wikipedia:Luke Skywalker|Luke Skywalker]]
+|appearance = "[[Imaginationland]]"
+}}
+'''Luke Skywalker''' is the main protagonist of the original ''Star Wars'' films. He appears as a member of the [[Council of Nine]] in the Imaginationland trilogy of [[Season Eleven]]. He assists [[Butters Stotch]] and the other imaginary characters in their battle against the evil imaginary characters.
+
+==Appearance==
+Luke Skywalker is animated similarly to the fictional Star Wars character. He wears a white robe and a black utility belt. He is 19 years old, has dirty blond hair and blond eyebrows. He also wields a [[w:c:starwars:lightsaber|lightsaber]]. He appears to be taller than the usual [[South Park]] character models.
+
+<gallery widths="160" caption="Images of Luke Skywalker" captionalign="left">
+ImaginationlandEpisodeII00102.png|Luke Skywalker seated with the Council of Nine on the right in "[[Imaginationland, Episode II]]".
+</gallery>
+
+==Prominence==
+*"[[Imaginationland]]"
+*"[[Imaginationland, Episode II]]"
+*"[[Imaginationland, Episode III]]"
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Eleven}}
+[[es:Luke Skywalker]]
+[[zh:卢克·天行者]]
+[[Category:Characters]]
+[[Category:Imaginationland characters]]
+[[Category:Crossover characters]]
+[[Category:Council of Nine]]
+[[Category:Characters with superpowers]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]

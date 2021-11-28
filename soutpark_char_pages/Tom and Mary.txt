@@ -1,0 +1,38 @@
+{{South Park character
+|name = Tom and Mary
+|image = Tom-and-mary.png
+|gender = Male and Female
+|died = "[[Cow Days]]"
+|hair = '''Tom''': Black<br>'''Mary''': Brown
+|voice = '''Tom''': [[Matt Stone]]<br>'''Mary''': [[Mary Kay Bergman]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705917/|title="South Park" Cow Days (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Cow Days]]"
+}}
+'''Tom and Mary''' were a married couple who appeared in the [[Season Two]] episode, "[[Cow Days]]".
+
+==Background==
+In "[[Cow Days]]", Tom and Mary won a trip to [[South Park (Location)|South Park]], Colorado for the annual "Cow Days". After the Cow Memorial goes missing, they are placed in jail. Once the Cow Memorial is located, [[Officer Barbrady]] goes to free them only to find them dead.
+
+==Appearance==
+Tom wore glasses, a red shirt, with a green tie and beige pants. Mary wore a pink and red dress and earrings.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of Tom and Mary">
+CowDays3.png
+CowDays103.png
+</gallery>
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Two}}
+[[zh:汤姆和玛丽]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Female characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Deceased characters]]
+[[Category:Characters voiced by Mary Kay Bergman]]
+[[Category:One-off characters]]
+[[Category:Minority characters]]
+[[Category:Characters in a relationship]]
+[[Category:African-American characters]]

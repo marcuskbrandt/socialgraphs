@@ -1,0 +1,32 @@
+{{South Park character
+|name = Bobby Flay
+|image = Bobby Flay.png
+|gender = Male
+|race = Caucasian
+|hair = Red
+|age = {{age|1964|12|10}}
+|dob = December 10, 1964
+|job = Celebrity Chef
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt1766998/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Crème Fraiche (TV Episode 2010) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Bobby Flay|Bobby Flay]]
+|appearance = "[[Crème Fraiche]]"
+}}
+{{LinkDisambig|Robert (Disambiguation)}}
+'''Robert William Flay''' is an American celebrity chef who appears in [[Season Fourteen]] episode "[[Crème Fraiche]]".
+
+==Background==
+Upon hearing that [[Randy Marsh]] had taken over the role as [[South Park Elementary]]'s school chef which caught the attention of "Gordon Ramsey" (who was actually an alter-ego of [[Eric Cartman]]), Bobby Flay heads to the school cafeteria, much to the excitement of Randy, and initiated a cooking challenge along with several other celebrity chefs against Randy.
+
+==Appearance==
+Bobby Flay has red hair and several freckles on his cheek. He wears the standard chef's uniform.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+[[zh:波比·福雷]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:One-off characters]]

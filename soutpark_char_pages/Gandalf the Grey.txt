@@ -1,0 +1,37 @@
+{{South_Park_character
+|name = Gandalf the Gray
+|image = Gandalf.png
+|gender = Male
+|race = Caucasian
+|hair = Grey
+|job = [[Council of Nine]] Member<br>Wizard
+|voice = [[Kyle McCulloch]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995579/|title= Imaginationland: Episode III (TV episode 2007)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Gandalf|Gandalf the Grey]]
+|appearance = "[[Imaginationland, Episode II]]"
+}}
+'''Gandalf the Grey''' is a member of the [[Council of Nine]] in the Imaginationland trilogy.
+
+==Background==
+Gandalf is a central character in the ''Lord of the Rings'' books and films. He helps Butters realize his power has the "the key" to saving [[Imaginationland (Location)|Imaginationland]] by using his imagination to fight the evil that took over the world.
+
+==Appearance==
+Gandalf is an old man who wears a grey cloak and a long grey beard. He also wears a large gray wizard hat and a black belt with a silver-colored belt buckle. He wields a black staff with a gold-colored handle. Some refer to him as "Gandalf the Grey".
+
+==Quotes==
+*'''Gandalf''': "You are real. You are a creator. That means you can imagine things into existence here." - Talking to Butters.
+*'''Gandalf''':"Whatever is most prominent in your mind will come to be."
+*'''Gandalf''':"His powers are getting stronger. We might just have a chance here."- Talking to [[Aslan the Lion]].
+*'''Gandalf''':"Never mind! The battle is almost won! We can deal with him later."
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+[[zh:灰袍甘道夫]]
+[[Category:Characters]]
+[[Category:Imaginationland characters]]
+[[Category:Crossover characters]]
+[[Category:Council of Nine]]
+[[Category:Characters with superpowers]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Kyle McCulloch]]
+[[Category:Elderly people]]

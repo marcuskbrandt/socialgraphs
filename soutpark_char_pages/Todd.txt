@@ -1,0 +1,41 @@
+{{South Park character
+|name = Todd
+|image = Todd-weed.png
+|gender = Male
+|hair = Brown
+|job = Budtender
+|appearance = ''[[South Park: The Fractured But Whole]]''
+}}
+'''Todd''' is a budtender in [[Medicinal Fried Chicken (Location)|Medicinal Fried Chicken]]. He appears in ''[[South Park: The Fractured But Whole]]''.
+
+==Background==
+In [[Medicinal Fried Fiasco]] mission, [[The New Kid]] and [[The Coon (Character)|The Coon]] enters the pot store and is greeted by Todd. He later seeks [[Towelie (Character)|Towelie]] to help the superheroes find the medication for [[Classi]]. Unfortunately for Towelie, he was enraged by the mixing of a jar of drugs, triggering a fight between the New Kid and Towelie. During the combat with Towelie, Todd shows up with one other opponent. The New Kid managed to defeat the Towelie by burning four piles of weed that were spilled on the combat area.
+
+==Appearance==
+Miles has a full brown beard. He wears a white V-neck, blue pants with suspenders, brown shoes and a red beanie.
+
+{{Clear}}
+
+==Abilities==
+{{TFBW Enemy Abilities
+|Name = Budtender
+|Image = Tb hipsterbudtender a.png
+|Health = 270
+|Move = 1
+|Immunities = None
+|AbilityImage1 = Budtender power1.png
+|Ability1 = Kickball Kick
+|Description1 = A single kick that also inflicts knockback.
+|RangeDesc1 = One tile in front of the budtender
+|Range1 = Melee.png
+|Effect1 = 22 Damage (Cas.)<br>44 Damage (Hero.)<br>55 Damage (Mast.)<br>77 Damage (Dia.)
+|Status1 = Knockback (2)
+}}
+
+[[zh:托德（完整破碎）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:Video Game Exclusive characters]]

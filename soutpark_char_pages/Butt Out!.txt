@@ -1,0 +1,30 @@
+{{Group
+|name = Butt Out!
+|image = Butt-out.png
+|type = Motivational group
+|job = Edutainment
+|member1 = Pam
+|voice1 = Pam Brady<ref name=imdb>{{cite web|url=http://www.imdb.com/title/tt0705898/|title= But Out!|publisher=IMDb.com}}</ref>
+|member2 = Kyle
+|voice2 = [[Kyle McCulloch]]<ref name=imdb/>
+|member3 = Vernon
+|voice3 = [[Vernon Chatman]]<ref name=imdb/>
+|member4 = Randy
+|voice4 = [[Trey Parker]]<ref name=imdb/>
+|first = "[[Butt Out]]"
+|times = 1
+}}
+'''Butt Out!''' is an anti-smoking group that appear in the [[Season Seven]] episode, "[[Butt Out]]".
+
+==Background==
+The group performed their anti-smoking speech using hip-hop music and dancing. Their persona is a play on the stereotypical school assembly meant to motivate children. This motivational technique was supposed to appeal to the younger audience of [[South Park (Location)|South Park]], but instead of discouraging cigarette smoking, it inspires [[the boys]] to try it behind the [[South Park Elementary|school]]'s loading bay.
+
+The group states that if one does not smoke, "you can be just like us!". The boys realize how incredibly lame Butt Out! is and they start smoking so they would not end up like the group.
+
+==References==
+{{Reflist}}
+[[fr:Butt Out!]]
+[[zh:禁烟舞团]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Groups]]

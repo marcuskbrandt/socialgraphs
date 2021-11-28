@@ -1,0 +1,35 @@
+{{South Park character
+|name = Danica Patrick
+|image = Danica Patrick.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|age = {{age|1982|3|25}}
+|dob = March 25, 1982
+|job = Professional [[NASCAR]] Driver
+|voice = [[Mona Marshall]]<ref>{{cite web|url=https://www.imdb.com/title/tt1708917/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Poor and Stupid (TV Episode 2010) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Danica Patrick|Danica Patrick]]
+|appearance = "[[Poor and Stupid]]"
+}}
+'''Danica Sue Patrick''' is an American professional racing driver who was featured in [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+Several drivers were interrupted by [[Eric Cartman]]'s off-topic and redneck-style comments during a NASCAR press conference. When Danica Patrick tried to bring the conversation back on topic, Cartman taunted back on her steering skills.
+
+During the NASCAR competition, Cartman rammed his vehicle onto the back of Danica Patrick's car, leaving it badly damaged and engulfed in flames. Cartman would later run over Danica Patrick as she tried to leave the wreckage.
+
+==Appearance==
+Danica Patrick has long brown hair and wears a green racing suit.
+
+==References==
+{{Reflist}}
+
+{{SportsCelebrities}}
+[[zh:丹妮卡·派翠克]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Sports celebrities]]
+[[Category:Characters voiced by Mona Marshall]]

@@ -1,0 +1,40 @@
+{{South Park character
+|name = Lucy Harris
+|image = Lucy-harris.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|age = 44 (deceased)
+|dob = May 1, 1792
+|died = Summer 1836
+|job = Witness to Book of Mormon's Golden Plates
+|voice = [[Eliza J. Schneider]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705893/|title="South Park" All About Mormons (TV Episode 2003) - IMDb}}</ref>
+|wikipedia=[[wikipedia:Lucy Harris|Lucy Harris]]
+|relation1 = Husband
+|relativename1 = [[Martin Harris]]
+|appearance = "[[All About Mormons]]"
+}}
+'''Lucy Harris''' is the wife of [[Martin Harris]] and one of the witnesses to the Book of Mormon's Golden Plates. She appeared in the [[Season Seven]] episode, "[[All About Mormons]]".
+
+==Background==
+[[Joseph Smith]] let [[Martin Harris]] borrow the translations for the Golden Plates. Harris took them [[Harris Residence|home]] and excitedly showed his wife Lucy and told her Smith's story. Lucy, in a state of disbelief, hid the translated pages, hoping Joseph Smith could easily retranslate them. She believed if Smith was telling the truth, the retranslations would be identical.
+
+==Appearance==
+Lucy Harris wears a long pink dress with white lace trimmings. She also wears a pearl necklace, pearl earrings, and a pearl bracelet. She has styled brown hair with pink bows.
+<gallery widths="160" caption="Images of Lucy Harris">
+AllAboutMormons075.png|Lucy Harris talking to Martin Harris
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seven}}
+[[ja:ルーシー・ハリス]]
+[[pl:Lucy Harris]]
+[[zh:露西·哈里斯]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Religious Figures]]
+[[Category:Deceased characters]]
+[[Category:Characters voiced by Eliza J. Schneider]]

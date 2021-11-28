@@ -1,0 +1,21 @@
+{{Group
+|name = Tony Orlando and Dawn
+|image = BehindtheBlow31.jpg
+|type = Band
+|gender = Male/Female
+|job = Pop-Music Group
+|first = "[[Terrance and Phillip: Behind the Blow]]"
+}}
+{{LinkDisambig|Tony (Disambiguation)}}
+'''Tony Orlando and Dawn''' appears briefly in an image with [[Terrance and Phillip]] in "[[Terrance and Phillip: Behind the Blow]]". The picture appears during the [[Terrance and Phillip]] documentary with the narration, "...But their fame would come at a price, when Behind the Blow continues."
+
+{{MusicCelebrities}}
+[[zh:托尼·奥兰多与黎明合唱团]]
+[[Category:Celebrities]]
+[[Category:Mentioned-only characters]]
+[[Category:Characters]]
+[[Category:Minority characters]]
+[[Category:African-American characters]]
+[[Category:Adult characters]]
+[[Category:Music celebrities]]
+[[Category:Groups]]

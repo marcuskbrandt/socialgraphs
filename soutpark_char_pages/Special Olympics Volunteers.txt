@@ -1,0 +1,26 @@
+{{Group
+|name = Special Olympics Volunteers
+|image = Special Olympics volunteers.png
+|member1 = Javelin Official
+|voice1 = [[Trey Parker]]<ref name="IMDb">{{Cite web|url=https://www.imdb.com/title/tt0768561/fullcredits?ref_=tt_cl_sm|title="South Park" Up the Down Steroid (TV Episode 2004)|publisher=IMDb.com}}</ref>
+|member2 = Long jump Official
+|voice2 = Trey Parker<ref name="IMDb"/>
+|member3 = Female Volunteer
+|voice3 = [[Mona Marshall]]
+|first = "[[Up the Down Steroid]]"
+}}
+The '''Special Olympics Volunteers''' appear in the [[Season Eight]] episode "[[Up the Down Steroid]]".
+
+==Background==
+The Special Olympics Volunteers are tasked with several duties, ranging from manning the registration booth, to officiating the various sport events. When [[Eric Cartman]] attempts to register for the Special Olympics, [[Liane Cartman|his mother]] was not sure of his condition when asked by a volunteer, instead replying that he is "retarded". The volunteer decides to leave it blank and allows Cartman to participate anyway.
+
+==Appearance==
+All volunteers wear a blue shirt printed with the Special Olympics emblem. Some volunteers may also be seen wearing a red visor bearing the word "VOLUNTEER" in white text.
+
+==References==
+{{Reflist}}
+[[zh:特殊奥运会志愿者]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Groups]]

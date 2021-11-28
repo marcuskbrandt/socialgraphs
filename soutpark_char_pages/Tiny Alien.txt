@@ -1,0 +1,21 @@
+{{South Park character
+|name = Tiny Alien
+|image = Aliens-tiny-alien.png
+|died = "[[Spookyfish]]"
+|appearance = "[[Spookyfish]]"
+}}
+This '''Tiny Alien''', whose real name is unknown, came to Earth in a tiny spaceship during the beginning of "[[Spookyfish]]". His motives and intentions remain entirely unknown due to the fact that he was run over by the school bus before they could be set in motion. Judging by his looks, they were probably malicious.
+
+==Appearance==
+He has an elongated head, probably in reference to the movie ''[[w:c:avp:Alien (film)|Alien]]''. He had a jet-black body that was covered with spines. He wore what appeared to be a green and black space suit.
+
+<gallery widths="160" spacing="small" caption="Images of the Tiny Alien">
+Spookyfish1.png|The alien's spacecraft approaches Earth.
+Spookyfish2.png|The vessel enters the Earth's atmosphere.
+</gallery>
+{{Minor Characters from Season Two}}
+[[zh:小小外星人]]
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]

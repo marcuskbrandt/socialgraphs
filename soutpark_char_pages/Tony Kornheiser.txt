@@ -1,0 +1,35 @@
+{{South Park character
+|name = Tony Kornheiser
+|image = Tony Kornheiser.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1948|7|13}}
+|dob = July 13, 1948
+|job = Talk Show Host
+|religion = Jewish
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt1708917/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Poor and Stupid (TV Episode 2010) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Tony Kornheiser|Tony Kornheiser]]
+|appearance = "[[Poor and Stupid]]"
+}}
+{{LinkDisambig|Tony (Disambiguation)}}
+'''Anthony Irwin Kornheiser''' is an American television sports talk show host who appears in [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+In [[Mick's Bowling]], [[Kenny McCormick|Kenny]] watches a talk show known as ''Pardon the Interruption'' hosted by Tony Kornheiser. Tony reports on the public impression of NASCAR drivers as "poor and stupid", showing a podcast of [[Eric Cartman]] spewing bigoted and ignorant statements about [[Barack Obama]] while ingesting [[Vagisil]] products.
+
+==Appearance==
+Tony Kornheiser has balding brown hair with a beard. He wears a black business suit with a blue-lime striped tie.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+[[zh:托尼·科恩海瑟]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:News reporters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Jewish characters]]

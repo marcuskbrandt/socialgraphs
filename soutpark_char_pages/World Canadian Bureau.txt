@@ -1,0 +1,38 @@
+{{Group
+|name = World Canadian Bureau
+|image = World-Canadian-Bureau.png
+|type = Political Organization
+|job = Politicians
+|gender = Male
+|member1 = [[Stephen Abootman]]
+|voice1 = [[Trey Parker]]
+|member2 = Aide 1
+|voice2 = [[Matt Stone]]
+|member3 = Aide 2
+|first = "[[Canada on Strike]]"
+}}
+The '''World Canadian Bureau''' (initialized as the '''WGA''') is a [[Canada|Canadian]] organization, presumably affiliated to the government, in charge of Canadian foreign relations and publicity. It is also known to possess considerable domestic powers capable of calling nationwide strikes on short notice.
+
+==Background==
+In "[[Canada on Strike]]", [[Stephen Abootman]], the president of the WGA, managed to persuade the rest of Canada to strike after Canada Appreciation Day was mocked worldwide. However, the world's apathetic reaction to the strike, as well as the immense costs it incurred, led Abootman to end the strike prematurely in exchange for free bubblegum and vouchers entitling every Canadian to a free meal at Bennigan's.
+
+However, the Canadians quickly realized the futility of the strike and set Abootman and his aides adrift. It is not known what became of the WGA following these events.
+<gallery widths="160" captionalign="left" caption="Images of World Canadian Bureau">
+CanadaOnStrike018.png|Negotiating with other world leaders
+CanadaOnStrike034.png
+</gallery>
+
+==Trivia==
+*The World Canadian Bureau is likely a parody of the Writers Guild of America, which was striking at the time of the episode's airing.
+
+==See Also==
+*[[Canada]]
+*[[Stephen Abootman]]
+*"[[Canada on Strike]]"
+[[zh:世界加拿大人事务局]]
+[[Category:Organizations]]
+[[Category:Groups]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

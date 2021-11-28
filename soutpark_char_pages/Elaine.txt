@@ -1,0 +1,26 @@
+{{South Park character
+|name = Elaine
+|image = Elaine.png
+|gender = Female
+|race = Caucasian
+|hair = Red
+|job = Airport Clerk
+|voice = [[Eliza J. Schneider]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0766089/fullcredits?ref_=tt_cl_sm|title="South Park" The Entity (TV Episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Entity]]"
+}}
+'''Elaine''' is an airport clerk for [[Denver International Airport]]. She appears in the [[Season Five]] episode "[[The Entity]]".
+
+==Background==
+After waiting several hours to check in for a flight bound for Cheyenne, [[Herbert Garrison|Mr. Garrison]] decides to vent his frustration on Elaine, telling her that he plans to invent a [[IT|new mode of transportation]], and put airline companies out of business. Elaine however, completely ignores Garrison and assigns Garrison for another flight in the process.
+
+==Appearance==
+Elaine has red hair tied with a purple hairband. She wears an airport staff uniform which consists of a blue collared shirt, red scarf, and a gray skirt.
+
+==References==
+{{Reflist}}
+[[zh:伊莱恩]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Eliza J. Schneider]]

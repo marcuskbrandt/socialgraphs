@@ -1,0 +1,47 @@
+{{Group
+|name = Rancid
+|image = Rancid.png
+|type = Punk Band
+|job = Musicians
+|gender = Male
+|member1 = Tim Armstrong<ref>{{cite web|url=http://www.imdb.com/title/tt0705907/|title="South Park" Chef Aid (TV episode 1998)|publisher=IMDb.com}}</ref>
+|member2 = Lars Frederiksen
+|member3 = Matt Freeman
+|member4 = Brett Reed
+|first = "[[Chef Aid]]"
+|times = 2
+}}
+'''Rancid''' is a punk rock group from Berkeley, California. They were one of the bands featured in the [[Season Two]] episode, "[[Chef Aid]]", as well as on the soundtrack ''[[Chef Aid: The South Park Album]]''.
+
+==Background==
+The song featured on the show and on the album, called "[[Brad Logan]]", is about a friend named Brad Logan who has been in many bands and toured as a 'roadie' on many occasions for Rancid. This song is not available on any of Rancid's regular releases.
+
+The band makes a guest appearance on "[[Chef Aid]]" performing the song. They also appear in the mockumentary, [[Chef Aid: Behind the Menu]].
+
+==Appearance==
+The band appears as typical punk rock band with t-shits, denim jean pants, and spiky hair.
+<gallery widths="160" captionalign="left" caption="Images of Rancid">
+CaliforniaSunk.png|''"California Sunk!"''
+</gallery>
+
+==Personality==
+They are very altruistic, as shown when they play for free to raise money for [[Chef]] in "[[Chef Aid]]".
+
+==Prominence==
+*"[[Chef Aid]]"
+*"[[Christian Rock Hard]]"
+
+==References==
+{{Reflist}}
+{{MusicCelebrities}}
+[[es:Rancid]]
+[[ja:ランシド]]
+[[zh:腐臭乐队]]
+[[Category:Music celebrities]]
+[[Category:Bands]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:Groups]]
+[[Category:Adult characters]]

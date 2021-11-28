@@ -1,0 +1,53 @@
+{{South Park character
+|name = Mahatma Gandhi
+|image = Gandhi.png
+|gender = Male
+|race = Indian
+|hair = Gray Mustache (mostly bald)
+|age = 78 (deceased)
+|dob = October 2, 1869
+|died = January 30, 1948
+|job = Political Activist
+|religion = Hinduism
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0887071/|title="South Park" Hell on Earth 2006 (TV episode 2006)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Mahatma Gandhi|Mahatma Gandhi]]
+|appearance = ''[[South Park: Bigger, Longer & Uncut]]''
+}}
+'''Mohandas Karamchand Gandhi''', better known as '''Mahatma Gandhi''', was the political and ideological leader of India during the Indian independence movement.
+
+He cameos in ''[[South Park: Bigger, Longer & Uncut]]'', during [[Kenny McCormick|Kenny]]'s [[Hell Isn't Good|descent into hell]]. He also appeared briefly in "[[Hell on Earth 2006]]" with a new look.
+
+==Appearance==
+In ''[[South Park: Bigger, Longer & Uncut]]'', Gandhi is computer-animated and rendered in three dimensions, appearing with a skeletal, charred, and burned body, but with a real-life photo as ahead.
+
+In "[[Hell on Earth 2006]]", he appears in a more conventional cardboard-cutout ''[[South Park]]'' style, wearing a pair of glasses and traditional Indian garb. He also sports a mustache.
+<gallery caption="Images of Mahatma Gandhi" widths="160" spacing="small">
+Hellgandhi.JPG|Gandhi's appearance in ''[[South Park: Bigger, Longer & Uncut]]''.
+HellonEarth2006 (11).png|Gandhi's appearance (behind [[George Burns]]) in "[[Hell on Earth 2006]]".
+</gallery>
+
+==Quotes==
+*'''Mahatma Gandhi:''' "There is orderliness in the universe" from ''[[South Park: Bigger, Longer & Uncut]].''
+
+==Prominence==
+*''[[South Park: Bigger, Longer & Uncut]]''
+*"[[Hell on Earth 2006]]"
+
+==References==
+{{Reflist}}
+
+{{PoliticalCelebrities}}
+[[zh:莫罕达斯·甘地]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Political celebrities]]
+[[Category:Realistic characters]]
+[[Category:Characters from Hell]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Asian characters]]
+[[Category:Celebrities]]
+[[Category:Elderly people]]
+[[Category:Historical celebrities]]
+[[Category:Characters voiced by Matt Stone]]

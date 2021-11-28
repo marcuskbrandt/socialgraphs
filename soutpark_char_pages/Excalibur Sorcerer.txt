@@ -1,0 +1,37 @@
+{{South Park character
+|name = Excalibur Sorcerer
+|image = Misc-excalibur-sorcerer.png
+|gender = Male
+|hair = Gray
+|job = Sorcerer
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705935/|title="South Park" It Hits the Fan (TV episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[It Hits the Fan]]"
+}}
+The '''Excalibur Sorcerer''' is an elderly sorcerer who works in the Inner Sanctum of the [[Excalibur]] Casino who appears in the [[Season Five]] episode "[[It Hits the Fan]]".
+
+==Background==
+[[The Boys]] and [[Jerome "Chef" McElroy|Chef]] go to the sorcerer to learn about the stone, also called the "Rune Stone of Gaelic", where he describes to them [[The Knights of Standards and Practices]]. Later on, he shows them a book with a list of "curse" words, revealing that a dragon named [[Geldon]] will show up if the word of curse is said too many times and that the world will be destroyed.
+
+==Appearance==
+The sorcerer has long gray hair that is balding on the top as well as gray eyebrows and a long gray beard that obscures his mouth. He wears a large maroon robe with two yellow circles with a black design on them as well as a brown rope around his waist and purple pointy shoes. He also carries a long wooden cane with him.
+
+<gallery widths="160" captionalign="left" caption="Images of the Excalibur sorcerer">
+ItHitstheFan145.png|The sorcerer reading from the book.
+ItHitstheFan148.png|The sorcerer holding the stone.
+</gallery>
+
+==Prominence==
+*"[[It Hits the Fan]]" 
+*"[[I'm a Little Bit Country]]" - Seen in the crowd, near the end of the episode.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Five}}
+[[zh:圣剑巫师]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Elderly people]]
+[[Category:Minor characters]]

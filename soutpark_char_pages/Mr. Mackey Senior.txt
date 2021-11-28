@@ -1,0 +1,42 @@
+{{South Park character
+|name = Mr. Mackey Senior
+|image = Mr-mackey-sr.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|relation1 = Wife
+|relativename1 = [[Mrs. Mackey Senior]]
+|relation2 = Son
+|relativename2 = [[Mr. Mackey]]
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766080/|title="South Park" Child Abduction Is Not Funny (TV episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[Child Abduction is Not Funny]]"
+}}
+:''For [[South Park Elementary]]'s counselor, see [[Mr. Mackey]].''
+'''Mr. Mackey Senior''' is [[Mr. Mackey]]'s father, who appears briefly in the [[Season Six]] episode, "[[Child Abduction is Not Funny]]".
+
+==Background==
+In "[[Child Abduction is Not Funny]]", Mr. Mackey's parents are at [[South Park Elementary]] to prevent him from being abducted. Although Mr. Mackey Senior's name was not acknowledged, he refers to Mackey as "Junior", thus giving the idea that the two share a common first name.
+
+He does not appear "[[Insheeption]]", despite the episode being set in Mackey's childhood. It is later revealed in "[[Royal Pudding]]" that Mr. Mackey Senior was taken and presumably killed by [[Tooth Decay]] two years prior.
+
+==Appearance==
+Mr. Mackey Senior wears blue shoes, gray pants, and a red turtleneck shirt. He also wears a teal, button-up sweater and small-framed eyeglasses. Mackey is mostly bald, but has gray hair on the sides of his head. He has a large head, alike Mr. Mackey, and has large ears.
+
+==Prominence==
+*"[[Child Abduction is Not Funny]]" - Seen supporting Mr. Mackey during the child abduction crisis.
+*"[[Royal Pudding]]" - Mentioned to have been taken and killed by Tooth Decay.
+
+==References==
+{{Reflist}}
+{{South Park Families}}
+{{Minor Characters from Season Six}}
+[[zh:老麦奇先生]]
+[[Category:Characters]]
+[[Category:Parents]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Deceased characters]]
+[[Category:Characters in a relationship]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Elderly people]]
+[[Category:Unnamed characters]]

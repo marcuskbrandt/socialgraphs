@@ -1,0 +1,35 @@
+{{South Park character
+|name = Jimmie Johnson
+|image = Jimmie Johnson.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1975|9|17}}
+|dob = September 17, 1975
+|job = Professional [[NASCAR]] Driver
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt1708917/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Poor and Stupid (TV Episode 2010) - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Jimmie Johnson|Jimmie Johnson]]
+|appearance = "[[Poor and Stupid]]"
+}}
+'''Jimmie Kenneth Johnson''' is an American professional racing driver who appears in [[Season Fourteen]] episode "[[Poor and Stupid]]".
+
+==Background==
+Several drivers including Jimmie Johnson were interrupted by [[Eric Cartman]]'s off-topic and redneck-style comments during a NASCAR press conference.
+
+During the NASCAR competition, Jimmie Johnson's car was badly damaged by Cartman's antics. However, [[Patty Hamill]] would later take over the controls and beat Cartman to the race title.
+
+==Appearance==
+Jimmie Johnson has short brown hair and wears a blue racing suit.
+
+==References==
+{{Reflist}}
+
+{{SportsCelebrities}}
+[[zh:吉米·约翰逊]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Sports celebrities]]
+[[Category:Characters voiced by Matt Stone]]

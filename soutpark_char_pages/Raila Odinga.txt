@@ -1,0 +1,32 @@
+{{South Park character
+|name = Railia Odinga
+|image = Ralia.png
+|gender = Male
+|hair = Black
+|age = {{age|1945|1|7}}
+|dob = January 7, 1945
+|job = Prime Minister of Kenya
+|religion = Anglican
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Raila Odinga|Raila Odinga]]
+|appearance = "[[Pinewood Derby]]"
+}}
+'''Raila Odinga''' was the Prime Minister of Kenya, serving from April 17, 2008 to April 9, 2013. He appears in "[[Pinewood Derby]]" as one of the world leaders.
+
+==Appearance==
+He has receding black hair, thin black eyebrows, and a black mustache. He wears a dark green suit, red tie, and white undershirt.
+
+==Personality==
+Due to the events of "[[Pinewood Derby]]", we can assume he is somewhat self-centered, agreeing to keep the "space cash" as well as agreeing to nuke [[Finland]] when they threatened to tell the "space cops" about the "space cash".
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[zh:拉伊拉·奥廷加]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Political celebrities]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Male characters]]
+[[Category:Adult characters]]

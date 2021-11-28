@@ -1,0 +1,42 @@
+{{South Park character
+|name = Rick and Susan Tyler
+|image = Businesspeople-fatcamp-counselors-rick-n-susan.png
+|gender = Male and Female
+|hair = '''Rick:''' Black<br>'''Susan:''' Brown
+|job = Camp Counselors
+|voice = '''Rick:''' [[Matt Stone]]<ref name=imdb>{{cite web|url=https://www.imdb.com/title/tt0705924/|title="South Park" Fat Camp (TV Episode 2000)|publisher=IMDb.com}}</ref><br>'''Susan:''' [[Eliza Schneider]]<ref name=imdb/>
+|appearance = "[[Fat Camp]]"
+}}
+'''Rick and Susan Tyler''' are the [[Hopeful Hills]] camp counselors who appear in the [[Season Four]] episode "[[Fat Camp]]".
+
+==Background==
+Their job is to help overweight children lose weight through exercise and proper diet. Rick is the first counselor to appear; he welcomes [[Eric Cartman]] to fat camp. At the camp introduction, Susan initially dresses up in a glutinous fat costume before introducing herself to the campers. The campers struggle with the exercises and the healthy food they are provided. However, they realize that no child has lost weight and think they are doing something wrong. The campers' parents come to pick up their children, thinking the camp is a fraud. [[Chad]] then reveals that Cartman has been selling candy to the campers after lights out. The parents let their children return to the camp but Cartman is banished for his actions.
+
+==Appearance==
+Rick has short black hair. Susan has brown shoulder-length hair, long eyelashes, and pink lipstick. Both of them wear turquoise collared shirts with name tags on the right, light blue shorts with white stripes on either side, white socks, and black shoes. Rick has a whistle around his neck.
+<gallery spacing="small" caption="Images of Rick and Susan" widths="160">
+415 Fat Camp00013.jpg|Rick welcoming [[Eric Cartman|Cartman]].
+415 Fat Camp00015.jpg|Susan in a monster costume.
+415 Fat Camp00023.jpg|Rick and Susan talking to the campers.
+415 Fat Camp00039.jpg|Rick and Susan talking to the parents of one of the campers.
+</gallery>
+
+==Personality==
+They appear to be very enthusiastic and positive, attempting to convince the campers that exercise and healthy food, are fun and enjoyable, although the campers find them a torture.
+
+==Trivia==
+*Rick has a faulty name tag which reads "Murry Smith". This could be his old name during the development of the episode. It is not known if Rick's surname is still "Smith".
+*The Anonymous leader named "Michael" who appeared in "[[Bloody Mary]]" bears a close resemblance to Rick.
+
+==Quotes==
+'''Rick:''' ''"I'm doing great! Why don't you come on out and we'll get you oriented."''
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Four}}
+[[zh:瑞克和苏珊·泰勒]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Characters voiced by Eliza J. Schneider]]

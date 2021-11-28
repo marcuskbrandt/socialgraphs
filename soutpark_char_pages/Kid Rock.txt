@@ -1,0 +1,29 @@
+{{South Park character
+|name = Kid Rock
+|image = Kid-rock.png
+|gender = Male
+|hair = Brown
+|age = {{age|1971|1|17}}
+|dob = January 17, 1971
+|job = Musician
+|wikipedia = [[wikipedia:Kid Rock|Kid Rock]]
+|appearance = "[[Up the Down Steroid]]"
+}}
+'''Kid Rock''' is an American musician who appears in the [[Season Eight]] episode "[[Up the Down Steroid]]", during [[Eric Cartman]]'s research into how to appear mentally handicapped.
+
+==Appearance==
+Kid Rock has brown hair, which varies in tint, blue tattoos on his left arm, and unusually thick eyebrows. He also has a brown beard and mustache, which looks to be shaven in various lengths. He was shown wearing a black Bowler hat and a white tank top.
+
+==Personality==
+In "[[Up the Down Steroid]]", he was not shown speaking, but the fact that he was researched upon by Cartman, in order to find out how to appear mentally handicapped, suggests that he is of low intelligence.
+
+{{MusicCelebrities}}
+[[zh:摇滚小子]]
+[[Category:Characters]]
+[[Category:Music celebrities]]
+[[Category:Celebrities]]
+[[Category:Mentioned-only characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Rednecks]]

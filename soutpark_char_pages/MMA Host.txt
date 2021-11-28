@@ -1,0 +1,30 @@
+{{South Park character
+|name = MMA Host
+|image = Adults-sports-mma-host.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job = Sports TV Show Host
+|appearance = "[[Board Girls]]"
+}}
+The '''MMA host '''is the host of an MMA (Mixed Martial Arts) sports show. He appears in the [[Season Twenty-Three]] episode, "[[Board Girls]]".
+
+==Background==
+After the events of [[Heather Swanson]] winning the [[Strong Woman Competition]], the host congratulates Heather on her success. The show is however interrupted by [[PC Principal]], who is trying to defend [[Strong Woman]]. Heather then argues with PC Principal and an argument then ensues between the two, resulting in Heather deliberately crashing into a table of refreshments to gain sympathy.
+
+==Appearance==
+The MMA host wears a coat, with a blue buttoned shirt underneath. He wears trousers and black shoes. He has a trimmed grey beard. His hair is also grey and receding. He also appears to have a cut eyebrow, possibly as a result of an injury.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of the MMA host">
+BoardGirls39.png|Heather speaking in the MMA Sports Show.
+BoardGirls44.png|PC Principal pushes Heather in the show.
+</gallery>
+{{Minor Characters from Season Twenty-Three}}
+[[zh:综合格斗主持]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters with unknown voice actor]]
+[[Category:One-off characters]]

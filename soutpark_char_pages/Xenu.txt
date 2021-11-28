@@ -1,0 +1,32 @@
+{{South Park character
+|name = Xenu
+|image = Xenu.png
+|gender = Male
+|race = Alien
+|job = Intergalatic Dictator
+|religion = Scientology
+|appearance="[[Trapped in the Closet]]"
+}}
+'''Xenu''' is the alien character of Scientology. He appears in the [[Season Nine]] episode, "[[Trapped in the Closet]]". 
+
+==Background==
+Xenu is an evil dictator of the Galactic Confederacy. According to the sources about Scientology written by science-fiction author [[L. Ron Hubbard]] <ref>{{cite web|url=https://youtu.be/DwfxuQtgGE0|title="The History Of Xenu, As Explained By L. Ron Hubbard"}}</ref>. This event supposedly took place over 75 billion years ago, he brought the people to Earth and set them all up in volcanoes and then killed them with some nuclear hydrogen bombs.
+
+==Appearance==
+Xenu is a gray alien creature with a red suit. They have yellow glowing eyes and thin black eyebrows. Xenu has a bunch of tiny gray tentacles on his head and a flap over his mouth that wiggles when he makes noise. Xenu's arms are gray tentacles.
+
+<gallery widths="160" caption="Images of Xenu">
+TrappedInTheCloset (58).png|Xenu, as depicted by the Church of Scientology.
+</gallery>
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Nine}}
+[[ja:ジヌー]]
+[[pl:Xenu]]
+[[zh:兹努]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Aliens]]
+[[Category:Religious Figures]]
+[[Category:Scientologists]]

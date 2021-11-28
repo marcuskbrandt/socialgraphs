@@ -1,0 +1,33 @@
+{{South Park character
+|name = Eugene Levy
+|image = Eugene Levy.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = {{age|1946|12|17}}
+|dob = December 17, 1946
+|job = Actor, Comedian
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1908258/fullcredits?ref_=tt_cl_sm#cast|title="South Park" TV Episode 2011 - Full Cast & Crew|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Eugene Levy|Eugene Levy]]
+|appearance = "[[Funnybot]]"
+}}
+'''Eugene Levy''' is a Canadian actor and comedian who appears in the [[Season Fifteen]] episode, "[[Funnybot]]".
+
+==Background==
+During [[The Hollywood Minute]] show, host [[Sandy Cervix]] reported that [[Funnybot (Character)|Funnybot]] had began to make appearances in cinemas. A scene was shown where Eugene Levy walked into two naked women making out with Funnybot, spilling coffee in the process.
+
+==Appearance==
+Eugene Levy wears a white working dress with a black and white striped tie, along with a pair of round-framed spectacles. Despite being a Canadian in real life, he is not depicted like all other Canadian characters in the show.
+
+==References==
+{{Reflist}}
+
+{{MovieCelebrities}}
+[[zh:尤金·列维]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Movie celebrities]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

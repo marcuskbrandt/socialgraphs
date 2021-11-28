@@ -1,0 +1,36 @@
+{{South Park character
+|name = Grandma Tucker
+|image = Grandma_Tucker.png
+|gender = Female
+|race = Caucasian
+|hair = Gray
+|relation1 = Grandson
+|relativename1 = [[Craig Tucker]]
+|relation2 = Granddaughter
+|relativename2 = [[Tricia Tucker]]
+|appearance = "[[Pandemic 2: The Startling]]"
+}}
+'''Grandma Tucker''' is the grandmother of [[Tricia Tucker|Tricia]] and [[Craig Tucker]]. She was first mentioned in "[[Pandemic]]" and later pictured in "[[Pandemic 2: The Startling]]".
+
+==Appearance==
+Grandma Tucker has long gray hair as well as various facial wrinkles. She wears a light purple sweater, white shirt, and light brown pants.
+
+==Prominence==
+*"[[Pandemic]]" - Mentioned to have Craig $100 for his birthday.
+*"[[Pandemic 2: The Startling]]" - Pictured.
+
+== Trivia ==
+*Technically speaking, it is because of her that Craig was asked to join the Peruvian flute band with Eric, Stan, Kyle, and Kenny, since it was her that gave Craig $100, so it was basically thanks to her that the ancient prophecy was fulfilled.
+
+{{South Park Families}}
+[[es:Abuela Tucker]]
+[[nl:Grootmoeder Tucker]]
+[[pl:Babcia Tucker]]
+[[ru:Бабушка Крейга]]
+[[zh:塔克奶奶]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Female characters]]
+[[Category:One-off characters]]
+[[Category:Elderly people]]
+[[Category:Unnamed characters]]

@@ -1,0 +1,161 @@
+{{Card
+|name = Grand Wizard Cartman
+|image = Cartmanfancard.png
+|theme = Fantasy
+|rarity = Legendary
+|type = Tank
+|energy = 6
+|health = 1026
+|attack = 32
+|max_speed = 0.27
+|power_type = Damage, Stun
+|power_damage = 60 - 240 (depending on level)
+|attack_range = 1.05
+|description = Charged: Blasts nearby enemies with super sweet magic!
+}}
+'''Grand Wizard Cartman''' is a 6-cost [[Eric Cartman]] Fantasy card in ''[[South Park: Phone Destroyer]]''. When his ability is activated, Grand Wizard Cartman will spin his staff around quickly before slamming it down with great force, causing slight damage to all nearby enemies, knocking them back and freezing them.
+
+==Level Upgrades==
+<tabber>Level 1=
+{{UpgradeLegend}}
+{{Upgrade|type=UAHPC|
+{{upgradecell|upgrade=1/5|attack=32|health=1026|power=60|coins=0|BM=0|SM=0|GM=0}}
+{{upgradecell|upgrade=2/5|attack=32|health=1057|power=60|coins=40|BM=2|SM=1|GM=0}}
+{{upgradecell|upgrade=3/5|attack=34|health=1057|power=71|coins=80|BM=5|SM=2|GM=1}}
+{{upgradecell|upgrade=4/5|attack=34|health=1057|power=71|coins=130|BM=8|SM=3|GM=1}}
+{{upgradecell|upgrade=5/5|attack=34|health=1100|power=71|coins=200|BM=10|SM=4|GM=2}}
+}}
+|-|Level 2=
+{{UpgradeLegend}}
+{{Upgrade|type=UAHPC|
+{{upgradecell|upgrade=Level 2|attack=40|health=1305|power=71|coins=225|BM=0|SM=0|GM=0}}
+{{upgradecell|upgrade=6/15|attack=41|health=1305|power=71|coins=55|BM=2|SM=1|GM=0}}
+{{upgradecell|upgrade=7/15|attack=41|health=1305|power=80|coins=100|BM=5|SM=3|GM=1}}
+{{upgradecell|upgrade=8/15|attack=41|health=1365|power=80|coins=155|BM=7|SM=5|GM=1}}
+{{upgradecell|upgrade=9/15|attack=43|health=1365|power=80|coins=200|BM=9|SM=7|GM=2}}
+{{upgradecell|upgrade=10/15|attack=43|health=1365|power=92|coins=265|BM=14|SM=10|GM=2}}
+{{upgradecell|upgrade=11/15|attack=43|health=1446|power=92|coins=315|BM=15|SM=10|GM=3}}
+{{upgradecell|upgrade=12/15|attack=45|health=1446|power=92|coins=350|BM=16|SM=11|GM=3}}
+{{upgradecell|upgrade=13/15|attack=45|health=1446|power=107|coins=385|BM=18|SM=12|GM=4}}
+{{upgradecell|upgrade=14/15|attack=45|health=1552|power=107|coins=425|BM=19|SM=14|GM=4}}
+{{upgradecell|upgrade=15/15|attack=48|health=1552|power=107|coins=450|BM=20|SM=15|GM=5}}
+}}
+
+|-|Level 3=
+{{UpgradeLegend}}
+{{Upgrade|type=UAHPC|
+{{upgradecell|upgrade=Level 3|attack=67|health=2168|power=107|coins=1500|BM=0|SM=0|GM=0}}
+{{upgradecell|upgrade=16/25|attack=67|health=2168|power=115|coins=80|BM=5|SM=3|GM=1}}
+{{upgradecell|upgrade=17/25|attack=67|health=2259|power=115|coins=130|BM=8|SM=5|GM=2}}
+{{upgradecell|upgrade=18/25|attack=70|health=2259|power=115|coins=200|BM=13|SM=8|GM=3}}
+{{upgradecell|upgrade=19/25|attack=70|health=2259|power=126|coins=270|BM=17|SM=12|GM=4}}
+{{upgradecell|upgrade=20/25|attack=70|health=2379|power=126|coins=390|BM=21|SM=13|GM=5}}
+{{upgradecell|upgrade=21/25|attack=74|health=2379|power=126|coins=425|BM=25|SM=14|GM=6}}
+{{upgradecell|upgrade=22/25|attack=74|health=2379|power=141|coins=460|BM=28|SM=15|GM=6}}
+{{upgradecell|upgrade=23/25|attack=74|health=2538|power=141|coins=500|BM=30|SM=16|GM=7}}
+{{upgradecell|upgrade=24/25|attack=79|health=2538|power=141|coins=545|BM=33|SM=18|GM=8}}
+{{upgradecell|upgrade=25/25|attack=79|health=2538|power=160|coins=600|BM=35|SM=21|GM=8}}
+}}
+|-|Level 4=
+{{UpgradeLegend}}
+{{Upgrade|type=UAHPC|
+{{upgradecell|upgrade=Level 4|attack=92|health=2948|power=160|coins=3000|BM=0|SM=0|GM=0}}
+{{upgradecell|upgrade=26/40|attack=92|health=2986|power=160|coins=300|BM=5|SM=3|GM=1}}
+{{upgradecell|upgrade=27/40|attack=93|health=2986|power=160|coins=450|BM=10|SM=6|GM=2}}
+{{upgradecell|upgrade=28/40|attack=93|health=2986|power=166|coins=500|BM=14|SM=10|GM=3}}
+{{upgradecell|upgrade=29/40|attack=93|health=3038|power=166|coins=650|BM=20|SM=14|GM=4}}
+{{upgradecell|upgrade=30/40|attack=95|health=3038|power=166|coins=850|BM=29|SM=16|GM=5}}
+{{upgradecell|upgrade=31/40|attack=95|health=3038|power=174|coins=950|BM=32|SM=18|GM=6}}
+{{upgradecell|upgrade=32/40|attack=95|health=3107|power=174|coins=1000|BM=35|SM=19|GM=7}}
+{{upgradecell|upgrade=33/40|attack=97|health=3107|power=174|coins=1050|BM=36|SM=20|GM=8}}
+{{upgradecell|upgrade=34/40|attack=97|health=3107|power=184|coins=1100|BM=39|SM=21|GM=9}}
+{{upgradecell|upgrade=35/40|attack=97|health=3194|power=184|coins=1150|BM=41|SM=22|GM=10}}
+{{upgradecell|upgrade=36/40|attack=100|health=3194|power=184|coins=1200|BM=43|SM=23|GM=10}}
+{{upgradecell|upgrade=37/40|attack=100|health=3194|power=197|coins=1250|BM=45|SM=24|GM=11}}
+{{upgradecell|upgrade=38/40|attack=100|health=3317|power=197|coins=1350|BM=46|SM=26|GM=12}}
+{{upgradecell|upgrade=39/40|attack=104|health=3317|power=197|coins=1450|BM=50|SM=28|GM=13}}
+{{upgradecell|upgrade=40/40|attack=104|health=3317|power=215|coins=1750|BM=55|SM=30|GM=14}}
+}}
+|-|Level 5=
+{{UpgradeLegend}}
+{{Upgrade|type=UAHPC|
+{{upgradecell|upgrade=Level 5|attack=110|health=3522|power=215|coins=7500|BM=0|SM=0|GM=0}}
+{{upgradecell|upgrade=41/55|attack=110|health=3535|power=215|coins=500|BM=8|SM=4|GM=2}}
+{{upgradecell|upgrade=42/55|attack=111|health=3535|power=215|coins=650|BM=12|SM=7|GM=3}}
+{{upgradecell|upgrade=43/55|attack=111|health=3535|power=217|coins=800|BM=18|SM=10|GM=3}}
+{{upgradecell|upgrade=44/55|attack=111|health=3552|power=217|coins=1050|BM=24|SM=15|GM=4}}
+{{upgradecell|upgrade=45/55|attack=112|health=3552|power=217|coins=1430|BM=35|SM=17|GM=5}}
+{{upgradecell|upgrade=46/55|attack=112|health=3552|power=220|coins=1590|BM=38|SM=19|GM=5}}
+{{upgradecell|upgrade=47/55|attack=112|health=3575|power=220|coins=1680|BM=43|SM=20|GM=6}}
+{{upgradecell|upgrade=48/55|attack=113|health=3575|power=220|coins=1750|BM=45|SM=22|GM=7}}
+{{upgradecell|upgrade=49/55|attack=113|health=3575|power=223|coins=1850|BM=50|SM=25|GM=8}}
+{{upgradecell|upgrade=50/55|attack=113|health=3604|power=223|coins=1950|BM=51|SM=28|GM=10}}
+{{upgradecell|upgrade=51/55|attack=114|health=3604|power=223|coins=2000|BM=52|SM=30|GM=12}}
+{{upgradecell|upgrade=52/55|attack=114|health=3604|power=227|coins=2100|BM=53|SM=32|GM=14}}
+{{upgradecell|upgrade=53/55|attack=114|health=3645|power=227|coins=2250|BM=56|SM=34|GM=16}}
+{{upgradecell|upgrade=54/55|attack=115|health=3645|power=227|coins=2400|BM=60|SM=37|GM=17}}
+{{upgradecell|upgrade=55/55|attack=115|health=3645|power=233|coins=3000|BM=65|SM=40|GM=18}}
+}}
+|-|Level 6=
+{{UpgradeLegend}}
+{{Upgrade|type=UAHPC|
+{{upgradecell|upgrade=Level 6|attack=121|health=3850|power=233|coins=15000|BM=0|SM=0|GM=0}}
+{{upgradecell|upgrade=56/70|attack=121|health=3855|power=233|coins=600|BM=9|SM=6|GM=3}}
+{{upgradecell|upgrade=57/70|attack=122|health=3855|power=233|coins=780|BM=17|SM=12|GM=5}}
+{{upgradecell|upgrade=58/70|attack=122|health=3855|power=234|coins=950|BM=26|SM=17|GM=7}}
+{{upgradecell|upgrade=59/70|attack=122|health=3862|power=234|coins=1300|BM=35|SM=20|GM=10}}
+{{upgradecell|upgrade=60/70|attack=123|health=3862|power=234|coins=1740|BM=50|SM=28|GM=11}}
+{{upgradecell|upgrade=61/70|attack=123|health=3862|power=235|coins=1910|BM=55|SM=30|GM=12}}
+{{upgradecell|upgrade=62/70|attack=123|health=3871|power=235|coins=2000|BM=60|SM=32|GM=13}}
+{{upgradecell|upgrade=63/70|attack=124|health=3871|power=235|coins=2120|BM=65|SM=34|GM=14}}
+{{upgradecell|upgrade=64/70|attack=124|health=3871|power=236|coins=2200|BM=70|SM=36|GM=15}}
+{{upgradecell|upgrade=65/70|attack=124|health=3883|power=236|coins=2300|BM=74|SM=38|GM=16}}
+{{upgradecell|upgrade=66/70|attack=125|health=3883|power=236|coins=2400|BM=78|SM=40|GM=17}}
+{{upgradecell|upgrade=67/70|attack=125|health=3883|power=238|coins=2500|BM=80|SM=42|GM=18}}
+{{upgradecell|upgrade=68/70|attack=125|health=3899|power=238|coins=2700|BM=84|SM=45|GM=19}}
+{{upgradecell|upgrade=69/70|attack=126|health=3899|power=238|coins=2900|BM=88|SM=50|GM=20}}
+{{upgradecell|upgrade=70/70|attack=126|health=3899|power=240|coins=3600|BM=99|SM=55|GM=20}}
+{{upgradecell|upgrade=Level 7|attack=132|health=4104|power=240|coins=30000|BM=0|SM=0|GM=0}}
+}}
+</tabber>
+
+==Quotes==
+* '''Summoned'''
+** {{AQ|file=CartmanFan Bow to the Grand Wizard.ogg|quote=Bow to the Grand Wizard.}}
+** {{AQ|file=CartmanFan Fear my magic.ogg|quote=Fear my magic!}}
+* '''Idle'''
+** {{AQ|file=CartmanFan THIS will be sweet.ogg|quote=THIS will be sweet.}}
+* '''Using ability'''
+** {{AQ|file=CartmanFan This will be sweet 2.ogg|quote=This will be sweet.}}
+** {{AQ|file=CartmanFan I am unstoppable.ogg|quote=I am unstoppable!}}
+* '''Attacked'''
+** {{AQ|file=CartmanFan Asshole.ogg|quote=Asshole!}}
+** {{AQ|file=CartmanFan Help mom.ogg|quote=Help! Mom!}}
+* '''Defeated'''
+** {{AQ|file=CartmanFan Magic is so gay.ogg|quote=Magic is... so gay...}}
+*'''Boss fight intro'''
+**''"Yeah, ooo, yeah, ooo, yeah, ooo, fuck you!"''
+
+==Patch History==
+{{scroll box|content=
+* '''4 December, 2018'''
+** Base attack increased from 26 to 32.
+** Attack and ability animations shortened.
+** Ability charge time decreased from 20 to 15.
+** Ability radius increased from 3 to 4.
+** Aggro range adjusted.
+* '''20 June, 2018'''
+** Rare spawning visual issue fixed.
+* '''18 July, 2017'''
+** Ability duration decreased by 1 second.
+}}
+
+==Trivia==
+* Like most of the characters in the Fantasy theme, Grand Wizard Cartman's appearance is taken directly from Cartman's appearance in ''[[South Park: The Stick of Truth]]''.
+[[zh:巫师王卡特曼（手机毁灭者）]]
+[[Category:Cards]]
+[[Category:South Park: Phone Destroyer]]
+[[Category:Fantasy cards]]
+[[Category:Tank cards]]
+[[Category:Legendary cards]]
+[[Category:Eric Cartman cards]]

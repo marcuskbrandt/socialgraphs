@@ -1,0 +1,39 @@
+{{South Park character
+|name = Bill O'Reilly
+|image = Bill-oreilly.png
+|gender = Male
+|hair = Brown; Gray
+|dob = September 10, 1949
+|age = {{age|1949|9|10}}
+|job = Host of ''The O'Reilly Factor''
+|religion = Roman Catholic
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0761287/|title="South Park" Goobacks (TV episode 2004)|publisher=IMDb.com}}</ref>
+|wikipedia  = [[Wikipedia:Bill O'Reilly (political commentator)|Bill O'Reilly]]
+|appearance = "[[Goobacks]]"
+}}
+{{LinkDisambig|Bill (Disambiguation)}}
+'''Bill O'Reilly''' appears in "[[Goobacks]]", hosting a debate about immigrants from the future on his show, ''The O'Reilly Factor''.
+
+==Appearance==
+Bill O'Reilly has graying, brown hair, a large nose, and a few facial wrinkles. He wears a blue suit, striped-blue tie, and a white dress shirt.
+<gallery widths="160" spacing="small" caption="Images of Bill O'Reilly">
+GB38.png|''"On my right is pissed off white trash red neck conservative..."''
+GB39.png|''"And on my left is aging hippie liberal douche."''
+</gallery>
+
+==Personality==
+He appears calm, keeping himself cool and unbiased, despite the arguments going on on his show. He often goes "Alright?" in between words.
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+[[de:Bill O'Reilly]]
+[[fr:Bill O'Reilly]]
+[[zh:比尔·奥雷利]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Television celebrities]]

@@ -1,0 +1,40 @@
+{{South Park character
+|name = Charlie Brown
+|image = Charlie-brown.png
+|gender = Male
+|died = "[[Imaginationland]]" (revived)
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705892/|title="South Park" (A Very Crappy Christmas (TV Episode 2000)|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Charlie Brown|Charlie Brown]]
+|relation1 = Sister
+|relativename1 = Sally Brown
+|appearance = "[[A Very Crappy Christmas]]"
+}}
+{{LinkDisambig|Charlie (Disambiguation)}}
+'''Charlie Brown''' is a main character on the comic strip ''Peanuts'' by [[Wikipedia:Charles M. Schulz|Charles M. Schulz]] who appeared in the [[Season Four]] episode "[[A Very Crappy Christmas]]", and in [[Season Eleven]] episodes "[[Imaginationland]]" and "[[Imaginationland, Episode II]]". 
+
+==Appearance==
+Charlie Brown in South Park is almost identical to his original design. He wears a yellow shirt with a black stripe, black shorts, white socks, and brown shoes. He's almost bald, with only a small curl of hair in front of his head. Unlike the [[Family Guy]] characters in the "[[Cartoon Wars Part I]]" and "[[Cartoon Wars Part II]]" episodes, Charlie Brown has the eyes and the same mouth shapes of a normal South Park character and has no black outline.
+
+==Gallery==
+<gallery caption="Images of Charlie Brown" spacing="small" widths="160">>
+charliebrown1.png|Charlie Brown with Lucy and Snoopy.
+charliebrown2.png|A naked Charlie Brown being attacked by Snoopy.
+charliebrown3.png|Charlie Brown loses a leg during the terrorist attack in "[[Imaginationland]]".
+</gallery>
+
+==Prominence==
+*"[[A Very Crappy Christmas]]" - Debut; [[The Boys]] watch Peanuts on TV and have the idea of making a short Christmas film to cheer up the citizens.
+*"[[Imaginationland]]" - He is killed by the bomb explosion and loses his left leg.
+*"[[Imaginationland, Episode III]]" - He is revived along with the other Imaginationland creatures at the end of the episode.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[zh:查理·布朗]]
+[[Category:Crossover characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Characters]]
+[[Category:Imaginationland characters]]
+[[Category:Revived characters]]
+[[Category:Characters voiced by Trey Parker]]

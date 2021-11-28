@@ -1,0 +1,23 @@
+{{South Park character
+|name = Brian Thompson-Jarvis
+|image = 4th-graders-brian-thompson-jarvis.png
+|gender = Male
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0783418/|title="South Park" Smug Alert! (TV Episode 2006)|publisher=IMDb.com}}</ref>
+|appearance = "[[Smug Alert!]]"
+}}
+{{stub}}
+'''Brian Thompson-Jarvis''' is a character who appears in the [[Season Ten]] episode, "[[Smug Alert!]]".
+
+==Appearance==
+Brian has long, messy curly brown hair and wears a blue, green, orange and purple short-sleeved shirt with four designs of weird colored creatures in the middle, blue shorts and brown flip flops. He also had a necklace. He is also taller than the 4th graders, he looks about the same height as Shelly Marsh.
+
+==References==
+{{Reflist}}
+[[fr:Brian Thompson-Jarvis]]
+[[zh:布莱恩·汤普森-贾维斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Stubs]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

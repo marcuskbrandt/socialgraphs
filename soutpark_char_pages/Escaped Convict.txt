@@ -1,0 +1,35 @@
+{{South Park character
+|name = Escaped Convict
+|image = Adults-other-fictitious-escaped-convict.png
+|gender = Male
+|race = British
+|hair = Bald
+|died = "[[Pip]]"
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705929/|title="South Park" Pip (TV episode 2000)|publisher=IMDb.com}}</ref>
+|appearance = "[[Pip]]"
+|final = "[[Pip]]"
+}}
+The '''Escaped Convict''' is a convict who appears in the episode, "[[Pip]]". After escaping from prison, he threatens [[Pip Pirrip|Pip]] in a graveyard, but Pip gives him a sandwich and cuts off his handcuffs. Touched by Pip's display of unconditional kindness, he moves to Wales and becomes a millionaire.
+
+Afterwards, he repays [[Pip Pirrip|Pip]]'s favor by sending him to become a gentleman in London. He later tries to help Pip stop [[Miss Havisham]], but is killed when she spits acid on his face.
+
+==Appearance==
+He has an irregularly-shaped face, badly-kept stubble, thick and bushy eyebrows and a prominent forehead. He initially wears a loose brown shirt and blue trousers, but later dons a morning coat, grey waistcoat and white shirt with white gloves when he becomes a millionaire.
+
+<gallery widths="160" spacing="small" caption="Images of the escaped convict">
+Pip007.png|The convict threatening [[Pip Pirrip|Pip]] in the graveyard.
+Pip062.png|The gentleman sends [[Pip Pirrip|Pip]] to become a gentleman in London.</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[es:Convicto Escapado]]
+[[zh:阿贝尔·马格维奇]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:British characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters with deviations]]

@@ -1,0 +1,27 @@
+{{South Park character
+|name = Ms. Gorache
+|image = Gorache.png
+|gender = Female
+|hair = Brown
+|voice = [[Trey Parker]]<ref>Credited as "Miss Ganesh" in {{cite web|url=https://www.imdb.com/title/tt0766084/|title="South Park" Red Hot Catholic Love (TV Episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[Red Hot Catholic Love]]"
+}}
+'''Ms. Gorache''' is a counselor who appears in the [[Season Six]] episode, "[[Red Hot Catholic Love]]".
+
+==Background==
+During a sermon at the [[South Park Church]], [[Father Maxi]] informs parents of a weekend boat trip known as "Young Men's Catholic Retreat". The parents however, having suspicions over the true purpose of the boat trip, decide against allowing their children to participate, and instead hire a counselor to talk to the boys to find out if the priest had been molesting them.
+
+During the counselling session in the [[Park County Community Center]], Ms. Gorache asks the boys if Father Maxi "ever try to put something in their butts" among other questions, leaving the boys confused.
+
+==Appearance==
+Ms. Gorache has long, light brown hair, and wears a red shirt, a brown skirt, and black shoes. She carries a pen and a clipboard during the counselling session.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+[[zh:戈拉奇女士]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

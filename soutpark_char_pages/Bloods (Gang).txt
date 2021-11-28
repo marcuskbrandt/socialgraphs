@@ -1,0 +1,28 @@
+{{Group
+|name = Bloods
+|image = The-bloods.png
+|type = Street gang
+|enemies = [[Crips (Gang)|Crips]]
+|gender = Male and female
+|first = "[[Krazy Kripples]]"
+|times = 1
+}}
+The '''Bloods''' are a real-life street gang and the rival gang of the [[Crips (Gang)|Crips]] who made their only appearance in the [[Season Seven]] episode "[[Krazy Kripples]]".
+
+==Background==
+The Bloods are first seen when the Crips, whom [[Jimmy Valmer]] and [[Timmy Burch]] asked to join because they thought they were "crippled" from birth, tell them to "pop some punk-ass Bloods". Jimmy and Timmy accidentally cause a tanker truck to crash into a group of Bloods, killing thirteen of them, which results in the Crips allowing them to join their gang. Later on, a few of the Bloods retaliates by attempting to kill Jimmy and Timmy in their houses in a drive-by shooting, though they are unsuccessful. As a result, Jimmy and Timmy decide to rent out the rec center in [[South Park (Location)|South Park]] and have the Crips and Bloods locked in together in the [[Denver Recreation Center|local recreation center]] until they resolve their differences. While they are initially hesitant, they soon realize that the two gangs have a lot in common, and they end up making a friendship with each other, including singing and playing basketball.
+
+==Appearance==
+The Bloods consist of primarily minority characters who wear red-colored shirts and bandanas and have a few tattoos.
+{{Minor Characters from Season Seven}}
+[[fr:Bloods (Gang)]]
+[[zh:血帮]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:African-American characters]]
+[[Category:Minority characters]]
+[[Category:Groups]]
+[[Category:Organizations]]

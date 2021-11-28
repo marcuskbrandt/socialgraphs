@@ -1,0 +1,38 @@
+{{South Park character
+|name = Bob Dole
+|image = Bob Dole.JPG
+|gender = Male
+|race = Caucasian
+|hair = Grey, Brown
+|age = {{age|1923|7|22}}
+|dob = July 22, 1923
+|job = Politician
+|religion = Christian (Methodist)
+|voice = [[Trey Parker]] <ref>{{cite web|url=http://www.imdb.com/title/tt0766088/fullcredits?ref_=tt_ov_st_sm|title="South Park" Spontaneous Combustion (TV episode 1999)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Bob Dole|Bob Dole]]
+|appearance = "[[Spontaneous Combustion]]"
+|final = "[[6 Days to Air: The Making of 'South Park']]"
+}}{{LinkDisambig|Robert (Disambiguation)}}
+'''Bob Dole''' is an American politician who served in the United States Senate from 1969 to 1996 and in the House of Representatives from 1961 to 1969. He ran for president in 1996 under the Republican Party but lost to [[Bill Clinton]]. He is now retired. During his retirement Mr. Dole became an advertisement pitchman for a variety of products in commercials including [[Wikipedia:Viagra|Viagra]] (a drug used in erectile dysfunction).
+
+In "[[6 Days to Air: The Making of 'South Park']]", Bob Dole claims that he watches South Park on Wednesday nights during an interview.
+
+==Background==
+[[Gerald Broflovski]] is suffering from erectile dysfunction and it has led to arguments with his [[Sheila Broflovski|wife]]. He is working at his law firm and listening to the radio. Bob Dole comes on in a commercial for erectile dysfunction. He says that "even he can get it up" and that something must be wrong with you if you cannot.
+
+==Appearance==
+Although he is not seen in the episode, in real life he is Caucasian with grey and brown hair.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[fr:Bob Dole]]
+[[zh:鲍勃·多尔]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Celebrities]]
+[[Category:Mentioned-only characters]]

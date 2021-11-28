@@ -1,0 +1,39 @@
+{{South Park character
+|name = Earvin "Magic" Johnson
+|image = Earvin_Magic_Johnson.png
+|gender = Male
+|race = African-American
+|age = {{age|1959|8|14}}
+|dob = August 14, 1959
+|job = HIV Activist<br>Retired NBA Basketball Player
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1198003/|title = "South Park" Tonsil Trouble (TV episode 2008)|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Magic Johnson|Magic Johnson]]
+|appearance = "[[Tonsil Trouble]]"
+}}
+'''Earvin "Magic" Johnson Jr.''' appears in the episode "[[Tonsil Trouble]]". He is a retired basketball player who recovered from HIV. 
+
+==Background==
+[[Eric Cartman]] and [[Kyle Broflovski]] go to see Johnson after Cartman infects Kyle with [[AIDS]] for teasing him about having the disease. He, unlike other victims of the virus, had not yet had the virus develop into full-blown AIDS. It turns out that this is because he sleeps with all of his money in his bedroom, which is discovered to be the [[cure for AIDS]].
+
+==Appearance==
+Johnson is bald and wears a purple jacket over white t-shirt and purple track pants. His jacket has his number, 32, with a star over it. He owns a mansion in front of which there is a large fountain with two sculptures of a lion on it. His garage door is made of gold and also has the number 32 on it.
+
+<gallery widths="160" spacing="small" caption="Images of Magic Johnson">
+Magic_Johnson_Spining.png|Johnson spinning a basketball in "[[Tonsil Trouble]]".
+Johnson tears up.png|Johnson tears up when he hears of Kyle and Cartman.
+Magic Johnson's House.png|Johnson's mansion.
+</gallery>
+==References==
+{{Reflist}}
+{{SportsCelebrities}}
+{{Minor Characters from Season Twelve}}
+[[zh:埃尔文·约翰逊]]
+[[Category:Characters]]
+[[Category:Minority characters]]
+[[Category:Sports celebrities]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:African-American characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

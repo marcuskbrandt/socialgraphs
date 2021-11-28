@@ -1,0 +1,26 @@
+{{South Park character
+|name = Rosemary
+|image = Workforce-rosemary.png
+|gender = Female
+|hair = Black
+|job = Hotel Maid
+|voice = [[April Stewart]]<ref>{{cite web|url=https://www.imdb.com/title/tt1766998/|title="South Park" Crème Fraîche (TV episode 2010)|publisher=IMDb.com}}</ref>
+|appearance = "[[Crème Fraiche]]"
+}}
+'''Rosemary''' is a hotel maid who appears in the [[Season Fourteen]] episode "[[Crème Fraiche]]".
+
+==Background==
+When [[Sharon Marsh|Sharon]] finds a sign on her hotel door that says her room is being serviced, she walks in to find Rosemary working out with her [[Shake Weight]], causing Rosemary to leave the room in embarrassment.
+
+==Appearance==
+Rosemary wears a gray shirt with a white trim, a white apron, white socks, and black shoes. She has messy black hair and wears red lipstick. Her name tag is worn on the left side of her shirt.
+
+==References==
+{{Reflist}}
+[[zh:露丝玛丽]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Minority characters]]
+[[Category:Characters voiced by April Stewart]]

@@ -1,0 +1,36 @@
+{{South Park character
+|name = James Cameron
+|image = James cameron 2.3..png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = {{age|1954|8|16}}
+|dob = August 16, 1954
+|job = Director, Explorer
+|religion = Atheist
+|wikipedia = [[Wikipedia:James Cameron|James Cameron]]
+|appearance = "[[Raising the Bar]]"
+}}
+'''James Cameron''' is a Hollywood director and deep-sea explorer who appears in the [[Season Sixteen]] episode, "[[Raising the Bar]]". The plot was a reference to James's record-setting solo dive into the Mariana trench on March 26, 2012.
+
+==Background==
+With the help of his crew of the [[USS James Cameron]], James travels to the lowest depths of the ocean to raise "[[The Bar|the bar]]" on society's acceptance of "[[Here Comes Honey Boo Boo]]" as well as obesity. The "[[Ballad of James Cameron]]" about his expedition plays twice in the episode.
+
+==Appearance==
+James Cameron has gray hair and a gray beard. He wears a black shirt, a black and blue deep-sea diving suit, black gloves, black diving pants, and black shoes.
+
+Unlike other Canadian celebrities on the show, he has the traditional appearance of a South Park character rather than the beady-eyed look of many Canadian characters.
+
+{{Minor Characters from Season Sixteen}}
+{{MovieCelebrities}}
+[[pl:James Cameron]]
+[[zh:詹姆斯·卡梅隆]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Canadians]]
+[[Category:Characters with unknown voice actor]]
+[[Category:Atheists]]
+[[Category:Movie celebrities]]

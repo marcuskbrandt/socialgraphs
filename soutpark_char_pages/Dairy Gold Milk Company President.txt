@@ -1,0 +1,28 @@
+{{South Park character
+|name = Dairy Gold Milk Company President
+|image = Dairy Gold Milk Company president.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job = President of [[Dairy Gold Milk Company]]
+|voice = [[Matt Stone]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705932/fullcredits?ref_=tt_cl_sm|title="South Park" How to Eat with Your Butt (TV Episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[How to Eat with Your Butt]]"
+}}
+The '''[[Dairy Gold Milk Company]] President''' appears in the [[Season Five]] episode "[[How to Eat with Your Butt]]".
+
+==Background==
+[[Stephen and Martha Thompson]] visit the milk factory in an effort to reunite with their missing son. There, the president shows them around the factory, providing them samples of food, and introducing them to Kelrom 4000, a machine capable to searching for missing children.
+
+The president holds a small ceremony towards the end of the episode, where it is revealed that the missing son is [[Ben Affleck]].
+
+==Appearance==
+The president wears a cow skin suit over a teal shirt, black tie, and black pants.
+
+==References==
+{{Reflist}}
+[[zh:乳黄金牛奶公司总裁]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

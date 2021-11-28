@@ -1,0 +1,30 @@
+{{South Park character
+|name = Corey Hart
+|image = Canadian-celebrities-cory-hart.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|dob = 31 May, 1962
+|age = {{age|1962|5|31}}
+|job = Singer
+|wikipedia = [[Wikipedia:Corey Hart (singer)|Corey Hart]]
+|appearance = "[[Royal Pudding]]"
+}}
+'''Corey Hart''' is a Canadian singer and songwriter who appears in [[Season Fifteen]] episode "[[Royal Pudding]]".
+
+==Background==
+Corey Hart appeared as one of the Canadian officials who attends the royal wedding of the [[Prince and Princess of Canada]].
+
+==Appearance==
+Corey Hart appears with disheveled black hair. He wears a black suit, a purple and gold medal around his neck, black pants, and black shoes, along with a pair of sunglasses. As with other Canadians, he is depicted with a flapping head and beady eyes.
+
+{{MusicCelebrities}}
+[[pl:Corey Hart]]
+[[zh:柯瑞·哈特]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Music celebrities]]
+[[Category:Canadians]]
+[[Category:One-off characters]]

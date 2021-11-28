@@ -1,0 +1,44 @@
+{{South Park character
+|name = John Fitzgerald Kennedy
+|image = John-f-kennedy-and-son_copy.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = 46 (deceased)
+|dob = May 29, 1917
+|died = November 22, 1963
+|job = Former U.S. President
+|religion = Roman Catholic
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705944/|title="South Park" Mr. Hankey's Christmas Classics (TV Episode 1999)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:John F. Kennedy|John F. Kennedy]]
+|appearance = "[[Mr. Hankey's Christmas Classics]]"
+|relation1 = Son
+|relation2 = Brother
+|relativename1 = [[John F. Kennedy Jr.]]
+|relativename2 = [[Ted Kennedy]]
+}}
+{{LinkDisambig|John (Disambiguation)}}
+'''John F. Kennedy''' was seen along with his son, [[John F. Kennedy Jr.]], as a resident of [[Hell]] during the song, "[[Christmas Time in Hell]]", in "[[Mr. Hankey's Christmas Classics]]". His brother, [[Ted Kennedy]], later appeared in "[[Dead Celebrities]]". Kennedy's assassination was parodied in the episode, "[[Weight Gain 4000]]", in which [[Herbert Garrison|Mr. Garrison]] attempts to shoot [[Kathie Lee Gifford]] from the book depository window in the same fashion as Oswald.
+
+==Appearance==
+He appeared with a photo-realistic head, much like [[Saddam Hussein]]. His skin was gray due to his head being taken from a black and white photo. He wore a gray, long-sleeve shirt and brown pants.
+
+==References==
+{{Reflist}}
+
+{{PoliticalCelebrities}}
+
+[[es:John F. Kennedy]]
+[[zh:约翰·肯尼迪]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:Deceased characters]]
+[[Category:Realistic characters]]
+[[Category:Characters from Hell]]
+[[Category:Presidents of the United States]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Catholic characters]]
+[[Category:Characters voiced by Trey Parker]]

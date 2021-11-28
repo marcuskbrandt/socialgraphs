@@ -1,0 +1,32 @@
+{{South Park character
+|name = Tom Green
+|image = Comedians-tom-green.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1971|07|30}}
+|dob = July 30, 1971
+|job = Actor, Comedian
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705924/|title="Fat Camp" on IMDB}}</ref>
+|wikipedia = [[Wikipedia:Tom Green|Tom Green]]
+|appearance = "[[Fat Camp]]"
+}}
+{{LinkDisambig|Thomas (Disambiguation)}}
+'''Tom Green''' is a Canadian actor and comedian. He appears in the [[Season Four]] episode, "[[Fat Camp]]" where he was seen being interviewed by [[Howard Stern]], along with [[Kenny McCormick]] and [[Johnny Knoxville]]. Him, Knoxville, and Kenny bid on low prices to give Howard a hummer.
+
+==Appearance==
+Despite being Canadian, he does not have a flappy head and beady eyes. He wears brown pants and a white undershirt with a green shirt over it. He has brown hair and a brown goatee.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+{{MusicCelebrities}}
+[[es:Tom Green]]
+[[zh:汤姆·格林]]
+[[Category:Celebrities]]
+[[Category:Canadians]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Music celebrities]]

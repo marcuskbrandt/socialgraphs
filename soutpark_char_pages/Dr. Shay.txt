@@ -1,0 +1,31 @@
+{{South Park character
+|name = Dr. Shay
+|image = Medical-richard-shay.png
+|gender = Male
+|hair = Gray
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766092/|title="South Park" Timmy 2000 (TV episode 2000)|publisher=IMDb.com}}</ref>
+|appearance = "[[Timmy 2000]]"
+}}{{LinkDisambig|Richard (Disambiguation)}}
+'''Dr. Richard Shay''' is a character who appears in the [[Season Four]] episode "[[Timmy 2000]]".
+
+==Background==
+When [[Jerome "Chef" McElroy|Chef]] finds out that the kids at [[South Park Elementary]] are taking [[Ritalin]] to help them pay attention in school because they were diagnosed with [[Attention Deficit Disorder|attention deficit disorder]], he plays a video for the parents to watch. In this video, Dr. Shay shows how to help kids with ADD pay attention in school without using any harmful drugs, but his methods involve slapping the kids and yelling at them to "sit down and study".
+
+==Appearance==
+Dr. Shay wears a light teal vest with yellow buttons, light brown pants, and black shoes. He also wears a white shirt and a red tie underneath his vest as well as small reading glasses with red trim. He has gray hair and gray eyebrows and has his nametag on the left side of his vest.
+
+<gallery widths="160" spacing="small" caption="Images of Dr. Shay">
+Timmy2000073.png|Dr. Shay yelling at children.
+Dr. Shay.jpg|Dr. Shay on TV.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[zh:谢伊医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Medics]]

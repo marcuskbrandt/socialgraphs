@@ -1,0 +1,35 @@
+{{South Park character
+|name = Brett Favre
+|image = Bf.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1969|10|10}}
+|dob = October 10, 1969
+|job = Quarterback for Green Bay Packers
+|voice = [[Trey Parker]]<ref>Credited as the "Man in Sauna" in {{cite web|url=https://www.imdb.com/title/tt0705967/|title="South Park" Summer Sucks (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Brett Favre|Brett Favre]]
+|appearance = "[[Summer Sucks]]"
+}}
+'''Brett Lorenzo Favre''' is the former quarterback for the Green Bay Packers NFL team. He appears in [[Season Two]] episode, "[[Summer Sucks]]".
+
+==Background==
+[[Herbert Garrison|Mr. Garrison]] attends a therapy session with [[Dr. Katz]] over [[Mr. Hat]], explaining that Mr. Hat liked to pretend that he was in a sauna with Brett Favre. This did happen in a sports spa in Green Bay, Wisconsin, when Brett Favre enters a sauna to find Mr. Hat already in the room.
+
+==Appearance==
+Brett Favre has short brown hair. He wears a green Green Bay Packers top with his team number "4" on it with a white towel.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Two}}
+{{SportsCelebrities}}
+[[fr:Brett Favre]]
+[[zh:布雷特·法弗]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Sports celebrities]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

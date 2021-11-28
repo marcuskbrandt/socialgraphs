@@ -1,0 +1,35 @@
+{{South Park_character
+|name = Fat Bob Cartman
+|image = <gallery>
+Fatbob-cartman.png|Current
+Fat Bob Funeral.png|Funeral
+</gallery>
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705942/|title=South Park "Merry Christmas Charlie Manson!" (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Merry Christmas Charlie Manson!]]"
+|last = "[[Cartmanland]]"
+}}{{LinkDisambig|Robert (Disambiguation)}}
+'''Fat Bob''' is a relative of [[Eric Cartman]] in some way. His relation to the Cartman family is unknown. He made his first appearance in the episode "[[Merry Christmas Charlie Manson!]]", and appears again at [[Mabel Cartman]]'s funeral in "[[Cartmanland]]".
+
+==Appearance==
+He is overweight like most of his family and he wears a pale green t-shirt which reveals the top of his chest hair and a pair of brown trousers and black shoes.
+
+==Prominence==
+*"[[Merry Christmas Charlie Manson!]]"
+*"[[Cartmanland]]" - Appears in [[Mabel Cartman|Mabel]]'s funeral
+
+==References==
+{{Reflist}}
+{{Cartman Family}}
+{{South Park Families}}
+[[zh:肥鲍勃·卡特曼]]
+[[Category:Cartman/Tenorman family]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Overweight characters]]
+[[Category:Background characters]]
+[[Category:Characters voiced by Trey Parker]]

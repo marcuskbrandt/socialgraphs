@@ -1,0 +1,36 @@
+{{South Park character
+|name = Han Seung-soo
+|image = Han.png
+|gender = Male
+|race = Korean
+|hair = Black
+|age = {{age|1936|12|28}}
+|dob = December 28, 1936
+|job = Former South Korean Prime Minister
+|religion = Roman Catholic
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia  = [[Wikipedia:Han Seung-soo|Han Seung-soo]]
+|appearance = "[[Pinewood Derby]]"
+}}
+'''Han Seung-soo '''was the tenth prime minister of [[South Korea]]. He appears in the [[Season Thirteen]] episode, "[[Pinewood Derby]]".
+
+==Background==
+He was one of the world leaders that negotiated with the alien, [[Kevern Zaksor]] about the "space cash".
+
+==Appearance==
+Han has short, shiny black hair, wears a light blue dress shirt with a lapel pin bearing the national flag of South Korea, and a striped blue and light blue tie. He has stereotypical characteristics of Asians seen in the series such as small eyes.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[zh:韩升洙]]
+[[Category:Political celebrities]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Asian characters]]
+[[Category:Catholic characters]]
+[[Category:Elderly people]]

@@ -1,0 +1,23 @@
+{{South Park character
+|name = Rescuer Hansen
+|image = Rescuer-hansen.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = SWAT Rescuer
+|appearance = "[[Fourth Grade]]"
+}}
+'''Hansen''' is a SWAT member who appears in [[Season Four]] episode "[[Fourth Grade]]".
+
+==Background==
+In an attempt to travel back to third grade, [[The Boys|the boys]] seek help from the [[Star Trek Nerds]] to build a time travelling device onto [[Timmy Burch]]'s wheelchair, but the plan backfired when the device went out of control, causing Timmy's wheelchair to speed up. Knowing that the device would explode if the wheelchair slows down, a SWAT helicopter was deployed with Hansen attempting to disable the device, only to have accidentally carried a woman on board. Despite the difficulties, Hansen managed to fix the device at the last few seconds, creating a time portal as designed, but sending Timmy back to pre-history. 
+
+==Appearance==
+Hansen appears to have brown hair, and wears the SWAT uniform with black headgear and harness.
+
+{{Minor Characters from Season Four}}
+[[zh:营救员汉森]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

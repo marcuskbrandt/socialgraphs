@@ -1,0 +1,30 @@
+{{South Park character
+|name = Tony Stewart
+|image = Tony-stewart.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{Age|1971|5|20}}
+|dob = May 20, 1971
+|job = Professional [[NASCAR]] Driver
+|wikipedia = [[Wikipedia:Tony Stewart|Tony Stewart]]
+|appearance = "[[Poor and Stupid]]"
+}}
+{{LinkDisambig|Tony (Disambiguation)}}
+'''Anthony Wayne Stewart''' is an American professional racing driver who appears in [[Season Fourteen]] episode, "[[Poor and Stupid]]".
+
+==Background==
+Several NASCAR drivers were interrupted by [[Eric Cartman]]'s off-topic and redneck-style comments during a NASCAR press conference. Tony Stewart was seen sitting to the left of Cartman, staring at the latter while he was speaking.
+
+==Appearance==
+Tony Stewart has short black hair and wears a red racing suit imprinted with the sponsoring company Office Depot.
+
+{{SportsCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[zh:托尼·斯图尔特]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:Sports celebrities]]

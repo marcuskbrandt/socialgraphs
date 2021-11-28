@@ -1,0 +1,41 @@
+{{South Park character
+|name = Chris Holt
+|image = Chris-holt.png
+|gender = Male
+|hair = Red
+|job = News Reporter
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766077/|title="South Park" A Ladder to Heaven (TV Episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[Towelie]]"
+|speaking = "[[Osama bin Laden Has Farty Pants]]"
+}}
+{{LinkDisambig|Christopher (Disambiguation)}}
+'''Chris Holt''' is a news reporter working for the SNN network.
+
+==Background==
+Chris first appear in the [[Season Five]] episode "[[Towelie]]" as an employee of [[Tynacorp]], fighting against the US military while [[The Boys|the boys]] were playing with their [[2001 Okama Gamesphere]].
+
+Chris would later appear as a news reporter in subsequent episodes.
+
+==Appearance==
+Chris Holt has red hair and carries an earphone set on his right ear. He wears a blue jacket over a turquoise shirt with black tie, blue pants, and black shoes.
+
+==Prominence==
+{{Incomplete|item=list}}
+*"[[Towelie]]"
+*"[[Osama bin Laden Has Farty Pants]]" - First appearance as a news reporter.
+*"[[Child Abduction is Not Funny]]" - Reports on child abduction, telling viewers that children are not safe in their own homes. Later appears among the few TVs broadcasting news in [[Whistlin' Willy's]].
+*"[[A Ladder to Heaven]]"
+*"[[Goobacks]]" - His name was revealed in this episode.
+*"[[Best Friends Forever]]" - Reported on [[Kenny McCormick|Kenny's]] death on the news.
+*"[[Cartoon Wars Part I]]"
+*"[[Cartoon Wars Part II]]"
+
+==References==
+{{Reflist}}
+[[zh:克里斯·霍尔特]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:News reporters]]

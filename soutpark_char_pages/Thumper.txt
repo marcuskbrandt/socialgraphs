@@ -1,0 +1,25 @@
+{{South Park character
+|name = Thumper
+|image = Thumper.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = Ski Instructor
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705895/|title="South Park" Asspen (TV episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[Asspen]]"
+}}
+:''For [[Bebe Stevens]]' cat, see [[Thumper (Cat)]].''
+'''Thumper''' is a skiing instructor who appears in the [[Season Six]] episode, "[[Asspen]]", where he was initially seen instructing [[Stan Marsh]], [[Kyle Broflovski|Kyle]] and [[Ike Broflovski]], [[Eric Cartman]], and [[Butters Stotch]] the basics of skiing. After being challenged by [[Tad Mikowski]], Stan asked Thumper for help learning how to ski. During a montage, Thumper was able to improve Stan's skiing skills enough for him to win the race down the [[K-13]]. He later made a small appearance at the end of "[[Buddha Box]]", where he is seen with a Buddha box on his head.
+
+==Appearance==
+Thumper wears a blue sweatband, blue gloves, yellow boots, red pants, a blue shirt, and a red jacket with "INSTRUCTOR" written in orange. He has wavy brown hair.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+[[zh:桑普]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Minor characters]]

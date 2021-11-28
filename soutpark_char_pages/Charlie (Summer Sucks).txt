@@ -1,0 +1,32 @@
+{{South Park character
+|name = Charlie
+|image = Miscellaneous-charlie-dynomight-firework-company.png
+|gender = Male
+|hair = Brown
+|job = Pitchman
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705967/|title="South Park" Summer Sucks (TV episode 1998) |publisher=IMDb.com}}</ref>
+|appearance = "[[Summer Sucks]]"
+}}
+{{LinkDisambig|Charlie (Disambiguation)}}
+'''Charlie''' is a pitchman for the Dyno Might Firework Company who appears in the [[Season Two]] episode "[[Summer Sucks]]".
+
+==Background==
+When [[Mayor McDaniels]] wants to have a Fourth of July celebration at the lake, she could not do so because fireworks have been outlawed in [[South Park (Location)|South Park]]. She decides to have a giant snake instead, since snakes are still allowed. She enlists a pitchman for the Dyno Might Firework Company named Charlie, who tells her about how a snake works and how they will get a giant snake to light up and expand. Later on, when the giant snake grows too big, Mayor McDaniels asks Charlie when the snake will die out. Doing some quick math, Charlie says that it will expire in November of next year.
+
+==Appearance==
+Charlie has combed brown hair. He does not seem to have visible eyebrows, but he does have a small marking on his forehead. He also has a unique egg-shaped head and a slight cleft chin. He wears a dark blue business suit over a white shirt and black tie as well as black pants and black shoes.
+<gallery widths="120" captionalign="left" caption="Images of Charlie">
+SummerSucks25.png|Charlie presenting the giant black snake to Mayor McDaniels.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[fr:Charlie ("Summer Sucks")]]
+[[zh:查理（夏天很糟糕）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Minor characters]]

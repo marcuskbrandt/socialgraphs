@@ -1,0 +1,27 @@
+{{South Park character
+|name = Brian
+|image = Brian-greely.png
+|gender = Male
+|race = Caucasian
+|age = 10-11
+|job = Student; Little League Batter
+|grade = 5th Grade
+|appearance = "[[The Losing Edge]]"
+}}{{LinkDisambig|Brian (Disambiguation)}}
+'''Brian''' is a 5th grade little league batter for the [[Greeley]] baseball team. He appears in the [[Season Nine]] episode, "[[The Losing Edge]]".
+
+==Background==
+In "[[The Losing Edge]]", Brian is up to bat for his team, however he is struck out by [[Stan Marsh]], much to the disappointment of his father.
+
+==Appearance==
+Brian wears a baseball uniform that is black, orange, and white. He wears black shoes, and a black and orange baseball helmet. His jersey is mostly orange, with black trim. It has the team's initial "G" on the left-breast of the jersey.
+<gallery caption="Images of Brian">
+Brian 1.png|Brian at bat.
+</gallery>
+
+[[fr:Brian (Greeley Little League Batter)]]
+[[zh:布莱恩（淘汰边缘）]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:5th graders]]

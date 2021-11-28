@@ -1,0 +1,20 @@
+{{South Park character
+|name = Clyde's Fortress Shopkeeper
+|image = Clydefort-shopkeeper.png
+|gender = Male
+|hair = Brown
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+'''Clyde's Fortress Shopkeeper''' is a merchant in [[Clyde's Fortress]].
+{{Spoiler}}
+==Background==
+In the [[Betrayal From Within]] quest, [[The New Kid]] makes his way to the top of the fortress tower and will pass by a shop, allowing him to stock up on potions, weapon strap-on and equipment patches, right before the final battle against [[Princess Kenny]].
+
+==Appearance==
+The shopkeeper wears a white long-sleeved shirt with grey pants. He also dons a black eye patch over his left eye.
+
+[[zh:克莱德堡垒商店店主]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:Video Game Exclusive characters]]

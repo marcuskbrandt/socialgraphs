@@ -1,0 +1,47 @@
+{{South Park character
+|name = William Daniels
+|image = William-daniels.png
+|gender = Male
+|race = African-American
+|hair = Black
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt2128148/|title="South Park" Cartman Finds Love (TV Episode 2012) - IMDb|publisher=IMDb.com}}</ref>
+|relation1 = Wife
+|relativename1 = [[Mrs. Daniels]]
+|relation2 = Daughter
+|relativename2 = [[Nichole Daniels]]
+|appearance = "[[Cartman Finds Love]]"
+}}{{LinkDisambig|William (Disambiguation)}}
+'''William Daniels''' is [[Nichole Daniels|Nichole]]'s father and he first appears in the [[Season Sixteen]] episode, "[[Cartman Finds Love]]".
+
+==Background==
+In "[[Cartman Finds Love]]", Nichole and her family are eating dinner when her father brings up that Nichole has a boyfriend, [[Token Black]]. Although he is happy for her, he subtly teases her for gravitating to the only other African American student at [[South Park Elementary]]. Nichole's mother interjects by finding nothing wrong with that and encouraging Nichole.
+
+==Appearance==
+William wears black shoes, khaki pants with a black belt, and a teal polo shirt. He has black hair, and a full beard and mustache.
+
+<gallery widths="160" caption="Images of William Daniels">
+CartmanFindsLove087.png|William and his family eating dinner.
+</gallery>
+
+==Prominence==
+*"[[Cartman Finds Love]]" - Seen with his family eating dinner at his home.
+*"[[Member Berries]]" - Seen watching the football game.
+*"[[Splatty Tomato]]" -  Seen at the end of the episode in the crowd.
+
+===''[[South Park: The Fractured But Whole]]''===
+In [[Operation: Just 'Cause]] mission, [[Harrison Yates]] tasks [[The New Kid]] to take down a supposed "drug dealer". After finding William in the kitchen, the New Kid will initiate battle. This is an easy fight as William has only 100 health.
+
+==References==
+{{Reflist}}
+[[zh:威廉·丹尼尔斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Parents]]
+[[Category:Minority characters]]
+[[Category:African-American characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Minor characters]]
+[[Category:Townsfolk]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]

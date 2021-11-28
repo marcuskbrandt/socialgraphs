@@ -1,0 +1,34 @@
+{{South_Park_character
+|name = Bats
+|image = TSOTBats.png
+|race = Bats
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Bats''' are wild animals featured in ''[[South Park: The Stick of Truth]]''.
+
+==Background==
+While [[The New Kid]] explores [[Mr. Slave]]'s guts to disable a snuke, the New Kid would come across a bat in slumber. The New Kid must activate a torchlight in order to wake the bat, causing it to fly out of Mr. Slave's anus.
+
+As part of the [[Big Game Huntin' With Jimbo]] quest, The New Kid is tasked to defeat a Bloodsucking Fruit Bat using a Blood Orange in the [[sewers]]. Two other clusters of regular bats can be found within the sewers as well.
+
+==Types==
+* '''Bat''' - Normal small version that has little HP and only one attack that does barely any damage (only 1 damage if blocked).
+* '''Giant Bat''' - Larger variation that is easily the more dangerous one, they have higher health, more powerful bite, and actually have a few abilities to pre-form.
+* '''Fruit Bat''' - The one that Jimbo sent you to kill, can be summoned by placing the blood orange on the pile of poop near the cave entrance next to the theatre, it is much stronger than any of the other bats, but is pretty easy to kill since it is fought by itself as opposed to the other bats who are fought in groups.
+
+==Abilities==
+=== Giant Bat ===
+* '''Shreeeeeeeeek!''' - Sends a powerful blast of sonar at your party, deals high damage, attack down, and ability down to both of you if not blocked.
+* '''Guano Bombing Run''' - Craps on you or your buddy, deals high damage and grossed out if not blocked.
+* '''Sonic Recuperation''' - A blast of sonar hits the bat, regains almost all of its health, for some reason the smaller bats can do this to.
+=== Fruit Bat ===
+* '''Bite''' - Standard attack, bites you or buddy for medium damage, and two stacks of bleeding.
+* '''Juiced Up''' - Fruit bat heals himself then performs his standard attack.
+* '''Sonar Scan''' - Deals small damage to both of you and defense down if not blocked, then performs his standard attack.
+
+[[fr:Bats (Stick of Truth)]]
+[[zh:蝙蝠（真理之杖）]]
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]

@@ -1,0 +1,33 @@
+{{South Park character
+|name = Dr. Matlock
+|image = Adults-doctors-dr-matlock-specialist.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job = Doctor
+|voice = [[Matt Stone]]<ref>Credited as "Doctor #2" in {{cite web|url=https://www.imdb.com/title/tt1198003/|title="South Park" Tonsil Trouble (TV Episode 2008) - IMDb|publisher=IMDb.com}}</ref>
+|appearance = "[[Tonsil Trouble]]"
+}}
+'''Dr. Matlock''' is a medical doctor who works in [[Hells Pass Hospital]] and is also a specialist doctor. Matlock appears on "[[Tonsil Trouble]]".
+
+==Background==
+Dr. Matlock delivers the [[South Park Elementary]] staff of the [[Principal Victoria]] era the news that [[Eric Cartman]] was diagnosed with HIV due to bad treatment in the hospital. He also tells [[The Boys]] the news, which makes [[Kyle Broflovski]] happy, and calms them down that Cartman's new disease is not contagious.
+
+==Appearance==
+Dr. Matlock wears a doctor's clothing. He is a white male with gray wavy hair and wrinkles. Dr. Matlock's model was redesigned to look younger and was used as Dr. Chet Mowlins in "[[Shots]]".
+<gallery widths="160" captionalign="left" caption="Images of Dr. Matlock">
+Dr. Matlock SP Tonsil Trouble.png|Dr. Matlock delivers the news to the boys.
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:马特洛克医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Townsfolk]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Medics]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Elderly people]]
+[[Category:One-off characters]]

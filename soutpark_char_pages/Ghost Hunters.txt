@@ -1,0 +1,37 @@
+{{Group
+|name = Ghost Hunters
+|image = The-ghost-hunters.png
+|aliases = T.A.P.S.
+|type = TV Show Personalities
+|job = Paranormal Investigators
+|gender = Male and Female
+|member1 = Grant Wilson
+|voice1 = [[Matt Stone]]<ref name=imdb>{{cite web|url=http://www.imdb.com/title/tt1468598/|title="Dead Celebrities" on IMDB}}</ref>
+|member2 = Jason Hawes
+|voice2 = [[Trey Parker]]<ref name=imdb/>
+|member3 = Kris Williams
+|voice3 = [[April Stewart]]<ref name=imdb/>
+|first = "[[Dead Celebrities]]"
+|times = 1
+}}
+The '''Ghost Hunters''' appear in the [[Season Thirteen]] episode, "[[Dead Celebrities]]". ''Ghost Hunters'' is a real TV show on the Syfy Network.
+
+==Background==
+The T.A.P.S. paranormal team come to [[South Park (Location)|South Park]], to film an episode for their TV show. While investigating the claims made by the [[Broflovski Residence]] that their son [[Ike Broflovski]] was capable of seeing dead celebrities. When confronted by actual ghosts the ghost hunters become so frightened they both urinate and defecate their pants and run from the house.
+
+==Personality==
+They are shown to be extremely incompetent and cowardly, being instantly frightened with the slightest of mundane things and foolishly believing natural everyday occurrences to be supernatural. 
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Thirteen}}
+{{TelevisionCelebrities}}
+[[zh:幽灵猎手]]
+[[Category:Celebrities]]
+[[Category:Organizations]]
+[[Category:Shows]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Crossover characters]]
+[[Category:Characters]]
+[[Category:Television celebrities]]

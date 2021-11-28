@@ -1,0 +1,37 @@
+{{South Park character
+|name = Buck
+|image = buck.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705950/|title="South Park" Prehistoric Ice Man (TV Episode 1999) - IMDb|publisher=IMDb.com}}</ref>
+|relation1 = Wife
+|relativename1 = [[Leslie ("Prehistoric Ice Man")|Leslie]]
+|relation2 = Sons
+|relativename2 = [[Buck Jr.]]<br>[[Calvin]]
+|appearance = "[[Prehistoric Ice Man]]"
+}}
+:''For his son, see [[Buck Jr.]]''
+'''Buck''' is [[Leslie ("Prehistoric Ice Man")|Leslie]]'s husband and the father of [[Buck Jr.]] and [[Calvin]]. He appears in the [[Season Two]] episode, "[[Prehistoric Ice Man]]".
+
+==Background==
+Sometime prior to [[Larry ("Prehistoric Ice Man")|Larry]] going missing, [[Leslie ("Prehistoric Ice Man")|Leslie]] met Buck and had children with him. When Larry returns to reconnect with her, she sends him away and resumes her life with her new family. Before Larry leaves, Buck shakes his hand and is proud to have been Leslie's lover.
+
+==Appearance==
+Buck wears black shoes, brown pants with a gray belt, and a denim vest. He has defined abs, long brown hair, and a brown mustache.
+
+<gallery widths=120 caption="Images of Buck">
+PrehistoricIceMan65.png|Buck meeting Larry.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[fr:Buck]]
+[[pl:Buck]]
+[[zh:巴克]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]

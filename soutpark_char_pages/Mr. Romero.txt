@@ -1,0 +1,37 @@
+{{South Park character
+|name = Mr. Romero
+|image = Mr-romero-music-teacher.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job  = Music Teacher
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705967/|title="South Park" Summer Sucks (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Summer Sucks]]"
+}}
+'''Mr. Romero''' is a music teacher who first appears in the [[Season Two]] episode, "[[Summer Sucks]]".
+
+==Background==
+In "[[Summer Sucks]]", [[Mayor McDaniels]] asks for the [[South Park Elementary]] orchestra to play the song "[[Stars and Stripes Forever]]" at the opening of the Fourth of July ceremony. Mr. Romero is seen leading the orchestra. 
+
+He later appears as [[Kenny McCormick|Kenny]]'s music instructor in "[[Quintuplets 2000]]".
+
+==Appearance==
+Mr. Romero is thin and has balding gray hair. He wears a pink blazer with a dark blue scarf, dark green pants, and black shoes. He holds a conductor's baton in his right hand.
+
+==Prominence==
+*"[[Summer Sucks]]"
+*"[[Quintuplets 2000]]" - [[Kenny McCormick|Kenny]]'s music instructor.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+
+[[zh:罗梅罗老师]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Unnamed characters]]
+[[Category:Elderly people]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Townsfolk]]

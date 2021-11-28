@@ -1,0 +1,32 @@
+{{South Park character
+|name = Unnamed Interior Designer
+|image = Unnamed-interior-designer.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|job = Interior Designer
+|voice = [[April Stewart]]<ref>{{cite web|url=http://www.imdb.com/title/tt4080138/|title="South Park" The Cissy (TV Episode 2014) - IMDb|publisher=IMDb.com}}</ref>
+|appearance = "[[The Cissy]]"
+}}
+The '''Unnamed Interior Designer''' appears in the [[Season Eighteen]] episode, "[[The Cissy]]", where she helps design [[Eric Cartman]]'s new transgender restroom.
+
+==Background==
+[[Eric Cartman|Cartman]] is fed up with not having an open stall in the boys' bathroom. Forced to take drastic measures, Cartman puts on a barrette and uses the girls' bathroom. Although she disagrees with Cartman's choice, [[Principal Victoria]] is forced to give Cartman his own bathroom, and hires an interior designer to help him decorate it.
+
+==Appearance==
+The Unnamed Interior Designer wears black, high-heeled shoes, a black shirt with a brown and gold belt, a white shirt, and a blue coat. She has wavy, brown hair and wears two gold necklaces.
+
+<gallery widths="160" caption="Images of the Unnamed Interior Designer">
+TheCissy-00023.png|Seen giving design advice to [[Eric Cartman|Cartman]].
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eighteen}}
+[[zh:室内设计师]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by April Stewart]]

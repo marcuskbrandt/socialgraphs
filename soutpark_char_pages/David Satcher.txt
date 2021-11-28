@@ -1,0 +1,31 @@
+{{South Park character
+|name = David Satcher
+|image = Surgeon-general.png
+|gender = Male
+|race = African-American
+|hair = White
+|age = {{Age|1941|3|2}}
+|dob = March 2, 1941
+|job = Surgeon General of the United States
+|voice = [[Matt Stone]]<ref>Credited as the "Surgeon General" in {{cite web|url=https://www.imdb.com/title/tt0766084/|title="South Park" Red Hot Catholic Love (TV Episode 2002)|publisher=IMDb.com}}</ref>
+|appearance = "[[Red Hot Catholic Love]]"
+}}
+{{LinkDisambig|David (Disambiguation)}}
+'''David Satcher''' is an American physician and served as a Surgeon General of the [[United States]]. He appears in [[Season Six]] episode "[[Red Hot Catholic Love]]".
+
+==Background==
+A news report on eating food through the rectum (known as interorectogestion) shows the Surgeon General explaining how such an act is possible, claiming that it would be a healthier choice, eliminating the risks of high cholesterol and stomach cancer. He would later conclude that these information were all based on no sources whatsoever.
+
+==Appearance==
+He has white hair and full beard, and wears the standard naval officer uniform, along with a pair of black round-framed glasses.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Six}}
+[[zh:大卫·撒切尔]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

@@ -1,0 +1,52 @@
+{{South Park character
+|name = Mr. Harrison
+|image = HarrisonMr.png
+|gender = Male
+|hair = Blond
+|religion = Mormon
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705893/fullcredits#cast|title="South Park" All About Mormons (2003)|publisher=IMDb.com}}</ref>
+|relation1 = Wife
+|relativename1 = [[Mrs. Harrison]]
+|relation2 = Son
+|relativename2 = [[Mark Harrison]]
+|relation3 = Daughter
+|relativename3 = [[Jenny Harrison]]
+|relation4 = Son
+|relativename4 = [[Gary Harrison]]
+|relation5 = Son
+|relativename5 = [[Dave Harrison]]
+|relation6 = Daughter
+|relativename6 = [[Amanda Harrison]]
+|appearance = "[[All About Mormons]]"
+|final = "[[All About Mormons]]"
+}}
+'''Mr. Gary Harrison Sr.''' is the husband of [[Mrs. Harrison]] and the father of [[Mark Harrison|Mark]], [[Jenny Harrison|Jenny]], [[Gary Harrison|Gary]], [[Dave Harrison|Dave]], and [[Amanda Harrison]]. He appears in "[[All About Mormons]]".
+
+==Appearance==
+Mr. Harrison has combed blond hair parted on the left side and swept in a smooth style. He wears an open cherry-red jacket, a yellow polo shirt, dark grey trousers, and black shoes.
+
+==Personality==
+Mr. Harrison personality appears to be shaped largely by his family and religion, Mormonism. He is overly friendly and optimistic, like the rest of his family.
+
+==Family==
+===Wife===
+Mr. Harrison is very close to his [[Mrs. Harrison|wife]] and they have five children.
+
+===Children===
+Mr. Harrison has three sons and two daughters and has a strong relationship with all of his children. They never fight and enjoy spending time together. All five children play musical instruments, and perform a song for their parents and [[Stan Marsh]] in "[[All About Mormons]]".
+
+==References==
+{{reflist}}
+{{South Park Families}}
+{{Harrison Family}}
+[[ja:ミスター・ハリソン]]
+[[zh:哈里森先生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:One-off characters]]
+[[Category:Mormon characters]]
+[[Category:Parents]]
+[[Category:Adult characters]]
+[[Category:Characters in a relationship]]
+[[Category:Harrison family]]

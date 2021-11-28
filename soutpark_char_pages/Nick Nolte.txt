@@ -1,0 +1,35 @@
+{{South Park character
+|name = Nick Nolte
+|image = Nick-nolte.png
+|gender = Male
+|hair = Blond
+|age = {{age|1941|2|8}}
+|dob = February 8, 1941
+|job = Actor/Award Show Presenter
+|religion = Roman Catholic
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766088/|title="South Park" Spontaneous Combustion (TV episode 1999)|publisher=IMDb.com}}</ref>
+|appearance = "[[Spontaneous Combustion]]"
+}}
+'''Nick Nolte''' is an actor who was a presenter at the 42nd Annual Nobel Prize Awards in the [[Season Three]] episode "[[Spontaneous Combustion]]". 
+
+==Background==
+During the award ceremony, Nick Nolte reads the nominees for Nobel Prize in Science who were listed as follows:
+*Herald R. Pinkerton, for his further development of the grand unified theory of physics.
+*[[Randy Marsh]], who won, for his formulated break-wind theory of spontaneous combustion.
+*[[Dr. Alphonse Mephesto]] for his seven-assed Galapagos turtle.
+
+==Appearance==
+Nick Nolte has blond hair and is wearing a tuxedo with a white shirt and a black bow tie. He has wrinkles on his face and neck, he has visible signs of aging, and his hair appears to have been dyed.
+
+==References==
+{{Reflist}}
+{{MovieCelebrities}}
+[[zh:尼克·诺特]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Adult characters]]
+[[Category:Catholic characters]]
+[[Category:Movie celebrities]]

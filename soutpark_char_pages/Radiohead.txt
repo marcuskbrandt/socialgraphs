@@ -1,0 +1,50 @@
+{{Group
+|name = Radiohead
+|image = Radiohead.png
+|type = Rock Band
+|job = Musicians
+|gender = Male
+|wikipedia = [[Wikipedia:Radiohead|Radiohead]]
+|member1 = Thom Yorke<ref name=imdb>{{cite web|url=http://www.imdb.com/title/tt0705958/|title="South Park" Scott Tenorman Must Die (TV episode 2001)|publisher=IMDb.com}}</ref>
+|member2 = Jonny Greenwood<ref name=imdb/>
+|member3 = Ed O'Brien<ref name=imdb/>
+|member4 = Colin Greenwood<ref name=imdb/>
+|member5 = Phil Selway<ref name=imdb/>
+|first = "[[Scott Tenorman Must Die]]"
+|times = 1
+}}
+'''Radiohead''' is an English rock band that appears in the [[Season Five]] episode, "[[Scott Tenorman Must Die]]".
+
+==Background==
+In "[[Scott Tenorman Must Die]]", the band is touched by [[Eric Cartman]]'s letter, and goes to [[South Park (Location)|South Park]] to comfort [[Scott Tenorman]]. However, after seeing him cry, they insult him and leave, unaware of the fact that Scott is actually grieving over the deaths of his parents.
+
+===Behind the Scenes of "[[Scott Tenorman Must Die]]"===
+Matt Stone drove up to Santa Barbara to record Radiohead after a concert of theirs. This is confirmed in commentary minis with [[Matt Stone]] and [[Trey Parker]].
+
+==Appearance==
+They all wear clothing of varying appearance, however their basic outfit is the same: pants, a shirt or coat, and an undershirt, however, two members of the band do not wear a shirt or coat. 
+<gallery captionalign="left" widths="160" caption="Images of Radiohead">
+ScottTenormanMustDie081.png|''"What a little cry baby."''
+</gallery>
+
+==Personality==
+They seem to be caring, leaving their work just to visit [[Scott Tenorman]], due to a letter [[Eric Cartman|Cartman]] sent that claimed he had "ass cancer". However, this is later revoked when they see Scott crying. This led to them insulting him and leaving calling him a "little cry baby", unaware that he is extremely upset over his parents' deaths.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Five}}
+{{MusicCelebrities}}
+
+[[es:Radiohead]]
+[[zh:电台司令]]
+[[Category:Characters]]
+[[Category:Bands]]
+[[Category:Music celebrities]]
+[[Category:Celebrity voice actors]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Groups]]
+[[Category:Celebrities]]
+[[Category:British characters]]
+[[Category:Bullies]]

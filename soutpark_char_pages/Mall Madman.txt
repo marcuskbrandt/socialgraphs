@@ -1,0 +1,26 @@
+{{South Park character
+|name = Mall Madman
+|image = Mall madman.png
+|gender = Male
+|race = Caucasian
+|hair = Light Brown
+|voice = [[Trey Parker]]<ref>Credited as the "Man with Anthrax" in {{Cite web|url=https://www.imdb.com/title/tt0705960/fullcredits?ref_=tt_cl_sm|title="South Park" Something You Can Do with Your Finger (TV Episode 2000)|publisher=IMDb.com}}</ref>
+|appearance = "[[Something You Can Do with Your Finger]]"
+}}
+The '''Mall Madman''' appears in the [[Season Four]] episode "[[Something You Can Do with Your Finger]]".
+
+==Background==
+During the [[Security Guard]] and his [[Rookie Security Guard|Rookie]]'s duties in the [[South Park Mall]], they find a madman carrying a jar of unknown substance. When the security guard stops him, the madman explains that he is holding a new strain of anthrax and plans to infect all of North America. The security guard then tells him to move along.
+
+==Appearance==
+The Mall Madman has a messy light brown hair, and his right eye has a larger iris. He wears a green sweater and brown pants spotted with dirty patches.
+
+==References==
+{{Reflist}}
+[[zh:商城狂人]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Unnamed characters]]

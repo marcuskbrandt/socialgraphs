@@ -1,0 +1,29 @@
+{{South Park character
+|name = Stephen Tamill
+|image = Stephen-tamill.png
+|gender = Male
+|hair = Brown
+|age = 10-11
+|job = Student
+|grade = 5th Grade
+|appearance = "[[1%]]"
+}}{{LinkDisambig|Steve (Disambiguation)}}
+'''Stephen Tamill''' is a 5th Grade boy who appears in the [[Season Fifteen]] episode, "[[1%]]".
+
+==Background==
+Upset with [[The 4th Grade]] class at [[South Park Elementary]] throwing off the results of the Presidential Fitness Test, Stephen and his friends protest the 99%. They believe it is unfair for the rest of the school to have to give up their recess because of [[Eric Cartman]]'s lack of fitness.
+
+==Appearance==
+Stephen wears black shoes, blue jeans, and a gray shirt with red sleeves. He has short brown hair.
+
+<gallery widths="160" caption="Images of Stephen Tamill">
+StephenTamill2.png|Stephen and his friends protesting the 99% as the 83% in "[[1%]]".
+</gallery>
+
+{{Minor Characters from Season Fifteen}}
+[[zh:斯蒂芬·泰米尔]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:5th graders]]
+[[Category:School children]]
+[[Category:One-off characters]]

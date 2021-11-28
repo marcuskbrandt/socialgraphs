@@ -1,0 +1,31 @@
+{{South Park character
+|name = Cody
+|image = Work-force-cody.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|died = "[[Taming Strange]]"
+|job = IntelliLink Smartnician
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt3237510/|title="Taming Strange" (TV episode 2013)|publisher=IMDb.com}}</ref>
+|appearance = "[[Taming Strange]]"
+|final = "[[Taming Strange]]"
+}}'''Cody''' was an IntelliLink engineer, or "smartnician", that appeared in the [[Season Seventeen]] episode, "[[Taming Strange]]".
+
+==Background==
+Cody is called in by [[Mr. Mackey]] to fix the IntelliLink system at [[South Park Elementary]]. However, rather than fix the system, he repeatedly recommends upgrades to Mr. Mackey, which he continuously accepts, despite the upgrades doing little to actually fix the system. When Mr. Mackey finally confronts Cody, saying that all he wants is for the system to work, Cody recommends a new package that involves removing the IntelliLink panels, burning them, wiping the computers of the program, and promising that the company would leave. After Mr. Mackey agrees, Cody removes the system, thanks Mr. Mackey, and unholsters his handgun to promptly shoot himself in the head, killing himself.
+
+==Appearance==
+Cody is overweight. He has brown hair and a brown beard and wears an IntelliLink work uniform consisting of a dirty, sweaty gray IntelliLink shirt, blue pants, a blue IntelliLink hat, and black shoes. He also has a hanging toolbelt.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seventeen}}
+[[es:Cody]]
+[[zh:库迪]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Overweight characters]]
+[[Category:Characters voiced by Trey Parker]]

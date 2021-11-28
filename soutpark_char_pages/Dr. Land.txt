@@ -1,0 +1,33 @@
+{{South Park character
+|name = Dr. Land
+|image = Adults-medicine-dr-land-psychiatrist.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|job = Psychiatrist/Therapist
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1468598/|title="South Park" Dead Celebrities (TV episode 2009)|publisher=IMDb.com}}</ref>
+|appearance = "[[Dead Celebrities]]"
+}}
+'''Dr. Land''' is a psychiatrist and [[Ike Broflovski]]'s therapist who appears in the [[Season Thirteen]] episode "[[Dead Celebrities]]".
+
+==Background==
+Ike goes to talk with Dr. Land after seeing the ghosts of several celebrities who passed away in 2009 inside his house on the night before. Dr. Land asks Ike if he is seeing any dead celebrities at that moment, to which he responds that he is seeing [[Ed McMahon]], whose ghost appears behind Dr. Land.
+
+==Appearance==
+Dr. Land has spiked gray hair that appears lighter on the sides and gray eyebrows. He wears a brown coat over a black shirt, brown pants, black shoes, and black reading glasses.
+
+<gallery widths="160" spacing="small" caption="Images of Dr. Land">
+DeadCelebrities010.png|Dr. Land talking to Ike.
+DeadCelebrities013.png|Dr. Land with Ed McMahon's ghost behind him.
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:兰德医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Townsfolk]]
+[[Category:Medics]]

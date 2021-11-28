@@ -1,0 +1,27 @@
+{{South Park character
+|name = Caine
+|image = Caine.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|job = Cashier
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397941/|title="Margaritaville" on IMDB}}</ref>
+|appearance = "[[Margaritaville]]"
+}}
+'''Caine''' appears in the [[Season Thirteen]] episode, "[[Margaritaville]]", where he was seen as the cashier for the [[Sur la Table]] store.
+
+==Background==
+Apt to return [[Randy Marsh|his father]]'s ill-purchased Margaritaville blender, [[Stan Marsh]] went to Sur la Table in order to receive a refund. Willing to help Stan, Caine began the refund but was quick to discover that the blender was purchased with a payment plan. Realizing that he was unable to refund the machine, Caine directed Stan to the financing company in order to resolve the payment plan.
+
+==Appearance==
+Caine wore a black shirt and a dark teal apron with a red name tag. He has brown hair and brown eyebrows. He has a strange verbal tic of pronouncing words with 'ble' at the end as 'bluh' instead of the usual 'bul'.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Thirteen}}
+[[fr:Caine]]
+[[zh:凯恩]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

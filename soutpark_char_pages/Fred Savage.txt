@@ -1,0 +1,44 @@
+{{South Park character
+|image = Fred-savage.png
+|name = Fred Savage
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1976|7|9}}
+|dob = July 9, 1976
+|job = Actor<br>Director
+|religion = Judaism
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705909/|title="South Park" Chef's Salty Chocolate Balls (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Fred Savage|Fred Savage]]
+|appearance = "[[Chef's Chocolate Salty Balls]]"
+}}
+'''Fred Savage''' is an American actor who appears in the [[Season Two]] episode "[[Chef's Chocolate Salty Balls]]", as one of the actors suggested to appear in the movie based on [[Mr. Hankey]]. He reappears in the [[Season Fourteen]] episode "[[200]]" along with the other outraged celebrities.
+
+==Appearance==
+Fred Savage wears black pants and a white shirt with "I'm Fred Savage!" written in red. He has black hair.
+
+<gallery caption="Images of Fred Savage" widths="160" captionalign="left">
+Fred_savage.png|Fred Savage's cameo in "[[200]]".
+</gallery>
+
+==Prominence==
+*"[[Chef's Chocolate Salty Balls]]" - Appears as a celebrity disappointing several people.
+*"[[Fat Camp]]" - Seen as a photograph in [[Howard Stern]]'s studio.
+*"[[200]]" - Seen as one of the celebrities suing South Park.
+*"[[201]]" - Seen as one of the celebrities suing South Park.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+{{MovieCelebrities}}
+[[pl:Fred Savage]]
+[[zh:弗莱德·萨维奇]]
+[[Category:200 and 201 celebrities]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Jewish characters]]
+[[Category:Movie celebrities]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,39 @@
+{{Group
+|image = Nfl-owners-nfl-owners.png
+|type = Business Owners
+|job = Owners of National Football League Teams
+|gender = Male
+|first = "[[Go Fund Yourself]]"
+|name = NFL Owners and Presidents
+|rivals = [[Washington Redskins (Startup Company)]]
+|member1 = [[Dan Snyder]]
+|member2 = Jim Irsay
+|member3 = Steve Bischiotti
+|member4 = Paul Allen
+|member5 = Alex Spanos
+|member6 = [[Jerry Jones]]
+|times = 1
+}}
+The '''NFL Owners and Presidents''' are featured in the [[Season Eighteen]] episode, "[[Go Fund Yourself]]".
+
+==Background==
+The new [[Washington Redskins (Startup Company)]] owned by [[Eric Cartman]] uses [[Kickstarter]] to get financial backing to do absolutely nothing. This tarnishes the image of [[Washington Redskins (Football Team)]]. The owner, [[Dan Snyder]], is unable to get Cartman to change the name of the company. After unsuccessfully trying to get help from the the [[Roger Goodell|Goodell-bot]] which malfunctions, Dan calls for an emergency meeting of all the NFL Owners and Presidents with the exception of the Buffalo Bills. They agree to pressure Cartman into changing his company logo, which is the same as the logo of the football team. However, Cartman alters the logo to be more offensive and sarcastic.
+
+===NFL Owners with Speaking Roles===
+*[[Dan Snyder]] - Owner of the Washington Redskins.
+*Jim Irsay - Owner and CEO of the Indianapolis Colts.
+*Steve Bischiotti - Owner of the Baltimore Ravens.
+*Paul Allen - Owner of the Seattle Seahawks.
+*Alex Spanos - Owner of the San Diego Chargers
+*[[Jerry Jones]] - Owner, president, and general manager of the NFL's Dallas Cowboys.
+
+{{SportsCelebrities}}
+{{Minor Characters from Season Eighteen}}
+[[es:Propietarios y Presidentes en NFL]]
+[[zh:国家橄榄球联盟老板和主席]]
+[[Category:Groups]]
+[[Category:Sports Leagues]]
+[[Category:Sports celebrities]]
+[[Category:Sports teams]]
+[[Category:Celebrities]]
+[[Category:Characters]]

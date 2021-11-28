@@ -1,0 +1,31 @@
+{{South Park character
+|name = Mr. Sanders
+|image = horace-dad.png
+|gender = Male
+|hair = Black
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705924/|title="South Park" Fat Camp (TV Episode 2000)|publisher=IMDb.com}}</ref>
+|relation1 = Son
+|relativename1 = [[Horace Sanders]]
+|relation2 = Wife
+|relativename2 = [[Mrs. Sanders]]
+|appearance = "[[Fat Camp]]"
+}}
+'''Mr. Sanders''' is a character who appears in the [[Season Four]] episode "[[Fat Camp]]".
+
+==Background==
+Mr. Sanders and his [[Mrs. Sanders|wife]] go to [[Hopeful Hills|fat camp]] to see if [[Horace Sanders|their son]] has lost weight. After discovering that he has not lost any weight, he decides to take him out of camp. He gets into an argument with the [[Rick and Susan Tyler|camp counselors]], saying that their camp is a fraud and he will call all the campers' parents to come for their children. When the rest of the parents come, [[Chad]] reveals that [[Eric Cartman]] was selling candy to the campers after lights out. Mr. Sanders, along with the other parents, decide to leave their child at camp, giving them another chance to lose weight.
+
+==Appearance==
+Mr. Sanders wears an ill-fitting light blue jacket, dark green pants and black shoes. He has a thick mustache and curly black hair that is similar to his son's. Like all other campers' parents, he is obese.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+[[zh:桑德斯先生]]
+[[Category:Characters]]
+[[Category:Unnamed characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Overweight characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

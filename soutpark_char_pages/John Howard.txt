@@ -1,0 +1,37 @@
+{{South Park character
+|name = John Howard
+|image = John_howard.png
+|gender = Male
+|hair = White
+|age = {{age|1939|7|26}}
+|dob = July 26, 1939
+|job = Former Prime Minister of Australia
+|religion = Anglican
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:John Howard|John Howard]]
+|appearance = "[[Pinewood Derby]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John Howard''' was the Prime Minister of [[Australia]] from March 11, 1996, to December 3, 2007. He appears in [[Season Six]] episode, "[[Pinewood Derby]]" as one of the world leaders.
+
+==Appearance==
+John is elderly, having white hair and facial wrinkles. He wore a black suit, white "dress" shirt, and a tan tie.
+
+==Background==
+Howard joins the other nations world leaders in hiding the "space cash" from the galactic criminal [[Kevern Zaksor|Baby Fark McGee-zax]]. When [[Finland]] decides to tell the truth out of guilt, the Prime Minister agrees with the others to get rid of them for trying to snitch.
+
+The world leaders are depicted as acting like children by being dishonest, selfish and bullying. John Howard, as well as all of the other world leaders, were never addressed by their real-life counterparts' name, but only implied by the caricature of their appearance. At the time of the airing of the episode, the Prime Minister was Kevin Rudd.
+
+==References==
+{{Reflist}}
+
+{{PoliticalCelebrities}}
+[[zh:约翰·霍华德]]
+[[Category:Male characters]]
+[[Category:Political celebrities]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Elderly people]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Trey Parker]]

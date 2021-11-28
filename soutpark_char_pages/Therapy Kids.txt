@@ -1,0 +1,33 @@
+{{Group
+|name = Therapy Kids
+|image = Therapy-kids.png
+|job = Students
+|enemies = [[The New Kid]], [[Super Craig]], [[Wonder Tweek]]
+|gender = Male
+|age = 9 - 10
+|first = ''[[South Park: The Fractured But Whole]]''
+}}
+'''Therapy Kids''' are a group of students appearing in ''[[South Park: The Fractured But Whole]]''. They act as manifestations of negative relationship issues and are encountered during the [[Therapy Wars]] mission.
+
+==Background==
+In the [[South Park Elementary Gymnasium]], after a failed counselling session between [[Super Craig]] and [[Wonder Tweek]], [[Mr. Mackey]] called out the Therapy Kids to confront both superheroes, along with [[The New Kid]], into combat.
+
+Shortly after the battle, both Super Craig and Wonder Tweek will reconcile and unlock a new ultimate power, knocking out the Therapy Kids.
+
+==Appearance==
+Each Therapy Kid wear blue pants, black shoes and a white shirt bearing one word from one of the five relationship issues (Accusations, Expectations, Resentments, Victimization and Withdrawal).
+
+==Abilities==
+*'''Discontented Slap''' - One slap to the opponent. Exclusive to Expectations and Withdrawal.
+*'''Abuse''' - Two punches, followed by a flying kick to the opponent. Exclusive to Victimization.
+*'''Harangue''' - Points finger and blasts hate speech bubbles for moderate damage. Inflicts Defense Down. Exclusive to Accusations.
+*'''Grievance''' - One punch to the opponent for moderate damage. Exclusive to Resentments.
+*'''Cold Shoulder''' - Tosses an ice cube. Inflicts Chilled status effect. Exclusive to Withdrawal.
+[[zh:疗心小孩]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:School children]]
+[[Category:Groups]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:Video Game Exclusive characters]]

@@ -1,0 +1,27 @@
+{{South Park character
+|name = Walgreens Pharmacist
+|image = Doctors-vaccination-pharmacist.png
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|job = Pharmacist
+|appearance = "[[South ParQ Vaccination Special]]"
+}}
+The '''Walgreens Pharmacist''' is a healthcare worker for [[Walgreens]] who appears in [[Season Twenty-Four]] episode "[[South ParQ Vaccination Special]]".
+
+==Background==
+In an attempt to steal [[COVID-19 Vaccine|vaccines]] from Walgreens, [[The Boys|The Boys]] dress up as [[Kommunity Kidz|healthcare workers]] and "accompany" an [[Elderly Woman in Wheelchair|elderly woman]] to get vaccinated. The pharmacist, who is carrying a tray of vaccines, approaches them, and the boys explain that they are "helping old people getting to their vaccination locations". However, the boys get into an argument, with the elderly woman revealing that they are lying about being part of an organization. The boys decided to drop their plan and kick the pharmacist, taking the vaccines from the latter before making their escape.
+
+==Appearance==
+The pharmacist has blond hair and wears the standard doctor's coat with a stethoscope around his neck, along with a pair of glasses and a surgical mask.
+
+He is a blonde recolor of [[Dr. Zonder]] from "[[Le Petit Tourette]]".
+
+{{Minor Characters from Season Twenty-Four}}
+[[ja:ウォルグリーンの薬剤師]]
+[[zh:沃尔格林药房药剂师]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Medics]]

@@ -1,0 +1,43 @@
+{{South Park character
+|name = Thomas
+|image = Charlottes-father-thomas.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|relation1 = Wife
+|relativename1 = [[Charlotte's Mother]]
+|relation2 = Daughter
+|relativename2 = [[Charlotte]]
+|relation3 = Son
+|relativename3 = [[Charlotte's Brother]]
+|relation4 = Daughter
+|relativename4 = [[Charlotte's Sister]]
+|appearance = "[[Where My Country Gone?]]"
+}}
+{{LinkDisambig|Thomas (Disambiguation)}}
+'''Thomas''' is [[Charlotte]]'s father who appears in the [[Season Nineteen]] episode, "[[Where My Country Gone?]]".
+
+==Background==
+After being forced by the other boys to date Charlotte, [[Butters Stotch|Butters]] ends up falling in love with her. Butters visits [[Charlotte's Residence|Charlotte's house]] where he meets her family and asks Thomas why they left [[Canada]]. Thomas explains the story about the [[Canadian President]], who said a lot of outrageous things and got a lot of votes because the Canadians found it funny. By time the Canadian people wanted to get serious, he was already sworn into power. Thomas then breaks down in tears, and is consoled by his family.
+
+He and his family return to Canada after [[Herbert Garrison|Mr. Garrison]] rapes the Canadian President to death. He has not made another appearance since.
+
+==Appearance==
+Thomas wears glasses, a green V-neck sweater with a white button down shirt, brown pants, and black shoes. Like most Canadians, he is portrayed with black beady eyes and flappy head. He has mousy brown hair.
+
+<gallery widths="160" spacing="small" caption="Images of Thomas">
+WhereMyCountryGone058.png|Thomas eating with his family and [[Butters Stotch|Butters]].
+WhereMyCountryGone060.png|Thomas talking about the [[Canadian President|President of Canada]].
+</gallery>
+
+{{Minor Characters from Season Nineteen}}
+[[ja:トーマス（シャーロットの父）]]
+[[zh:托马斯（夏洛特的父亲）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters with unknown voice actor]]
+[[Category:Canadians]]
+[[Category:Parents]]
+[[Category:One-off characters]]
+[[Category:Charlotte's Family]]

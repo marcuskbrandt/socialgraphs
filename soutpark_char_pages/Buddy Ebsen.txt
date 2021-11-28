@@ -1,0 +1,35 @@
+{{South Park character
+|name = Buddy Ebsen
+|image = Barnaby-jones.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = 95 (deceased)
+|dob = April 2, 1908
+|died = July 6, 2003
+|job = Actor
+|voice = [[Trey Parker]]<ref>Credited as "Barnaby Jones" in {{cite web|url=https://www.imdb.com/title/tt0766086/|title="South Park" Roger Ebert Should Lay Off the Fatty Foods (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Buddy Ebsen|Buddy Ebsen]]
+|appearance = "[[Roger Ebert Should Lay off the Fatty Foods]]"
+}}
+'''Buddy Ebsen''' was an American actor known for his role as ''Barnaby Jones'' in the eponymous detective drama. He appeared in [[Season Two]] episode "[[Roger Ebert Should Lay off the Fatty Foods]]".
+
+==Background==
+Reruns of the ''Barnaby Jones'' television show starring Buddy Ebsen as the titular character was shown to the [[The 4th Grade|4th grade class]] for eight consecutive days. At the end of one of the episodes, Barnaby Jones was seen speaking to a police commissioner after having solved a case, hoping that next time he "won't have to run so much".
+
+==Appearance==
+Buddy Ebsen has gray hair and several wrinkles and freckles on his face. He wears a brown business suit with a blue tie and brown shoes.
+
+==References==
+{{Reflist}}
+
+{{Minor Characters from Season Two}}
+[[fr:Buddy Ebsen]]
+[[zh:巴迪·埃布森]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,27 @@
+{{South Park character
+|name = Alien Guard
+|image = Visitors-guard.png
+|race = Alien
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Alien Guard''' is a [[Visitors|Visitor]] fought in ''[[South Park: The Stick of Truth]]''.
+
+==Background==
+In [[Alien Abduction]] quest, alien guards are scattered aboard the alien spaceship which abducted [[The New Kid]]. They patrol the spaceship and fight the New Kid whenever they encounter him.
+
+==Appearance==
+The guards wear police hats and a uniform. They also carry a space taser.
+
+==Abilities==
+*'''Melee Attack''' - An basic attack that hits three times.
+*'''Perfect Dodge Stance''' - For a couple turns, the Alien Guard cannot be hit by normal attacks and can only be damaged by abilities.
+*'''Space Taser''' - A single hitting attack that inflicts Attack Down if not blocked.
+
+[[es:Aliens Guardia]]
+[[fr:Alien Guard]]
+[[zh:外星警卫]]
+[[Category:Characters]]
+[[Category:Aliens]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:Video Game Exclusive characters]]
+[[Category:The Stick of Truth: Characters]]

@@ -1,0 +1,50 @@
+{{South Park character
+|name = Old Cap
+|image = Old-cap.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|died = "[[Black Friday]]"
+|job = Mall Security Guard
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt3237520/|title="South Park" Black Friday (TV episode 2013)|publisher=IMDb.com}}</ref>
+|relation1 = Son
+|relativename1 = Unnamed Son
+|relation2 = Wife
+|relativename2 = Unnamed Wife
+|appearance = "[[Black Friday]]"
+|final = "[[Black Friday]]"
+}}
+'''Old Cap''' was the head security guard for [[South Park Mall]] who appeared in the [[Season Seventeen]] episode "[[Black Friday]]". 
+
+==Background==
+Old Cap appears leading the other security guards and telling the Black Friday shoppers to line up in a different spot to get the [[Stop Touching Me Elmo]] doll. He later talks to [[Randy Marsh|Randy]], saying he knows why he joined the security team and that his son died on Black Friday of 1989. Near the end of the episode, when the Black Friday shoppers start fighting each other, Old Cap is stabbed by a [[Man with Brown Jacket|man with a brown jacket]] and dies in Randy's arms, but not before he makes Randy the head security guard.
+
+Old Cap briefly appears in "[[A Song of Ass and Fire]]" as a photograph seen in a memorial service for the fallen security guards.
+
+==Appearance==
+Old Cap had gray hair, gray eyebrows, and a gray beard. He wore a dark blue police coat, a light blue uniform underneath that, black pants, and black shoes. He also had a scar on his left eye, which was revealed to be fake after being stabbed. The last four letters of his surname can be seen on his exposed shirt: "Krum".
+
+<gallery widths="160" spacing="small" caption="Images of Old Cap">
+BlackFridayPromo2.jpg|Old Cap in a promo image for "[[Black Friday]]"
+BlackFriday066.png|Old Cap talking to Randy
+BlackFriday081.png|Old Cap getting stabbed by a man with a brown jacket
+BlackFriday082.png|Old Cap dying in Randy's arms
+BlackFriday083.png|Old Cap dies
+</gallery>
+
+==Trivia==
+*Old Cap's appearance and death are strikingly similar to those of the Lord Commander of the Night's Watch, [[w:c:gameofthrones:Jeor Mormont|Jeor Mormont]], in the HBO series ''[[w:c:gameofthrones:Game of Thrones|Game of Thrones]]''.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seventeen}}
+[[zh:老保安]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Overweight characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]
+[[Category:Townsfolk]]
+[[Category:Elderly people]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,47 @@
+{{South Park character
+|name = Tyler Perry
+|image = TylerPerry.png
+|gender = Male
+|race = African-American
+|hair = Brown
+|age = {{age|1969|09|13}}
+|dob = September 13, 1969
+|job = Entertainer
+|religion = Protestant
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1908258/|title=Funnybot on IMDB}}</ref>
+|wikipedia = [[Wikipedia:Tyler Perry|Tyler Perry]]
+|appearance = "[[Funnybot]]"
+}}
+'''Tyler Perry''' is an American entertainer who appears in the [[Season Fifteen]] episode "[[Funnybot]]".
+
+==Background==
+In "[[Funnybot]]", he was the only person who was present to collect his comedy award, other than [[Jimmy Valmer]]. He received the Kathy Griffin Award, which is awarded to the person who is most likely to show up to collect it.
+
+Throughout the episode, Perry communicates almost exclusively through catchphrases from his movies, such as "Oh Lerrrrd!" and "Halleluyer!". The episode portrays his comedy as appealing solely to black people - [[Token Black]] is the only one who laughs at his jokes, giving him money every time he speaks. [[Barack Obama|President Obama]] also mentions watching one of Perry's movies with his family before the end of the world. Both of them are embarrassed to admit that they find Perry's comedy funny.
+
+Tyler's antics become increasingly absurd, reaching the point that he dressed up as his most famous character, Mabel Simmons, and refused to leave [[South Park Elementary]]. At the end, the Americans and Germans secured him within an enormous metal sphere deep underground, in place of [[Funnybot (Character)|Funnybot]], stating that he was "one of the worst threats to the world."
+
+==Appearance==
+Perry initially appears as a relatively faithful portrayal of his real-life self, dressed in a suit and tie.
+
+However, later in the episode, he appears as his character Madea, wearing a purple dress, a gaudy pearl necklace, a pair of thick-rimmed pink glasses, and a long grey wig, with inexpertly applied lipstick.
+
+<gallery widths="160" spacing="small" caption="Images of Tyler Perry">
+Funnybot015.png|Perry collecting his comedy award from [[Jimmy Valmer|Jimmy]] in "[[Funnybot]]".
+Funnybot059.png|Perry dressed as Madea, with [[Token Black]] laughing
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Fifteen}}
+{{MovieCelebrities}}
+[[zh:泰勒·派瑞]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Minority characters]]
+[[Category:African-American characters]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Male characters]]
+[[Category:Movie celebrities]]

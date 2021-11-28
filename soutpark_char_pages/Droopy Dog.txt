@@ -1,0 +1,36 @@
+{{South Park character
+|name = Droopy Dog
+|image = DroopyTardicaca.png
+|gender = Male
+|hair = Red
+|age = 9-10
+|job = Student
+|grade = [[The 4th Grade|4th Grade]]
+|voice = [[Trey Parker]]<ref>Credited as "Disabled Kid #3" in {{cite web|url=https://www.imdb.com/title/tt1644897/|title="South Park" Crippled Summer (TV episode 2010)|publisher=IMDb.com}}</ref>
+|appearance = "[[Crippled Summer]]"
+}}
+'''Droopy Dog''' is a student at the summer camp for disabled children in "[[Crippled Summer]]".
+
+==Background==
+This boy attended a summer camp along with fellow disabled children [[Timmy Burch|Timmy]], [[Jimmy Valmer|Jimmy]], [[Nathan]], and [[Mimsy]], joining the [[Blue Team]]. His disability makes him both appear and sound like the cartoon character, Droopy Dog.
+
+==Appearance==
+He has a small tuft of red hair and red eyebrows on his head and baggy eyes, with cheeks resembling Droopy from MGM Cartoons. His clothes are the summer camp uniform which almost all of the children at the camp are seen wearing; he is part of the blue team so his shirt is blue, with dark green trousers.
+
+==References==
+{{Reflist}}
+
+{{South Park Children}}
+[[Category:Characters]]
+[[Category:Unnamed characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Other 4th graders]]
+[[Category:4th graders]]
+[[Category:Male 4th graders]]
+[[Category:School children]]
+[[Category:Gingers]]
+[[Category:Characters with deviations]]
+[[Category:Crossover characters]]
+[[Category:Tardicaca campers]]
+[[Category:Characters voiced by Trey Parker]]

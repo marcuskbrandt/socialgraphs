@@ -1,0 +1,41 @@
+{{South Park character
+|name = Mrs. Hakeem
+|image = Mrs-hakeem.png
+|gender = Female
+|race = Middle Eastern
+|hair = Black
+|religion = Islam
+|voice = [[April Stewart]]<ref>{{cite web|url=http://www.imdb.com/title/tt0983725/|title="South Park" The Snuke (TV episode 2007)|publisher=IMDb.com}}</ref>
+|relation1 = Husband
+|relativename1 = [[Mr. Hakeem]]
+|relation2 = Son
+|relativename2 = [[Baahir Hassan Abdul Hakeem]]
+|appearance = "[[The Snuke]]"
+}}
+'''Mrs. Hakeem''' is [[Baahir Hassan Abdul Hakeem]]'s mother and appears in the [[Season Eleven]] episode, "[[The Snuke]]". She is married to [[Mr. Hakeem]] and is thought to be a terrorist by [[Eric Cartman|Cartman]].
+
+==Appearance==
+Mrs. Hakeem wears a purple skirt, a pink blouse, and a teal sweater. Her jewelry consists of a pearl necklace and emerald earrings. She has black wavy hair, wears red lipstick, and has stylized eyebrows.
+
+<gallery widths="160" spacing="small" caption="Image of Mrs. Hakeem">
+TheSnuke075.png|Mrs. Hakeem being interrogated by Cartman in "[[The Snuke]]"
+TheSnuke110.png|Mrs. Hakeem, and her family, leaving South Park.
+</gallery>
+
+==Family==
+Although she does not play as big of a role as her husband, [[Mr. Hakeem]], Mrs. Hakeem is shown to care deeply for her family, especially her son Baahir, while being interrogated. She appears to be loyal to her husband and shares his feelings of leaving [[South Park (Location)|South Park]].
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+[[zh:哈基姆太太]]
+[[Category:One-off characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Characters in a relationship]]
+[[Category:Characters]]
+[[Category:Characters voiced by April Stewart]]
+[[Category:Parents]]
+[[Category:Middle Eastern characters]]
+[[Category:Muslim characters]]
+[[Category:Asian characters]]

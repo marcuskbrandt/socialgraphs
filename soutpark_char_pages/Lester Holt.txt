@@ -1,0 +1,37 @@
+{{South Park character
+|name = Lester Holt
+|image = Lester-holt.png
+|gender = Male
+|race = African-American
+|hair = Gray
+|age = {{age|1959|03|08}}
+|dob = March 8, 1959
+|job = Journalist<br>[[Dateline]] Host<br>Debate Moderator
+|wikipedia = [[wikipedia:Lester Holt|Lester Holt]]
+|appearance = "[[The Damned]]"
+}}
+'''Lester Holt''' is an American journalist and was the moderator of the first presidential debate in 2016. He appears in the [[Season Twenty]] episode, "[[The Damned]]".
+
+==Background==
+In "[[The Damned]]", Lester Holt takes the role as the moderator of the first presidential debate between [[Herbert Garrison]] and [[Hillary Clinton]] for the 2016 [[United States]] presidential election. He first asks Garrison how he would deal with ground troops in Syria.
+
+Garrison responds with a heart-felt speech about not being qualified for being president, to which Clinton responded by calling him a liar. Holt then goes on to moderate the rest of the debate.
+
+==Appearance==
+Holt wears a blue-gray suit, consisting of black shoes, gray pants, a white shirt with a purple tie, and a gray coat. He has dark gray hair, which had been previously dyed, and he wears black eyeglasses.
+
+<gallery widths="160" caption="Images of Lester Holt">
+Lester-holt2.png|Lester moderating the debate.
+</gallery>
+
+{{PoliticalCelebrities}}
+[[zh:莱斯特·霍尔特]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Political celebrities]]
+[[Category:African-American characters]]
+[[Category:Minority characters]]
+[[Category:Elderly people]]

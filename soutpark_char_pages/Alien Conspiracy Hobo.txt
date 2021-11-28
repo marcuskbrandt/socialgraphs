@@ -1,0 +1,29 @@
+{{South Park character
+|name = Alien Conspiracy Hobo
+|image = AlienConspiracyHobo.png
+|gender = Male
+|race = Zombie
+|hair = Light brown
+|voice = [[Trey Parker]]
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+The '''Alien Conspiracy Hobo''' is a homeless man who appeared in ''[[South Park: The Stick of Truth]]''.
+
+==Background==
+During [[Alien Abduction]] quest, [[The New Kid]] will come across multiple audio logs on board the alien ship, each of which was left behind by the hobo. During the last audio log, located in the hole just outside the first room, the New Kid discovers that the hobo has eaten some strange green goo, and something happened to him. The Alien Conspiracy Hobo can be fought as an optional boss in the very same room. If you choose to fight him and win you get his plunger weapon and his tin foil hat.
+
+==Appearance==
+The Alien Conspiracy Hobo has green skin, wears patched clothes, a tinfoil hat, and carries a plunger. His beard is light brown.
+
+==Trivia==
+*The hobo is the first Nazi Zombie the New Kid fights (although the New Kid may choose to skip).
+*The hobo does not count towards the number of homeless people required to defeat for [[The Homeless Problem]] side quest.
+[[fr:Alien Conspiracy Hobo]]
+[[zh:外星控制流浪汉]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Video Game Exclusive characters]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:Nazi Zombies]]

@@ -1,0 +1,46 @@
+{{Group
+|name = Phil and Josh
+|image = Phil-n-josh.png
+|job = Salesmen, realtors
+|gender = Male
+|member1 = Phil
+|voice1 = [[Trey Parker]]<ref name=imdb>{{cite web|url=http://www.imdb.com/title/tt0705895/|title="South Park" Asspen (TV episode 2002)|publisher=IMDb.com}}</ref>
+|member2 = Josh
+|voice2 = [[Matt Stone]]<ref name=imdb />
+|first = "[[Asspen]]"
+}}
+{{LinkDisambig|Josh (Disambiguation)}}
+'''Phil and Josh''' are two salesmen from [[Aspen]]. They appear in the [[Season Six]] episode, "[[Asspen]]".
+
+==Background==
+Phil and Josh are representatives of the Aspen Heaven time-share company. They hold [[Randy Marsh]], [[Sharon Marsh]], [[Sheila Broflovski]], [[Gerald Broflovski]], [[Stephen Stotch]] and [[Linda Stotch]] against their will in a conference room in an attempt to get them to buy into their time-share scheme.
+
+When the police arrive to free Randy and others it turns out the police were working with them as well. It has also been hinted at that even the President of the United States has been working for them. In the end, Randy and the others end up purchasing timeshares.
+
+==Appearance==
+Phil wears a teal suit with an orange shirt and a yellow tie. He has brown hair, brown eyebrows, and is balding.
+
+Josh wears brown pants, a red vest over a lavender shirt, and a purple tie. He has blond hair, blond eyebrows, and a blond mustache.
+
+<gallery widths="160" spacing="small" caption="Images of Phil and Josh">
+Asspen019.png|Phil and Josh meeting the parents for the first time in the morning in "[[Asspen]]".
+Asspen033.png|Phil and Josh doing their sales pitch to the parents.
+Asspen045.png|Phil and Josh trying to sell timeshares by using a free luncheon as a gimmick and example of what a timeshare is.
+Asspen047.png|Phil and Josh explaining the example.
+Asspen096.png|Phil and Josh meet the parents again as their "exclusive" ski lift brought them back to the sales office.
+Asspen102.png|The police are called in as the parents are getting frustrated.
+Asspen105.png|The police are involved in the whole situation and are on the side of Phil and Josh.
+Asspen107.png|Phil and Josh forcing the parents to sit and listen to the presentation.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Six}}
+[[ja:フィルとジョシュ]]
+[[zh:菲尔和乔什]]
+[[Category:One-off characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]

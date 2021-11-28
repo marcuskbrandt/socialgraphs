@@ -1,0 +1,49 @@
+{{South Park character
+|name = Emperor Akihito
+|image = Emperor-akihito.png
+|gender = Male
+|race = Japanese
+|hair = Gray
+|age = {{age|1933|12|23}}
+|birthday = December 23, 1933
+|job = Former Emperor of Japan
+|religion = Shinto
+|voice = [[Trey Parker]]<ref>Credited as the "Japanese Official" in {{cite web|url=http://www.imdb.com/title/tt1535839/|title="South Park" Whale Whores (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Akihito Akihito|Emperor Akihito]]
+|relation1 = Father
+|relativename1 = [[Emperor Hirohito]]
+|appearance = "[[Whale Whores]]"
+}}
+'''Akihito''' is the former Emperor of Japan. In real life, he acceded to the throne in 1989, upon the death of his father, [[Emperor Hirohito]]. He abdicated from the throne on April 30, 2019, due to his age and declining health with his son Naruhito taking his place. He appears in the [[Season Thirteen]] episode, "[[Whale Whores]]".
+
+==Background==
+In "[[Whale Whores]]", he reacted badly to [[Stan Marsh]]'s leadership of the Whale Wars crew. He explained to them that the atomic bombings of Hiroshima and Nagasaki were allegedly caused by whales and dolphins, but grew even angrier when Stan "revealed" that the chickens and cows did it and had "framed" the whales and dolphins.
+
+In "[[It's a Jersey Thing]]", he rejects [[Randy Marsh|Randy]]'s call for help from the Jerseyites.
+
+==Appearance==
+Akihito has grey hair and wrinkles, age spots can be seen on his face, as a sign of aging. He has thick black eyebrows and has a prominent nose. As seen in "[[Whale Whores]]", he wears a light navy blue formal coat with an orange-striped tie. He also has stereotypical characteristics of Asians seen in the series such as small eyes.
+
+==Gallery==
+<gallery widths="160" spacing="small" caption="Images of Emperor Akihito">
+WhaleWhores082.png|The Emperor visiting the boys in prison.
+WhaleWhores084.png|Akihito with [[Stan Marsh|Stan]], [[Eric Cartman|Cartman]], and [[Kenny McCormick|Kenny]].
+WhaleWhores089.png|Akihito explains why the Japanese continue whaling.
+WhaleWhores095.png|Akihito with other Japanese dignitaries.
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{PoliticalCelebrities}}
+{{Minor Characters from Season Thirteen}}
+[[zh:明仁天皇]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:Asian characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:One-off characters]]
+[[Category:Elderly people]]
+[[Category:Royalty]]

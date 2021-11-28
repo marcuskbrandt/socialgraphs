@@ -1,0 +1,30 @@
+{{South Park character
+|name = Ronald Ernest "Ron" Paul
+|image = Ron-paul.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|dob = August 20, 1935
+|age = {{age|1935|8|20}}
+|job = U.S. Congressman
+|religion = Baptist
+|wikipedia = [[Wikipedia:Ron Paul|Ron Paul]]
+|voice = Ron Paul (sound bite)
+|appearance = "[[Faith Hilling]]"
+}}
+'''Ron Paul''' is a [[United States]] politician who served as the U.S. Representative for Texas's 14th congressional district. He appears as a Republican candidate for president, participating in the [[Colorado Republican Debate (2012)|Colorado Republican Debate]] with [[Mitt Romney]], [[Newt Gingrich]], and [[Rick Santorum]] in the [[Season Sixteen]] episode, "[[Faith Hilling]]". Upon the conclusion of the episode, he was replaced by a [[Talking Cat]] for the debate.
+
+==Appearance==
+Ron Paul has gray and white hair, dark gray eyebrows, and a wrinkled face. He wears a black business suit consisting of a black coat, white dress shirt, a striped tie, black pants, and black shoes.
+
+{{Minor Characters from Season Sixteen}}
+{{PoliticalCelebrities}}
+[[pl:Ron Paul]]
+[[zh:罗恩·保罗]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Political celebrities]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Elderly people]]

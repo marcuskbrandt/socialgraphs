@@ -1,0 +1,25 @@
+{{South Park character
+|name = Girl with Ear Infection
+|image = Girl_with_Ear_Infection.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|job = Student
+|voice = [[April Stewart]]<ref>Credited as the "Girl in Waiting Room" in {{cite web|url=https://www.imdb.com/title/tt0983724/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Lice Capades (TV Episode 2007)|publisher=IMDb.com}}</ref>
+|appearance = "[[Lice Capades]]"
+}}
+The '''Girl with Ear Infection''' is a minor character who appears in [[Season Eleven]] episode, "[[Lice Capades]]".
+
+==Background==
+While both she and [[Clyde Donovan]] are waiting to see a doctor, the girl tells Clyde that she has an ear infection before asking him what he is seeing the doctor for. Clyde, who was diagnosed with head lice, instead replies that he has [[AIDS]].
+
+==Appearance==
+The girl has an untidy brown hair tied into ponytails with blue hairbands. She wears a teal shirt with an ice-cream imprint, pink pants, and black shoes. Her pink glasses appear misaligned to her left.
+
+==References==
+{{reflist}}
+
+[[Category:Characters]]
+[[Category:School children]]
+[[Category:Female characters]]
+[[Category:One-off characters]]

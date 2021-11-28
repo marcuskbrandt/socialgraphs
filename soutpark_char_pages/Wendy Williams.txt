@@ -1,0 +1,42 @@
+{{South Park character
+|name = Wendy Williams
+|image = Wendy-williams.png
+|gender = Female
+|race = African-American
+|hair = Brown with Gold Highlights
+|age = {{age|1964|07|18}}
+|dob = July 18, 1964
+|job = Talk Show Host
+|voice = [[April Stewart]]<ref>{{cite web|url=http://www.imdb.com/title/tt4197086/|title="South Park" #REHASH (TV Episode 2014) - IMDb}}</ref>
+|wikipedia = [[wikipedia:Wendy Williams|Wendy Williams]]
+|appearance = "[[REHASH|#REHASH]]"
+}}
+{{LinkDisambig|William (Disambiguation)}}
+'''Wendy Williams''' is an American talk-show host, actress, and author. She appears in the [[Season Eighteen]] episode, "[[REHASH|#REHASH]]".
+
+==Background==
+Wendy Williams is shown hosting her show, ''[[The Wendy Williams Show]]''. She entertains her mindlessly loyal audience by interviewing [[CartmanBrah]]. She asks him about what he does and why he thinks he attracts such a young audience. Cartman simply mocks her by mimicking her voice and tells the audience to subscribe to his [[YouToob]] channel.
+
+==Appearance==
+Wendy Williams wears black, high-heeled shoes, a short blue dress, and a black coat. She has long, brown hair with goldenrod highlights.
+
+==Gallery==
+<gallery widths="160" caption="Images of Wendy Williams">
+Wendy-williams-with-cartmanbrah.png|Wendy Williams talking to CartmanBrah on her show
+</gallery>
+
+==References==
+{{Reflist}}
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Eighteen}}
+[[es:Wendy Williams]]
+[[zh:温蒂·威廉姆斯]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Television celebrities]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by April Stewart]]
+[[Category:Minority characters]]
+[[Category:African-American characters]]

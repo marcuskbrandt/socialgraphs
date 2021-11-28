@@ -1,0 +1,40 @@
+{{South Park character
+|name = Hu Jintao
+|image = World-leaders-wen-jiabao.png
+|gender = Male
+|race = Chinese
+|hair = Black
+|age = {{age|1942|12|21}}
+|dob = December 21, 1942
+|job = Former General Secretary of the Communist Party of China 
+|religion = Atheism<ref>{{cite web|url=http://www.deccanherald.com/content/212827/no-religion-chinese-communist-party.html|title=No religion for Chinese Communist Party cadres}}</ref>
+|voice = [[Trey Parker]]<ref>Credited as the "Chinese Leader" in {{cite web|url=https://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Hu Jintao|Hu Jintao]]
+|appearance = "[[Pinewood Derby]]"
+}}
+'''Hu Jintao''' is the former General Secretary of the Communist Party of [[China]]. He appears in "[[Pinewood Derby]]" as one of the world leaders.
+
+==Appearance==
+Hu Jintao has short, black hair. He wears a black suit, red tie, and gray glasses. He also has stereotypical characteristics of Asians seen in the series such as small eyes.
+
+<gallery widths="160" captionalign="left" caption="Images of Hu Jintao">
+China_Builds_48_New_Soccer_Stadiums.JPG|A Newspaper headline with Hu Jintao on it.
+</gallery>
+
+==Personality==
+In "[[Pinewood Derby]]", he, along with all the other countries' heads, were shown to be selfish, keeping the "space cash" for themselves instead of returning it to the aliens.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[zh:温家宝]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:Asian characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:Elderly people]]
+[[Category:Chinese characters]]
+[[Category:Characters voiced by Trey Parker]]

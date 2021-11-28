@@ -1,0 +1,28 @@
+{{South Park character
+|name = Canadian Commander
+|image = Military-canadian-commander.png
+|gender = Male
+|hair = Grey
+|race = Canadian
+|job = Military officer
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt1913934/|title="South Park" Royal Pudding (TV Episode 2011)|publisher=IMDb.com}}</ref>
+|appearance = "[[Eat, Pray, Queef]]"
+}}
+The '''Canadian Commander''' is a military officer seen in [[Season Fifteen]] episode "[[Royal Pudding]]".
+
+==Background==
+Following the disappearance of the [[Prince and Princess of Canada|Princess of Canada]], all Canadians were instructed to gather by the tree in Edmonton. There, the Canadian commander rallied the Canadians, and claimed that the princess had been taken by [[Scott the Dick]], who had turned into a giant. He planned to capture Scott using a large bowl of Kraft Dinner as a trap. However, when Scott reiterated that he did not kidnap the princess and would never harm the royal family, the commander announced his mistake and called on the Canadians to return to their homes.
+
+==Appearance==
+Unlike most Canadians, the commander has a rectangular head instead of a round one. He wears a formal military uniform decorated with badges on the right chest, and a large poppy on the left. His beret has a large white feather attached. The commander is also armed with a sword.
+
+==References==
+{{Reflist}}
+[[fr:Canadian Commander]]
+[[zh:加拿大司令]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

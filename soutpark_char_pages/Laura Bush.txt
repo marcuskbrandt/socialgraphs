@@ -1,0 +1,38 @@
+{{South Park character
+|name = Laura Bush
+|image = Adults-federal-government-bush-administration-laura-bush.png
+|gender = Female
+|race = Caucasian
+|hair = Brown
+|age = {{age|1946|11|4}}
+|dob = November 4, 1946
+|job = Former First Lady
+|religion = United Methodist<ref>{{cite web|url=http://en.wikipedia.org/wiki/Laura_Bush|title=Laura Bush on Wikipedia}}</ref>
+|relation1 = Husband
+|relativename1 = [[George W. Bush]]
+|appearance = "[[Super Best Friends]]"
+}}
+'''Laura Lane Welch Bush '''is the former First Lady of the United States of America and the wife of [[George W. Bush|George Bush]]. She appears in the [[Season Five]] episode, "[[Super Best Friends]]".
+
+== Background ==
+She was seen with her husband, who was deciding whether to give [[David Blaine]] and his followers tax-exempt status or not.
+
+==Appearance==
+Laura Bush wears a blue business suit consisting of a white ascot, blue pants, and a blue coat. She has brown hair and noticeable signs of aging on her face.
+
+==Trivia==
+*The appearance is based on [[Carrie Quinn Dolan|Carrie Quinn Dolan's]] portrayal of Rove from [[Trey Parker]] and [[Matt Stone]]'s sitcom, ''That's My Bush''.
+
+==References==
+{{reflist}}
+{{PoliticalCelebrities}}
+{{Minor Characters from Season Five}}
+[[zh:劳拉·布什]]
+[[Category:Political celebrities]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Background characters]]
+[[Category:One-off characters]]
+[[Category:Elderly people]]

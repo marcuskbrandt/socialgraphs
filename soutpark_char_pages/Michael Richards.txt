@@ -1,0 +1,46 @@
+{{South Park character
+|name = Michael Richards
+|image = Michael-richards.png
+|gender = Male
+|hair = Black, gray
+|age = {{age|1949|7|24}}
+|dob = July 24, 1949
+|job = Actor<br>Comedian
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0940288/|title="South Park" With Apologies to Jesse Jackson (TV episode 2007)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Michael Richards|Michael Richards]]
+|appearance = "[[With Apologies to Jesse Jackson]]"
+}}
+{{LinkDisambig|Michael (Disambiguation)}}
+{{LinkDisambig|Richard (Disambiguation)}}
+'''Michael Richards''' is an actor and comedian who appears in the [[Season Eleven]] episode, "[[With Apologies to Jesse Jackson]]", coming to [[Randy Marsh]]'s defense against the tolerant rednecks.
+
+He is known for playing Cosmo Kramer in the 1990s sitcom ''Seinfeld''. 
+
+==Appearance==
+Michael Richards was shown with short brown hair with streaks of gray in it. He also has various facial wrinkles. He wore a black coat, a gray dress, and black pants.
+
+<gallery widths="160" captionalign="left" caption="Images of Michael Richards">
+WithApologiesToJesseJackson072.png|''"Leave, now."''
+WithApologiesToJesseJackson074.png
+WithApologiesToJesseJackson084.png|Michael and [[Randy Marsh]] attempting to get the word "n****r-guy" banned by Congress.
+</gallery>
+
+==Personality==
+He seemed to be intelligent, even being able to devise a plan to get the word "n****r-guy" banned. He also appears to be easily offended, though, as the only reason he wanted "n****r-guy" banned was that people were using it to discriminate against him.
+
+==Trivia==
+*Richards is known for his infamous racist remarks made during the 2006 Laugh Factory incident where he angrily uses the n-word in his stand-up show and after an African American audience heckled him. This incident brought about the idea of producing "[[With Apologies to Jesse Jackson]]".
+
+==References==
+{{Reflist}}
+{{MovieCelebrities}}
+
+[[zh:迈克尔·理查兹]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:200 and 201 celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Movie celebrities]]

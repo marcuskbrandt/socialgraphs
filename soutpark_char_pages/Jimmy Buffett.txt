@@ -1,0 +1,37 @@
+{{South Park character
+|name = Jimmy Buffett
+|image = Jimmy-buffet.png
+|gender = Male
+|hair = Grey
+|age = {{age|1946|12|25}}
+|birthday = December 25, 1946
+|job = Singer-Songwriter<br>Author<br>Restaurant/Bar Owner<br>Minor League Baseball Team Owner
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1198003/|title="Tonsil Trouble" on IMDB}}</ref>
+|wikipedia = [[wikipedia:Jimmy Buffett|Jimmy Buffett]]
+|appearance = "[[Tonsil Trouble]]"
+}}
+{{LinkDisambig|Jimmy (Disambiguation)}}
+'''Jimmy Buffet''' is an American singer-songwriter. He appears in the [[Season Twelve]] episode, "[[Tonsil Trouble]]".
+
+==Background==
+In "[[Tonsil Trouble]]", Jimmy Buffet performs at [[Eric Cartman]]'s [[AIDS]] benefit, singing "[[AIDSburger in Paradise]]". He later appears in "[[Eat, Pray, Queef]]" and in "[[200]]" in [[Tom Cruise]]'s house.
+
+==Appearance==
+He has tan skin, white hair, but black eyebrows, and wears a colorful blue/green T-shirt and yellow shorts.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Twelve}}
+{{MusicCelebrities}}
+
+[[zh:吉米·巴菲特]]
+[[Category:Characters]]
+[[Category:Music celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Celebrities]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:200 and 201 celebrities]]
+[[Category:Elderly people]]
+[[Category:Adult characters]]
+[[Category:Rednecks]]

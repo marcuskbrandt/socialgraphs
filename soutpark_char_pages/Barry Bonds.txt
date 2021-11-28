@@ -1,0 +1,37 @@
+{{South Park character
+|name = Barry Bonds
+|image = Barry-bonds.png
+|gender = Male
+|race = African-American
+|hair = Black
+|age = {{age|1964|7|24}}
+|dob = July 24, 1964
+|job = Former baseball player
+|appearance = "[[Up the Down Steroid]]"
+|wikipedia = [[wikipedia:Barry Bonds|Barry Bonds]]
+}}
+'''Barry Bonds '''is a former American baseball player who played for the Pittsburgh Pirates and San Francisco Giants. He appears in the episode "[[Up the Down Steroid]]" in which he presented the award at the Special Olympics, along with [[Jason Giambi]] and [[Mark McGwire]]. All three athletes have been linked or allegedly linked to the use of steroids. He reappears again in "[[200]]" and "[[201]]".
+
+==Personality==
+Although he was not given much screen time, the fact that he appeared to present the awards at the Special Olympics must mean he is somewhat kind.
+
+==Appearance==
+He appears to have a very large neck, as well as small facial features. He wears his white San Francisco Giants baseball uniform with "BONDS" at its center. He also appears to wear a black and white belt.
+
+==Prominence==
+*"[[Up the Down Steroid]]" - Presents the award at the Special Olympics.
+*"[[200]]" - Seen with the other celebrities suing South Park.
+*"[[201]]" - Seen with the other celebrities suing South Park.
+{{SportsCelebrities}}
+{{Minor Characters from Season Eight}}
+[[fr:Barry Bonds]]
+[[zh:贝瑞·邦兹]]
+[[Category:Celebrities]]
+[[Category:200 and 201 celebrities]]
+[[Category:Characters]]
+[[Category:Sports celebrities]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:African-American characters]]
+[[Category:Minority characters]]

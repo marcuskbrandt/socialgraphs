@@ -1,0 +1,33 @@
+{{Group
+|name = Moop
+|image = Moop.png
+|type = Band
+|gender = Male
+|age = 9-10
+|grade = [[The 4th Grade|4th Grade]]
+|member1 = [[Stan Marsh]] - Lead Guitar
+|member2 = [[Kyle Broflovski]] - Bass Guitar
+|member3 = [[Kenny McCormick]] - Drums
+|member4 = [[Eric Cartman]] - Vocals (Former Member)
+|first = "[[Christian Rock Hard]]"
+|times = 1
+}}
+'''Moop''' is a rock band that was formed by [[The Boys|the boys]] in the [[Season Seven]] episode, "[[Christian Rock Hard]]".
+
+Its initial lineup consisted of [[Eric Cartman]] on vocals, [[Stan Marsh]] on lead guitar, [[Kyle Broflovski]] on bass and [[Kenny McCormick]] on drums. It is unclear who took over vocals after Cartman's departure.
+==Background==
+Drawing inspiration from an eclectic mix of musical styles, including hip hop, R&B, fusion and Latin jazz, [[Randy Marsh]] likened their distinctive sound to "a group of Vietnamese people having their intestines pulled through their mouths."
+
+Early in the episode, Cartman attempts to persuade the other band members to branch out into the Christian rock genre, which he believed would be more lucrative in spite of the low quality of their material. This idea fails to gain support amongst the other band members, Cartman quits to form his own band, [[Faith + 1]]. Faith + 1 would go on to see tremendous commercial success, selling over one million albums.
+
+After Cartman's departure, Stan, Kyle and Kenny try to consolidate the direction of their music by listening to other established artists. However, lacking the funds to legitimately buy records, they instead turn to illegal music downloading, leading to their arrest. After learning about the impact of illegal downloads on the music industry, and the terrible financial hardships it places on super-rich music stars, Moop decides to go on strike in order to put an end to the deplorable practice.
+
+According to a news broadcast, 1% of [[South Park (Location)|South Park]] agreed with Moop's protest, 2% disagreed, and 97% had no idea who the hell they were. Regardless, shortly thereafter, [[Metallica]], [[Alanis Morissette]], [[Blink-182]], [[Britney Spears]] and dozens of other musicians against illegal downloading joined their cause.
+
+By the end of the episode the boys realize that as musicians, they should not care about the money they are making (or failing to make), but about the good music they produce, and declare that they are ending the strike. The other musicians reply that they only make music for the money.
+{{Minor Characters from Season Seven}}
+[[ja:ムープ]]
+[[zh:穆普乐队]]
+[[Category:Bands]]
+[[Category:Male characters]]
+[[Category:Groups]]

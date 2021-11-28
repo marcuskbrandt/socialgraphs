@@ -1,0 +1,21 @@
+{{Group
+|name = Sanctified
+|image = Celebrities-fictional-sanctified.png
+|type = Band
+|gender = Male
+|first = "[[Christian Rock Hard]]"
+|times = 1
+}}
+'''Sanctified''' is a Christian metal band that appears in the [[Season Seven]] episode "[[Christian Rock Hard]]".
+
+==Background==
+The band is due to perform at the Christ-fest musical event. On their way backstage, they meet [[Faith + 1]] consisting of [[Eric Cartman]], [[Butters Stotch]] and [[Token Black]]. Cartman manages to lure them into a storeroom when he offers to pray with them before they go onstage, then locking them in. With the band unable to escape, Cartman along with his band takes over their slot and perform "[[Jesus, Baby]]".
+
+{{Minor Characters from Season Seven}}
+[[zh:圣化乐队]]
+[[Category:Groups]]
+[[Category:Characters]]
+[[Category:Bands]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

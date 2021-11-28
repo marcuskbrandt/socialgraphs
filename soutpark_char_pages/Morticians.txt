@@ -1,0 +1,25 @@
+{{South Park character
+|name = Morticians
+|image = Morticians.png
+|gender = Male
+|race = Caucasian
+|voice = [[Trey Parker]]<ref name="IMDb">{{Cite web|url=https://www.imdb.com/title/tt0705948/fullcredits?ref_=tt_cl_sm|title="South Park" Pinkeye (TV Episode 1997)|publisher=IMDb.com}}</ref><br>[[Matt Stone]]<ref name="IMDb"/>
+|appearance = "[[Pinkeye]]"
+}}
+The '''morticians''' are workers of the South Park Morgue. They appear in the [[Season One]] episode "[[Pinkeye]]".
+
+==Background==
+[[Kenny McCormick|Kenny]] is taken to the South Park Morgue after being crushed by a [[MIR Space Station]]. While the morticians are embalming Kenny, one of them starts eating a hotdog with [[Limey Charles Worcestershire Sauce]]. The Worcestershire sauce would later spill into the embalming fluid tank by accident, causing Kenny to be revived as a zombie, who would in turn bite both of the morticians.
+
+The morticians then visit the [[South Park Clinic]] for medical consultation, where the doctor diagnoses them with [[Pinkeye (Virus)|pinkeye]] (despite showing all the symptoms of a zombie). Both the morticians later turn into zombies themselves, with one of them eventually making his way to the doctor and biting him along with a few other zombies.
+
+==Appearance==
+The morticians wear lab coats over a black shirt and black pants.
+
+==References==
+{{Reflist}}
+[[zh:殡仪员]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]

@@ -1,0 +1,40 @@
+{{South Park character
+|name = Conner Davis
+|image = conner.png
+|gender = Male
+|hair = Brown
+|age = 5-6
+|job = Student
+|grade = [[Kindergartners|Kindergarten]]
+|voice = Lleyton J. Matthews<ref>{{cite web|url=https://www.imdb.com/title/tt4197086/|title="South Park" #REHASH (TV Episode 2014)|publisher=IMDb.com}}</ref>
+|appearance = "[[Cock Magic]]"
+}}
+{{LinkDisambig|Conner (Disambiguation)}}
+'''Conner Davis''' is one of [[Ike Broflovski]]'s friends who appears in the [[Season Eighteen]] episode, "[[HappyHolograms|#HappyHolograms]]", where he was seen watching videos on his iPad.
+
+==Background==
+After [[Kyle Broflovski]] goes on the air and tries to reach out to Ike, Conner helps initiate the ''#WeBelieveInYou'' hashtag to get Kyle's message trending. 
+
+==Appearance==
+Conner wears black shoes, navy blue pants, and a blue shirt with cyan stripes. He has short, light brown hair.
+
+<gallery widths="120" caption="Images of Conner">
+Conner2.png|Conner in Ike's room playing on his iPad.
+</gallery>
+
+==Trivia==
+*Conner's surname was revealed in "[[The End of Serialization as We Know It]]", when Ike's internet history was discovered.
+
+==Prominence==
+*"[[Cock Magic]]" - Watches Randy do his cock magic.
+*"[[REHASH|#REHASH]]"
+*"[[HappyHolograms|#HappyHolograms]]"
+
+==References==
+{{reflist}}
+[[zh:康纳·戴维斯]]
+[[Category:Characters]]
+[[Category:Kindergartners]]
+[[Category:Male characters]]
+[[Category:School children]]
+[[Category:Minor characters]]

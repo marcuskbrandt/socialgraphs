@@ -1,0 +1,30 @@
+{{Group
+|name = Ween
+|image = Ween.png
+|type = Band
+|job = Musicians
+|gender = Male
+|member1 = Mickey Melchiondo aka "Dean Ween"
+|member2 = Aaron Freeman aka "Gene Ween"
+|member3 = Unknown Drummer
+|first = "[[Chef Aid]]"
+}}
+'''Ween''' was an American experimental rock band. They appear in the [[Season Two]] episode, "[[Chef Aid]]", playing at the concert to help [[Chef]] pay for some legal trouble.
+
+==Background==
+Ween performed the song "[[The Rainbow]]" on ''[[Chef Aid: The South Park Album]]''. They also appeared in the accompanying mockumentary, ''[[Chef Aid: Behind the Menu]]'', in which they talked about Chef's influence on their career.
+
+==Trivia==
+*Trey Parker and Matt Stone directed a music video for the song "Even if You Don't" from the ''White Pepper'' album.
+*Trey and Matt's band [[DVDA]] was the opening band for Ween on several occasions during 1999 through 2000 era.
+
+{{MusicCelebrities}}
+[[es:Ween]]
+[[ja:ウィーン]]
+[[zh:维恩乐队]]
+[[Category:Music celebrities]]
+[[Category:Bands]]
+[[Category:Groups]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:One-off characters]]

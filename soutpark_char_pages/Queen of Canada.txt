@@ -1,0 +1,31 @@
+{{South Park character
+|name = Queen of Canada
+|image = Queen-of-canada.png
+|gender = Female
+|hair = Light Gold
+|race = Caucasian
+|relation1 = Grandson
+|relativename1 = [[Prince and Princess of Canada|Prince of Canada]]
+|relation2 = Granddaughter-in-law
+|relativename2 = [[Prince and Princess of Canada|Princess of Canada]]
+|appearance = "[[Royal Pudding]]"
+}}
+The '''Queen of Canada''' is a minor character who appears in [[Season Fifteen]] episode "[[Royal Pudding]]".
+
+==Background==
+The Queen appeared as one of the attendees at the royal wedding of the [[Prince and Princess of Canada]].
+
+==Appearance==
+Like most Canadians, she has beady eyes and a flapping head. She wears a gold dress and a lime green skirt, along with a gold top hat. She also visibly wears lipstick.
+
+==Trivia==
+*The Queen's appearance matches those of [[Queen Elizabeth II]] at her attendance in the Wedding of Prince William and Catherine Middleton on April 29, 2011.
+
+[[zh:加拿大女王]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]
+[[Category:Elderly people]]
+[[Category:One-off characters]]
+[[Category:Royalty]]

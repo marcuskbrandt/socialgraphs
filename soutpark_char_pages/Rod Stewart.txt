@@ -1,0 +1,47 @@
+{{South Park character
+|name = Rod Stewart
+|image = Rod-stewart.png
+|gender = Male
+|hair = Blonde, black
+|age = {{age|1945|1|10}}
+|dob = January 10, 1945
+|job = Singer; Songwriter
+|voice = Trey Parker<ref>{{cite web|url=http://www.imdb.com/title/tt0763045/|title="South Park" Are You There God? It's Me, Jesus (TV episode 1999)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Rod Stewart|Rod Stewart]]
+|appearance = "[[Are You There God? It's Me, Jesus]]"
+}}
+'''Sir Roderick David Stewart''' is a British rock and pop singer, songwriter and record producer. He makes his first appearance in the [[Season Three]] episode, "[[Are You There God? It's Me, Jesus]]".
+
+==Background==
+In the episode, to welcome the new millennium, [[Jesus Christ]] gets Rod Stewart to perform a New Year's concert in [[Las Vegas]] and invites everyone. Jesus visits Stewart at his mansion in preparation for the concert and is welcomed by his agent. When Stewart is brought in by [[Nurse with Red Hair|his nurse]], Jesus is shocked to see the state he is in. He is wheelchair-bound, barely able to mumble his words, and suffers from fecal incontinence where he frequently "poops his pants". He is very dependent on his nurse who treats him in a very undignified, condescending manner.
+
+At the millennium concert, Stewart is barely able to sing; he can only mumble "O-oh". He soils himself again and his nurse comes on stage to attend to him. The audience gets very upset and prepares to crucify Jesus once more.
+
+Rod Stewart also appears in the background of "[[200]]" and "[[201]]" as one of the celebrities suing [[South Park (Location)|South Park]].
+
+==Appearance==
+He looks very elderly, with an extreme amount of facial wrinkles, sunken-in cheeks, liver spots, as well as being confined to a wheelchair. He wears a black coat with a marble-like pattern of white streaking through it and a purple shirt. 
+<gallery widths="160" captionalign=left caption="Images of Rod Stewart">
+rodstewart.png|Rod Stewart and his band performing.
+</gallery>
+
+==Prominence==
+*"[[Are You There God? It's Me, Jesus]]" - Performs at Jesus' millennium concert.
+*"[[200]]" - He is one of the celebrities suing South Park.
+*"[[201]]" - He is one of the celebrities suing South Park.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Three}}
+{{MusicCelebrities}}
+[[es:Rod Stewart]]
+[[zh:罗德·斯图尔特]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Music celebrities]]
+[[Category:200 and 201 celebrities]]
+[[Category:Male characters]]
+[[Category:Elderly people]]
+[[Category:Characters with deviations]]

@@ -1,0 +1,26 @@
+{{South Park character
+|name = Mario Batali
+|image = Mario Batali.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1960|9|19}}
+|dob = September 19, 1960
+|job = Celebrity Chef
+|wikipedia = [[Wikipedia:Mario Batali|Mario Batali]]
+|appearance = "[[Crème Fraiche]]"
+}}
+'''Mario Francesco Batali''' is an American celebrity chef featured in [[Season Fourteen]] episode "[[Crème Fraiche]]".
+
+==Background==
+Mario Batali was one of the several celebrity chefs who took part in a school cafeteria cooking competition against [[Randy Marsh]]. During the competition, Mario was seen flambéing some prawns.
+
+==Appearance==
+Mario Batali has light brown hair with a pigtail and short beard. He wears the standard chef's uniform with dark green socks and a pair of brown crocs. He also has a small watch on his left wrist.
+{{TelevisionCelebrities}}
+[[zh:马里奥·巴塔利]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]

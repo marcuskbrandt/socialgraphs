@@ -1,0 +1,24 @@
+{{Group
+|name = South Park Sounderoos
+|image = Celebrities-southpark-originals-southpark-sounderoos.png
+|type = Band
+|job = Musicians
+|member1 = Kate
+|member2 = Earl
+|first = "[[Band in China]]"
+|times = 1
+}}
+The '''South Park Sounderoos''' are a local country music duo by musicians Earl and Kate. They appear in the [[Season Twenty-Three]] episode, "[[Band in China]]".
+
+==Background==
+They perform a song at the [[Autumn Fest]], with [[Mayor McDaniels]] announcing that [[Stan Marsh]]'s band, [[Crimson Dawn]] will be performing next.
+
+{{Minor Characters from Season Twenty-Three}}
+[[zh:南园之声乐队]]
+[[Category:Characters]]
+[[Category:Groups]]
+[[Category:Bands]]
+[[Category:Elderly people]]
+[[Category:Adult characters]]
+[[Category:Townsfolk]]
+[[Category:One-off characters]]

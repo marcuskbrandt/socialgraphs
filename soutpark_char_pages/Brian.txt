@@ -1,0 +1,40 @@
+{{South Park character
+|name = Brian
+|image = Canadian-brian.png
+|gender = Male
+|hair = Gray
+|job = Head of the [[Canada Channel]]
+|voice = [[Trey Parker]]<ref>Credited as the "Canadian Network President" in {{cite web|url=http://www.imdb.com/title/tt1397942/|title="Eat, Pray, Queef" on IMDB}}</ref>
+|appearance = "[[Cartoon Wars Part II]]"
+}}
+{{LinkDisambig|Brian (Disambiguation)}}
+'''Brian''' is the television executive of the [[Canada Channel]], the only TV channel in [[Canada]].
+
+==Background==
+He first appear in "[[Cartoon Wars Part II]]", and told [[Terrance and Phillip]] the reason why their TV show was censored. He later appeared in the episode "[[Eat, Pray, Queef]]" and told Terrance and Philip why their show was replaced with the [[Queef Sisters]] and later fired them.
+
+==Appearance==
+He appears to be either very stocky or very obese. He has gray hair and a dark gray mustache. He wears a white, long sleeve shirt, gray suspenders, gray pants, and a red tie.
+<gallery widths="120" captionalign="left" caption="Images of Brian">
+screenshot00024.png|Brian at his desk.
+screenshot00023.png|Another picture of Brian at his desk.
+</gallery>
+
+==Personality==
+In "[[Eat, Pray, Queef]]", he appears to be very business-minded, ignoring his disgust with queefing in order to make more money. He also appears to be uncaring, having no qualms about firing [[Terrance and Phillip]] to make room for the [[Katherine and Katie Queef|Queef Sisters]].
+
+==Prominence==
+*"[[Cartoon Wars Part II]]"
+*"[[Eat, Pray, Queef]]"
+
+==References==
+{{reflist}}
+[[fr:Brian]]
+[[zh:布莱恩]]
+[[Category:Characters]]
+[[Category:Canadians]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Overweight characters]]
+[[Category:Characters voiced by Trey Parker]]

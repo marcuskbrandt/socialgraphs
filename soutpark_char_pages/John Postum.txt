@@ -1,0 +1,36 @@
+{{South Park character
+|name = John Postum
+|image = <gallery>
+Adults-big-business-john-postem.png|Current
+Harbucks-camel.png|Camel Joe
+</gallery>
+|gender = Male
+|hair = Brown
+|job = Owner of [[Harbucks]]
+|voice=[[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705927/|title="South Park" Gnomes (TV episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Gnomes]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John Postum''' is the owner of the [[Harbucks]] coffee shop who appears in the [[Season Two]] episode "[[Gnomes]]".
+
+==Background==
+John Postum is first seen asking [[Richard Tweak]] if he can buy out the Tweek Bros. Coffeehouse, but Richard refuses, resulting in John opening his coffee shop Harbucks right next door to Tweek Bros. Coffeehouse. He is seen in a debate against [[The Boys]] on whether Harbucks should be allowed to open in [[South Park (Location)|South Park]] and loses.
+
+Later on he tries to get the townspeople into Harbucks by dressing as a camel mascot named Camel Joe, but fails. While he was going to be kicked out of South Park if Prop 10 passed, the townspeople changed their minds after actually tasting Harbucks coffee, which ended up being good.
+
+==Appearance==
+John Postum has curly brown hair and brown eyebrows. He normally wears a dark blue business suit with a white undershirt and a black tie as well as dark blue pants and black shoes. As Camel Joe, he wears a large pink camel suit with a tuft of brown hair and large white gloves as well as a giant mouth with pink teeth where his head fits and a purple fez.
+<gallery widths="160" spacing="small" caption="Images of John Postum">
+Gnomes50.png|John in a debate with the boys
+Gnomes61.png|John as Camel Joe
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[zh:约翰·波斯东]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Bullies]]

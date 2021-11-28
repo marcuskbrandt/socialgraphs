@@ -1,0 +1,26 @@
+{{South Park character
+|name = Mrs. Campbell
+|image = mrs-campbell.png
+|gender = Female
+|hair = Black
+|voice = [[Mary Kay Bergman]]<ref>Credited as "Mrs. Kimball" in {{Cite web|url=https://www.imdb.com/title/tt0705976/|title="South Park" Tom's Rhinoplasty (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Tom's Rhinoplasty]]"
+}}
+'''Mrs. Campbell''' is a citizen of [[South Park (Location)|South Park]] who appears in "[[Tom's Rhinoplasty]]". She has a Southern accent and is on friendly terms with [[Wendy Testaburger]].
+
+==Background==
+She is seen flirting with and praising [[Herbert Garrison]] after his surgery, and later at Wendy's pool party.
+
+==Appearance==
+She is a thin woman with parted black hair to her shoulders, a white collar and a yellow shirt with a red skirt.
+
+==References==
+{{Reflist}}
+[[zh:坎贝尔夫人]]
+[[Category:Characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Parents]]
+[[Category:Townsfolk]]
+[[Category:Characters voiced by Mary Kay Bergman]]
+[[Category:One-off characters]]

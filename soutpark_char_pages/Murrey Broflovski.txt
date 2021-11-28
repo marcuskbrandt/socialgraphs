@@ -1,0 +1,43 @@
+{{South Park character
+|name = Murrey Broflovski
+|image = Murrey-brovflovski.png
+|gender = Male
+|hair = Gray
+|religion = Judaism
+|relation1 = Brother
+|relativename1 = [[Gerald Broflovski]]
+|relation2 = Nephew
+|relativename2 = [[Kyle Broflovski]]
+|relation3 = Adoptive Nephew
+|relativename3 = [[Ike Broflovski]]
+|relation4 = Sister In-Law
+|relativename4 = [[Sheila Broflovski]]
+|voice = Bruce Howell<ref>{{cite web|url=http://www.imdb.com/title/tt0705934/|title="South Park" Ike's Wee Wee (TV episode 2005)|publisher=IMDb.com}}</ref>
+|appearance = "[[Ike's Wee Wee]]"
+}}
+'''Murrey Broflovski''' is [[Kyle Broflovski|Kyle]] and [[Ike Broflovski]]'s paternal uncle who appears in the [[Season Two]] episode, "[[Ike's Wee Wee]]".
+
+==Background==
+He is [[Gerald Broflovski]]'s brother. In his only appearance, he was among the family members that attended Ike's bris. During which he asks [[Sheila Broflovski]] where little Kyle was.
+
+In "[[More Crap]]", Murrey is mentioned by Gerald Broflovski who claims that he had taken the largest crap in the world, only for it to be surpassed by [[Randy Marsh]].
+
+==Appearance==
+He wears white shirt and a dark blue tie. He has gray hair with white steaks. He also wears a dark blue Kippah. Since his only appearance is at a Jewish religious ceremony, it is unknown if he wears the kippah all the time like Gerald does or if he put it on for the occasion.
+
+<gallery widths="160" caption="Images of Murrey Broflovski">
+Amu.jpg|Murrey in "[[Ike's Wee Wee]]".
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[ru:Мюррей Брофловски]]
+[[zh:默里·布罗夫洛夫斯基]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Jewish characters]]
+[[Category:Broflovski / Schwartz family]]
+[[Category:Siblings]]

@@ -1,0 +1,41 @@
+{{South Park character
+|name = Jimmy Stewart
+|image = Jimmy Stewart.png
+|gender = Male
+|hair = Blonde
+|age = 89 (deceased)
+|dob = May 20, 1908
+|died = July 2, 1997
+|job = Actor
+|religion = Presbyterian
+|wikipedia = [[Wikipedia:Jimmy Stewart|Jimmy Stewart]]
+|appearance = "[[Merry Christmas Charlie Manson!]]"
+}}{{LinkDisambig|Jimmy (Disambiguation)}}
+'''James "Jimmy" Stewart''' was an American actor most famous for his films ''It’s a Wonderful Life'', ''Mr. Smith Goes to Washington'', and ''Rear Window''.
+
+==Background==
+Stewart appeared as a resident of Hell during the song, "[[Christmas Time in Hell]]", in the episode, "[[Mr. Hankey's Christmas Classics]]". He quotes his character George Bailey from ''It's a Wonderful Life'', saying, "Merry Christmas, movie house!"
+
+==Appearance==
+Like many celebrities in early seasons of the series, Stewart is portrayed with a real-life photo cutout as a head. He wears a brown suit, white shirt and grey tie.
+
+<gallery widths="160" caption="Images of Jimmy Stewart">
+MerryChristmasCharlieManson36.png|Stewart as George Bailey in "Merry Christmas Charlie Manson!"
+</gallery>
+
+==Prominence==
+*"[[Merry Christmas Charlie Manson!]]" - [[Charles Manson]] watches ''It's a Wonderful Life''
+*"[[Mr. Hankey's Christmas Classics]]" - Appears in "[[Christmas Time in Hell]]".
+
+{{TelevisionCelebrities}}
+{{Minor Characters from Season Three}}
+[[zh:吉米·史都华]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Deceased characters]]
+[[Category:Realistic characters]]
+[[Category:Characters from Hell]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Television celebrities]]

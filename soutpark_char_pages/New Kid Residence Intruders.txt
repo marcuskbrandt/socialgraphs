@@ -1,0 +1,34 @@
+{{Group
+|name = James, Percy, and Jesse
+|image = Three-bandits.png
+|job = Housebreakers
+|enemies = [[The New Kid]]
+|gender = Male
+|member1 = Percy (Alpha Intruder)
+|member2 = [[Jesse]]
+|member3 = James
+|first = ''[[South Park: The Fractured But Whole]]''
+}}
+The '''New Kid Residence Intruders''' are a group of three men who intruded [[The New Kid's Residence]] in ''[[South Park: The Fractured But Whole]]''.
+
+==Background==
+In all four of the Origins mission line, the story (as narrated by [[The Coon (Character)|The Coon]]) was that the intruders broke into the house to attempt to hurt [[the New Kid]]'s parents. Through a tutorial on the selected [[Classes|class]], the New Kid takes down the intruders in each of the four missions. It was revealed in [[Farts of Future Past]] that the intruders' true intention was to obtain a selfie with the New Kid.
+
+==Appearance==
+Percy (also known as the Alpha Intruder while in combat) wears a large red cap, and brown jacket with a navy blue shirt underneath, black gloves, a pair of black pants and black sports shoes. Percy has a large scar running along the left side of his face.
+
+James wears a navy blue cap, grey jacket, black gloves, a pair of denim, and black shoes.
+
+Jesse is usually seen carrying a crowbar. He wears a black beanie, black collared shirt, grey pants and black boots.
+
+==Abilities==
+*'''Wicked Crowbar''' - Jesse flings a crowbar onto the New Kid.
+*'''Vicious Crowbar''' - James flings a crowbar onto the New Kid.
+*'''Home Invader Special''' - Exclusive to Percy. Punches the New Kid five times.
+[[zh:侵入者]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Groups]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]
+[[Category:Adult characters]]

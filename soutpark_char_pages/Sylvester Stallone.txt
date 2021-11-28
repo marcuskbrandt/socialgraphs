@@ -1,0 +1,38 @@
+{{South Park character
+|name = Sylvester Stallone
+|image = <gallery>
+Sylvester Stallone.png|Current
+Sly.png|Former
+</gallery>
+|gender = Male
+|race = Caucasian
+|hair = Gray (later black)
+|age = {{age|1946|07|06}}
+|dob = July 6, 1946
+|job = Actor, Director, Screenwriter, Producer, Artist
+|religion = Roman Catholic<ref>{{cite web|url=http://www.nndb.com/people/761/000023692/|title=Sylvester Stallone on NNDB}}</ref>
+|voice = [[Trey Parker]]<ref>{{Cite web|url=http://www.imdb.com/title/tt0705983/|title="Wing" on IMDB}}</ref>
+|wikipedia = [[Wikipedia: Sylvester Stallone|Sylvester Stallone]]
+|appearance = "[[Wing]]"
+}}
+'''Sylvester Enzio Stallone '''is an American actor. He appears in the [[Season Nine]] episode "[[Wing]]" as the host of the reality show, ''The Contender''. 
+
+==Background==
+[[Wing Han Tsang]] competes in a fight on ''The Contender'' and loses. During the match, Sylvester is impressed with Wing's singing. After the match, he invites her to perform at his son's wedding.
+
+==Appearance==
+Sylvester Stallone wears black pants, a black dress shirt, and black shoes. He has combed black hair and his face is similar to his real-life appearance.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Nine}}
+{{MovieCelebrities}}
+[[zh:西尔维斯特·史泰龙]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:200 and 201 celebrities]]
+[[Category:Catholic characters]]
+[[Category:Movie celebrities]]

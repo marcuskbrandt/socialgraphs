@@ -1,0 +1,38 @@
+{{South Park character
+|name = Michael Jordan
+|image = Michael-jordan.png
+|gender = Male
+|race = African-American
+|age = {{age|1963|2|17}}
+|dob = February 17, 1963
+|job = Basketball Player
+|wikipedia = [[Wikipedia:Michael Jordan|Michael Jordan]]
+|appearance = "[[Cancelled]]"
+}}{{LinkDisambig|Michael (Disambiguation)}}
+'''Michael Jordan''' is a retired professional basketball player, who was well known for playing in the NBA, with the Chicago Bulls, from 1984 to 2003. He first appears in the [[Season Seven]] episode, "[[Cancelled]]".
+
+==Background==
+In "[[Cancelled]]", the alien [[Najix]] transforms into several celebrities, including Michael Jordan, so the [[the boys]] would feel more comfortable around him.
+
+In "[[Wing]]", [[Eric Cartman]] name drops Michael Jordan to impress [[Token Black]], so he would join his [[Super Awesome Talent Agency]].
+
+In "[[Sexual Healing]]", he is seen as a part of a group therapy session with other celebrities at the [[Karne Institute for Sex Addiction]].
+
+==Appearance==
+Michael Jordan is bald and has dark skin. He was shown in his Chicago Bulls jersey, with his number, twenty three, on it. He is also often seen holding a basketball.
+
+==Prominence==
+*"[[Cancelled]]" - Appeared as one of the forms [[Najix]] transforms into.
+*"[[Wing]]" (mentioned only)
+*"[[Sexual Healing]]" - Seen at the [[Karne Institute for Sex Addiction]] in a group therapy session.
+
+{{SportsCelebrities}}
+[[zh:迈克尔·乔丹]]
+[[Category:Characters]]
+[[Category:Minority characters]]
+[[Category:Sports celebrities]]
+[[Category:African-American characters]]
+[[Category:Minor characters]]
+[[Category:Male characters]]
+[[Category:Celebrities]]
+[[Category:Adult characters]]

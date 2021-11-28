@@ -1,0 +1,42 @@
+{{South Park character
+|name = James Taylor
+|image = JT.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1948|03|12}}
+|dob = March 12, 1948
+|job = Singer-Songwriter<br>Musician
+|religion = Agnostic
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705924/|title="South Park" Fat Camp (TV episode 2000)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:James Taylor|James Taylor]]
+|appearance = "[[Fat Camp]]"
+}}
+'''James Taylor''' appears in the [[Season Four]] episode, "[[Fat Camp]]", singing "[[The Prostitute Song]]" with [[Chef]]. After Chef sings the first part of the song, James Taylor comes in from the back, and provides support.
+
+In "[[Roger Ebert Should Lay off the Fatty Foods]]", [[Tantalus V. Observatory|the Planetarium]] has a show called "Laser James Taylor".
+
+==Appearance==
+James Taylor has brown, receding hair, brown eyebrows, and visible signs of aging such as wrinkles on his face. He wears a green long sleeved shirt that is partly unbuttoned with blue pants. He can be seen holding a brown acoustic guitar with an orange pick guard.
+
+==Prominence==
+*"[[Roger Ebert Should Lay off the Fatty Foods]]" - Mentioned.
+*"[[Fat Camp]]" - Sings "[[The Prostitute Song]]" with Chef.
+*[[The Simpsons Already Did It]] - Mentioned.
+
+==External Links==
+*[http://www.southparkstudios.com/clips/185659 The Prostitute Song Video]
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Four}}
+{{MusicCelebrities}}
+[[zh:詹姆斯·泰勒]]
+[[Category:Agnostics]]
+[[Category:Characters]]
+[[Category:Music celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:One-off characters]]

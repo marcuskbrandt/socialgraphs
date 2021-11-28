@@ -1,0 +1,33 @@
+{{South Park character
+|name = Dr. Larry
+|image = Doctor-dr-larry.png
+|gender = Male
+|hair = Brown and Gray
+|job = Doctor
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0761289/|title="South Park" Kenny Dies (TV episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[Kenny Dies]]"
+}}
+{{LinkDisambig|Larry (Disambiguation)}}
+'''Dr. Larry''' is a doctor who works at the [[Alder Research Group]] and appears in the [[Season Five]] episode "[[Kenny Dies]]".
+
+==Background==
+Dr. Larry first appears when [[Eric Cartman]] attempts to sell some fetuses he acquired, but he refuses to take them because the government had put a ban on stem-cell research. Later on, he is seen when the Alder Research Group starts packing things up due to the ban. He explains how stem-cells work to Cartman and then wishes him good luck in attempting to change the government's mind about the ban on stem-cell research. 
+
+==Appearance==
+Dr. Larry has short brown hair with gray sideburns, brown eyebrows, and a brown goatee. He wears a white lab coat with two pens in the pocket, a teal shirt underneath, a dark blue tie, a belt with a gold buckle, purple pants, black shoes, and round glasses.
+
+==Trivia==
+*Dr. Larry's character model somewhat resembles the brown-haired [[Star Trek nerds|Star Trek Nerd]] from "[[Fourth Grade]]".
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Five}}
+[[zh:拉里医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Overweight characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Townsfolk]]
+[[Category:Medics]]

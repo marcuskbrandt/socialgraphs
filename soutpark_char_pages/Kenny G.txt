@@ -1,0 +1,37 @@
+{{South Park character
+|name = Kenny G
+|image = Kenny-g.png
+|gender = Male
+|hair = Brown
+|age = {{age|1956|6|5}}
+|dob = June 5, 1956
+|job = Musician
+|religion = Judaism
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705985/|title=World Wide Recorder Concert episode listing on IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Kenny_G|Kenny G]]
+|appearance = "[[World Wide Recorder Concert]]"
+}}
+'''Kenny G''' is a musician and songwriter. His main instrument is the soprano saxophone who appears in the [[Season Three]] episode, "[[World Wide Recorder Concert]]".
+
+==Appearance==
+[[File:KennyG2.jpg|thumb|left|120px|Kenny G talking to Mr. Garrison.]]
+He wears a blue V-neck suit and a white button-up dress shirt with music notes as buttons and a white tie with unshaven facial hair and long curly brown hair.
+
+==Personality==
+In the context of the show, he appears to be a homosexual, considering that he "molested" [[Herbert Garrison|Mr. Garrison]]. He also seems to have no issue performing sexual acts; for example, when [[Mr. Garrison Senior]] asked him to "molest" Mr. Garrison, he rejected the payment. However, the real Kenny G is straight.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Three}}
+{{MusicCelebrities}}
+
+[[es:Kenny G]]
+[[zh:肯尼·基]]
+[[Category:Characters]]
+[[Category:Celebrities]]
+[[Category:Music celebrities]]
+[[Category:LGBT characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Jewish characters]]
+[[Category:Adult characters]]

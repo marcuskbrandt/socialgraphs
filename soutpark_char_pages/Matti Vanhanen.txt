@@ -1,0 +1,33 @@
+{{South Park character
+|name = Matti Vanhanen
+|image = Matti.png
+|gender = Male
+|age = {{age|1955|11|4}}
+|dob = November 4, 1955
+|died = "[[Pinewood Derby]]"
+|job = Former Prime Minister of Finland
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Matti Vanhanen|Matti Vanhanen]]
+|appearance = "[[Pinewood Derby]]"
+|final = "[[Pinewood Derby]]"
+}}
+'''Matti Vanhanen''' was the Prime Minister of [[Finland]] from 2003 to 2010. He was featured in the [[Season Thirteen]] episode "[[Pinewood Derby]]". He is presumed to have died after the other countries nuked Finland.
+
+==Appearance==
+Matti has light brown hair. He wears a black suit, a black, gray-striped tie, and square black-framed glasses.
+
+==Personality==
+Due to his role in "[[Pinewood Derby]]". He and the rest of Finland are shown to have a strong moral center. Finland was the only country who wanted to tell the space-police that they took the space-cash.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[zh:马蒂·万哈宁]]
+[[Category:Deceased characters]]
+[[Category:Political celebrities]]
+[[Category:Celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

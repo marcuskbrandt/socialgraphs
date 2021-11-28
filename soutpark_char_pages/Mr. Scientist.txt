@@ -1,0 +1,35 @@
+{{South Park character
+|name = Mr. Scientist
+|image = Other-mr-scientist-awesom-o.png
+|gender = Male
+|hair = Light Brown
+|job = Scientist
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0763044/|title="South Park" AWESOM-O (TV episode 2004)|publisher=IMDb.com}}</ref>
+|appearance = "[[AWESOM-O]]"
+}}
+'''Mr. Scientist''' is an unnamed scientist who appears in the [[Season Eight]] episode "[[AWESOM-O]]".
+
+==Background==
+The scientist first appears in the [[Pentagon]] along with other military workers, who are talking about [[Eric Cartman]] (who is in his [[A.W.E.S.O.M.-O 4000]] costume) being used to come up with movie ideas. When the general says they could turn him into a weapon, the scientist says that turning the robot into a weapon is unethical. Later on, he discovers that A.W.E.S.O.M.-O has "developed consciousness", not knowing that he is a real boy. The military general orders the scientist to erase A.W.E.S.O.M-O's memory. Later, he attempts to get A.W.E.S.O.M.-O out of the pentagon, but is shot in the stomach by one of the military soldiers. As [[Butters Stotch|Butters]] shows up to protect A.W.E.S.O.M.-O, the scientist pulls out some of his organs, resulting in his death.
+
+Though he is unnamed, he is repeatedly and mockingly referred to as "Mr. Scientist" by the military general.
+
+==Appearance==
+The scientist has short light brown hair and light brown eyebrows. He wears a white lab coat over a sky blue shirt with his name tag on the left side as well as a black belt, blue pants, black shoes, and black glasses.  
+<gallery widths="160" spacing="small" caption="Images of Mr. Scientist">
+AO (64).png|The scientist talking in the Pentagon.
+AO (83).png|The scientist talking to [[A.W.E.S.O.M.-O 4000]].
+AO (95).png|"Damn you all to hell!"
+AO (105).png|The scientist with his organs exposed as he dies.
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:科学家先生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]
+[[Category:Unnamed characters]]
+[[Category:Characters voiced by Matt Stone]]

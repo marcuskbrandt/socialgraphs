@@ -1,0 +1,30 @@
+{{South Park character
+|name = Nazi Zombie Gnomes
+|image = Zombies-zombie-underpants-gnomes.png
+|gender = Males
+|race = Gnomes, Zombies
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+'''Nazi Zombie Gnomes''' are zombified [[Underpants Gnomes]] that appeared in ''[[South Park: The Stick of Truth]]''.
+
+== Background ==
+The Nazi Zombie Gnomes are only encountered during the [[Unplanned Parenthood]] main quest, where [[The New Kid]] must fight their way out of the [[Unplanned Parenthood Clinic]] following a green goo infection. After the New Kid uses the shrink dust to enter a passageway under the floor of the abortion clinic, some gnomes are found along the way.
+
+== Appearance ==
+Nazi zombie gnomes have light-green skin and smoldy green beards, they have a swastika and an eagle on their hats, except for one which has only the swastika.
+
+==Abilities==
+
+*'''Financial Arbitration''' - The gnome drops gold gnome coins that inflicts ability down if not blocked.
+*'''Fiscal Impact''' - The gnome summons fire balls that inflicts defense down if not blocked.
+*'''Gloomy Forecast Earnings''' - The gnome summons frost and snow that inflicts slowing debuff if not blocked.
+*'''Nazi Zombie Bite''' - The gnome attempts to bite the player, inflicting gross out if not blocked.
+
+[[zh:纳粹僵尸侏儒]]
+[[Category:Characters]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:Groups]]
+[[Category:Nazi Zombies]]
+[[Category:Male characters]]
+[[Category:Video Game Exclusive characters]]

@@ -1,0 +1,27 @@
+{{South Park character
+|name = Nazi Zombie Kittens
+|image = Nazi-zombie-kittens.png
+|race = Cats, Zombies
+|hair = Green
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+'''Nazi Zombie Kittens''' are zombified kittens that appeared in ''[[South Park: The Stick of Truth]]''.
+
+== Background ==
+At the end of [[Attack the School]] quest, it was discovered that [[Clyde Donovan]] had taken the [[Stick of Truth]]. He announced his discovery of a large container of green goo, then demonstrated its power by pouring a ladle of goo onto a dead kitten, which was brought back to life as a Nazi Zombie.
+
+== Appearance ==
+Like most Nazi Zombies, the zombified cats have a light green hue to their skins.
+
+==Abilities==
+* '''Caterwaul''' - The kitten gives a high-pitched wail, this attack does barely any damage but will cause attack down and two stacks of bleeding if not blocked.
+* '''Putrid Bite''' - The kitten bites you dealing medium damage and one stack of bleeding if not blocked.
+* '''Nazi Zombie Bites'''
+
+[[zh:纳粹僵尸猫]]
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:Nazi Zombies]]
+[[Category:Video Game Exclusive characters]]

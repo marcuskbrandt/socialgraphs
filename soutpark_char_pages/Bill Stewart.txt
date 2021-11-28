@@ -1,0 +1,34 @@
+{{South Park character
+|name = Bill Stewart
+|image = Adults-business-aarp-director-bill-stewart.png
+|gender = Male
+|hair = Gray
+|job = AARP President
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0761288/|title="South Park" Grey Dawn (TV episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[Grey Dawn]]"
+}}
+{{LinkDisambig|Bill (Disambiguation)}}
+'''Bill Stewart''' is an elderly man who appears as the president of the [[American Association of Retired Persons (AARP)|American Association of Retired Persons]] who appears in the [[Season Seven]] episode "[[Grey Dawn]]".
+
+==Background==
+Bill Stewart appears as president of the American Association of Retired Persons and breaks [[Marvin Marsh]] out of prison to take over [[South Park (Location)|South Park]] along with the rest of the elderly population of the town after their licenses were confiscated. He goes as far as beginning to kill some of the hostages. He stops trying to take over South Park after him and the rest of the elderly try to go to [[Country Kitchen Buffet]] but find that it is locked and they end up tiring themselves out.
+
+==Appearance==
+Bill has balding gray hair, thick gray eyebrows, and a gray mustache. He wears an orange coat over a white shirt, blue pants, black shoes, and an AARP pin on the left side of his coat. He also seems to have bad hearing, as he repeatedly yells "Huh?" while holding his hand to his ear when someone tries talking to him.
+
+<gallery widths="160" spacing="small" caption="Images of Bill Stewart">
+GreyDawn027.png|Bill holding a gun along with the other elderly people.
+GreyDawn006.png|Bill tires himself out after trying to open the doors of Country Kitchen Buffet.
+</gallery>
+
+==References==
+{{Reflist}}
+[[fr:Bill Owens]]
+[[zh:比尔·斯图尔特]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Characters with deviations]]
+[[Category:Elderly people]]

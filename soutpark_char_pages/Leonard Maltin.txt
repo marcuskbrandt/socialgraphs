@@ -1,0 +1,45 @@
+{{South Park character
+|name = Leonard Maltin
+|image = Leonard-maltin.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{age|1950|12|18}}
+|dob = December 18, 1950
+|job = Film Critic<br>Food Critic
+|religion = Judaism
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705941/|title="South Park" Mecha-Streisand (TV episode 1998)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Leonard Maltin|Leonard Maltin]]
+|appearance = "[[Mecha-Streisand]]"
+}}
+'''Leonard Maltin''' is an American film critic who appears in the episode, "[[Mecha-Streisand]]", in which he assists the town of [[South Park (Location)|South Park]] in defeating [[Barbra Streisand]] by transforming into a Japanese ''kaiju'' form. Although both he and [[Sidney Poitier]] fail in their efforts, [[Robert Smith]] manages to destroy Streisand in the end. Maltin transforms into an Ultraman-type character in order to fight Mecha-Streisand. He has yet to make another appearance on the show.
+
+==Appearance==
+Leonard Maltin, as he appears as a human being, wears a black suit with a white shirt and a black tie. He has brown hair, brown eyebrows, and a big gray beard. He also wears red framed glasses.
+
+As he appears as an Ultraman-type fighter, he is a gray robot with red trim, yellow eyes, and his initials, LM, in red text on his chest.
+<gallery widths="160" caption="Images of Leonard Maltin">
+Mecha-Streisand086.png|Leonard Maltin fighting [[Barbra Streisand|Mecha-Streisand]].
+</gallery>
+
+==Personality==
+He is brave and heroic, as he is willing to battle Mecha-Streisand by transforming into an Ultraman-like being. He is also intelligent, as he has much knowledge of the [[Diamond of Pantheos]] and particularly about [[Barbra Streisand]]'s desire for it.
+
+==Trivia==
+*A man can be see dressed up in his Japanese ''kaiju'' form in "[[Korn's Groovy Pirate Ghost Mystery]]".
+
+==References==
+{{reflist}}
+{{MovieCelebrities}}
+{{Minor Characters from Season One}}
+[[es:Leonard Maltin]]
+[[zh:伦纳德·马丁]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Characters with superpowers]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Jewish characters]]
+[[Category:Movie celebrities]]

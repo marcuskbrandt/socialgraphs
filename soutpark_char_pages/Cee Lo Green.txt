@@ -1,0 +1,33 @@
+{{South Park character
+|name = Cee Lo Green
+|image = Cee-lo-green.png
+|gender = Male
+|race = African-American
+|hair = Bald
+|dob = May 30, 1974
+|age = {{age|1974|5|30}}
+|job = Singer-songwriter, Rapper
+|wikipedia = [[wikipedia:CeeLo Green|Cee Lo Green]]
+|appearance = "[[Sarcastaball]]"
+|voice = [[Trey Parker]]
+}}
+'''Cee Lo Green''', also known as '''CeeLo Green''', is an American singer-songwriter and rapper. He appears in the [[Season Sixteen]] episode, "[[Sarcastaball]]", where he sings the "[[I Love Sarcastaball]]" before the Denver Broncos and Oakland Raiders [[Sarcastaball (Sport)|sarcastaball]] game.
+
+==Appearance==
+Cee Lo Green is bald with a black goatee. He wears white shoes, a gray shirt, white sunglasses, dark gray pants, a red coat, and a golden chain.
+{{Minor Characters from Season Sixteen}}
+{{MusicCelebrities}}
+
+[[es:Cee Lo Green]]
+[[fr:Cee Lo Green]]
+[[zh:席洛·格林]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:Music celebrities]]
+[[Category:Minority characters]]
+[[Category:African-American characters]]
+[[Category:Overweight characters]]
+[[Category:Characters voiced by Trey Parker]]

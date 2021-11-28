@@ -1,0 +1,36 @@
+{{South Park character
+|name = Injured Thief
+|image = Injured thief.png
+|gender = Male
+|hair = Dark Brown
+|job = Thief
+|voice = [[Trey Parker]]<ref>Credited as "Criminal #2" in {{Cite web|url=https://www.imdb.com/title/tt1213538/|title="South Park" Eek, a Penis! (TV Episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[Super Fun Time]]"
+}}
+The '''Injured Thief''' is seen as a member of the [[The Burger King Bandits|Burger King Bandits]] in the [[Season Twelve]] episode, "[[Super Fun Time]]".
+
+==Background==
+After robbing a Burger King and coming into [[Pioneer Village]] with the rest of the gang, he helps subdue the employees and [[South Park Elementary]]'s [[The 4th Grade|fourth grade]] class. After the shootout, he was carried off into an ambulance while [[Franz]] was arrested.
+
+==Appearance==
+He has a dark brown, blood-splattered Mohican haircut and wears a wireless headset, a black sweater, dark grey pants, and a shoulder bag slung over his left shoulder. His left arm is bleeding from an injury, likely from a gunshot during the robbery, which he clutches with his right arm.
+
+<gallery caption="Images of Injured Thief" widths="160" captionalign="left">
+Injured thief carried.png|Injured Thief being carried off.
+SFT injuredthief.jpg|Sideview of Injured Thief during the shootout.
+</gallery>
+
+==Trivia==
+*Only himself, [[Franz]], [[Vosky]], and the [[Thief with Brown Hair]] survive the shootout, though only he and Franz are seen in the last scene.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Twelve}}
+[[zh:负伤的劫匪]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Unnamed characters]]
+[[Category:Criminals]]

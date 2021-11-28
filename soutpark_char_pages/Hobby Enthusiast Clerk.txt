@@ -1,0 +1,29 @@
+{{South Park character
+|name = Hobby Enthusiast Clerk
+|image = Hobby Enthusiast clerk.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt4093234/fullcredits?ref_=tt_cl_sm|title="South Park" The Magic Bush (TV Episode 2014)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Magic Bush]]"
+}}
+The '''[[The Hobby Enthusiast|Hobby Enthusiast]] Clerk''' appears in the [[Season Eighteen]] episode, "[[The Magic Bush]]".
+
+==Background==
+[[Stephen Stotch]] attempts to return his drone at the Hobby Enthusiast store, claiming that the drone is flying on its own and that he wants to find a new hobby. The clerk suggests checking the SD card, but Stephen claims that the SD card had erased by itself. The clerk then suspects [[Butters Stotch|Butters]] as the pilot, to which Stephen explains that he could have been flying the drone without his parent's supervision.
+
+==Appearance==
+The clerk has gray hair and mustache. He wears a blue Hobby Enthusiast apron over a red shirt, gray pants, and a pair of glasses.
+
+==Prominence==
+*"[[The Magic Bush]]" - 
+*"[[South ParQ Vaccination Special]]" - Seen at [[Margaret Nelson]]'s funeral.
+
+==References==
+{{Reflist}}
+[[zh:爱好发烧友店员]]
+[[Category:Characters]]
+[[Category:Minor characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]

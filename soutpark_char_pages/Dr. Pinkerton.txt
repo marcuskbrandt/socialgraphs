@@ -1,0 +1,23 @@
+{{South Park character
+|name = Dr. Pinkerton
+|image = dr-pinkerton.png
+|gender = Male
+|hair = Brown, Graying
+|job = Psychiatrist
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1755897/|title="South Park" Insheeption (TV episode 2010)|publisher=IMDb.com}}</ref>
+|appearance = "[[Insheeption]]"
+}}
+'''Dr. Pinkerton''' was the assistant of [[Dr. Chinstrap]] whose only appearance to date was in "[[Insheeption]]". He was often tasked with explaining complicated ideas and theories to people while Chinstrap provided "the background".
+
+==Appearance==
+Doctor Pinkerton wears a gray suit with a white shirt and a red bow tie. He also wears black glasses with circular frames. He has brown, wavy hair that is graying, brown eyebrows, and wrinkles on his face and neck. His ears are larger than the typical South Park character.
+
+==References==
+{{reflist}}
+[[zh:平克顿医生]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Overweight characters]]
+[[Category:Characters voiced by Matt Stone]]

@@ -1,0 +1,42 @@
+{{South Park character
+|name = Queen Elizabeth II
+|image = Queen-elizabeth-ii.png
+|gender = Female
+|hair = Gray
+|age = 80 (deceased)
+|dob = April 21, 1926
+|died = "[[The Snuke]]"
+|job = Queen of England
+|religion = Anglican<ref>{{cite web|url=http://en.wikipedia.org/wiki/Church_of_England|title=Church of England - Wikipedia}}</ref>
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0983725/|title="South Park" The Snuke (TV episode 2007)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Elizabeth II|Queen Elizabeth II]]
+|appearance = "[[The Snuke]]"
+|final = "[[The Snuke]]"
+}}
+'''Queen Elizabeth II''' is the current head of the [[Britain|British]] monarch, Supreme Governor of the Church of England, and Matriarch of the British Royal Family. She appears briefly in "[[The Snuke]]". When she discovers that her warships have been sunk, she commits suicide with a handgun.
+
+==Appearance==
+She has gray hair, in a very unique style. She wears a white-spotted light blue dress, a jewel-studded tiara, gold (with a jewel in the middle) earrings, and a pearl necklace. She also wears a dark purple sash that has many medals pinned on it. She also has unusually thick, gray eyebrows. She is also visibly aged.
+
+<gallery widths="160" captionalign="left" caption="Images of Queen Elizabeth II">
+TheSnuke089.png|Queen Elizabeth II, seen sitting on the throne.
+</gallery>
+
+==Personality==
+In South Park, she, along with the rest of the British, seem to hold grudges, trying to invade America in "[[The Snuke]]" because of their "rebellion" (The American Revolution). The fact that she killed herself when she learned her plan failed could mean she is extremely patriotic.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eleven}}
+{{PoliticalCelebrities}}
+[[zh:伊丽莎白二世]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Political celebrities]]
+[[Category:Female characters]]
+[[Category:British characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Elderly people]]
+[[Category:Celebrities]]
+[[Category:Royalty]]

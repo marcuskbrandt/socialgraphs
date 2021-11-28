@@ -1,0 +1,43 @@
+{{South Park character
+|name = John Dickinson
+|image = John-dickenson.png
+|gender = Male
+|race = Caucasian
+|hair = Gray
+|age = 75 (deceased)
+|dob = November 20, 1732
+|died = February 14, 1808
+|job = Politician
+|religion = Quaker
+|voice = [[Kyle McCulloch]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705933/|title= I'm a Little Bit Country (TV episode 2003)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:John Dickinson|John Dickinson]]
+|appearance = "[[I'm a Little Bit Country]]"
+}}{{LinkDisambig|John (Disambiguation)}}
+'''John Dickinson''' was an American lawyer and politician from Philadelphia and appeared in the [[Season Seven]] episode, "[[I'm a Little Bit Country]]". He served as a Congressman, for Pennsylvania, and served a second term for Delaware.
+
+==Background==
+While in his self-induced flashback to 1776, Eric Cartman meets the Continental Congress and sees them argue and insult each other in a similar way the adults of his time do. John Dickinson is against the war of independence and wants to use peaceful diplomacy. [[John Adams]] believes war is inevitable and is the only way to be free from England and become a sovereign nation.
+
+==Appearance==
+John Dickinson is dressed in the typical clothes of the 18th century, with a gray wig, red waistcoat, black outer coat. His animated persona was stylistically more realistic than the normal round type used regularly.
+
+==Quotes==
+*"Don't you call us unpatriotic! We're protesting this war because we care so deeply for the fate of our Colonies! You are all unpatriotic for leading the Colonies into a war that half of them don't want!"
+*"But what about the violence?! The lives lost?! If we found a country, it should be founded on peace and diplomacy."
+*"We cannot found a country based on war! Right."
+*"If the people of our new country are allowed to do whatever they wish, then some will support the war and some will protest it."
+
+==References==
+{{Reflist}}
+{{HistoricalCelebrities}}
+{{PoliticalCelebrities}}
+[[zh:约翰·迪金森]]
+[[Category:Historical celebrities]]
+[[Category:Celebrities]]
+[[Category:Characters voiced by Kyle McCulloch]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:One-off characters]]
+[[Category:Elderly people]]

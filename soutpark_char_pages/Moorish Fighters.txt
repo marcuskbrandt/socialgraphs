@@ -1,0 +1,48 @@
+{{Group
+|name = Moorish Fighters
+|image = Helmetkidchamp.png
+|age = 9 - 10
+|grade = 4th Grade
+|job = Warriors
+|enemies = [[Kingdom of Kupa Keep]]
+|gender = Male
+|first = ''[[South Park: The Fractured But Whole]]''
+}}
+The '''Moorish Fighters''' are an enemy faction in ''[[South Park: The Fractured But Whole]]''.
+
+==Background==
+In Ancient Zaron, the Moors attempt to take the [[Stick of Truth]] from the humans and elves. After a few men were brought down by [[The New Kid|King Douchebag]], the Moors summoned a [[Moorish Dragon|dragon]], but that was too defeated with the King's ultimate ability. As the King approaches the [[Kingdom of Kupa Keep]], a small group of fighters, led by [[Kevin Stoley]], were interrogating [[The Bard (Character)|The Bard]] on the whereabouts of the Stick of Truth. This was interrupted by [[Eric Cartman]], who decided to play superheroes instead (appearing as [[The Coon (Character)|The Coon]]), and instructs the Fighters of Zaron to follow suit. The Moorish fighters who do not have a superhero persona, to begin with, were left out, but not before being called "dorks".
+
+==Appearance==
+All Moorish fighters are distinguished by their bicycle helmets, some with spikes attached. A standard warrior holds a small sword and a wooden shield. A bruiser dons a mask with a sharp teeth design and wields a battle-ax that is crafted from a road sign.
+
+==Abilities==
+{{TFBW Enemy Abilities
+|Name = Moorish Fighters
+|Image = Tb helmetkidswarmer b.png
+|Image2 = Tb helmetkidchamp b.png
+|Health = 40 (warrior)/70 (bruiser)
+|Move = 1
+|Immunities = None
+|AbilityImage1 = Kidswarmer melee.png
+|Ability1 = Puny Blows
+|Description1 = A Moorish warrior executes a simple attack with his sword.
+|RangeDesc1 = Enemy will stand next to the New Kid and attack
+|Range1 = Melee.png
+|Effect1 = 8 Damage
+|Status1 = None
+|AbilityImage2 = Kidbruiser melee.png
+|Ability2 = Great Axe
+|Description2 = A Moorish bruiser pummels the New Kid with his battle-ax.
+|RangeDesc2 = Enemy will stand next to the New Kid and attack
+|Range2 = Melee.png
+|Effect2 = 8 Damage
+|Status2 = None
+}}
+
+[[zh:摩尔人]]
+[[Category:Groups]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:The Fractured But Whole: Characters]]
+[[Category:The Fractured But Whole: Enemies]]

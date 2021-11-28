@@ -1,0 +1,35 @@
+{{South Park character
+|name = Human Beaky Buzzard
+|image = Beaky Buzzard.png
+|gender = Male
+|hair = Black
+|age = 9-10
+|job = Student
+|grade = 4th Grade
+|voice = [[Trey Parker]]<ref>Credited as "Disabled Kid #2" in {{cite web|url=https://www.imdb.com/title/tt1644897/|title="South Park" Crippled Summer (TV episode 2010)|publisher=IMDb.com}}</ref>
+|appearance = "[[Crippled Summer]]"
+}}
+'''Beaky Buzzard''' is a character who appears in [[Season Fourteen]] episode, "[[Crippled Summer]]".
+
+==Background==
+He is a student at [[Lake Tardicaca|Tardicaca Camp]], which is a camp for children with disabilities. He was on the [[Blue Team]] along with [[Jimmy]], [[Timmy]], [[Lenora]], [[Elmer Fudd]], [[Droopy Dawg]], and [[Pete Puma]]. His disability makes him look and sound like the Beaky Buzzard character.
+
+==Appearance==
+He wears a blue shirt with the Camp Tardicaca logo,gray pants and black shoes. He has a long nose and a swelled head. He is also bald with two pieces of black hair coming out of the top.
+<gallery widths="160" caption="Images of Beaky Buzzard" spacing="small">
+PetePuma1.png|Beaky Buzzard in "[[Crippled Summer]]".
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:比奇·巴扎德]]
+[[Category:Characters]]
+[[Category:Characters with deviations]]
+[[Category:Unnamed characters]]
+[[Category:Male 4th graders]]
+[[Category:Male characters]]
+[[Category:Crossover characters]]
+[[Category:One-off characters]]
+[[Category:4th graders]]
+[[Category:Tardicaca campers]]
+[[Category:Characters voiced by Trey Parker]]

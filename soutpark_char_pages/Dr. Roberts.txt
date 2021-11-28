@@ -1,0 +1,38 @@
+{{South Park character
+|name = Dr. Roberts
+|image = Dr-roberts.png
+|gender = Male
+|race = Caucasian
+|hair = Bald
+|job = Dentist<br>American Dental Association Member
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705974/|title="South Park" The Tooth Fairy's Tats 2000 (TV episode 2000)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Tooth Fairy Tats 2000]]"
+}}{{LinkDisambig|Robert (Disambiguation)}}
+'''Dr. Roberts''' is [[Eric Cartman]]'s dentist, who appears in the [[Season Four]] episode "[[The Tooth Fairy Tats 2000]]". 
+
+==Background==
+[[Liane Cartman]] called Dr. Roberts after some concern that Cartman had lost 112 baby teeth. Cartman used the teeth in order to receive Tooth Fairy money to save for a [[List of Video Game References#Sega Dreamcast|Sega Dreamcast]]. Dr. Roberts was unable to provide advice to Liane due to the American Dental Association convention.
+
+[[File:HalfChickenHalfSquirel.png|thumb|left|Dr. Roberts describing the creature]]
+At the convention he spoke to the audience about reports of missing teeth. He provided a farfetched reason, that everyone in the audience, except [[Tom Foley]] took as truth, as to who the culprit of the missing teeth was. He described a giant half-chicken/half-squirrel with a "mild understanding of algebra". He also stated that the creature would steal either the money or the teeth from children to build a nest for its dangerous offspring.
+
+==Appearance==
+Dr. Roberts wears a light-teal dentist lab coat over a red vest with yellow buttons, which is also over white button shirt with a thin black tie. He is bald, wrinkles on his forehead and chin, and black eyebrows. Roberts' coat has a tag that says ADA, which stands for the [[American Dental Association]]. Roberts also has a dental tool in his coat pocket.
+
+<gallery widths="160" spacing="small" caption="Images of Dr. Roberts">
+DrRoberts2.png|Dr. Roberts speaking at the American Dental Association convention in "[[The Tooth Fairy Tats 2000]]"
+DrRoberts3.png|Dr. Roberts dismissing [[Tom Foley]]'s suggestion about the black market tooth racket
+DrRoberts4.png|Roberts proving his hypothesis was correct
+</gallery>
+
+==References==
+{{reflist}}
+
+{{Minor Characters from Season Four}}
+[[zh:罗伯茨医生]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Medics]]

@@ -1,0 +1,25 @@
+{{South Park character
+|name = Laura Jones
+|image = Laura Jones.png
+|gender = Female
+|race = Caucasian
+|hair = Blonde
+|voice = [[Eliza J. Schneider]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0761289/fullcredits?ref_=tt_cl_sm|title="South Park" Kenny Dies (TV Episode 2001)|publisher=IMDb.com}}</ref>
+|appearance = "[[Kenny Dies]]"
+}}
+'''Laura Jones''' is a representative of the Make-a-Wish Foundation. She appears in the [[Season Five]] episode "[[Kenny Dies]]".
+
+==Background==
+When [[Kenny McCormick|Kenny]] was admitted to the [[Hell's Pass Hospital|hospital]] for a terminal illness, [[Bob Ferrin]] and Laura Jones visit Kenny to help fulfil Kenny's wishes. As Laura Jones asks Kenny for his one wish, he replies that he does not want to die, stunning both the representatives. They had also planned a surprise visit by [[Madonna]], only to hear Kenny criticizing the singer.
+
+==Appearance==
+Laura Jones has long, blonde hair, and wears a purple blouse, green skirt, and black sandals. She is seen carrying some balloons.
+
+==References==
+{{Reflist}}
+[[zh:劳拉·琼斯]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Female characters]]
+[[Category:Characters voiced by Eliza J. Schneider]]

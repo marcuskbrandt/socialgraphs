@@ -1,0 +1,29 @@
+{{South Park character
+|name = Terry Gilliam
+|image = Gilliam.JPG
+|gender = Male
+|race = Caucasian
+|age = {{age|1940|11|22}}
+|dob = November 22, 1940
+|job = Actor
+|wikipedia = [[Wikipedia:Terry Gilliam|Terry Gilliam]]
+|appearance = "[[Dead Friend Sketch]]"
+}}
+'''Terry Gilliam''' is a filmmaker and member of the acclaimed British comedy group [[Monty Python]].
+
+==Background==
+Gilliam appears in [[Trey Parker]] and [[Matt Stone]]'s short film, the "[[Dead Friend Sketch]]", which is a homage to Monty Python's famous "Dead Parrot Sketch". In the sketch, Gilliam unexpectedly appears and manipulates cutouts of [[Eric Cartman|Cartman]] and two sculptures before being crushed by a giant foot. It is later revealed that Parker and Stone are holding his mother for ransom until Gilliam makes a cartoon for ''[[South Park]]''.
+
+Parker and Stone have cited Gilliam as an influence on ''[[South Park]]'s'' animation style.
+
+==Appearance==
+In the sketch, Gilliam appears with a real-life photograph cutout for a head, as well as realistic hands, of which he has three.
+{{MovieCelebrities}}
+[[zh:特瑞·吉列姆]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Realistic characters]]
+[[Category:Movie celebrities]]

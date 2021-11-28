@@ -1,0 +1,50 @@
+{{Group
+|name = The Baldwins
+|image = South Park - Bigger, Longer & Uncut-Baldwin Residence.png
+|enemies = [[Canada]]
+|job = Actors
+|gender = Male
+|age = Alec: {{age|1958|04|03}}<br>Daniel: {{age|1960|10|05}}<br>William: {{age|1963|02|21}}<br>Stephen: {{age|1966|05|12}}
+|member1 = [[Alec Baldwin|Alexander Rae Baldwin III]]
+|voice1 = [[Dave Foley]]<ref name="IMDb">{{cite web|url=http://www.imdb.com/title/tt0158983/|title=South Park: Bigger Longer & Uncut (1999)|publisher=IMDb.com}}</ref>
+|member2 = Daniel Leroy Baldwin
+|voice2 = [[Dave Foley]]<ref name="IMDb"/>
+|member3 = William Joseph Baldwin
+|voice3 = [[Dave Foley]]<ref name="IMDb"/>
+|member4 = Stephen Andrew Baldwin
+|voice4 = [[Dave Foley]]<ref name="IMDb"/>
+|wikipedia = [[Wikipedia:Baldwin family|The Baldwins]]
+|first = ''[[South Park: Bigger, Longer & Uncut]]''
+}}
+The '''Baldwin''' family of actors comprises [[Alec Baldwin|Alec]], Daniel, William (Billy), and Stephen. They appear in ''[[South Park: Bigger, Longer & Uncut]]''. [[Dave Foley]] provided the voices of all of the Baldwin brothers.<ref name="IMDb"/>
+
+==Background==
+The [[Canada|Canadian]] army bombs and kills the Baldwin family as well as the [[The Arquette Residence|Arquette]] family in retaliation for [[Terrance and Phillip]]'s imprisonment.
+
+==Appearance==
+The Baldwins all appeared in their underwear or wrapped in towels beside their pool before being bombed. Billy Baldwin had unusually shaped bright blue eyes.
+<gallery widths="160" caption="Images of the Baldwins">
+Billybaldwin.JPG|Close-up of Billy Baldwin.
+</gallery>
+
+==Personality==
+They all appeared to be whiny, egotistical and self-centered. Even after all his brothers were killed, Stephen didn't seem to care, simply shouting, "Haha! You missed me!" before being bombed himself.
+
+==Quotes==
+All quotes are from ''[[South Park: Bigger, Longer & Uncut]]''.
+*{{quote|William|Baldwin residence. No, this is Billy Baldwin. If you want Daniel Baldwin, call his extension, stupid!}}
+*{{quote|Daniel|Hey Alec, do you know what sucks about being a Baldwin?}}<br />{{quote|Alec|No, what?}}<br />{{quote|Daniel|Nothing!}}<br />{{quote|Alec|Yeah!}}
+
+==References==
+{{Reflist}}
+{{Minor Characters Movie}}
+{{MovieCelebrities}}
+[[zh:鲍德温兄弟]]
+[[Category:Celebrities]]
+[[Category:South Park: Bigger, Longer & Uncut]]
+[[Category:Deceased characters]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Movie celebrities]]

@@ -1,0 +1,27 @@
+{{South Park character
+|name = Haps Bar Bartender
+|image = Haps Bar bartender.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|job = Bartender
+|voice = [[Matt Stone]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705934/fullcredits?ref_=tt_cl_sm|title="South Park" Ike's Wee Wee (TV Episode 1998)|publisher=IMDb.com}}</ref>
+|appearance = "[[Ike's Wee Wee]]"
+}}
+The '''[[Haps Bar]] Bartender''' appears in the [[Season Two]] episode "[[Ike's Wee Wee]]".
+
+==Background==
+The [[:Category:Broflovski / Schwartz family|Broflovski family]] travels to Nebraska in search for [[Ike Broflovski|Ike]], eventually finding Ike in the Haps Bar, who is being used as a table post. As Sheila reclaims her adopted son, the bartender scolds her for taking his "table post" away.
+
+==Appearance==
+The Haps Bar bartender is overweight, and has balding black hair with black moustache. He wears a green sleeveless shirt bearing the words "Moustache Rides 25 cents" and a moustache print. Sweaty patches can be found on his armpit.
+
+==References==
+{{Reflist}}
+
+[[zh:哈普酒吧酒保]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

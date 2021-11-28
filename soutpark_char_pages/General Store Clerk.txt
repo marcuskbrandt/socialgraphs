@@ -1,0 +1,25 @@
+{{South Park character
+|name = General Store Clerk
+|image = General Store clerk.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0766088/fullcredits?ref_=tt_cl_sm|title="South Park" Spontaneous Combustion (TV Episode 1999)|publisher=IMDb.com}}</ref>
+|appearance = "[[Spontaneous Combustion]]"
+}}
+The '''[[General Store]] Clerk''' appears in the [[Season Three]] episode, "[[Spontaneous Combustion]]".
+
+==Background==
+[[The boys]] visit the [[General Store]] to find a "nerection" so that [[Kyle Broflovski|Kyle]] could give it to his [[Gerald Broflovski|dad]], unaware that it really means an "erection". Kyle tries to explain why he needed an "nerection", but the clerk is not amused and decides to kick the boys out of the store.
+
+==Appearance==
+The clerk has brown hair with a ponytail. He wears a white apron over a green collared shirt with red bowtie, blue pants, and black shoes.
+
+==References==
+{{Reflist}}
+[[zh:杂货店经理]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Characters voiced by Trey Parker]]

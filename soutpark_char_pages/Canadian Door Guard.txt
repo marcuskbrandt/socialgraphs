@@ -1,0 +1,28 @@
+{{South Park character
+|name = Canadian Door Guard
+|image = Canadian-doorman.png
+|gender = Male
+|hair = Brown
+|race = Canadian
+|voice = [[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705936/|title="South Park" It's Christmas In Canada (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[It's Christmas in Canada]]"
+}}
+The '''Canadian Door Guard''' is a minor character who appears in [[Season Seven]] episode "[[It's Christmas in Canada]]".
+
+==Background==
+[[The Boys]], [[Rick the Mountie]], [[Steve (Canadian)|Steve]] and the [[French Canadian Mime]] arrived in [[Ottawa]] to see the Prime Minister. They were turned away by the door guard who told the group that the Prime Minister is in [[China]] on an official trip. After seeing the boys cry, the guard admitted he was lying and the Prime Minister is in the building.
+
+==Appearance==
+The door guard appears with a brown hair and a large brown mustache. He wears a royal guard suit and is armed with a rifle. As with other Canadians, he is depicted with a flapping head and beady eyes.
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Seven}}
+[[fr:Canadian Door Guard]]
+[[zh:加拿大门卫]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Canadians]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

@@ -1,0 +1,36 @@
+{{South Park character
+|name = Keenan Williams
+|image = Keenan-williams.png
+|gender = Male
+|race = Caucasian
+|hair = Blond
+|job = Weatherman
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0783418/fullcredits#cast|title="Smug Alert!" on IMDb}}</ref>
+|appearance = "[[Smug Alert!]]"
+}}{{LinkDisambig|William (Disambiguation)}}
+'''Keenan Williams''' is a weatherman who appears in the [[Season Ten]] episode, "[[Smug Alert!]]".
+
+==Background==
+Keenan is introduced on [[List of News Channels|South Park News]] informing viewers about smug clouds, discussing several developing over Park and Jefferson County, [[Denver, Colorado|Denver]], and [[Los Angeles]]. He mentions [[San Francisco]] still being the smuggiest city in the [[United States]].
+
+The next day, he informs [[Ranger McFriendly]] and [[The Boys|the boys]] about the smug cloud over [[South Park (Location)|South Park]] fusing with the one over San Francisco. He reports that if the smug cloud from [[George Clooney]]'s acceptance speech hits the fusion, a smug storm will occur. The storm would ravage the town and completely destroy San Francisco.
+
+After the town is informed about the storm, he continuously watches over the smug clouds' movements, warning viewers to seek shelter before the clouds collide.
+
+==Appearance==
+Keenan Williams has combed, blond hair. He wears a black suit and a black tie.
+
+Besides color changes, his face, which appears more youthful, and an added badge, his character model is identical to [[Detective Jarvis]], who had appeared in the previous episode.
+
+==Trivia==
+*The scenes where Williams informs Ranger McFriendly about the approaching storm parody the film ''The Perfect Storm''.{{cite}}
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Ten}}
+[[zh:基南·威廉姆斯]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

@@ -1,0 +1,27 @@
+{{South Park character
+|name = Coyote Brown
+|image = Coyote Brown.png
+|gender = Male
+|race = African-American
+|hair = Black
+|job = Stand-up comedian
+|voice = B.J. McCrory<ref>{{cite web|url=https://www.imdb.com/title/tt0940288/|title="South Park" With Apologies to Jesse Jackson (TV Episode 2007)|publisher=IMDb.com}}</ref>
+|appearance = "[[With Apologies to Jesse Jackson]]"
+}}
+'''Coyote Brown''' is a stand-up comedian who appears in the [[Season Eleven]] episode, "[[With Apologies to Jesse Jackson]]".
+
+==Background==
+While performing a stand-up comedy in the [[Laugh Factory]], Coyote Brown sees [[Randy Marsh]] in the audience and points him out, referencing the latter's incident in the ''[[Wheel of Fortune]]'' show, and addressing him as the "n****r guy".
+
+==Appearance==
+Coyote Brown has black buzz-cut hair and horseshoe mustache. He wears a black jacket over a white shirt and a silver pendant, black pants, and white sneakers.
+
+==References==
+{{Reflist}}
+
+[[zh:科约特·布朗]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:African-American characters]]

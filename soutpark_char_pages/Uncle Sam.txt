@@ -1,0 +1,34 @@
+{{South Park character
+|name = Uncle Sam
+|image = UncleSam1.png
+|gender = Male
+|race = Caucasian
+|hair = White
+|job = Mascot
+|wikipedia = [[wikipedia:Uncle Sam|Uncle Sam]]
+|appearance = ''[[South Park: Bigger, Longer & Uncut]]''
+}}{{LinkDisambig|Uncle (Disambiguation)}}
+'''Uncle Sam''' is a representation of the [[United States]] government. Uncle Sam was seen briefly during a newsreel to recruit American soldiers for the [[American-Canadian War]] in the film, ''[[South Park: Bigger, Longer & Uncut]]''.
+
+==Background==
+In ''[[South Park: Bigger, Longer & Uncut]]'', newsreel is aired enticing citizens to join the [[United States]] Army. In order to persuade men to join, the reel touts a USO show with [[Big Gay Al]] and [[Winona Ryder]]. The only way to see the show, is to join the Army. A traditional image of Uncle Sam is shown.
+
+==Appearance==
+Although only shown in black and white, Uncle Sam wears red and white striped pants and a similarly decorated hat with a blue trim with white stars. He also wears a blue coat, a red bow tie, and has white hair.
+
+<gallery widths=150 caption="Images of Uncle Sam">
+UncleSam2.png|Uncle Sam, as he appeared in the newsreel.
+</gallery>
+
+{{PoliticalCelebrities}}
+[[es:Tío Sam]]
+[[zh:山姆大叔]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:South Park: Bigger, Longer & Uncut]]
+[[Category:One-off characters]]
+[[Category:Mentioned-only characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Elderly people]]

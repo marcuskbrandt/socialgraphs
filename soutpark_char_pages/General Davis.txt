@@ -1,0 +1,33 @@
+{{South Park character
+|name = General Davis
+|image = General Davis.png
+|gender = Male
+|race = African-American
+|hair = Black, Graying
+|died = "[[Pandemic]]"
+|job = Military General
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1312012/|title="South Park" Pandemic (TV episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[Pandemic]]"
+}}
+{{LinkDisambig|General (Disambiguation)}}
+'''General Davis''' was a military general who served as an aide to [[Michael Chertoff]]. He appeared in the [[Season Twelve]] episode "[[Pandemic]]".
+
+==Background==
+Having captured [[the boys]] who were [[The Llama Brothers|playing Peruvian flute music]], along with [[Craig Tucker]], Michael Chertoff and his aide begin interrogating the band, believing that they were hybrids. As a result, it is decided that the boys would be sent to [[Peru]].
+
+Following massive attacks from [[Guinea Creatures|guinea creatures]], General Davis reports the matter to Chertoff, who then confesses that he had something to do with the incident. Chertoff reveals himself to be a monster, before stabbing the general in the eyes, killing him.
+
+==Appearance==
+General Davis wears a dark green military jacket over a light blue uniform, and dark green pants.
+
+==References==
+{{Reflist}}
+[[zh:戴维斯将军]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:African-American characters]]
+[[Category:Deceased characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Military personalities]]

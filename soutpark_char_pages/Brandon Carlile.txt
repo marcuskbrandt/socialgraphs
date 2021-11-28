@@ -1,0 +1,34 @@
+{{South Park character
+|name = Brandon Carlile
+|image = Brandon-carlile.png
+|gender = Male
+|hair = Black
+|job = ''SPIN'' Magazine reporter
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt4080138/?ref_=tt_ep_pr|title="South Park" The Cissy (TV episode 2014)|publisher=IMDb.com}}</ref>
+|appearance = "[[The Cissy]]"
+}}
+'''Brandon Carlile''' is a reporter for ''SPIN'' magazine who appears in the [[Season Eighteen]] episode, "[[The Cissy]]". He is based on ''SPIN'' magazine reporter Brennan Carley, who wrote a widely criticized article about the episode, "[[Gluten Free Ebola]]", and its supposed implication that a middle-aged man, [[Randy Marsh]], could pass as the singer [[Lorde]].
+
+==Background==
+Brandon goes to the [[Broflovski Residence]] to question [[Gerald Broflovski]] about a party that was held in his backyard the [[Gluten Free Ebola|previous Sunday]], where pop singer Lorde was the entertainment. Despite Gerald being unable to answer how [[The Boys|the boys]] got Lorde to play at the party, Brandon presses him, asserting they deal with "a lot of fake stories at ''SPIN''", and Gerald admits that Lorde is the niece of someone's coworker at the United States Geology Survey. Brandon takes the information and tries to track down the geologist, saying that it would be a shame if someone was having fun at Lorde's expense.
+
+Tracking down [[Peter Nelson]], Brandon asks him for any information about Lorde. Peter says that while he is not actually Lorde's uncle, he does work with her. He admits that Lorde lives a double life; when she is not singing, she is a talented fluvial geomorphologist at the US Geology Survey, who fills in for another [[Randy Marsh|part-time geologist]]. Connecting the dots, Brandon uncovers the true identity of Lorde, 45-year old Randy Marsh, and writes a tell-all article about it for ''SPIN''. However, upon hearing Lorde's emotional new song "[[Push (Feeling Good on a Wednesday)|Push]]", Brandon decides against publishing the article.
+
+==Appearance==
+Brandon Carlile wears a gray business suit, which consists of, brown shoes, gray pants, a gray coat, a white shirt, and a burgundy tie with a gold diamond pattern. He has combed black hair and wears a brown hat with a "PRESS" tag.
+
+==Trivia==
+*Brandon's character is a joke at the expense of Brennan Carly, a Spin writer who penned an article<ref>{{cite web|url=https://www.spin.com/2014/10/lorde-south-park-spoof-comedy-central//|title='South Park' Thinks a Middle-Aged Man Can Pass for Lorde|publisher=SPIN}}</ref> stating that nobody would believe Randy could pass as Lorde. Matt and Trey demonstrated that Brennan had missed the joke by portraying him as an investigative reporter who uncovered the truth everyone else was too stupid to see with his amazing detective work.
+
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Eighteen}}
+[[es:Brandon Carlile]]
+[[fr:Brandon Carlile]]
+[[zh:布兰登·卡莱尔]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

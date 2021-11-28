@@ -1,0 +1,32 @@
+{{South Park character
+|name = Leslie
+|image = Unamed-townsfolk-apple-geniuses.png
+|gender = Female
+|race = Caucasian
+|hair = Brown; Graying
+|job = Apple Store Genius
+|voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1884035/|title="South Park" HUMANCENTiPAD (TV episode 2011)|publisher=IMDb.com}}</ref>
+|appearance = "[[HUMANCENTiPAD]]"
+}}{{LinkDisambig|Leslie (Disambiguation)}}
+:''For the elementary school student, see [[Leslie Meyers]].''
+'''Leslie''' is one of the geniuses who worked for the [[Apple Inc.|Apple]] Store in the episode "[[HUMANCENTiPAD]]" and helped get [[Kyle Broflovski|Kyle]] back from Apple's headquarters. Having not read the [[Apple Inc.#Terms & Conditions|Terms &amp; Conditions]], Kyle was taken to the [[Apple HQ]] to become a part of the [[HUMANCENTiPAD (Product)|HUMANCENTiPAD]]. [[Stan Marsh]] and [[Gerald Broflovski]] went to the Apple Store to speak with a genius to undo the contract. Leslie had a "quickening" with the other geniuses as was able to undo the binding of the contract.
+
+==Appearance==
+Leslie had brown hair with subtle gray highlights. She wears traditional Apple Store employee attire; black pants, a blue shirt with a white atom logo, and a white Apple Store employee badge hanging from her neck. Leslie is slightly overweight.
+
+<gallery widths="160" spacing="small" caption="Images of Leslie">
+HUMANCENTiPAD048.png|Leslie with another genius
+HUMANCENTiPAD059.png|Leslie and the other geniuses doing a "quickening".
+HUMANCENTiPAD066.png|Leslie admitting Gerald as a new Apple member.
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:莱斯利（苹果天才）]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Characters with superpowers]]
+[[Category:Female characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Overweight characters]]

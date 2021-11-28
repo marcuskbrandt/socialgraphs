@@ -1,0 +1,25 @@
+{{South Park character
+|name = Mr. Preston
+|image = Families-mr-preston.png
+|gender = Male
+|hair = Gray
+|relation1 = Son
+|relativename1 = [[Marcus Preston]]
+|relation2 = Wife
+|relativename2 = [[Sue Preston]]
+|appearance = "[[Hummels & Heroin]]"
+}}
+'''Mr. Preston''' is the father of [[Marcus Preston]] and husband of [[Sue Preston]]. He appears in the [[Season Twenty-One]] episode, "[[Hummels & Heroin]]". He was seen at the beginning of the episode at his son's birthday.
+
+==Appearance==
+Mr. Preston is almost bald, he has gray hair on the sides of his head and a few warts on his face, wide eyebrows, a slightly large nose and a double chin. He wears a dark blue sweater under a gray jacket, a black belt with a yellow buckle, dark yellow pants and gray sneakers.
+
+[[zh:普雷斯顿先生]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Unnamed characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Elderly people]]
+[[Category:Townsfolk]]
+[[Category:Parents]]

@@ -1,0 +1,38 @@
+{{South Park character
+|name = Agent Fields
+|image = Agent-fields.png
+|aliases = Bill Sphinx
+|gender = Male
+|hair = Brown
+|job = FBI agent
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705940/|title="South Park" Lil' Crime Stoppers (TV episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[Starvin' Marvin in Space]]"
+}}
+'''Agent Fields''' is an FBI agent who appears in "[[Starvin' Marvin in Space]]" and "[[Lil' Crime Stoppers]]".
+
+==Background==
+In "[[Starvin' Marvin in Space]]", he is one of two CIA agents in search of an alien ship piloted by [[Starvin' Marvin (Character)|Starvin' Marvin]].
+
+In "[[Lil' Crime Stoppers]]", he and his men inexplicably show up to the shootout underway at [[the Peppermint Hippo]] in "[[Lil' Crime Stoppers]]", where he attempts to pull jurisdiction on [[Lieutenant Dawson]]. His relationship with Dawson mirrors that of [[Agent Tucker]]'s relationship with the [[South Park Crime Unit]].
+
+==Appearance==
+He wears the standard FBI uniform which consists of a black suit, a white undershirt with a black tie, and black pants.
+
+==Personality==
+He seems to be controlling, completely overtaking [[Lieutenant Dawson]]'s case in "[[Lil' Crime Stoppers]]", not letting Dawson help or assist him in any way.
+
+==Trivia==
+*In "[[Lil' Crime Stoppers]]", it should have been the Drug Enforcement Administration (DEA), and not the FBI, who showed up, as [[Gino]] was a drug dealer.
+
+==References==
+{{Reflist}}
+[[es:Agente Fields]]
+[[fr:Agent Fields]]
+[[zh:比尔·斯芬克斯特工]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Adult characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Police officers]]
+[[Category:Characters with changed names]]

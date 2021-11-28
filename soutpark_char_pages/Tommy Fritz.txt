@@ -1,0 +1,34 @@
+{{South Park character
+|name = Tommy Fritz
+|image = TommyFritz.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = 8-9
+|voice = [[Matt Stone]] <ref>{{cite web|url=http://www.imdb.com/title/tt0766086/|title="Roger Ebert Should Lay Off the Fatty Foods" on IMDB}}</ref>
+|appearance = "[[Roger Ebert Should Lay off the Fatty Foods]]"
+}}
+{{LinkDisambig|Thomas (Disambiguation)}}
+'''Tommy Fritz''' appears briefly in the [[Season Two]] episode, "[[Roger Ebert Should Lay off the Fatty Foods]]", where he was seen singing the "[[Cheesy Poofs Theme Song]]" for the [[Cheesy Poofs Talent Ship]]. Although he was said to have performed the song well, he did not appear as one of the finalists for the contest.
+
+==Appearance==
+Tommy wears black shoes, brown pants, and a green coat with a brown collar. He has dark brown hair.
+
+<gallery widths="160" spacing="small" caption="Images of Tommy Fritz">
+RogerEbertShouldLayOfftheFattyFoods22.png|Tommy performing his audition in "[[Roger Ebert Should Lay off the Fatty Foods]]".
+RogerEbertShouldLayOfftheFattyFoods24.png|Tommy after [[Eric Cartman]] performed his audition for the talent van.
+</gallery>
+
+==Trivia==
+*Tommy is from Torrey Pines, California, as mentioned by the [[Cheesy Poofs]] spokesperson.
+
+==References==
+{{reflist}}
+{{Minor Characters from Season Two}}
+[[es:Tommy Fritz]]
+[[zh:托米·弗里茨]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:School children]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]

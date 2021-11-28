@@ -1,0 +1,77 @@
+{{Group
+|name = Underpants Gnomes
+|image = <gallery>
+Underpants-gnomes.png|Current
+Local-creatures-gnome-warlock.png|Warlock
+Local-creatures-gnome-king.png|King
+Underpants-gnomes-in-masks.png|Masks
+Local-creatures-gnome-ceo.png|CEO
+Zombies-zombie-underpants-gnomes.png|Nazi Zombie
+38a.jpg|SPS
+</gallery>
+|type = Humanoid
+|gender = Male
+|job = Stealing Underpants
+|first = "[[Gnomes]]"
+|times = 5
+}}
+The '''Underpants Gnomes''' are small humanoid creatures that travel the world stealing underpants. They first appeared in the [[Season Two]] episode, "[[Gnomes]]" and are voiced by [[Trey Parker]].<ref>{{cite web|url=http://www.imdb.com/title/tt0705927/|title="South Park" Gnomes (TV episode 1998)|publisher=IMDb.com}}</ref>
+
+==Background==
+The first person to bear witness to the existence of the Underpants Gnomes was [[Tweek Tweak]], who always managed to remain awake for their visits due to his heavy coffee addiction. Whenever he attempted to tell others of their existence, people assumed he was hallucinating and overly stimulated. However, when [[The Boys|the boys]] were forced to do a school project with Tweek, they soon realize that the Gnomes are indeed real, and are indeed stealing underpants. The reason for the thefts is apparently due to some sort of higher corporate plan. The plan was outlined thus:
+
+:'''''Phase 1: '''Steal Underpants.''
+:'''''Phase 2: '''?''
+:'''''Phase 3: '''Profit''
+
+Despite the Gnomes' plan being somewhat lacking in certain areas, they are apparently very intelligent in regards to economics and business, teaching the boys about big corporations.
+
+The Underpants Gnomes appear again in "[[Red Sleigh Down]]", in which it is revealed that [[Santa Claus]] does not hire elves, but rather the Underpants Gnomes to be his holiday helpers. Although they spend most of the year collecting underpants, every Christmas they travel to the North Pole, where they work as central control for Santa's holiday mission. One year, Santa was shot down over Iraq, and the Underpants Gnomes helped the boys locate [[Jesus Christ]] to help in an exfiltration mission.
+
+==Appearance==
+[[File:38a.jpg|thumb|Gnomes on [[South Park Studios]].]]
+Underpants Gnomes appear in the stereotypical Gnome fashion, with thick long beards. They primarily wear red shirts, blue pants, and black belts. Each wears a tall pointed hat, normally green or black in color. Many carry backpacks in order to store the underwear.
+
+Gnomes are apparently very sturdy creatures, who can stand-up easily to physical abuse; Cartman striking one with a stick did not appear to harm it, merely prompting it to call him a pussy. Though it should be noted that Cartman is fairly nonathletic and might not be capable of hitting very hard.
+
+==Video Games==
+===''[[South Park Let's Go Tower Defense Play!]]''===
+
+They appear as an enemy. They have low health but make up for it with speed and numbers.
+
+===''[[South Park: The Stick of Truth]]''===
+They once again appear as enemies, using work-related magic. An [[Gnome Warlock]] also appears as a boss, specializing in underpants magic to inflict damage.
+
+==Prominence==
+*"[[Gnomes]]" - Debut appearance.
+*"[[Red Sleigh Down]]" - They make an appearance as Santa's helpers.
+*"[[Imaginationland]]" - One was in Imaginationland, which could indicate that they are imaginary.
+*"[[Christmas Snow]]" - Although they do not appear physically, one of them can be heard talking to Santa on his radio.
+*"[[South ParQ Vaccination Special]]" - Seen outside [[Walgreens]] claiming to be essential workers in order to be vaccinated.
+
+==Gallery==
+<gallery widths="200">
+Gnomes27.png|Gnomes stealing underpants from Tweek's room in "[[Gnomes]]".
+Gnomes80.png|Gnomes' pile of underpants collected from people throughout the town.
+Gnomes81.png|Gnome corporate plan.
+SPVS36.png|The Gnomes wearing masks in "[[South ParQ Vaccination Special]]".
+</gallery>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Two}}
+[[ja:パンツの妖精]]
+[[zh:内裤侏儒]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:South Park Let's Go Tower Defense Play! Enemies]]
+[[Category:Imaginationland characters]]
+[[Category:Monsters]]
+[[Category:Groups]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]
+[[Category:The Stick of Truth: Friendable characters]]
+[[Category:The Stick of Truth: Quest Givers]]

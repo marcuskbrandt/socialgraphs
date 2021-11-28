@@ -1,0 +1,35 @@
+{{South Park character
+|name = Bill Owens
+|image = Bill-owens.png
+|gender = Male
+|race = Caucasian
+|hair = Black
+|age = {{age|1950|10|22}}
+|dob = October 22, 1950
+|job = Former Governor of Colorado
+|voice = [[Trey Parker]]<ref>Credited as the "Governor" in {{cite web|url=https://www.imdb.com/title/tt0705925/|title="South Park" Follow That Egg (TV Episode 2005)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Bill Owens (Colorado politician)|Bill Owens]]
+|appearance = "[[Follow That Egg!]]"
+}}
+{{LinkDisambig|Bill (Disambiguation)}}
+'''William Forrester Owens''' is the former Governor of Colorado who appears in [[Season Nine]] episode "[[Follow That Egg!]]".
+
+==Background==
+Furious that [[Mr. Slave]] was about to marry [[Big Gay Al]], [[Herbert Garrison|Mrs. Garrison]] was determined to stop their marriage from being legalized. She met with Bill Owens with a signed petition to veto the marriage bill from being passed, with the latter requesting for a study proving that gay families are unstable before doing so.
+
+The Governor then went on to make a compromise by proposing the coining of same-sex marriage terms as "butt-buddies", which was received unfavorably.
+
+He eventually signed the bill into law, seeing that [[Stan Marsh]] managed to saved his egg despite Mrs. Garrison actually hiring an assassin to destroy the egg on the very same day.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[fr:Bill Owens]]
+[[pl:Bill Owens]]
+[[zh:比尔·欧文斯]]
+[[Category:Adult characters]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Political celebrities]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]

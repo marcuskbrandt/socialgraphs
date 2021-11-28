@@ -1,0 +1,20 @@
+{{South Park character
+|name = Wild Dogs
+|image = Wild-dog.png
+|race = Dogs
+|appearance = ''[[South Park: The Stick of Truth]]''
+}}
+'''Wild Dogs''' are wild animals featured in ''[[South Park: The Stick of Truth]]''. They are usually found in the [[Lost Forest]]. 
+
+==Appearance==
+The wild dogs have either brown or grey fur.
+
+==Abilities==
+*'''Call of the Wild''' - When only one dog is remaining, that dog will summon another ally to join the battle.
+*'''Bad Mangy Mutt''' - Inflicts damage and the Grossed Out status effect if not blocked.
+*'''Bad Ferocious Mutt''' - Inflicts damage and the Screwed status effect if not blocked.
+[[zh:野狗]]
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:The Stick of Truth: Characters]]
+[[Category:The Stick of Truth: Enemies]]

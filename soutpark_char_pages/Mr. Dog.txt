@@ -1,0 +1,20 @@
+{{South Park character
+|name = Mr. Dog
+|image = MrDog.png
+|race = Dog
+|gender = Male
+|hair = Gray (with a black ears patch around right eye)
+|appearance = "[[Casa Bonita]]"
+}}
+'''Mr. Dog''' is a junkyard dog seen in the [[Season Seven]] episode, "[[Casa Bonita]]".
+
+==Background==
+[[Butters Stotch]] has moved to the [[Park County Trash Dump]] in a mistaken belief that civilization was destroyed by a meteor. Butters befriends the guard dog and names him Mr. Dog. Together, Butters plans to "rebuild society".
+{{Minor Characters from Season Seven}}
+[[zh:狗先生]]
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:Pets]]
+[[Category:One-off characters]]
+[[Category:Dogs]]
+[[Category:Male characters]]

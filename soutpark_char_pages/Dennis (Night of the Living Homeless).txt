@@ -1,0 +1,27 @@
+{{South Park character
+|name = Dennis
+|image = Groups-evergreen-merc-dennis.png
+|gender = Male
+|hair = Black
+|relation1 = Wife
+|relativename1 = [[Christine]]
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0995581/|title="South Park" Night of the Living Homeless (TV episode 2007)|publisher=IMDb.com}}</ref>
+|appearance = "[[Night of the Living Homeless]]"
+}}
+'''Dennis''' is a resident of [[Evergreen]] who appeared in the [[Season Eleven]] episode "[[Night of the Living Homeless]]".
+
+==Background==
+When [[The Boys]] travel to Evergreen to figure out how to get rid of [[South Park (Location)|South Park]]'s homeless problem, they are threatened to leave the town by Dennis, who believes they are homeless. Dennis decides to tell them about their own homeless problem and how they got rid of it, but Kyle discovers a pamphlet advertising South Park as a "haven for the homeless", realizing that Evergreen simply moved their homeless problem to South Park instead of getting rid of it. Dennis' wife [[Christine]] then rises from some of the rubble of Evergreen, where she reveals that Dennis tried to kill her by burning her alive. Dennis is then shot in the chest by Christine and dies.
+
+==Appearance==
+Dennis has short black hair, black eyebrows, and a small black goatee. He wears a camouflage hat, a navy green shirt, a green vest with many pockets on it, camouflage pants, black boots, and a digital wristwatch. He also wears a large backpack and appears to have a flask hanging from one of its straps.
+
+==References==
+{{Reflist}}
+[[zh:丹尼斯（流浪汉之夜）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Deceased characters]]
+[[Category:Characters voiced by Trey Parker]]

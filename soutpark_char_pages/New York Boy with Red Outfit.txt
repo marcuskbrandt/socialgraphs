@@ -1,0 +1,28 @@
+{{South Park character
+|name = New York Boy with Red Outfit
+|image = NewYorkKidTransparent1.png
+|gender = Male
+|hair = Black
+|job = Student
+|grade = 3rd Grade
+|appearance = "[[World Wide Recorder Concert]]"
+}}
+The '''New York Boy with Red Outfit''' is a character who appears in the [[Season Three]] episode, "[[World Wide Recorder Concert]]", where he is seen as one of the friends of the [[New York Kids]] [[Smitty|leader]]. He is also one of several cut characters from ''[[South Park: The Stick of Truth]]'' and he is seen on a poster at [[Raisins (Location)|Raisins]] in ''[[South Park: The Fractured But Whole]]''.
+
+==Appearance==
+He has combed Black hair and wears a White shirt under a bright Red outfit with White stripes on the sides and a Gold chain. He has Black skin in the episode, but in his game appearance, he has Tanned skin.
+
+==Prominence==
+*"[[World Wide Recorder Concert]]" - He and the other [[New York Kids]] antagonize the boys during the episode.
+*"[[Raisins]]" - Seen on a poster at Raisins.
+*"[[You Got F'd in the A]]" - Seen on a poster at [[Raisins (Location)|Raisins]].
+
+==Trivia==
+*Like Smitty, he also appears in the [[Raisins (Location)|Raisins Restaurant]] on a poster.
+*In the ''[[South Park: The Stick of Truth]]'' game files, his character model is described as "newyork_2".
+[[Category:3rd graders]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:School children]]
+[[Category:Minor characters]]
+[[Category:Unnamed characters]]

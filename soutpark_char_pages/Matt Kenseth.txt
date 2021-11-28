@@ -1,0 +1,29 @@
+{{South Park character
+|name = Matt Kenseth
+|image = Matt-kenseth.png
+|gender = Male
+|race = Caucasian
+|hair = Brown
+|age = {{Age|1972|3|10}}
+|dob = March 10, 1972
+|job = Professional [[NASCAR]] Driver
+|wikipedia = [[Wikipedia:Matt Kenseth|Matt Kenseth]]
+|appearance = "[[Poor and Stupid]]"
+}}
+'''Matthew Roy Kenseth''' is an American professional racing driver who was featured in [[Season Fourteen]] episode, "[[Poor and Stupid]]".
+
+==Background==
+Several NASCAR drivers were interrupted by [[Eric Cartman]]'s off-topic and redneck-style comments during a NASCAR press conference. Matt Kenseth was seen sitting to the right of Cartman, staring at the latter while he was speaking.
+
+==Appearance==
+Matt Kenseth has short brown hair and wears a yellow racing suit imprinted with the sponsoring company DeWalt.
+
+{{SportsCelebrities}}
+{{Minor Characters from Season Fourteen}}
+[[zh:马特·肯瑟斯]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Celebrities]]
+[[Category:Sports celebrities]]

@@ -1,0 +1,61 @@
+{{South Park character
+|name = Will Smith
+|image = Will-smith.png
+|gender = Male
+|hair = Black
+|age = {{age|1968|09|25}}
+|dob = September 25, 1968
+|job = Actor, Rapper, Producer
+|religion = Baptist
+|voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705931/|title="South Park" Here Comes the Neighborhood (TV Episode 2001)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Will Smith|Will Smith]]
+|relation1 = Wife
+|relativename1 = [[Jada Pinkett Smith]]
+|relation2 = Children
+|relativename2 = Frederick Smith<br>Lisa Smith<br>Daniel Smith
+|appearance = "[[Here Comes the Neighborhood]]"
+}}
+{{LinkDisambig|William (Disambiguation)}}
+'''Willard Carroll "Will" Smith II'''  is an American actor, rapper, and film producer who appears with his wife, [[Jada Pinkett Smith]], in "[[Here Comes the Neighborhood]]". He also makes a brief cameo in "[[Britney's New Look]]".
+
+==Appearance==
+Will Smith is shown wearing an orange coat, an aqua-green dress shirt, and gray pants.
+<gallery widths="160" captionalign="left" caption="Images of Will Smith">
+Willsmith.JPG| Will Smith and his wife looking at an advertisement for real estate in South Park.
+</gallery>
+
+==Personality==
+Will seems to love his money, like all the other celebrities shown in "[[Here Comes the Neighborhood]]", using it to build a huge house, fountain, etc.
+
+==Family==
+===[[Jada Pinkett Smith]]===
+Jada is Will's wife. They appear to have a loving relationship, with no fighting whatsoever.
+
+===Children===
+Will has three children: Frederick, Lisa, and Daniel Smith. He seems to spoil them, buying them whatever they want.
+
+==Prominence==
+*"[[Jakovasaurs]]" (mentioned)
+*"[[Here Comes the Neighborhood]]"
+*"[[With Apologies to Jesse Jackson]]" (cameo) - Seen in a portrait.
+*"[[Britney's New Look]]" (cameo)
+
+==See also==
+*[[Jada Pinkett Smith]]
+
+==References==
+{{Reflist}}
+
+{{MusicCelebrities}}
+{{Minor Characters from Season Five}}
+[[zh:威尔·史密斯]]
+[[Category:Celebrities]]
+[[Category:Characters]]
+[[Category:Minority characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:African-American characters]]
+[[Category:Minor characters]]
+[[Category:Scientologists]]
+[[Category:Music celebrities]]
+[[Category:Characters voiced by Trey Parker]]

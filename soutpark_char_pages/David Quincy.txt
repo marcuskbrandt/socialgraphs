@@ -1,0 +1,35 @@
+{{South Park character
+|name = David Quincy
+|image = Adults-outside-town-david-quincy.png
+|gender = Male
+|hair = Brown
+|job = Thief
+|dob = May 22, 1970<ref>From the hospital's bio-data in "[[About Last Night...]]"</ref>
+|voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1312843/|title="South Park" About Last Night... (TV episode 2008)|publisher=IMDb.com}}</ref>
+|appearance = "[[About Last Night...]]"
+}}{{LinkDisambig|David (Disambiguation)}}
+'''David Quincy''' is a professional thief who appears in the [[Season Twelve]] episode "[[About Last Night...]]"
+
+==Background==
+David Quincy appears as a member of a thief organization run by [[Barack Obama]] who plans to steal the Hope Diamond from the [[White House]]. He initially seems hesitant to steal it due to the Hope Diamond being almost "ungettable" because of the White House's extremely thief-proof security. During the actual heist, Quincy is seen in the Department of Power shutting off the power to the Smithsonian. At the end of the episode, he, along with the other members of the thief club, fake their deaths and leave for paradise.
+
+==Appearance==
+Quincy has short messy brown hair, brown eyebrows, and a brown mustache.
+
+He wears two different outfits during the episode. For most of the episode, he wears a black suit over a gray button-up shirt, black pants, and black dress shoes. He has a red handkerchief in the pocket of his suit.
+
+At the airport at the end of the episode, he wears a white button-up shirt with light blue stripes, a red belt, white pants, black shoes, a yellow coat around his waist, a gold wristwatch, and grey-tinted sunglasses.
+<gallery widths="160" spacing="small" caption="Images of David Quincy">
+AboutLastNight034.png|Quincy sitting at the thief club's hangout.
+AboutLastNight101.png|Quincy's outfit at the end of the episode.
+</gallery>
+
+==References==
+{{Reflist}}
+[[zh:大卫·昆西]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Trey Parker]]
+[[Category:Criminals]]

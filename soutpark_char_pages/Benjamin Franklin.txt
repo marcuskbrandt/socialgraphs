@@ -1,0 +1,43 @@
+{{South Park character
+|name = Benjamin Franklin
+|image = Benjamin-franklin.png
+|gender = Male
+|hair = Gray
+|dob = January 17, 1706
+|died = April 17, 1790
+|age = 84 (deceased)
+|job = Founding Father of the U.S.A.
+|religion = Deist
+|voice = Norman Lear<ref>{{cite web|url=http://www.imdb.com/title/tt0705933/|title="South Park" I'm a Little Bit Country (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|wikipedia = [[wikipedia:Benjamin Franklin|Benjamin Franklin]]
+|appearance = "[[I'm a Little Bit Country]]"
+}}
+'''Benjamin Franklin''' was an American founding father as well as a polymath, author, printer, satirist, political theorist, politician, postmaster, scientist, inventor, civic activist, statesman and diplomat. He appeared in "[[I'm a Little Bit Country]]", as a member of the Continental Congress in [[Eric Cartman|Cartman's]] flashback to 1776.
+
+==Appearance==
+He is slightly overweight, he also has various facial wrinkles. He wears a black coat, white blouse, and a brown, button-up vest. He also wears small, rectangular, black-framed glasses.
+<gallery widths="160" captionalign="left"caption="Images of Benjamin Franklin">
+ImALittleBitCountry095.png|Bejamin Franklin presenting his solution to the war issue in "[[I'm a Little Bit Country]]".
+</gallery>
+
+==Personality==
+He is very intelligent, being able to convince the other founding fathers of a simple solution to their piece/force predicament: Base the country on saying one thing and doing another.
+
+==References==
+{{reflist}}
+
+{{Minor Characters from Season Seven}}
+{{HistoricalCelebrities}}
+{{PoliticalCelebrities}}
+[[fr:Benjamin Franklin]]
+[[ru:Бенджамин Франклин]]
+[[pl:Benjamin Franklin]]
+[[zh:本杰明·富兰克林]]
+[[Category:Characters]]
+[[Category:Historical celebrities]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Deceased characters]]
+[[Category:Celebrities]]
+[[Category:Elderly people]]
+[[Category:Minor characters]]

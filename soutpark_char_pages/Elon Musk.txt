@@ -1,0 +1,51 @@
+{{South Park character
+|name = Elon Musk
+|image = <gallery>
+Elon-musk.png|Current
+Elon-musk-handicar-racer (2).png|Former
+</gallery>
+|gender = Male
+|race = Caucasian
+|hair  = Brown
+|dob = June 28, 1971
+|age = {{age|1971|6|28}}
+|job = CEO of Tesla Motors and [[SpaceX]]
+|voice = [[Matt Stone]] <small>("[[Handicar]]")</small><ref>{{cite web|url=http://www.imdb.com/title/tt4081582/|title="South Park" Handicar (TV Episode 2014)|publisher=IMDb.com}}</ref><br>Himself <small>("[[Members Only]]")</small><ref>{{cite web|url=http://www.imdb.com/name/nm1907769/|title=Elon Musk on IMDb|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Elon Musk|Elon Musk]]
+|appearance = "[[Handicar]]"
+|last = "[[The End of Serialization as We Know It]]"
+}}
+'''Elon Musk''' is the founder and CEO of Tesla Motors and [[SpaceX]]. He appears in the [[Season Eighteen]] episode, "[[Handicar]]", where he participates in ''Wacky Races'', driving his Tesla D car. He also appears in various [[Season Twenty]] episodes.
+
+==Background==
+After having the announcement of his new Tesla D car overshadowed by [[Timmy Burch|Timmy]]'s Handicar, Musk teams up with [[Nathan]] and [[Mimsy]] in an effort to reduce Handicar's positive publicity. This effort eventually escalates to a revival of ''Wacky Races'', with Musk and his Tesla D competing against Timmy's Handicar and a variety of other cars.
+
+When Musk eventually takes the lead in the race, his car is attacked and overrun by other Handicars, and Timmy's Handicar wins the race. Because of this, Elon Musk decides to buy the rights to Handicar from Timmy for $2.3 billion, a deal that Timmy accepts.
+
+Elon returns in "[[Members Only]]", in which he leads a tour around [[SpaceX]]. He shows [[Eric Cartman|Cartman]], [[Heidi Turner|Heidi]], and [[Butters Stotch|Butters]] the different things SpaceX has been working on. When he reveals that they are not ready to go to [[Mars]], Butters tells him that Heidi can help them get to Mars as she is "smart and funny". He agrees to let her try. In "[[Not Funny]]", he tells people they aren't ready to go to Mars, before discovering he might be able to when Heidi discovers an error in the calculations. Elon is all set to go to Mars when [[Kyle Broflovski|Kyle]] uses the power source of SpaceX to bring down [[TrollTrace.com]]. Cartman gets everyone to evacuate SpaceX. After it is destroyed, Cartman suggests to Elon to "go back to your little cars" referring to his involvement with Tesla Motors.
+
+==Appearance==
+Elon Musk has combed brown hair and wears a gray business suit, which consists of black shoes, gray pants, a gray coat, a light blue shirt, a belt, and a burgundy puff tie. When driving the Tesla D, Musk wears goggles.
+
+==Prominence==
+*"[[Handicar]]" - Participates in ''Wacky Races''.
+*"[[Members Only]]" - Voiced by himself, he was seen giving the tour at the [[SpaceX]] building.
+*"[[Not Funny]]" - Seen at SpaceX working with Heidi and Cartman.
+*"[[The End of Serialization as We Know It]]" - Seen at SpaceX interested in how Heidi became so smart.
+
+==Trivia==
+*[[Trey Parker]] and [[Matt Stone]] are friends with Elon Musk in real life. On the S20 commentary, Trey mentions playing board games with him including ''Dungeons & Dragons.'' Matt also attended the party Musk held after hosting ''Saturday Night Live'' in 2021.<ref>{{cite web|url=https://www.businessinsider.com/elon-musk-dogecoin-grimes-saturday-night-live-afterparty-crypto-2021-5?amp|title="Elon Musk, Grimes Went to a Crypto-Themed 'SNL' After-Party: Page Six"}}</ref>
+
+==References==
+{{Reflist}}
+{{Minor Characters from Season Eighteen}}
+{{BusinessCelebrities}}
+[[zh:埃隆·马斯克]]
+[[Category:Characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]
+[[Category:Celebrities]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Business celebrities]]
+[[Category:Celebrity voice actors]]

@@ -1,0 +1,29 @@
+{{South Park character
+|name = Nicolas Sarkozy
+|image = Sarkovsy.png
+|gender = Male
+|age = {{age|1955|1|28}}
+|dob = January 28, 1955
+|job = Former President of France
+|religion = Roman Catholic
+|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397944/|title="South Park" Pinewood Derby (TV episode 2009)|publisher=IMDb.com}}</ref>
+|wikipedia = [[Wikipedia:Nicolas Sarkozy|Nicolas Sarkozy]]
+|appearance = "[[Pinewood Derby]]"
+}}
+'''Nicolas Sarkozy''' was the 23rd [[wikipedia:President_of_France|President of France]]. He appears in "[[Pinewood Derby]]" as one of the world leaders that congratulated [[Randy Marsh]] for discovering warp drive spaceflight using the official Pinewood Derby race-car kit.
+
+==Appearance==
+Nicolas has black hair and a receding hairline. He wears a light blue business suit with a white shirt and a red tie. He has no other distinguishing features.
+
+==References==
+{{Reflist}}
+{{PoliticalCelebrities}}
+[[zh:尼古拉·萨科齐]]
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Celebrities]]
+[[Category:Catholic characters]]

@@ -1,0 +1,34 @@
+{{South Park character
+|name = Aaron Hagen
+|image = Aaron-hagen.png
+|gender = Male
+|hair = Brown
+|age = 6-7
+|job = Student
+|grade = 1st Grade
+|relation1 = Father
+|relativename1 = [[Mr. Hagen]]
+|appearance = "[[Informative Murder Porn]]"
+}}
+'''Aaron Hagen''' is a boy who appears in the [[Season Seventeen]] episode, "[[Informative Murder Porn]]".
+
+==Background==
+In "[[Informative Murder Porn]]", Aaron's house becomes a crime scene as [[Mr. Hagen|his father]] is found to have killed his mother with a knife. As the police investigate the scene, Aaron screams dreadfully as he sees his mother being wheeled out by the paramedics. The police then cover Aaron with a purple blanket.
+
+==Appearance==
+Aaron wears light blue pajama pants, a light blue and white pajama shirt with a blue soccer ball on it, and no shoes. He has wavy, brown hair.
+
+<gallery widths=120 caption="Images of Aaron Hagen">
+AaronHagen2.png|Aaron outside his house after his father kills his mother.
+</gallery>
+
+{{Minor Characters from Season Seventeen}}
+<!--Interwiki links-->
+[[es:Aaron Hagen]]
+[[fr:Aaron Hagen]]
+[[ru:Аарон Хэген]]
+[[zh:亚伦·哈根]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Male characters]]
+[[Category:1st graders]]

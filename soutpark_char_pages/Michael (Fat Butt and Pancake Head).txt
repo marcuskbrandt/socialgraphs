@@ -1,0 +1,25 @@
+{{South Park character
+|name = Michael
+|image = Michael-urdastar.png
+|hair = Brown
+|gender = Male
+|job = Shopkeeper of [[Ur Da Star]]
+|voice = [[Matt Stone]]<ref>Credited as the "Make Your Own Video Clerk" in {{Cite web|url=https://www.imdb.com/title/tt0705923/|title="South Park" Fat Butt and Pancake Head (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|appearance = "[[Fat Butt and Pancake Head]]"
+}}
+{{LinkDisambig|Michael (Disambiguation)}}
+'''Michael''' is a shopkeeper of [[Ur Da Star]] that appears in [[Season Seven]] episode "[[Fat Butt and Pancake Head]]".
+
+==Background==
+Having won a $20 voucher from the [[South Park Elementary]]'s cultural diversity event, [[Eric Cartman]] (or specifically "[[Mitch Conner|Ms. Lopez]]") visited Ur Da Star to film a music video for "[[Taco Flavored Kisses]]". Upon completion of the film, Michael told Cartman that he intends to send the film to an intern is working in Hollywood, who would in turn forward it to a record company representing the real [[Jennifer Lopez]].
+
+==Appearance==
+Michael has a long and disheveled brown hair. He wears a blue beret, a red "Ur Da Star" working vest over a yellow T-shirt, dark green pants and black shoes.
+
+==References==
+{{Reflist}}
+[[zh:迈克尔（卡特曼的明星手）]]
+[[Category:Characters]]
+[[Category:Male characters]]
+[[Category:One-off characters]]
+[[Category:Characters voiced by Matt Stone]]
