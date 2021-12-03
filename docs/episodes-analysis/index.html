@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Overview - South Park Network Analysis</title>
+  <title>Configuration - South Park Network Analysis</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://koldborg.tech/favicon.png">
@@ -18,7 +18,7 @@
 
 </head>
 
-<body class='page page-default-list'>
+<body class='page page-default-single'>
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -98,7 +98,7 @@
       <a href="https://koldborg.tech/docs/basic-stats/">Basic stats</a>
     </li>
     
-    <li class="">
+    <li class="active ">
       <a href="https://koldborg.tech/docs/episodes-analysis/">Configuration</a>
     </li>
     
@@ -117,52 +117,37 @@
         </div>
         <div class="col-12 col-md-9">
           
+<h1 class="title">Configuration</h1>
+<div class="content ">
+  <h2 id="syntax-highlighting">Syntax Highlighting</h2>
+<p>Whisper uses the in-built code highlighting that ships with hugo. <a href="https://gohugo.io/content-management/syntax-highlighting/">https://gohugo.io/content-management/syntax-highlighting/</a></p>
+<p>You can insert code snippets in any markdown file by using standard code fences syntax ie:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">```
+insert code here
+```
+</code></pre></div><p>You can specify the langauge by adding a declaration after the backticks</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">```javascript
+insert code here
+```
+</code></pre></div><h3 id="pygments-options">Pygments Options</h3>
+<p>The following code highlighting options are configured in the <code>config.toml</code></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="nx">pygmentsCodeFences</span> <span class="p">=</span> <span class="kc">true</span>
+<span class="nx">pygmentsCodefencesGuessSyntax</span> <span class="p">=</span> <span class="kc">true</span>
+<span class="nx">pygmentsUseClasses</span> <span class="p">=</span> <span class="kc">true</span>
+</code></pre></div><h2 id="main-menu">Main menu</h2>
+<p>Configure the main menu by editing the <code>config.toml</code></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
+<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Home&#34;</span>
+<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/&#34;</span>
+<span class="nx">weight</span> <span class="p">=</span> <span class="mi">1</span>
 
-<span class="overview">Overview</span>
-<h1 class="title">Overview</h1>
-<div class="content">
-  <h2 id="whisper-theme">Whisper Theme</h2>
-<p>hej</p>
-
+<span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
+<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Docs&#34;</span>
+<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/docs/&#34;</span>
+<span class="nx">weight</span> <span class="p">=</span> <span class="mi">2</span>
+</code></pre></div>
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/sentiment-analysis/">Sentiment analysis</a></h2>
-  <p>skidefis</p>
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/basic-stats/">Basic stats</a></h2>
-  <p></p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/episodes-analysis/">Configuration</a></h2>
-  <p>Syntax highlighting and menus can be configured via <code>config.toml</code>.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/categories-vs-communities/">Communities and Categories</a></h2>
-  <p></p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/wordclouds/">Hugo Whisper</a></h2>
-  <p><p>røv</p></p>
-</div>
-
-
-
 
         </div>
       </div>
