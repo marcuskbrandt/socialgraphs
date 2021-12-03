@@ -31,7 +31,7 @@
     
     <li class="menu-item-docs">
       <a href="/docs/">
-        <span>Docs</span>
+        <span>docs</span>
       </a>
     </li>
     
@@ -58,7 +58,7 @@
     
     <li class="menu-item-docs">
       <a href="/docs/">
-        <span>Docs</span>
+        <span>docs</span>
       </a>
     </li>
     
@@ -94,6 +94,10 @@
       <a href="https://koldborg.tech/docs/sentiment-analysis/">Sentiment analysis</a>
     </li>
     
+    <li class="">
+      <a href="https://koldborg.tech/docs/dendergodemappe/">Sjov og ballede</a>
+    </li>
+    
     <li class="active ">
       <a href="https://koldborg.tech/docs/basic-stats/">Basic stats</a>
     </li>
@@ -107,7 +111,7 @@
     </li>
     
     <li class="">
-      <a href="https://koldborg.tech/docs/wordclouds/">Hugo Whisper</a>
+      <a href="https://koldborg.tech/docs/wordclouds/">Wordclouds</a>
     </li>
     
   </ul>
@@ -119,7 +123,36 @@
           
 <h1 class="title">Basic stats</h1>
 <div class="content ">
-  
+  <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-py" data-lang="py"><span class="k">def</span> <span class="nf">printBasicStats</span><span class="p">(</span><span class="n">G</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Basic stats for the gcc network:&#34;</span><span class="p">)</span>
+    <span class="n">N</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">G</span><span class="o">.</span><span class="n">nodes</span><span class="p">())</span>
+    <span class="n">K</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="nb">dict</span><span class="p">(</span><span class="n">G</span><span class="o">.</span><span class="n">degree</span><span class="p">())</span><span class="o">.</span><span class="n">values</span><span class="p">())</span><span class="o">/</span><span class="n">N</span>
+    <span class="n">d</span> <span class="o">=</span> <span class="n">log</span><span class="p">(</span><span class="n">N</span><span class="p">)</span><span class="o">/</span><span class="n">log</span><span class="p">(</span><span class="n">K</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Number of nodes: &#34;</span><span class="p">,</span> <span class="n">N</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Number of edges: &#34;</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">G</span><span class="o">.</span><span class="n">edges</span><span class="p">()))</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Average degree: &#34;</span><span class="p">,</span> <span class="n">K</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Average distance between 2 nodes: &#34;</span><span class="p">,</span> <span class="n">d</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2">5 most connected characters: &#34;</span> <span class="p">)</span>
+    <span class="n">degree_list</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">G</span><span class="o">.</span><span class="n">degree</span><span class="p">,</span> <span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">reverse</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">node</span><span class="p">,</span> <span class="n">degree</span> <span class="ow">in</span> <span class="n">degree_list</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">5</span><span class="p">]:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">node</span><span class="si">}</span><span class="s1">: </span><span class="si">{</span><span class="n">degree</span><span class="si">}</span><span class="s1"> edges&#39;</span><span class="p">)</span>
+<span class="n">printBasicStats</span><span class="p">(</span><span class="n">G</span><span class="p">)</span>
+</code></pre></div><p>Basic stats for the gcc network:</p>
+<p>Number of nodes:  1708</p>
+<p>Number of edges:  6788</p>
+<p>Average degree:  7.948477751756441</p>
+<p>Average distance between 2 nodes:  3.5905203239843737</p>
+<p>5 most connected characters:</p>
+<p>Eric Cartman: 568 edges</p>
+<p>Stan Marsh: 382 edges</p>
+<p>Kyle Broflovski: 325 edges</p>
+<p>Butters Stotch: 265 edges</p>
+<p>Randy Marsh: 257 edges</p>
+<p>We want to show the degree distribution of the network.</p>
+<p><img src="/GCC.png" alt="GCC"></p>
+<div align="center">
+<iframe src="bokeh.html" width=1000px height=1000px></iframe>
+</div>
 </div>
 </div>
 
