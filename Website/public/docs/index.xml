@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on South Park Network Analysis</title>
+    <link>https://koldborg.tech/docs/</link>
+    <description>Recent content in Overview on South Park Network Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://koldborg.tech/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment analysis</title>
+      <link>https://koldborg.tech/docs/sentiment-analysis/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/sentiment-analysis/</guid>
+      <description>skidefis</description>
+    </item>
+    
+    <item>
+      <title>Sjov og ballede</title>
+      <link>https://koldborg.tech/docs/dendergodemappe/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/dendergodemappe/</guid>
+      <description>skidefis</description>
+    </item>
+    
+    <item>
+      <title>Basic stats</title>
+      <link>https://koldborg.tech/docs/basic-stats/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/basic-stats/</guid>
+      <description>def printBasicStats(G): print(&amp;#34;Basic stats for the gcc network:&amp;#34;) N = len(G.nodes()) K = sum(dict(G.degree()).values())/N d = log(N)/log(K) print(&amp;#34;Number of nodes: &amp;#34;, N) print(&amp;#34;Number of edges: &amp;#34;, len(G.edges())) print(&amp;#34;Average degree: &amp;#34;, K) print(&amp;#34;Average distance between 2 nodes: &amp;#34;, d) print(&amp;#34;\n5 most connected characters: &amp;#34; ) degree_list = sorted(G.degree, key=lambda x: x[1], reverse=True) for node, degree in degree_list[0:5]: print(f&amp;#39;{node}: {degree}edges&amp;#39;) printBasicStats(G) Basic stats for the gcc network:
+Number of nodes: 1708
+Number of edges: 6788</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://koldborg.tech/docs/episodes-analysis/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/episodes-analysis/</guid>
+      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Communities and Categories</title>
+      <link>https://koldborg.tech/docs/categories-vs-communities/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/categories-vs-communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordclouds</title>
+      <link>https://koldborg.tech/docs/wordclouds/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/wordclouds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
