@@ -11,7 +11,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/style.min.6719d72e323121369d5caeb4264b95d8a63cf1deaab029da67602fe5a046e0a4.css">
+  <link rel="stylesheet" href="/css/style.min.8bd43ab4ad24ee55a4091aba88eb789953c2c8033cd6d90c0abeba937594da92.css">
   
 
   
@@ -29,9 +29,9 @@
       </a>
     </li>
     
-    <li class="menu-item-docs">
+    <li class="menu-item-network analysis">
       <a href="/docs/">
-        <span>docs</span>
+        <span>Network Analysis</span>
       </a>
     </li>
     
@@ -56,9 +56,9 @@
       </a>
     </li>
     
-    <li class="menu-item-docs">
+    <li class="menu-item-network analysis">
       <a href="/docs/">
-        <span>docs</span>
+        <span>Network Analysis</span>
       </a>
     </li>
     
@@ -91,11 +91,7 @@
   <ul>
     
     <li class="">
-      <a href="https://koldborg.tech/docs/sentiment-analysis/">Sentiment analysis</a>
-    </li>
-    
-    <li class="">
-      <a href="https://koldborg.tech/docs/dendergodemappe/">Sjov og ballede</a>
+      <a href="https://koldborg.tech/docs/dataset/">The Dataset</a>
     </li>
     
     <li class="">
@@ -103,7 +99,11 @@
     </li>
     
     <li class="">
-      <a href="https://koldborg.tech/docs/episodes-analysis/">Configuration</a>
+      <a href="https://koldborg.tech/docs/sentiment-analysis/">Sentiment analysis</a>
+    </li>
+    
+    <li class="">
+      <a href="https://koldborg.tech/docs/episodes-analysis/">Episode analysis</a>
     </li>
     
     <li class="">
@@ -125,9 +125,27 @@
 <span class="overview">Overview</span>
 <h1 class="title">Overview</h1>
 <div class="content">
-  <h2 id="whisper-theme">Whisper Theme</h2>
-<p>hej</p>
+  <p>South park is a tv show that has existed as long as we can remember, we have therefore grown up with it. South park has a tendency to make shock value humor which speaks to a lot of young people. &ldquo;The fuck everything&rdquo; kind of mentality is excatly what we find fun and entertaining. The show has evolved through the years, we therefore thought it would be interesting to dig into how the characters interlink with each other and how the language has changed through the seasons.</p>
+<h3 id="goal-for-the-website">Goal for the website</h3>
+<p>This website will give an introduction to the south park network. It will look at how characters interlink with each other and show stats from the network. It consists of commentary and explanations of the analysis. The analysis will be on basic stats, but will also dig into sentiment analysis of the main characters and how their language evolve through the seasons. The characters categories, which appear on the wiki page, will also be investigated to see if they correspond to the communities that can be found from the GCC.</p>
+<h3 id="explainer-notebook">Explainer notebook</h3>
+<p>To get a more indept view than this website look at the explainer notebook <a href="https://github.com/koldbrandt/socialgraphs/blob/main/Explainer%20notebook%20-%20SP.ipynb">here</a>. The explainer notebook
+will explain the code behind the analysis and our thinking.</p>
 
+</div>
+
+
+<div class="summary mb-2">
+  
+  <h2 class="title-summary"><a href="https://koldborg.tech/docs/dataset/">The Dataset</a></h2>
+  <p>The dataset is from southpark.fandom.com where we download all character pages and episode scripts. A character link to another character if the other character is mentioned in its character page. This way a digraph can be created for characters that interact with each other. In the bottom of all character pages their category is displayed. This has also been scraped from the fandom wiki. All this information can be found in a csv file at our github page.</p>
+</div>
+
+
+<div class="summary mb-2">
+  
+  <h2 class="title-summary"><a href="https://koldborg.tech/docs/basic-stats/">Basic stats</a></h2>
+  <p></p>
 </div>
 
 
@@ -140,23 +158,7 @@
 
 <div class="summary mb-2">
   
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/dendergodemappe/">Sjov og ballede</a></h2>
-  <p>skidefis</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/basic-stats/">Basic stats</a></h2>
-  <p>def printBasicStats(G): print(&#34;Basic stats for the gcc network:&#34;) N = len(G.nodes()) K = sum(dict(G.degree()).values())/N d = log(N)/log(K) print(&#34;Number of nodes: &#34;, N) print(&#34;Number of edges: &#34;, len(G.edges())) print(&#34;Average degree: &#34;, K) print(&#34;Average distance between 2 nodes: &#34;, d) print(&#34;\n5 most connected characters: &#34; ) degree_list = sorted(G.degree, key=lambda x: x[1], reverse=True) for node, degree in degree_list[0:5]: print(f&#39;{node}: {degree}edges&#39;) printBasicStats(G) Basic stats for the gcc network:
-Number of nodes: 1708
-Number of edges: 6788</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://koldborg.tech/docs/episodes-analysis/">Configuration</a></h2>
+  <h2 class="title-summary"><a href="https://koldborg.tech/docs/episodes-analysis/">Episode analysis</a></h2>
   <p>Syntax highlighting and menus can be configured via <code>config.toml</code>.</p>
 </div>
 
@@ -183,19 +185,7 @@ Number of edges: 6788</p>
     
   </div>
 
-  <div class="sub-footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="sub-footer-inner">
-          <ul>
-            <li class="zerostatic"><a href="https://www.zerostatic.io">www.zerostatic.io</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+  
 
   
 

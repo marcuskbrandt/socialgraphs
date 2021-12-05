@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://koldborg.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Dataset</title>
+      <link>https://koldborg.tech/docs/dataset/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/dataset/</guid>
+      <description>The dataset is from southpark.fandom.com where we download all character pages and episode scripts. A character link to another character if the other character is mentioned in its character page. This way a digraph can be created for characters that interact with each other. In the bottom of all character pages their category is displayed. This has also been scraped from the fandom wiki. All this information can be found in a csv file at our github page.</description>
+    </item>
+    
+    <item>
+      <title>Basic stats</title>
+      <link>https://koldborg.tech/docs/basic-stats/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/basic-stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sentiment analysis</title>
       <link>https://koldborg.tech/docs/sentiment-analysis/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
@@ -17,27 +35,7 @@
     </item>
     
     <item>
-      <title>Sjov og ballede</title>
-      <link>https://koldborg.tech/docs/dendergodemappe/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://koldborg.tech/docs/dendergodemappe/</guid>
-      <description>skidefis</description>
-    </item>
-    
-    <item>
-      <title>Basic stats</title>
-      <link>https://koldborg.tech/docs/basic-stats/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://koldborg.tech/docs/basic-stats/</guid>
-      <description>def printBasicStats(G): print(&amp;#34;Basic stats for the gcc network:&amp;#34;) N = len(G.nodes()) K = sum(dict(G.degree()).values())/N d = log(N)/log(K) print(&amp;#34;Number of nodes: &amp;#34;, N) print(&amp;#34;Number of edges: &amp;#34;, len(G.edges())) print(&amp;#34;Average degree: &amp;#34;, K) print(&amp;#34;Average distance between 2 nodes: &amp;#34;, d) print(&amp;#34;\n5 most connected characters: &amp;#34; ) degree_list = sorted(G.degree, key=lambda x: x[1], reverse=True) for node, degree in degree_list[0:5]: print(f&amp;#39;{node}: {degree}edges&amp;#39;) printBasicStats(G) Basic stats for the gcc network:
-Number of nodes: 1708
-Number of edges: 6788</description>
-    </item>
-    
-    <item>
-      <title>Configuration</title>
+      <title>Episode analysis</title>
       <link>https://koldborg.tech/docs/episodes-analysis/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
