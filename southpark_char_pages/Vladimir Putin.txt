@@ -7,7 +7,7 @@
 |dob = October 7, 1952
 |job = President of [[Russia]]
 |religion = Russian Orthodoxy
-|voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0761285/|title="Free Willzyx" on IMDB}}</ref>
+|voice = [[Trey Parker]]<ref>Credited as the "Russian President" in {{cite web|url=http://www.imdb.com/title/tt0761285/|title="Free Willzyx" on IMDB}}</ref>
 |wikipedia = [[Wikipedia:Vladimir Putin|Vladimir Putin]]
 |appearance = "[[Free Willzyx]]"
 }}{{LinkDisambig|Vladimir (Disambiguation)}}
@@ -42,5 +42,5 @@ Putin dresses formally, wearing a black suit and a red tie with yellow dots. He 
 [[Category:Male characters]]
 [[Category:Minor characters]]
 [[Category:Adult characters]]
-[[Category:Characters voiced by Matt Stone]]
+[[Category:Characters voiced by Trey Parker]]
 [[Category:Elderly people]]

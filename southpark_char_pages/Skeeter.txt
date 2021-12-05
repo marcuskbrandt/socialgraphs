@@ -3,6 +3,7 @@
 |name = Skeeter
 |image = <gallery>
 Skeeter.png|Current
+Future Skeeter.png|Elderly
 134a.jpg|SPS
 Bane-skeeter.png|Bane
 Latin-skeeter.png|Latin

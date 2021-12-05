@@ -3,14 +3,14 @@
 |name = Token Black
 |image = <gallery>
 Token Black2.png|Current
+Future Token.png|Adult
 63a.jpg|SPS
 Tupperware.png|Tupperware
 Tupperware (1).png|Mk III
 Token-black-the-healer.png|Rogue
 Metrosexual-CatamiteToken.transparent.png|Metrosexual 
 </gallery>
-|aliases = [[Tupperware]]<br>Tupper Mech MK III <br>[[Imaginationland|Blackie]]<br>
-[[W.T.F.|Congo]] 
+|aliases = [[Tupperware]]<br>Tupper Mech MK III <br>[[Imaginationland|Blackie]]<br>[[W.T.F.|Congo]] 
 |gender = Male
 |race = African-American
 |hair = Black
@@ -112,6 +112,8 @@ Token is seen to be very good at sports, playing on the dodgeball team in "[[Con
 
 ==Appearance==
 Token wears a light purple Armani Exchange shirt with a letter "T" in light orange and a pair of dark blue jeans. He is African American and has dark brown skin. He has short black hair.
+
+In the future timeline set in ''[[South Park: Post Covid]]'', he has grown a full beard. He wears a dark gray jacket over a purple collared shirt and navy blue pants.
 
 {{GallerySubPage|name=Token Black}}
 
@@ -215,7 +217,7 @@ In the episode "[[Here Comes the Neighborhood]]", Token becomes tired of being a
 *Originally, in "[[World War Zimmerman]]" Token was supposed to be killed off permanently.
 
 ==Prominence==
-[[File:Token1603.png|thumb|right|200px|Token in "[[Faith Hilling]]".]]
+[[File:Token1603.png|thumb|right|Token in "[[Faith Hilling]]".]]
 *"[[The Unaired Pilot]]" - Watches DogPoo roll in dirt.
 *"[[Cartman Gets an Anal Probe]]" - Seen in class.
 *"[[Big Gay Al's Big Gay Boat Ride]]" - White version of Token seen in bleachers.
@@ -229,7 +231,6 @@ In the episode "[[Here Comes the Neighborhood]]", Token becomes tired of being a
 *"[[The Succubus]]" - Seen in the [[South Park Elementary Cafeteria|cafeteria]].
 *"[[Jakovasaurs]]" - Seen in the class.
 *"[[Tweek vs. Craig]]" - Second speaking role, though his only line is "Yeah they left!" in a different voice to later episodes.
-*''[[South Park: Bigger, Longer & Uncut]]'' - He made some appearances in the movie.
 *"[[Hooked on Monkey Fonics]]" - He is seen at the dance with Red.
 *"[[Cartman's Silly Hate Crime 2000]]" - Token is hit by a rock Cartman threw at him, resulting in the latter going to prison. He later helps [[The Boys|the boys]] get Cartman out of jail by repealing hate-crime sentence.
 *"[[Chef Goes Nanners]]" - Token and his family stand with [[Jerome "Chef" McElroy|Chef]] as he protests the racism depicted on the South Park flag.
@@ -326,6 +327,10 @@ In the episode "[[Here Comes the Neighborhood]]", Token becomes tired of being a
 *"[[Christmas Snow]]" - Seen ice skating with the other fourth graders.
 *"[[The Pandemic Special]]" - Seen at [[South Park Elementary]]. Gets shot by two police officers.
 *"[[South ParQ Vaccination Special]]" - Seen in the classroom.
+
+===Movies===
+*''[[South Park: Bigger, Longer & Uncut]]'' - He made some appearances in the movie.
+*''[[South Park: Post Covid]]'' - Appears as a police officer. Assists in investigating the cause of Kenny's death.
 
 ==Video Games==
 ===''[[South Park Let's Go Tower Defense Play!]]''===

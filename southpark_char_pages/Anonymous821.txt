@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Brown
-|job = Internet troll
+|job = Internet Troll
 |appearance = "[[Wieners Out]]"
 |voice = [[Trey Parker]]
 }}

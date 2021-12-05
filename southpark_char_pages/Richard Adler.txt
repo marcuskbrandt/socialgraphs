@@ -1,6 +1,9 @@
 {{South Park character
 |name = Richard Adler
-|image = Mr-adler.png
+|image = <gallery>
+Mr-adler.png|Current
+Future Mr Adler.png|Elderly
+</gallery>
 |gender = Male
 |race = Caucasian
 |hair = Brown; Balding
@@ -43,6 +46,8 @@ In "[[South ParQ Vaccination Special]]", he is one of the adults trying to get t
 Adler is overweight with balding brown hair and has sagging, overly large cheeks. He wears a white long-sleeved shirt, under a green vest, and beige pants. His vest has a diamond-shaped, green and black pattern on it. He also has a band-aid on his head from an unknown injury which he has in all of his appearances.
 
 When he ten years younger, he looked similarly, with slightly more hair behind his ears, darker, no bandaid on his head, and a similar sweater but a deeper shade of blue and a slightly different pattern. This design is occasionally used incorrectly in the background of present-day appearances.
+
+In the future timeline set in ''[[South Park: Post Covid]]'', he wears a white short-sleeved shirt, while retaining the green vest. The diamond patterns on his vest has lined up to form a continuous horizontal band. His nose has slightly reddened.
 
 <gallery widths="160" spacing="small" caption="Images of Richard Adler">
 TweekvsCraig002.png|Teaching shop class.
@@ -105,6 +110,7 @@ He claims to have a low tolerance for troublemakers, asking students to identify
 *"[[PC Principal Final Justice]]"- Seen at the gun show.
 *"[[Skank Hunt]]" - Seen at the school assembly.
 *"[[The Damned]]" - Seen at Skeeter's Wine Bar.
+*"[[Fort Collins]]" - Seen in a photograph on the wall of [[Heidi Turner|Heidi's]] bedroom.
 *"[[Not Funny]]" - Seen at church.
 *"[[The End of Serialization as We Know It]]" - Seen socializing in the street after the internet was reset.
 *"[[Put It Down]]" - Seen at the school assembly.
@@ -120,6 +126,9 @@ He claims to have a low tolerance for troublemakers, asking students to identify
 *"[[The Pandemic Special]]" - Seen at [[Randy Marsh|Randy]]'s presentation and later at the hospital with a mustache.
 *"[[South ParQ Vaccination Special]]" - Seen outside Walgreens with Mr. Mackey trying to get vaccinated against [[COVID-19]].
 
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
+
 ===''[[South Park: The Stick of Truth]]''===
 Mr. Adler attends a PTA meeting at the [[Community Center]] alongside the other teachers, all of whom are willing to befriend [[The New Kid]] when he proves that an attack on the town is imminent. After this mission is complete, he is available for Facebook. He can only be found in the community center during the game.
 
@@ -129,6 +138,7 @@ Adler appears in South Park Elementary, where the New Kid can take a selfie with
 ==References==
 {{reflist}}
 {{South Park Elementary Staff}}
+[[de:Richard Adler]]
 [[es:Richard Adler]]
 [[it:Richard Adler]]
 [[ja:リチャード・アドラー]]

@@ -1,10 +1,10 @@
 {{Group
 |name = Butt Out!
 |image = Butt-out.png
-|type = Motivational group
+|type = Motivational Group
 |job = Edutainment
 |member1 = Pam
-|voice1 = Pam Brady<ref name=imdb>{{cite web|url=http://www.imdb.com/title/tt0705898/|title= But Out!|publisher=IMDb.com}}</ref>
+|voice1 = [[Pam Brady]]<ref name=imdb>{{cite web|url=http://www.imdb.com/title/tt0705898/|title= But Out!|publisher=IMDb.com}}</ref>
 |member2 = Kyle
 |voice2 = [[Kyle McCulloch]]<ref name=imdb/>
 |member3 = Vernon

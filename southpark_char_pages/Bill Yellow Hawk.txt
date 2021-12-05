@@ -5,11 +5,12 @@
 |race = Native American
 |hair = Black
 |relation1 = Mother
-|relativename1 = Unnamed mother
+|relativename1 = Unnamed Mother
 |relation2 = Father
-|relativename2 = Unnamed father
+|relativename2 = Unnamed Father
 |appearance = "[[Holiday Special]]"
-}}'''Bill Yellow Hawk''' is a Native American who [[Randy Marsh|Randy]] paid to make out with in order to sabotage his own DNA test. He made his debut appearance in the [[Season Twenty-One]] episode, "[[Holiday Special]]."
+}}
+'''Bill Yellow Hawk''' is a Native American who [[Randy Marsh|Randy]] paid to make out with in order to sabotage his own DNA test. He made his debut appearance in the [[Season Twenty-One]] episode, "[[Holiday Special]]."
 
 ==Appearance==
 Bill is a Native American man with long, black hair, and brown skin. He wears traditional Native American attire.
@@ -17,11 +18,13 @@ Bill is a Native American man with long, black hair, and brown skin. He wears tr
 ==Background==
 After Randy kissed him, Bill stared to develop feelings for him. He brought him flowers and wrote a song about him. Randy snapped at Bill, telling him he had no feelings for him. However, when the DNA test administrators wanted another sample of his DNA, Randy chased after Bill and kissed him again. Because of this, Bill was led to believe that Randy truly did have feelings for him and was trying to repress his sexuality, which he believed was homosexual. Bill later brought his parents with him to [[Marsh Residence|Randy's house]] to hopefully convince him to pursue a relationship with him.
 
-==Prominence==
-*"[[Holiday Special]]" - Develops a crush on Randy.
+==Trivia==
+*His name is never used onscreen in the episode itself, but was revealed by South Park on Twitter.<ref>{{cite web|url=https://twitter.com/southpark/status/918290444978499584|title=Yellowhawk is another new character added in this episode. Check out some of his #BTS art #SouthPark21|publisher=South Park Twitter}}</ref>
 
 ==See Also==
 *[[LGBT in South Park]]
+==References==
+{{Reflist}}
 {{Minor Characters from Season Twenty-One}}
 [[es:Bill Halcón Amarillo]]
 [[fr:Bill Yellow Hawk]]

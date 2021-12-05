@@ -6,7 +6,7 @@
 |hair = Brown
 |age = 10-11
 |job = Student
-|grade = 5th grade
+|grade = 5th Grade
 |voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0763047/|title="South Park" Erection Day (TV Episode 2005)|publisher=IMDb.com}}</ref>
 |appearance = "[[Erection Day]]"
 }}
@@ -27,6 +27,7 @@ ErectionDay (85).png|Clark after being making [[Laura]] "reappear" in "[[Erectio
 {{Reflist}}
 
 {{Minor Characters from Season Nine}}
+[[fr:Clark]]
 [[ja:クラーク]]
 [[zh:克拉克]]
 [[Category:Characters]]

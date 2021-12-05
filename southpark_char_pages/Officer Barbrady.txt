@@ -3,6 +3,7 @@
 |name = Barbrady
 |image = <gallery>
 Officer-barbrady.png|Current
+Future Barbrady.png|Elderly
 Barbrady-family-barbrady-unhatted-plain-clothes (2).png|Plain Clothes 
 OfficerBarbrady.png|Former
 Barbrady-family-barbrady-unhatted-police-officer.png|No Hat/Glasses
@@ -12,7 +13,7 @@ Young barbrady.png|Young
 |gender = Male
 |hair = Brown
 |birthday = February 18
-|job = Police Officer<br>Field Agent for Anti-Ad Resistance
+|job = Police Officer (formerly)<br>Field Agent for Anti-Ad Resistance
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0761293/fullcredits#cast|title=Toilet Paper on IMDB}}</ref>
 |relation1 = Pet
 |relativename1 = [[Barney]]
@@ -21,7 +22,7 @@ Young barbrady.png|Young
 |appearance = "[[Cartman Gets an Anal Probe]]"
 }}
 {{Featured Winner|December 2015}}
-'''Officer Barbrady''' is [[South Park (Location)|South Park]]'s main police officer, with relatively poor vocabulary. He is extremely incompetent at his job, usually being incapable of solving the crimes he is legally obliged to investigate. Despite this, he does manage to maintain the balance of peace in [[South Park (Location)|South Park]] as shown in "[[Chickenlover]]" when, shortly after he retired, the city fell into chaos.
+'''Officer Barbrady''' is [[South Park (Location)|South Park]]'s former main police officer, with relatively poor vocabulary. He is extremely incompetent at his job, usually being incapable of solving the crimes he is legally obliged to investigate. Despite this, he does manage to maintain the balance of peace in [[South Park (Location)|South Park]] as shown in "[[Chickenlover]]" when, shortly after he retired, the city fell into chaos.
 
 In "[[Naughty Ninjas]]", he was fired from his job as a police officer for shooting an unarmed 6-year-old Latino boy. Following that, he was temporarily reinstated to combat [[SoDoSoPa Ninjas|ISIS]] in "[[SoDoSoPa]]". However, he was fired yet again for shooting children playing ninjas.
 
@@ -105,7 +106,6 @@ In "[[Naughty Ninjas]]" it is revealed that Barbrady takes care of an elderly fe
 *"[[Spookyfish]]" - He questions "[[Sharon Marsh]]" about the murders, and ends up getting tied up in the Marshes' basement for the rest of the episode.
 *"[[Prehistoric Ice Man]]" 
 *"[[Spontaneous Combustion]]" - Tells people to keep away from a burnt Kenny.
-*''[[South Park: Bigger, Longer & Uncut]]'' (cameo)
 *"[[Jakovasaurs]]" - Participates in a game show against [[Jakovasaur|Jakov]], which he ends up winning.
 *"[[Two Guys Naked in a Hot Tub]]" - He is part of the stakeout; his first act of competency, as he questions the ATF's evidence.
 *"[[The Red Badge of Gayness]]" - In the audience of Re-enactment.
@@ -138,6 +138,10 @@ In "[[Naughty Ninjas]]" it is revealed that Barbrady takes care of an elderly fe
 *"[[Splatty Tomato]]" - (cameo) Seen at the end of the episode in the crowd in his police officer uniform.
 *"[[Band in China]]" - (cameo) Seen at the Autumn Fest.
 *"[[South ParQ Vaccination Special]]" - Appears at [[Margaret Nelson]]'s funeral.
+
+===Movies===
+*''[[South Park: Bigger, Longer & Uncut]]'' (cameo)
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 ===''[[South Park: The Stick of Truth]]''===
 Officer Barbrady can be found standing just outside [[Tom's Rhinoplasty (Location)|Tom's Rhinoplasty]]. Speak to him for a Facebook friend.

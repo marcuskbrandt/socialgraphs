@@ -26,7 +26,7 @@ In "[[Ginger Cow]]", Cartman turns one unsuspecting cow into a ginger to fool th
 ==Appearance==
 The cows of South Park all resemble typical dairy cattle. They usually have a combination of black, brown, or white fur, and pink udders. The cows have traditional South Park-styled eyes and short horns. In later seasons, the cows are slightly redesigned to resemble more realistic cows. However, the South Park Cows cow, Mooy, still retains the original design of the cows from earlier seasons.
 
-<gallery widths="120" caption="Images of Cows">
+<gallery widths="160" spacing="small" caption="Images of Cows">
 CowDays19.png|Cows ready for the ''Running of the Cows'' in "[[Cow Days]]".
 CowDays51.png|Cows worshiping the Cow Memorial.
 CowDays90.png|Cows mass-suicide after being told they cannot worship the Cow Memorial.
@@ -50,6 +50,7 @@ Although its canonicity is disputed, cows are minor villains in the video game '
 ==References==
 {{Reflist}}
 [[es:Vacas]]
+[[fr:Cows]]
 [[ru:Коровы]]
 [[zh:牛]]
 [[Category:Characters]]

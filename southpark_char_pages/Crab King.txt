@@ -1,7 +1,7 @@
 {{South Park character
 |name = Crab King
 |image = Creatures-local-creatures-crab-king.png
-|race = Crab person
+|race = Crab Person
 |gender = Male
 |hair = Gray
 |job = Ruler of the Crab People
@@ -43,7 +43,7 @@ The Crab King has a much redder appearance compared to the subordinates. It wear
 
 ==Trivia==
 *A [[Cut Content in South Park: The Stick of Truth|scrapped friend icon]] indicates he was first intended to appear in ''[[South Park: The Stick of Truth]]''.
-
+[[fr:Crab King]]
 [[zh:蟹王]]
 [[Category:Characters]]
 [[Category:Aliens]]

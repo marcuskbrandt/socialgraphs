@@ -2,10 +2,10 @@
 |name = Dave Bartles
 |image = 5th-8th-graders-davey-0.png
 |gender = Male
-|hair = Light brown
+|hair = Light Brown
 |age = 11-12
 |job = Student
-|grade = [[The 6th Graders|6th grade]]
+|grade = [[The 6th Graders|6th Grade]]
 |voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705949/|title="South Park" Pre-School (TV episode 2004)|publisher=IMDb.com}}</ref>
 |appearance = "[[Clubhouses]]"
 }}
@@ -13,7 +13,7 @@
 
 ==Appearance==
 He has large ears and light-brown messy hair. He wears an orange and blue striped shirt and blue jeans. He can be seen riding a yellow bicycle.
-<gallery widths="156" position="center" caption="Images of Bartles" spacing="small">
+<gallery widths="160" caption="Images of Bartles" spacing="small">
 SPBNL12.jpg|Bartles is called "Dave" by his mother.
 </gallery>
 

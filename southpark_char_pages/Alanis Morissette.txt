@@ -6,7 +6,7 @@
 |hair = Black
 |dob = June 1, 1974
 |age = {{age|1974|6|1}}
-|job = Singer<br>Songwriter<br>Actress<br>Record producer
+|job = Singer<br>Songwriter<br>Actress<br>Record Producer
 |voice = [[Toddy Walters]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705907/|title="South Park" Chef Aid (TV episode 1998)|publisher=IMDb.com}}</ref>
 |appearance = "[[Chef Aid]]"
 |religion = Buddhist

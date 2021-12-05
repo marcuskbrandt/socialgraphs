@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Brown
-|job = Kincade Talent Agency manager
+|job = Kincade Talent Agency Manager
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995580/|title="South Park" Guitar Queer-o (TV Episode 2007) - IMDb|publisher=IMDb.com}}</ref>
 |appearance = "[[Guitar Queer-O]]"
 }}

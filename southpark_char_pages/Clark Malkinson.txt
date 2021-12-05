@@ -1,9 +1,12 @@
 {{South Park character
 |name = Clark Malkinson
-|image = Adults-mr-malkinson.png
+|image = <gallery>
+Adults-mr-malkinson.png|Current
+Future Clark.png|Elderly
+</gallery>
 |gender = Male
 |hair = Brown
-|job = Park County Cable worker
+|job = Park County Cable Worker
 |relation1 = Son
 |relativename1 = [[Scott Malkinson]]
 |relation2 = Wife
@@ -14,14 +17,16 @@
 '''Clark Malkinson''' is the father of [[Scott Malkinson]] who appears on [[Season Twenty-Three]] episode, "[[Basic Cable]]".
 
 ==Background==
-Scott asks Clark if he can get Disney+ at the breakfast table. However, he refuses as he believes cable is enough, and streaming services are going straight to hell. He is called on when the Stotch family has issues with their cable and is warned that they are losing customers because of their slow service, but Clark still procrastinates, going shopping and bowling before getting to the [[Stotch Residence|Stotch house]].  [[Stephen Stotch|Stephen]] then says that they should get streaming services and Clark hits back, saying that streaming is destroying the town.
+Scott asks Clark if he can get Disney+ at the breakfast table. However, he refuses as he believes cable is enough, and streaming services are going straight to hell. He is called on when the Stotch family has issues with their cable and is warned that they are losing customers because of their slow service, but Clark still procrastinates, going shopping and bowling before getting to the [[Stotch Residence|Stotch house]]. [[Stephen Stotch|Stephen]] then says that they should get streaming services and Clark hits back, saying that streaming is destroying the town.
 
 Scott then returns home after a day of school and tells his parents about his girlfriend, and says they need to get Disney+. Clark once again refuses, and, after mocking his son, calls up the [[Michael, Kurt, Bill, and Dave|other cable workers]] to arrange a meeting about the streaming services. Most of the cable workers arrive late, angering Clark. Clark then explains they were the ones who laid the cables for the companies and they should take them out. The group then split up to collect the parts, but procrastinate again instead of getting the parts, once again angering Clark.
 
 Later on, as Scott and his friend, [[Sophie Gray|Sophie]] just starts to watch ''[[The Mandalorian]]'', Disney+ goes down just as he starts it, thanks to Clark and the other cable workers taking the cables out. However, when streaming rights are available in the town, the group turns up, only realizing its too late.
 
 ==Appearance==
-Clark has brown hair with a hairstyle, a mustache and a brown beard, some freckles on his cheeks, and is slightly overweight. Clark is only seen wearing a gray work uniform.
+Clark has brown hair with a hairstyle, a mustache and a brown beard, some freckles on his cheeks, and is slightly overweight. Clark is only seen wearing a gray work uniform with a toolbelt.
+
+In the future timeline set in ''[[South Park: Post Covid]]'', he has balding, graying brown hair, a gray mustache, and unshaven beard. He wears a white undershirt, blue shorts, and black slippers with white socks. He also retains his toolbelt.
 
 ==Family==
 ===[[Scott Malkinson]]===
@@ -35,11 +40,15 @@ She is Clark's wife. Not much is known about their relationship. Clark has shown
 *"[[Basic Cable]]"
 *"[[South ParQ Vaccination Special]]"
 
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
+
 ==Trivia==
 *Unlike the models of most other children's parents, who are reused adult background models, Clark and his wife have unique character models.
 {{Minor Characters from Season Twenty-Three}}
 {{South Park Families}}
 [[es:Clark Malkinson]]
+[[fr:Clark Malkinson]]
 [[ja:クラーク・マルキンソン]]
 [[zh:克拉克·马尔金森]]
 [[Category:Characters]]

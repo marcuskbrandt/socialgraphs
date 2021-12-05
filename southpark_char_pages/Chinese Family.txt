@@ -2,11 +2,11 @@
 |name = Chinese Family
 |image = Other-cultures-the-chinese.png
 |rivals = [[Eric Cartman]]<br>[[Butters Stotch]]
-|member1 = Unnamed man
-|member2 = Unnamed woman
-|member3 = Unnamed boy 1
-|member4 = Unnamed baby Boy 2
-|member5 = Unnamed girl
+|member1 = Unnamed Man
+|member2 = Unnamed Woman
+|member3 = Unnamed Boy 1
+|member4 = Unnamed Baby Boy 2
+|member5 = Unnamed Girl
 |first = "[[The China Probrem]]"
 |times = 3
 }}
@@ -31,7 +31,9 @@ They all have stereotypical characteristics of Asians seen in the series such as
 ==Prominence==
 *"[[The China Probrem]]"
 *"[[Goth Kids 3: Dawn of the Posers]]" - Seen in portraits at [[Michael]]'s house.
-*"[[Band in China]]" - Seen walking around the streets of [[China]] when [[Winnie the Pooh]] and [[Piglet]] search for honey to eat (cameo)
+*"[[Band in China]]" - Seen walking around the streets of [[China]] when [[Winnie the Pooh]] and [[Piglet]] search for honey to eat (cameo).
+
+[[fr:Chinese Family]]
 [[zh:中国家庭]]
 [[Category:Characters]]
 [[Category:Unnamed characters]]

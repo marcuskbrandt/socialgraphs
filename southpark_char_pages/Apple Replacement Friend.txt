@@ -3,9 +3,7 @@
 |image = Apple-replacement-friend.png
 |gender = Male
 |hair = Brown
-|age = 9-10
 |job = Student
-|grade = 4th Grade
 |voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt1884035/|title="South Park" HUMANCENTiPAD (TV episode 2011)|publisher=IMDb.com}}</ref>
 |appearance = "[[HUMANCENTiPAD]]"
 }}
@@ -28,8 +26,5 @@ AppleReplacemenFriend2.png|Apple Replacement Friend's brief appearance at the Ge
 [[zh:苹果替代朋友]]
 [[Category:Characters]]
 [[Category:Male characters]]
-[[Category:Male 4th graders]]
 [[Category:One-off characters]]
-[[Category:Other 4th graders]]
-[[Category:4th graders]]
 [[Category:Characters voiced by Matt Stone]]

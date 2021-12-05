@@ -2,6 +2,7 @@
 |name = Ryan Valmer
 |image = <gallery>
 Ryan-valmer.png|Current
+Future Ryan.png|Elderly
 Witch-ryan.png|Witch
 Ryan Valmer mask.png|Mask
 </gallery>

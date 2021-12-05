@@ -1,7 +1,7 @@
 {{Group
 |image = Allied-atheist-alliance.png
 |name = Allied Atheist Alliance
-|type = Religious organization
+|type = Religious Organization
 |religion = Atheism
 |aliases = Allied Atheist Allegiance
 |member1 = Sea Otters
@@ -11,7 +11,6 @@
 The '''Allied Atheist Alliance''', often shortened to simply '''AAA''', is an organization founded in the mid-21st century in an alternate timeline.
 
 ==Background==
-
 The AAA was founded upon the belief that all atheists should use a name that is abbreviated to "AAA", which is, according to them, the most logical choice. Notably, the AAA is composed entirely of sea otters, who, in the intervening five centuries, have evolved to human cranial capacities.
 
 The AAA met its end along with the UAL and the UAA, when [[Eric Cartman|Cartman]] inadvertently stopped [[Richard Dawkins]] from marrying [[Mrs. Garrison]], erasing the timeline in which they existed.
@@ -19,7 +18,7 @@ The AAA met its end along with the UAL and the UAA, when [[Eric Cartman|Cartman]
 ==Appearance==
 The AAA consists mostly of sea otters outfitted with gear of widely varying technological levels.
 
-<gallery widths="160" caption="Images of the Allied Atheist Alliance" captionalign="left">
+<gallery widths="160" caption="Images of the Allied Atheist Alliance" spacing="small">
 GoGodGoXII014.png|Ostrich-mounted sea-otters.
 GoGodGoXII016.png|An AAA detachment with the [[Eric Cartman|Time Child]].
 GoGodGoXII072.png|The AAA prepares for a great confrontation.
@@ -39,7 +38,7 @@ The leader of the Allied Atheist Alliance narrated the opening sequence to the v
 *Several otters can also be seen wearing scouters, fictional devices from the manga and anime series ''[[wikipedia:Dragonball Z|Dragonball Z]]''.
 *They originally had the word "Allegiance" in place of "Alliance" prior to [[Go God Go]] until it got changed for unknown reasons.
 
-==See also==
+==See Also==
 *[[Unified Atheist League (UAL)|Unified Atheist League]]
 *[[United Atheist Alliance (UAA)|United Atheist Alliance]]
 

@@ -1,8 +1,12 @@
 {{South Park character
 |name = Alexa
-|image = Alexa.png
+|image = <gallery>
+Alexa.png|Current
+Human Alexa.png|Future
+</gallery>
 |gender = None; Female AI
 |job = Digital Assistant
+|voice = [[Delilah Kujala]]<ref>{{Cite web|url=https://www.imdb.com/title/tt15005868/fullcredits?ref_=tt_cl_sm|title=South Park: Post Covid (2021)|publisher=IMDb.com}}</ref>
 |appearance = "[[White People Renovating Houses]]"
 }}
 '''Alexa''' is an artificially intelligent digital personal assistant. It was developed by ''[[Amazon]]'' and made popular by the ''Amazon Echo''. Alexa, as a product, made its first appearance in the [[Season Twenty-One]] premiere episode, "[[White People Renovating Houses]]".
@@ -14,9 +18,15 @@ It briefly became very popular in [[South Park (Location)|South Park]], being pr
 *"[[White People Renovating Houses]]" - Becomes a fad in South Park before being protested against, banned, and superseded by the workers' union.
 *"[[Unfulfilled]]"
 *"[[Bike Parade]]" - [[Jeff Bezos]] uses Alexa in order to oversee the town and kill [[Kenny McCormick|Kenny]].
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears as [[Stan Marsh|Stan's]] hologram.
+
+==References==
+{{Reflist}}
 {{Minor Characters from Season Twenty-One}}
 [[es:Alexa]]
 [[fr:Alexa]]
+[[ja:Alexa]]
 [[uk:Алекса]]
 [[zh:亚莉克莎]]
 [[Category:Characters]]

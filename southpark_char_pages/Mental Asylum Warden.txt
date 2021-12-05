@@ -1,0 +1,23 @@
+{{South Park character
+|name = Mental Asylum Warden
+|image = Mental Asylum Warden.png
+|gender = Male
+|hair = Gray
+|job = Mental Institution Warden
+|appearance = ''[[South Park: Post Covid]]''
+}}
+The '''Mental Asylum Warden''' is the warden for the [[South Park Mental Asylum Plus]]. He appears in ''[[South Park: Post Covid]]''.
+
+==Background==
+[[Clyde Donovan|Clyde]] makes contact with the warden, requesting to speak to a person named "Victor Chaos", in an effort to determine the true cause of [[Kenny McCormick|Kenny's]] death. The warden rejects the request, explaining that Victor is "unstable" for phone calls. Clyde then makes another request to meet Victor in person, but was again rejected when he declares to the warden that not everyone in his group is vaccinated with the [[COVID-19 Vaccine|COVID-19 vaccine]].
+
+Towards the end of the movie, the warden visits Victor and delivers his meal, informing that he had just received another call asking to speak with Victor.
+
+==Appearance==
+The warden wears a white coat with a green patch on the right shoulder, bearing the words "SPMA" (acronym of the mental institution).
+
+[[zh:精神病院管理人]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]

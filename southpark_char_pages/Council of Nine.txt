@@ -2,8 +2,8 @@
 |name = The Council of Nine
 |image = The-council-of-nine.png
 |type = Organization
-|enemies = Evil imaginary characters
-|gender = Male/female
+|enemies = Evil Imaginary Characters
+|gender = Male and Female
 |member1 = [[Aslan the Lion]]
 |member2 = [[Jesus Christ]]
 |member3 = [[Luke Skywalker]]
@@ -30,6 +30,7 @@ The Council of Nine references the Greek Gods' own Council of Nine. Instead of G
 ===''[[South Park: The Stick of Truth]]''===
 The Council appear as a figurine set in Butters' closet. Only Gandalf the Grey is missing from the set.
 {{Minor Characters from Season Eleven}}
+[[fr:Council of Nine]]
 [[zh:九人委员会]]
 [[Category:Organizations]]
 [[Category:Characters]]

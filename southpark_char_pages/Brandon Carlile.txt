@@ -3,7 +3,7 @@
 |image = Brandon-carlile.png
 |gender = Male
 |hair = Black
-|job = ''SPIN'' Magazine reporter
+|job = ''SPIN'' Magazine Reporter
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt4080138/?ref_=tt_ep_pr|title="South Park" The Cissy (TV episode 2014)|publisher=IMDb.com}}</ref>
 |appearance = "[[The Cissy]]"
 }}

@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Brown
-|job = Angel, general
+|job = Angel, General
 |voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0763046/|title="South Park" Best Friends Forever (TV Episode 2005)|publisher=IMDb.com}}</ref>
 |appearance = "[[Best Friends Forever]]"
 }}

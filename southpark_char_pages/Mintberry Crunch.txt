@@ -179,6 +179,7 @@ Mintberry Crunch is a 4-cost, legendary ranged card, with a base health of 188 a
 {{FBWCharNavBox}}
 [[de:Mintberry Crunch]]
 [[es:Mint-Berry Crunch]]
+[[fr:Praline-menthe-cerise]]
 [[zh:薄荷浆果酥侠]]
 [[Category:Characters]]
 [[Category:Male characters]]

@@ -1,7 +1,8 @@
 {{South Park character
 |name = Kevin McCormick
 |image = <gallery>
-kevin-mccormick.png|Current
+Kevin-mccormick.png|Current
+Future Kevin McCormick.png|Adult
 KevinPrototype.png|Former
 </gallery>
 |gender = Male
@@ -27,6 +28,8 @@ KevinPrototype.png|Former
 
 ==Appearance==
 Kevin has wild, messy light brown hair, with a bandage, scratch, dirt, and leaves on his face. He wears gray pants and a red button-up shirt and has a set of braces. In "[[Quintuplets 2000]]" he wears a light blue suit with a green tie, however, in "[[Sexual Healing]]" he wears a black suit with dark blue tie for Kenny's funeral.
+
+In ''[[South Park: Post Covid]]'', Kevin is seen as an adult man. He has visibly aged, his hair is greyed, there is a scar where his bandaid used to be, and there is still green gunk on his face. He wears a red shirt with stains and the sleves ripped off and a Colorado Avalanche shirt on underneath. 
 
 <gallery widths="160" spacing="small" caption="Images of Kevin McCormick">
 Chickenpox07.gif|Kevin in "[[Chickenpox]]".
@@ -104,6 +107,9 @@ Kevin is Karen's older brother. The two were never seen interacting, so little i
 *"[[PC Principal Final Justice]]" - Seen in the crowd with the rest of his family.
 *"[[Hummels & Heroin]]" - Rallies with [[Marcus Preston]] after witnessing his presentation in the [[South Park Elementary Cafeteria|school cafeteria]]. This is his first appearance in the school.
 *"[[Band in China]]" - Seen with his family at the Autumn Fest watching his brother perform with [[Crimson Dawn]].
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Seen at his brother's wake and funeral service along with [[Karen McCormick|Karen]].
 
 ==References==
 {{Reflist}}

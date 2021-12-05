@@ -1,6 +1,9 @@
 {{South Park character
 |name = Darryl Nathan Weathers
-|image = Darryl-weathers1.png
+|image = <gallery>
+Darryl-weathers1.png|Current
+Future Darryl.png|Elderly
+</gallery>
 |gender = Male
 |hair = Red
 |job = Construction Worker
@@ -15,38 +18,46 @@ He first appears in "[[Goobacks]]", and he hosts a rally of many working-class m
 He plays a major role in the [[Season Twenty-One]] premiere episode, "[[White People Renovating Houses]]", in which he starts "Anti-[[Alexa]]" protests, believing digital assistants are taking jobs away from people in the workers' union. The protesting actually worked, and soon Alexa was replaced by Darryl, and all the other protestors. Unhappy with Alexa's job, Randy calls Darryl out for being a hypocrite. Darryl has an outburst, and expresses his racist beliefs to him, revealing that he has bitter intentions whenever he says "they took our jobs."
 
 ==Appearance==
-Darryl has long red hair combed, red eyebrows and mustache, some face warts and large ears. He wears a white shirt under a green checkered jacket with pockets and sleeves up, revealing the fur on his arms, a brown belt with a gray buckle with "USA" written on it, dark blue pants and brown boots.<gallery widths="174" caption="Images of Darryl" spacing="small">
+Darryl has long red hair combed, red eyebrows and mustache, some face warts and large ears. He wears a white shirt under a green checkered jacket with pockets and sleeves up, revealing the fur on his arms, a brown belt with a gray buckle with "USA" written on it, dark blue pants and brown boots.
+
+In the future timeline set in ''[[South Park: Post Covid]]'', he has gray hair. However, he still sports a red mustache, albeit faded, and significantly longer.
+
+<gallery widths="160" caption="Images of Darryl" spacing="small">
 DarrylWeathers.png
 RedneckBrownShirt2.png|Darryl along with the other rednecks.
 WPRH6.PNG
 </gallery>
 
 ==Prominence==
-* "[[Goobacks]]" - Debut appearance.
-* "[[Erection Day]]" - He could be seen walking along the street while [[Jimmy Valmer|Jimmy]] was speaking to the [[Nut Gobbler]].
-* "[[Two Days Before the Day After Tomorrow]]" - Seen as the crowd leaves the [[Park County Community Center]] at the end of the episode.
-* "[[Smug Alert!]]" - His second speaking appearance; a one-liner in which he appears in the background. He is mad at someone (whom we know to be [[Gerald Broflovski]]) putting a fake ticket on his car.
-* "[[Britney's New Look]]" - He appears when the [[City People|townsfolk]] take photos of [[Britney Spears|Britney]].
-* "[[Margaritaville]]" - He appears once again as the spokesperson for the working men on [[Channel 4 News#Channel 9 News|Channel 9 News]].
-* "[[W.T.F.]]" - He appears in this episode again watching [[The Boys]]' [[Wrestling Takedown Federation|wrestling federation]]. In this episode he again brings up "Dey took der job!"
-* "[[It's a Jersey Thing]]" - Non speaking cameo; he fights against the Jerseyites.
-* "[[Let Go, Let Gov]]" - Is a member of [[Butters Stotch|Butters']] group at the [[Department of Motor Vehicles|DMV]].
-* "[[Cock Magic]]" - Seen in [[City Wok]]'s basement watching the [[Magic: The Gathering (CCG)|cock magic match]].
-* "[[The City Part of Town]]" - Seen in the newly opened [[Whole Foods Market]] riding a bicycle through an aisle.
-* "[[Naughty Ninjas]]"- Seen in the protest against the police.
-* "[[Member Berries]]"- Seen at the volleyball game.
-* "[[The Damned]]" - Seen at [[Skeeter's Bar and Cocktails]].
-* "[[Not Funny]]" - Seen at [[Harrison Yates]]' press conference about [[TrollTrace.com]].
-* "[[White People Renovating Houses]]" - Starts a protest against the digital assistant, ''Alexa'', and upsets Randy.
-* "[[Doubling Down]]" - He cries in shame as he watches [[Herbert Garrison|the President]] on television.
+*"[[Goobacks]]" - Debut appearance.
+*"[[Erection Day]]" - He could be seen walking along the street while [[Jimmy Valmer|Jimmy]] was speaking to the [[Nut Gobbler]].
+*"[[Two Days Before the Day After Tomorrow]]" - Seen as the crowd leaves the [[Park County Community Center]] at the end of the episode.
+*"[[Smug Alert!]]" - His second speaking appearance; a one-liner in which he appears in the background. He is mad at someone (whom we know to be [[Gerald Broflovski]]) putting a fake ticket on his car.
+*"[[Britney's New Look]]" - He appears when the [[City People|townsfolk]] take photos of [[Britney Spears|Britney]].
+*"[[Margaritaville]]" - He appears once again as the spokesperson for the working men on [[Channel 4 News#Channel 9 News|Channel 9 News]].
+*"[[W.T.F.]]" - He appears in this episode again watching [[The Boys]]' [[Wrestling Takedown Federation|wrestling federation]]. In this episode he again brings up "Dey took der job!"
+*"[[It's a Jersey Thing]]" - Non speaking cameo; he fights against the Jerseyites.
+*"[[Let Go, Let Gov]]" - Is a member of [[Butters Stotch|Butters']] group at the [[Department of Motor Vehicles|DMV]].
+*"[[Cock Magic]]" - Seen in [[City Wok]]'s basement watching the [[Magic: The Gathering (CCG)|cock magic match]].
+*"[[The City Part of Town]]" - Seen in the newly opened [[Whole Foods Market]] riding a bicycle through an aisle.
+*"[[Naughty Ninjas]]"- Seen in the protest against the police.
+*"[[Member Berries]]"- Seen at the volleyball game.
+*"[[The Damned]]" - Seen at [[Skeeter's Bar and Cocktails]].
+*"[[Not Funny]]" - Seen at [[Harrison Yates]]' press conference about [[TrollTrace.com]].
+*"[[White People Renovating Houses]]" - Starts a protest against the digital assistant, ''Alexa'', and upsets Randy.
+*"[[Doubling Down]]" - He cries in shame as he watches [[Herbert Garrison|the President]] on television.
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 ==Trivia==
-*He is quite popular among South Park fans, and is particularly known for his infamous catchphrase, [["They took our jobs!"]]. Which is used often in the fan community.
+*He is quite popular among ''South Park'' fans, and is particularly known for his infamous catchphrase, [["They took our jobs!"]]. Which is used often in the fan community.
 
 ==References==
 {{reflist}}
 {{Minor Characters from Season Eight}}
 [[es:Darryl Weathers]]
+[[fr:Darryl Weathers]]
 [[it:Darryl Weathers]]
 [[ru:Дэррил Уэзерс]]
 [[zh:达瑞尔·韦瑟斯]]

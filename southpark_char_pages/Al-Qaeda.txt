@@ -1,8 +1,8 @@
 {{Group
 |image = Al-Qaeda_3.png
 |name = Al-Qaeda
-|type = Terrorist organization
-|job = Religious extremists
+|type = Terrorist Organization
+|job = Religious Extremists
 |enemies = New Jersey-ites<br>[[United States]]
 |first = "[[Osama bin Laden Has Farty Pants]]"
 |times = 2

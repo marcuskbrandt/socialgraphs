@@ -8,7 +8,7 @@
 |age = 84 (deceased)
 |job = Founding Father of the U.S.A.
 |religion = Deist
-|voice = Norman Lear<ref>{{cite web|url=http://www.imdb.com/title/tt0705933/|title="South Park" I'm a Little Bit Country (TV Episode 2003)|publisher=IMDb.com}}</ref>
+|voice = [[Norman Lear]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705933/|title="South Park" I'm a Little Bit Country (TV Episode 2003)|publisher=IMDb.com}}</ref>
 |wikipedia = [[wikipedia:Benjamin Franklin|Benjamin Franklin]]
 |appearance = "[[I'm a Little Bit Country]]"
 }}

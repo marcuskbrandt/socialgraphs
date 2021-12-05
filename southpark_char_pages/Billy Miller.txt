@@ -3,7 +3,7 @@
 |name = Billy Miller
 |gender = Male
 |hair = Black
-|job = KFC trafficker<br>Student
+|job = KFC Trafficker<br>Student
 |voice = [[Trey Parker]] <ref>{{cite web|url=http://www.imdb.com/title/tt1629114/|title="South Park" Medicinal Fried Chicken (TV episode 2010)|publisher=IMDb.com}}</ref>
 |relation1 = Mother
 |relativename1 = [[Mrs. Miller]]

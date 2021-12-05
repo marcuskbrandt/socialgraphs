@@ -2,8 +2,9 @@
 {{South Park character
 |name = Nathan
 |image = <gallery>
-nathan.png|Current
+Nathan.png|Current
 NathanNoGlasses.png|No Glasses
+Future Nathan.png|Adult
 Nathan.jpg|SPS
 Nathan (1).png|Special Olympics
 NathanTardicaca.png|Tardicaca Camper
@@ -62,10 +63,14 @@ He has committed and shown examples of various criminal activities throughout th
 The most notable appearance of Nathan is that his head is always looking up at an angle, usually to one side, or he might just have a comically large chin. Nathan has squinty eyes, long dark blond hair, and wears tinted glasses (it’s unknown if these are sunglasses or prescription lenses). On most occasions, he wears a dark gray buttonless jacket with red trim and an orange shirt underneath, gray baggy pants, and green sneakers with white stripes.
 
 In "[[Handicar]]", when he goes to sleep, he wears a light blue onesie with blue trimmings and yellow stars. He talks in a low, raspy voice with a slight speech impediment, i.e. pronouncing “shark” as “shorwk”.
+
+In ''[[South Park: Post Covid]]'', Nathan appears as an adult man. He is seen with a teal tracksuit, and a gold necklace, similar to Mimsy. He also has long hair in a ponytail, stubble on his large chin, and seemingly white pearls on his glasses.
 {{GallerySubPage|name=Nathan}}
 
 ==Personality==
 Nathan has Down syndrome. He also likely has some form of sociopathy, as evidenced by his plots in "[[Crippled Summer]]". While all his plots fail in a fairly cartoonish manner, the intention behind them (i.e. getting Jimmy and his friends stabbed, murdered, poisoned, raped, or bled to death) hints at poor mental health. His anger could also be due to his parents not taking him seriously. He often pretends to be more disabled than he really is to conceal his real plans, such as in "[[Sponsored Content]]", when he responds to [[PC Principal]] by saying "I like apples and bananas".
+
+However, in "[[South Park: Post Covid]]" he attends Kenny's wake set up my Jimmy, and laughs at his "woke" jokes. This implies that either his hatred of Jimmy has gone away or has greatly diminished. 
 
 ==Abilities==
 ===Physical Endurance===
@@ -140,6 +145,9 @@ Nathan's plan was foiled by the New Kid during [[Bring the Crunch]], and he blam
 *"[[PC Principal Final Justice]]" - The secondary antagonist, takes Jimmy hostage at his apartment but gets beaten and betrayed by his prostitute/girlfriend: [[Classi]].
 *"[[Moss Piglets]]" - He tries to win the annual special education science fair.
 *"[[Basic Cable]]" - Sells a Disney+ account to [[Scott Malkinson]] in exchange for doses of his insulin.
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in Kenny's memorial service.
 
 ==References==
 {{Reflist}}

@@ -7,7 +7,7 @@
 |age = 10
 |job = Student
 |grade = 4th Grade
-|voice = Josh Gad <ref>{{cite web|url=https://www.imdb.com/title/tt7325056|title="South Park" Hummels & Heroin (TV Episode 2017)|publisher=IMDb.com}}</ref>
+|voice = [[Josh Gad]]<ref>{{cite web|url=https://www.imdb.com/title/tt7325056|title="South Park" Hummels & Heroin (TV Episode 2017)|publisher=IMDb.com}}</ref>
 |relation1 = Father
 |relativename1 = [[Mr. Preston]]
 |relation2 = Mother
@@ -33,6 +33,7 @@ Though Marcus appears quite abrasive and intimidating on the surface, he is also
 
 ==References==
 {{Reflist}}
+{{South Park Children}}
 {{Minor Characters from Season Twenty-One}}
 [[es:Marcus Preston]]
 [[zh:马库斯·普雷斯顿]]

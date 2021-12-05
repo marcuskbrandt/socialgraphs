@@ -3,7 +3,7 @@
 |name = Alex Hart
 |gender = Male
 |hair = Gray
-|job = Records producer
+|job = Records Producer
 |voice = [[Trey Parker]]<ref>Credited as "Alan Hart" in {{cite web|url=http://www.imdb.com/title/tt0995580/|title="South Park" Guitar Queer-o (TV Episode 2007) - IMDb|publisher=IMDb.com}}</ref>
 |appearance = "[[Guitar Queer-O]]"
 }}

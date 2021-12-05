@@ -4,7 +4,7 @@
 |gender = Male
 |race = African-American
 |hair = Black
-|job = Stand-up comedian
+|job = Stand-Up Comedian
 |voice = B.J. McCrory<ref>{{cite web|url=https://www.imdb.com/title/tt0940288/|title="South Park" With Apologies to Jesse Jackson (TV Episode 2007)|publisher=IMDb.com}}</ref>
 |appearance = "[[With Apologies to Jesse Jackson]]"
 }}

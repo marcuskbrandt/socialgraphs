@@ -3,6 +3,7 @@
 |name = Mayor McDaniels
 |image = <gallery>
 MayorMcdaniels.png|Current
+Future Mayor.png|Elderly
 Alter-ego-mayor-winter-clothes.png|Winter Outfit
 13a.jpg|SPS
 </gallery>
@@ -21,6 +22,8 @@ Despite her normal manner, after the music festival in "[[Die Hippie, Die]]" got
 
 ==Appearance==
 She wears a blue jacket and green trousers. She also wears gold earrings. Her hair is turquoise-blue, and her lips are rather thin.
+
+In the future timeline set in ''[[South Park: Post Covid]]'', her hair has completely whitened. She wears a blue jacket with gold buttons, green skirt, and black sandals. She also wears a pair of square-framed glasses.
 {{GallerySubPage|name=Mayor McDaniels}}
 
 ==Personality==
@@ -99,7 +102,6 @@ MayormcdanielsNeuCard.png|'''[[Mayor McDaniels (Phone Destroyer)|Mayor McDaniels
 *"[[Prehistoric Ice Man]]" - Present at the Death Row debate.
 *"[[Spontaneous Combustion]]" - Asks [[Randy Marsh]] to investigate why people are dying of Spontaneous Combustion.
 *"[[Jakovasaurs]]"
-*"[[South Park: Bigger, Longer & Uncut]]" (cameo)
 *"[[Korn's Groovy Pirate Ghost Mystery]]"
 *"[[Chinpokomon]]"
 *"[[Hooked on Monkey Fonics]]"
@@ -150,6 +152,10 @@ MayormcdanielsNeuCard.png|'''[[Mayor McDaniels (Phone Destroyer)|Mayor McDaniels
 *"[[Christmas Snow]]" - Asks Randy to help bring back everybody's Christmas spirit after [[Santa Claus|Santa]] temporarily bans alcohol.
 *"[[The Pandemic Special]]" - After witnessing the town in chaos, she calls up [[Harrison Yates]] and agrees to provide all resources to the [[Park County Police Force]].
 *"[[South ParQ Vaccination Special]]" - Seen at the end celebrating the end of the pandemic.
+
+===Movies===
+*''[[South Park: Bigger, Longer & Uncut]]'' (cameo)
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 ==See Also==
 *[[LGBT in South Park]]

@@ -6,7 +6,7 @@
 |age = 10
 |job = Student
 |grade = [[The 4th Grade|4th Grade]]
-|voice = Becca Scott<ref>{{cite web|url=https://www.imdb.com/title/tt8660730/?ref_=ttep_ep9|title="South Park" Basic Cable (TV episode 2019)|publisher=IMDb.com}}</ref><ref>{{cite web|url=https://twitter.com/thebeccascott/status/1202724703367880705|title=Tweet from Becca Scott|publisher=@thebeccascott on Twitter}}</ref>
+|voice = [[Becca Scott]]<ref>{{cite web|url=https://www.imdb.com/title/tt8660730/?ref_=ttep_ep9|title="South Park" Basic Cable (TV episode 2019)|publisher=IMDb.com}}</ref><ref>{{cite web|url=https://twitter.com/thebeccascott/status/1202724703367880705|title=Tweet from Becca Scott|publisher=@thebeccascott on Twitter}}</ref>
 |relativename1 = [[Mrs. Gray]]
 |relation1 = Mother
 |relativename2 = Mr. Gray

@@ -6,7 +6,7 @@
 |hair = Blonde
 |age = 10
 |grade = 4th Grade
-|voice = Casey Nicholaw<ref>{{Cite web|url=https://www.imdb.com/title/tt6647824/|title="South Park" Bike Parade (TV Episode 2018)|publisher=IMDb.com}}</ref>
+|voice = [[Casey Nicholaw]]<ref>{{Cite web|url=https://www.imdb.com/title/tt6647824/|title="South Park" Bike Parade (TV Episode 2018)|publisher=IMDb.com}}</ref>
 |relation1 = Father
 |relativename1 = [[Mr. Zewiski]]
 |relation2 = Mother

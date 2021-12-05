@@ -3,7 +3,7 @@
 |image = Chris-swollenballs.png
 |gender = Male
 |hair = Blond
-|job = News reporter
+|job = News Reporter
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0995581/|title="South Park" Night of the Living Homeless (TV episode 2007)|publisher=IMDb.com}}</ref>
 |appearance = "[[Chef Aid]]"
 }}
@@ -42,6 +42,7 @@ ChefAid100.png|Chris in "[[Chef Aid]]".
 
 ==References==
 {{reflist}}
+[[fr:Chris Swollenballs]]
 [[ja:クリス・スウォーロンボールズ]]
 [[pl:Chris Swollenballs]]
 [[zh:克里斯·施瓦伦波斯]]

@@ -2,7 +2,7 @@
 |name = Coach Miles
 |image = Coach-miles.png
 |gender = Male
-|hair = Light brown, gray
+|hair = Light Brown, Gray
 |job = Coach
 |voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt3237510/|title="South Park" Taming Strange (TV episode 2013) |publisher=IMDb.com}}</ref>
 |appearance = "[[Goth Kids 3: Dawn of the Posers]]"
@@ -27,6 +27,7 @@ Coach Miles has light brown hair with gray sideburns and light brown eyebrows. H
 {{reflist}}
 {{South Park Elementary Staff}}
 {{Minor Characters from Season Seventeen}}
+[[fr:Coach Miles]]
 [[zh:迈尔斯教练]]
 [[Category:Characters]]
 [[Category:Male characters]]

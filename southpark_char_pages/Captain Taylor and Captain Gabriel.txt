@@ -19,7 +19,7 @@ In the second part of the duology, "[[Pandemic 2: The Startling]]", they play a 
 They both wear gray pilot helmets with mouthpieces connected to them as well as gray outfits with the American flag on the left shoulders and black shoes.
 
 Captain Taylor has combed blonde hair, blonde eyebrows, and a blonde mustache. Captain Gabriel has combed brown hair and brown eyebrows.
-<gallery widths="120" captionalign="left" caption="Images of Captain Taylor and Captain Gabriel">
+<gallery widths="160" spacing="small" caption="Images of Captain Taylor and Captain Gabriel">
 Captain-Gabriel-Pandemic.png|Captain Gabriel telling The Boys the plan in "[[Pandemic]]"
 SPPII1.jpg|Taylor and Gabriel waiting with The Boys and Craig
 Taylor-and-Gabriel-no-Helmets.png|Taylor and Gabriel without their helmets

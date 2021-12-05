@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Black
-|dob = 31 May, 1962
+|dob = May 31, 1962
 |age = {{age|1962|5|31}}
 |job = Singer
 |wikipedia = [[Wikipedia:Corey Hart (singer)|Corey Hart]]
@@ -19,6 +19,7 @@ Corey Hart appeared as one of the Canadian officials who attends the royal weddi
 Corey Hart appears with disheveled black hair. He wears a black suit, a purple and gold medal around his neck, black pants, and black shoes, along with a pair of sunglasses. As with other Canadians, he is depicted with a flapping head and beady eyes.
 
 {{MusicCelebrities}}
+[[fr:Corey Hart]]
 [[pl:Corey Hart]]
 [[zh:柯瑞·哈特]]
 [[Category:Characters]]

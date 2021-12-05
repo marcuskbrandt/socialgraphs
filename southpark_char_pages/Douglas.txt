@@ -1,6 +1,9 @@
 {{South Park character
 |name = Douglas
-|image = Douglas.png
+|image = <gallery>
+Douglas.png|Current
+Future Douglas.png|Adult
+</gallery>
 |gender = Male
 |race = Caucasian
 |hair = Light Brown
@@ -66,6 +69,9 @@ DouglasFightDoucheandaDanish.png|Douglas participating in the battle between boy
 *"[[Board Girls]]" - Seen at the school assembly.
 *"[[Basic Cable]]" - Seen in the cafeteria.
 *"[[The Pandemic Special]]" - Seen in quarantine at school with the other students.
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in Kenny's memorial service.
 
 ===''[[South Park: The Stick of Truth]]''===
 Douglas appears as a friendable person in the building next to Unplanned Parenthood. To get to him, you must shoot the window to reveal an alien teleporter which you'll use to get to the room where he is. He seems to think that breaking and entering is cool and praises [[The New Kid]] for doing so.

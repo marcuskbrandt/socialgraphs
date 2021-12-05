@@ -2,13 +2,14 @@
 |name = Sixth Grader Leader
 |image = <gallery>
 6th-grader-leader-current.png|Current
+Future 6th Grader Leader.png|Adult
 6th-grader-leader-formal.png|Formal
 6GradeLeader Transparent.png|Bike
 6thgradeleaderprototype.png|Prototype
 </gallery>
 |gender = Male
 |hair = Spiky and Messy Brown
-|age = 12
+|age = 11-12
 |job = Student
 |grade = 6th Grade
 |voice = '''Former''':<br>Rochelle Leffler<ref>{{cite web|url=http://www.imdb.com/title/tt0705939/|title="South Park" Korn's Groovy Pirate Ghost Mystery (TV episode 1999)|publisher=IMDb.com}}</ref><br>[[Eliza J. Schneider]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705971/|title="South Park" The Return of the Fellowship of the Ring to the Two Towers (TV episode 2002)|publisher=IMDb.com}}</ref><br>'''Currently''':<br>[[April Stewart]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705949/|title="South Park" Pre-School (TV episode 2004)|publisher=IMDb.com}}</ref>
@@ -88,6 +89,9 @@ The 6th Grader Leader is widely seen with these two unnamed 6th graders, especia
 *"[[SUPER HARD PCness]]" - Seen in the gym with the students during evacuation.
 *"[[Time To Get Cereal]]" - Seen in the school's playground after evacuation.
 *"[[Band in China]]" - Seen at the Autumn Fest.
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in Kenny's memorial service.
 
 ==Gallery==
 <gallery widths="160" spacing="small">

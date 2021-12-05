@@ -3,7 +3,7 @@
 |image = Sea-park-brian.png
 |gender = Male
 |hair = Brown
-|job = Sea Park announcer
+|job = Sea Park Announcer
 |voice = [[Trey Parker]] <ref>{{cite web|url=http://www.imdb.com/title/tt0761285/|title="South Park" Free Willzyx (TV episode 2005)|publisher=IMDb.com}}</ref>
 |appearance = "[[Free Willzyx]]"
 }}{{LinkDisambig|Brian (Disambiguation)}}

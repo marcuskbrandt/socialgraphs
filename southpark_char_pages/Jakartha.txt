@@ -5,7 +5,7 @@
 |race = Caucasian
 |hair = Brown
 |job = Assassin
-|voice = Jonathan Kimmel<ref>{{cite web|url=http://www.imdb.com/title/tt0705925/|title="Follow that Egg" on IMDB}}</ref>
+|voice = [[Jonathan Kimmel]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705925/|title="Follow that Egg" on IMDB}}</ref>
 |appearance = "[[Follow That Egg!]]"
 }}
 '''Jakartha''' is a feared assassin. He first appear in the [[Season Nine]] episode, "[[Follow That Egg!]]". He was hired by [[Herbert Garrison|Mrs. Garrison]] to assassinate [[Stan Marsh|Stan]] and [[Kyle Broflovski|Kyle's]] egg so Mrs. Garrison could prove that gay marriage would not work. Jakartha completed this task, rather reluctantly at first, by shooting the egg with a sniper rifle. This egg was later revealed to be a fake, a dud, set up by Kyle because he did not believe that Stan would be able to care for it.
@@ -26,6 +26,7 @@ FollowThatEgg (80).png|Jakartha being hired by [[Janet Garrison]] to kill Stan a
 ==References==
 {{reflist}}
 {{Minor Characters from Season Nine}}
+[[ja:ジャカルタ]]
 [[zh:雅加萨]]
 [[Category:Characters]]
 [[Category:Male characters]]

@@ -7,7 +7,7 @@
 |gender = Male
 |age = 9-10
 |job = Crime Fighters; Superheros
-|grade = [[The 4th Grade|4th grade]]
+|grade = [[The 4th Grade|4th Grade]]
 |member1 = [[The Coon (Character)|The Coon]]
 |member2 = [[Mysterion]] (formerly)
 |member3 = [[Mint-Berry Crunch]] (formerly)
@@ -134,15 +134,9 @@ The passcodes to enter the Coon Lair are as below:
 *561 (RETRIBUTION WITH INCLUSION) - On Day 4 (Wednesday) and onward in-game.
 
 ==Gallery==
-<gallery widths="120">
+<gallery widths="160" spacing="small" caption="Images of Coon and Friends">
 Spfbw-characters-header-logo-coon.png|The Coon and Friends Logo
-Screenshot (756).png
-Screenshot (720).png
-Screenshot (760).png
-Screenshot (596).png
-Screenshot (759).png
-Screenshot (755).png
-Screenshot (754).png
+Superhero franchise plan.png
 </gallery>
 
 ==Prominence==

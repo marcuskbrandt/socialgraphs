@@ -1,6 +1,9 @@
 {{South Park character
 |name = Mr. Gueermo
-|image = Mrgueermo.png
+|image = <gallery>
+Mrgueermo.png|Current
+Future Mr Gueermo.png|Elderly
+</gallery>
 |gender = Male
 |race = Caucasian
 |hair = Brown
@@ -49,6 +52,9 @@ Most of the comedy of Mr. Gueermo comes from his very effeminate personality con
 *"[[Stunning and Brave]]" - 
 *"[[The City Part of Town]]" - Seen at the [[Whole Foods Market]].
 *"[[South ParQ Vaccination Special]]" - Seen at the end celebrating the end of the pandemic.
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 ==Trivia==
 *His name sounds like "Queer Mo", meaning one who acts exaggeratedly gay, because of his flamboyant personality

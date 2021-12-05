@@ -6,7 +6,7 @@
 |hair = Brown
 |age = {{Age|1942|1|5}}
 |dob = January 5, 1942
-|job = Former talk show host
+|job = Former Talk Show Host
 |voice = [[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt0766092/fullcredits?ref_=tt_cl_sm#cast|title="South Park" Timmy 2000 (TV episode 2000)|publisher=IMDb.com}}</ref>
 |wikipedia = [[Wikipedia:Charlie Rose|Charlie Rose]]
 |appearance = "[[Timmy 2000]]"

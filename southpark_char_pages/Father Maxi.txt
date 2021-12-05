@@ -4,6 +4,7 @@
 FatherMaxiCurrent.png|Current
 FatherMaxiNoGlasses.png|No Glasses
 FatherMaxi_Transparent.png|Former
+Future Father Maxi.png|Elderly
 80a.jpg|SPS
 </gallery>
 |gender = Male
@@ -46,7 +47,9 @@ Father Maxi temporarily closes the church and becomes friends with [[Butters Sto
 ==Appearance==
 Priest Maxi can sometimes be seen wearing black pants, black shoes, and a black shirt with a white roman collar. Other times he wears a black cassock and a purple stole, traditionally worn in the Catholic church during Lent and Advent. He has brown and gray hair with a hairstyle and a double chin, he also has a wart on his forehead and his eyes are slightly spread apart, and he is seen wearing black glasses. Father Maxi's appearance was lightly redone in the episode "[[A Boy And A Priest]]".
 
-<gallery widths="120px" caption="Images of Priest Maxi">
+In the future timeline set in ''[[South Park: Post Covid]]'', he wears a red and black cardinal robe.
+
+<gallery widths="160" spacing="small" caption="Images of Priest Maxi">
 IkesWeeWee15.jpg|Father Maxi reading [[Ike Broflovski|Ike's]] eulogy in "[[Ike's Wee Wee]]".
 302 Spontaneous Combustion 00010.jpg|Father Maxi preaching about spontaneous combustion in "[[Spontaneous Combustion]]".
 KornsGroovyPirateGhostMystery16.gif|Father Maxi upset over halloween in "[[Korn's Groovy Pirate Ghost Mystery]]".
@@ -98,7 +101,6 @@ Priest Maxi PD.png|'''[[Priest Maxi (Phone Destroyer)|Priest Maxi]]'''
 *"[[Conjoined Fetus Lady]]" - Seen cheering for [[Nurse Gollum]].
 *"[[Cow Days]]"
 *"[[Spontaneous Combustion]]" - Minister at Kenny's funeral.
-*''[[South Park: Bigger, Longer & Uncut]]'' (cameo)
 *"[[Korn's Groovy Pirate Ghost Mystery]]" - Protests against Halloween for being wicked.
 *"[[Chinpokomon]]" - Seen with the group of adults trying to talk to [[Mayor McDaniels]].
 *"[[The Red Badge of Gayness]]" - Portrays a Confederate soldier in the Civil War reenactment.
@@ -131,6 +133,10 @@ Priest Maxi PD.png|'''[[Priest Maxi (Phone Destroyer)|Priest Maxi]]'''
 *"[[Bike Parade]]" - Seen smoking and watching the bike parade.
 *"[[Season Finale]]" - Minister for [[Jason White]]'s funeral.
 *"[[South ParQ Vaccination Special]]" - Minister for [[Margaret Nelson]]'s funeral.
+
+===Movies===
+*''[[South Park: Bigger, Longer & Uncut]]'' (cameo)
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 ==References==
 {{reflist}}

@@ -10,7 +10,7 @@ Hitler small.jpg|Former
 |age = 56 (deceased)
 |dob = April 20, 1889
 |died = April 30, 1945
-|job = Führer of Germany, German Politician
+|job = Politician, Führer of Germany
 |voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705948/|title="South Park" Pinkeye (TV episode 1997)|publisher=IMDb.com}}</ref><br>[[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705944/|title="South Park" Mr. Hankey's Christmas Classics (TV episode 1999)|publisher=IMDb.com}}</ref>
 |wikipedia = [[Wikipedia:Adolf Hitler|Adolf Hitler]]
 |relation1 = Parents
@@ -31,7 +31,7 @@ He does not appear in "[[The Passion of the Jew]]"; however, Cartman dresses lik
 Hitler briefly appears dressed as the "Can You Hear Me Now?" Verizon spokesperson at Satan's party in the episode "[[Hell on Earth 2006]]", getting in the way of Satan's big arrival. Unlike many of his earlier appearances, in which his head was a photo of the real Hitler, he is completely animated in this episode.
 
 ==Appearance==
-Hitler is was shown in a black suit in "[[Mr. Hankey's Christmas Classics]]". In "[[Hell on Earth 2006]]" ,he was shown in a Halloween costume wearing glasses, light gray pants, and a dark gray jacket with South Park's version of the Verizon logo in the left shoulder area.
+Hitler is was shown in a black suit in "[[Mr. Hankey's Christmas Classics]]". In "[[Hell on Earth 2006]]", he was shown in a Halloween costume wearing glasses, light gray pants, and a dark gray jacket with South Park's version of the Verizon logo in the left shoulder area.
 
 ==Prominence==
 *"[[Weight Gain 4000]]" - He is mentioned by Wendy in the cafeteria.
@@ -40,11 +40,13 @@ Hitler is was shown in a black suit in "[[Mr. Hankey's Christmas Classics]]". In
 *"[[Mr. Hankey's Christmas Classics]]" - Sings "[[O Tannenbaum]]".
 *"[[Do the Handicapped Go to Hell?]]" (cameo)
 *"[[Hell on Earth 2006]]" - He attends Satan's Halloween party.
+*"[[Make Love, Not Warcraft]]" - Mentioned by Cartman.
 *''[[South Park: The Stick of Truth]]'' - The Nazi zombies are voiced by Hitler's speeches.
 *"[[Sponsored Content]]" - He is mentioned by [[PC Principal]].
+*"[[Member Berries]]" - Mentioned by [[Kyle Broflovski|Kyle]].
 
 ==Gallery==
-<gallery widths="150" orientation="none" spacing="small">
+<gallery widths="160" spacing="small" caption="Images of Adolf Hitler">
 hitler small.jpg|Hitler, as seen in an educational video in "[[Pinkeye]]"
 Hellhitler.JPG|Hitler in ''[[South Park: Bigger, Longer & Uncut]]''
 Hitler2.JPG|Hitler in "[[Mr. Hankey's Christmas Classics]]"
@@ -61,6 +63,7 @@ Hitler3.JPG|Hitler in "[[Hell on Earth 2006]]"
 {{PoliticalCelebrities}}
 [[es:Adolfo Hitler]]
 [[fr:Adolf Hitler]]
+[[ja:アドルフ・ヒトラー]]
 [[ru:Адольф Гитлер]]
 [[zh:阿道夫·希特勒]]
 [[Category:Characters]]

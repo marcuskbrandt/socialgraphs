@@ -3,7 +3,7 @@
 |image = Benny.png
 |gender = Male
 |hair = Brown
-|job = Bank teller
+|job = Bank Teller
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1397941/|title=Margaritaville on IMDB}}</ref>
 |appearance = "[[Margaritaville]]"
 }}

@@ -1,7 +1,7 @@
 {{South Park character
 |name = Cliff Barackman
 |image = Cliff Barackman.png
-|aliases = Elderly man with a long goatee
+|aliases = Elderly Man with a Long Goatee
 |gender = Male
 |race = Caucasian
 |hair = Gray
@@ -10,19 +10,18 @@
 |job = Cryptozoologist
 |appearance = "[[Jewpacabra]]"
 }}
-'''Cliff Barackman''' is a recurring [[City People|citizen]] of [[South Park (Location)|South Park]]. He's based upon "Finding Bigfoot"'s real person with this name,<ref>[https://en.wikipedia.org/wiki/Finding_Bigfoot "Finding Bigfoot"] on Wikipedia.</ref> and was first seen in "[[Jewpacabra]]" as part of the [[Bigfoot Researchers]] of town. In his debut he was voiced by [[Trey Parker]], in his next appearance he was briefly voiced in a grunt by [[Matt Stone]] in the end of "[[A Song of Ass and Fire]]".
+'''Cliff Barackman''' is a recurring [[City People|citizen]] of [[South Park (Location)|South Park]]. He is based upon "Finding Bigfoot"'s real person with this name,<ref>[https://en.wikipedia.org/wiki/Finding_Bigfoot "Finding Bigfoot"] on Wikipedia.</ref> and was first seen in "[[Jewpacabra]]" as part of the [[Bigfoot Researchers]] of town. In his debut he was voiced by [[Trey Parker]], in his next appearance he was briefly voiced in a grunt by [[Matt Stone]] in the end of "[[A Song of Ass and Fire]]".
 
 ==Appearance==
-He's a Caucasian male designed to look in his 60s (while his real-life-self is much younger) who has a widow's peak and a thin mustache, who sports a long goatee. While in his debut, he doesn't wear a hat. In his later appearances he's shown wearing a dark blue cap, alongside his usual attire consisted of a white shirt under a dark blue coat, light beige pleated trousers and brown boots with light grey cover to the toes.
+He is a Caucasian male who has a widow's peak and a thin mustache, who sports a long goatee. While in his debut, he does not wear a hat. In his later appearances he is shown wearing a dark blue cap, alongside his usual attire consisted of a white shirt under a dark blue coat, light beige pleated trousers, and brown boots with light grey cover to the toes.
 
 He bears much resemblance to [[James Cameron]]'s design.
-<gallery spacing="small" caption="Images of Cliff Barackman" widths="165">
 
+<gallery spacing="small" caption="Images of Cliff Barackman" widths="160">
 Jewpacabra00039.png|Cliff Barackman's debut in "[[Jewpacabra]]"
 SongofAssandFire00060.png|Cliff fighting a costumer in "[[A Song of Ass and Fire]]".
 TittiesandDragons00029.png|Seen standing in the right of the second row.
 South Park Citizens rooting for Mr. Mackey's song (''christmas Snow'').png|Seen drinking while rooting for [[Mr. Mackey]]'s song before Santa talks about the dangers of drinking and driving.
-
 </gallery>
 
 ==Prominence==
@@ -38,6 +37,7 @@ South Park Citizens rooting for Mr. Mackey's song (''christmas Snow'').png|Seen 
 
 ==References==
 {{Reflist}}
+[[fr:Cliff Barackman]]
 [[pl:Cliff Barackman]]
 [[zh:克里夫·巴拉克曼]]
 [[Category:Elderly people]]

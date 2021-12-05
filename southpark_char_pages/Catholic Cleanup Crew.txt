@@ -2,8 +2,8 @@
 |name = Clean-up Crew
 |image = Church-leadership-clean-up-crew.png
 |gender = Male
-|type = Catholic priests
-|job = Cleaning and cover-up
+|type = Catholic Priests
+|job = Cleaning and Cover-Up
 |religion = Roman Catholic
 |first = "[[A Boy And A Priest]]"
 |times = 1

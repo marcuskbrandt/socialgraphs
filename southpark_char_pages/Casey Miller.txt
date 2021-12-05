@@ -5,7 +5,7 @@
 |hair = Black
 |age = 8-9
 |job = Student
-|grade = 3rd grade
+|grade = 3rd Grade
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1546329/|title="South Park" Dances with Smurfs (TV episode 2009)|publisher=IMDb.com}}</ref>
 |appearance = "[[Dances with Smurfs]]"
 }}
@@ -35,6 +35,7 @@ Smurfs Deleted Scene 3.png|Casey getting punched in the face by Eric Cartman.</g
 {{Minor Characters from Season Thirteen}}
 {{South Park Children}}
 [[fr:Casey Miller]]
+[[pl:Casey Miller]]
 [[ru:Кейси Миллер]]
 [[zh:凯西·米勒]]
 [[Category:Characters]]

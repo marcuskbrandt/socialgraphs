@@ -5,7 +5,7 @@
 |gender = Male
 |age = 9-10
 |job = Musicians
-|grade = [[The 4th Grade|4th grade]]
+|grade = [[The 4th Grade|4th Grade]]
 |member1 = [[Eric Cartman]] 
 |member2 = [[Kyle Broflovski]] 
 |member3 = [[Stan Marsh]] 

@@ -37,7 +37,7 @@ In "[[Fishsticks]]", he wore a black suit with a black tie. In his redesign, his
 *"[[Funnybot]]" - Appears as one of the out-of-work comedians holding up the school.
 
 ==Gallery==
-<gallery widths="200">
+<gallery widths="160" spacing="small" caption="Images of Conan O'Brien">
 Conan o'brien 3.png
 Conan o'brien 4.png
 Conan o'brien 5.png
@@ -52,6 +52,7 @@ Conan o'brien 5.png
 {{Reflist}}
 {{Minor Characters Movie}}
 {{TelevisionCelebrities}}
+[[fr:Conan O'Brien]]
 [[ja:コナン・オブライエン]]
 [[zh:柯南·奥布莱恩]]
 [[Category:Celebrities]]

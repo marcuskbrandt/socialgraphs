@@ -1,10 +1,10 @@
 {{Group
 |image = Tardicaca-camp-counselors.png
 |name = Tardicaca Camp Counselors
-|gender = Male and female
-|job = Camp counselors<br>Teacher (Steve)
+|gender = Male and Female
+|job = Camp Counselors<br>Teacher (Steve)
 |member1 = [[Steve]]
-|member2 = Other camp counselors
+|member2 = Other Camp Counselors
 |first = "[[Crippled Summer]]"
 }}
 The '''Tardicaca Camp Counselors''' are counselors at [[Lake Tardicaca]], a summer camp for disabled children. They first appear in the [[Season Fourteen]] episode, "[[Crippled Summer]]".

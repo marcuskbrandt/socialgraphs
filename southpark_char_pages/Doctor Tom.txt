@@ -12,22 +12,25 @@ Dr-tom.png|Former
 |appearance = "[[Tom's Rhinoplasty]]"
 |last = "[[Members Only]]"
 }}
-'''Doctor Tom''' was first seen in the [[Season One]] episode, "[[Tom's Rhinoplasty]]".
+'''Doctor Tom''' is a rhinologist and surgeon who owns the commonly-seen business, [[Tom's Rhinoplasty (Location)|Tom's Rhinoplasty]]. He was first seen in the [[Season One]] episode, "[[Tom's Rhinoplasty]]".
 
 ==Background==
-Doctor Tom owns [[Tom's Rhinoplasty (Location)|Tom's Rhinoplasty]], a business seen in many of the episodes, but only featured in "[[Tom's Rhinoplasty]]".
+Doctor Tom is first referred as the owner of [[Tom's Rhinoplasty (Location)|Tom's Rhinoplasty]], a business seen in several episodes of the show as a prominent location on [[Main Street]], though the interior has only been seen in three instances.
 
-In "[[Tom's Rhinoplasty]]", Doctor Tom gave [[Herbert Garrison]] a new nose, which made him resemble actor [[David Hasselhoff]].
+In "[[Tom's Rhinoplasty]]", Doctor Tom advises [[Herbert Garrison]] on the new nose he has always wanted, selecting a procedure that makes him resemble actor [[David Hasselhoff]] and causes him to be incredibly attractive.
 
-In "[[The City Part of Town]]", he is seen cleaning the building.
+In "[[South Park: Bigger, Longer & Uncut]]", the interior of his business can be seen, where [[Sharon Marsh]] acts as a receptionist. He makes a cameo in the film during the final sequence.
+
+In "[[The City Part of Town]]", he is seen cleaning the building in preparation for the arrival of the [[Whole Foods Representative]] and is also seen eating at [[SoDoSoPa]] with other townspeople.
+
+In "[[Members Only]]", he performs surgery again on Garrison, inviting his advisors [[Reince Priebus]] and [[Steve Bannon]] to see the results.
 
 ==Appearance==
-Tom is a young doctor, who slightly resembles [[Christopher Reeve]]. He is a muscular man with attractive features that may be natural or be altered via plastic surgery, he wears a white lab coat and green doctors scrubs.
-Tom's appearance has been redesigned in his most recent appearance on "[[Members Only]] ".
+Tom is a young doctor, who slightly resembles [[Christopher Reeve]]. He is a muscular man with attractive features that may be natural or be altered via plastic surgery, he wears a white lab coat and green doctors scrubs. Tom's appearance has been slightly redesigned in his most recent appearance on "[[Members Only]] ", and he now has a larger head and a slightly thinner build.
 
 ==Video Games==
 ===''[[South Park: The Stick of Truth]]''===
-Tom appears as a minor character in the game, though unseen, remaining at [[Tom's Rhinoplasty (Location)|Tom's Rhinoplasty]] during the entire game. He retains the same role in the show, performing plastic surgery on people.
+Tom appears as a minor character in the game, though unseen, remaining at [[Tom's Rhinoplasty (Location)|Tom's Rhinoplasty]] during the entire game. He retains the same role in the show, performing plastic surgery on people, with "The Hasselhoff" as one of the options available and photographs of the actor throughout the building.
 
 ==Prominence==
 *"[[Tom's Rhinoplasty]]"
@@ -39,6 +42,7 @@ Tom appears as a minor character in the game, though unseen, remaining at [[Tom'
 ==References==
 {{reflist}}
 {{Minor Characters from Season One}}
+[[fr:Doctor Tom]]
 [[pl:Doktor Tom]]
 [[zh:汤姆医生]]
 [[Category:Characters]]

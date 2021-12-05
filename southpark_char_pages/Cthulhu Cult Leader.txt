@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Black
-|job = Cult leader
+|job = Cult Leader
 |religion = [[Cult of Cthulhu]]
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1751797/|title="South Park" Mysterion Rises (TV episode 2010)|publisher=IMDb.com}}</ref>
 |appearance = "[[Mysterion Rises]]"
@@ -25,6 +25,7 @@ When he is conducting his cult meetings, he wears a black full-body robe with a 
 
 ==References==
 {{Reflist}}
+[[fr:Cthulhu Cult Leader]]
 [[zh:克苏鲁邪教领袖]]
 [[Category:Characters]]
 [[Category:Unnamed characters]]

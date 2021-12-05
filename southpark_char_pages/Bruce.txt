@@ -6,7 +6,7 @@ Bruce-old.png|Former
 </gallery>
 |gender = Male
 |hair = Brown
-|job = Audio engineer
+|job = Audio Engineer
 |voice = '''"A Very Crappy Christmas"''':<br>[[Matt Stone]]<ref>{{cite web|url=https://www.imdb.com/title/tt0705892/|title="South Park" A Very Crappy Christmas (TV episode 2000)|publisher=IMDb.com}}</ref><br>'''"Britney's New Look"''':<br>[[Trey Parker]]<ref>{{cite web|url=https://www.imdb.com/title/tt1205578/|title="South Park" Britney's New Look (TV episode 2008)|publisher=IMDb.com}}</ref><br>
 |appearance = "[[A Very Crappy Christmas]]"
 }}

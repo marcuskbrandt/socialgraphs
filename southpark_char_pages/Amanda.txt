@@ -3,8 +3,6 @@
 |image = Amanda.png
 |gender = Female
 |hair = Black
-|age = 9-10
-|grade = 4th grade
 |voice = [[Eliza J. Schneider]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0705974/|title="South Park" The Tooth Fairy's Tats 2000 (TV Episode 2000)|publisher=IMDb.com}}</ref>
 |appearance = "[[The Tooth Fairy Tats 2000]]"
 }}
@@ -24,6 +22,4 @@ Amanda has long black curly hair with a yellow flower on the right side. She wea
 [[Category:Characters]]
 [[Category:Female characters]]
 [[Category:One-off characters]]
-[[Category:4th graders]]
-[[Category:Female 4th graders]]
 [[Category:Characters voiced by Eliza J. Schneider]]

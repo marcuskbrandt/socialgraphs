@@ -2,10 +2,10 @@
 |name = Annie Bartlett
 |image = annie-bartlett.png
 |gender = Female
-|hair = Black, with red, orange, and yellow highlights
+|hair = Black, with Red, Orange, and Yellow Highlights
 |age = 10-11
 |job  = Student
-|grade = 5th grade
+|grade = 5th Grade
 |voice = [[April Stewart]]<ref>{{Cite web|url=https://www.imdb.com/title/tt1312845/|title="South Park" The Ungroundable (TV Episode 2008)|publisher=IMDb.com}}</ref>
 |appearance = "[[The Ungroundable]]"
 }}
@@ -26,7 +26,7 @@ She and other vampires in the Vampire Society make a brief appearance during the
 ==Appearance==
 Annie wears black pants, with loose, black suspenders. She wears white and black sneakers, black finger-less gloves, and black and white sweat bands. She also wears a black a-shirt, multiple pendants, and skull earrings. She has black hair with red, orange, and yellow highlights. She has black eye liners and wears star stickers on her face.
 
-<gallery widths="160" caption="Images of Annie Bartlett">
+<gallery widths="160" spacing="small" caption="Images of Annie Bartlett">
 LarryVampire2.png|Annie and other vampires catching [[Butters]] spy on them.
 LarryVampire3.png|Annie and other vampires inducting [[Butters]] in the Vampire Society.
 Vampires Butterballs.png|Annie's cameo in "[[Butterballs]]".

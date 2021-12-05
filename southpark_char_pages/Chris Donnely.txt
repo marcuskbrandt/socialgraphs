@@ -12,10 +12,10 @@
 '''Chris Donnely''' is a minor character seen during the [[Season Seventeen]] "[[Black Friday]]" trilogy as part of the Sony Fighters of Zaron. He was also seen in ''[[South Park: The Stick of Truth]]'' as part of the Elven Kingdom.
 
 ==Appearance==
-<gallery widths="120" captionalign="left" caption="Images of Chris Donnely">
-Image:Chris_Donnely_3.png
-Image:Chris_Donnely.png|Chris in "[[Black Friday]]".
-Image:Kyle_Elf_Throne.jpg|Stan, Kyle and Chris in ''The Stick of Truth''.
+<gallery widths="160" spacing="small" caption="Images of Chris Donnely">
+Chris_Donnely_3.png
+Chris_Donnely.png|Chris in "[[Black Friday]]".
+Kyle_Elf_Throne.jpg|Stan, Kyle and Chris in ''The Stick of Truth''.
 </gallery>
 
 ==Prominence==
@@ -25,6 +25,7 @@ Image:Kyle_Elf_Throne.jpg|Stan, Kyle and Chris in ''The Stick of Truth''.
 
 ===''[[South Park: The Stick of Truth]]''===
 Chris plays a minor role in the game as a member of the Drow Elves. He expresses distrust toward the [[Douchebag|New Kid]]. He was originally to be the boss fought in the Giggling Donkey and it was going to be in the Donnely Residence, however it was changed to [[Jimmy Valmer|Jimmy]] and the [[Valmer Residence]] in the final game.
+[[fr:Chris Donnely]]
 [[zh:克里斯·唐纳利]]
 [[Category:Characters]]
 [[Category:4th graders]]

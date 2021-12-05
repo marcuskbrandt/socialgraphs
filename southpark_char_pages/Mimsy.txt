@@ -3,7 +3,8 @@
 |name = Mimallah "Mimsy"
 |image = <gallery>
 MimsyBestImage.png|Current
-MimsyTransparent.png| Tardicaca Camper
+Future Mimsy.png|Adult
+MimsyTransparent.png|Tardicaca Camper
 Alter-egos-mimsy-in-lab-coat.png|Science Fair
 MimsyPhoneDestroyer.png|Phone Destroyer
 MimsyJason.png|Bring the Crunch
@@ -11,11 +12,12 @@ MimsyJason.png|Bring the Crunch
 |gender = Male
 |hair = Brown
 |age = 11
-|job = Sidekick
+|job = Student
+Sidekick
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt1644897/|title="South Park" Crippled Summer (TV episode 2010)|publisher=IMDb.com}}</ref>
 |appearance = "[[Crippled Summer]]"
 }}
-'''Mimallah "Mimsy"''' is a mentally handicapped boy. He is [[Nathan]]'s henchman in the episodes "[[Crippled Summer]]", "[[Handicar]]" and "[[Moss Piglets]]".
+'''Mimallah "Mimsy"''' is a mentally handicapped student at [[South Park Elementary|South Park Elementary.]] He is [[Nathan]]'s henchman in the episodes "[[Crippled Summer]]", "[[Handicar]]" and "[[Moss Piglets]]".
 
 ==Background==
 When [[Jimmy Valmer]] and [[Timmy]] return to [[Lake Tardicaca]], a camp for handicapped children, Jimmy unknowingly finds himself to be targeted by his former-drug dealer and leader of the Red Camp Game team, [[Nathan]], who has developed a great dislike for Jimmy due to the fact that Jimmy has led the Blue camp team to victory 3 years running. Aiding Nathan is Mimsy, a big, strong, but dimwitted lackey, who inadvertently causes all of Nathan's plans aimed at defeating the Blue team and killing Jimmy, to backfire.
@@ -24,6 +26,8 @@ Nathan's first plan is to put a Black Mamba snake into the Blue Team's canoe. Ho
 
 ==Appearance==
 Mimsy has small messy brown hair. In addition to his mental handicap, he appears to have [[wikipedia:strabismus|strabismus]] in both eyes. He is overweight to the point of his shirt not being able to fit over his stomach. He wears the standard [[Lake Tardicaca]] uniform, a red t-shirt emblazoned with the Lake Tardicaca logo near the right sleeve, and brown pants. Outside of camp, he wears a white button-up shirt and brown suit. He talks in a New Jersey-esque accent. 
+
+In ''[[South Park: Post Covid]]'', Mimsy appears as an adult man. He wears a light blue tracksuit and a gold necklace, similar to Nathan. He is also balding and has an extremely large, square chin. 
 {{GallerySubPage|name=Mimsy}}
 
 ==Personality==
@@ -45,8 +49,12 @@ Mimsy is extremely unintelligent due to his mental handicap. He often messes up 
 *"[[Handicar]]" - Seen as Nathan's sidekick in his efforts to put [[Handi Car]] out of business.
 *"[[Moss Piglets]]" - Seen as Nathan's sidekick in order to win the science fair.
 
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in [[Kenny McCormick|Kenny]]'s memorial service.
+
 ==References==
 {{Reflist}}
+{{South Park Children}}
 [[es:Mimsy]]
 [[ja:ミンジー]]
 [[pl:Mimsy]]

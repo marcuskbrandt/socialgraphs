@@ -22,7 +22,7 @@ Clone Stan Marsh was a science project for Terrance Mephesto, but it went horrib
 ==Appearance==
 Clone Stan Marsh has a similar appearance to [[Stan Marsh]]. He has a larger head with stringy, black hair and an arm that is longer than the other, and one buck-tooth that sticks out of his mouth.
 
-<gallery widths="120" caption="Images of Clone Stan Marsh">
+<gallery widths="160" caption="Images of Clone Stan Marsh">
 Clone-Stan-Marsh-Death.png|Clone Stan Marsh shot by Dr. Mephesto in "[[An Elephant Makes Love to a Pig]]".
 </gallery>
 
@@ -33,6 +33,7 @@ Clone-Stan-Marsh-Death.png|Clone Stan Marsh shot by Dr. Mephesto in "[[An Elepha
 {{Reflist}}
 {{Minor Characters from Season One}}
 [[es:Clon de Stan]]
+[[fr:Clone Stan Marsh]]
 [[zh:克隆斯坦]]
 [[Category:Characters voiced by Trey Parker]]
 [[Category:Characters]]

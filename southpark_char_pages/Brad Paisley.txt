@@ -6,7 +6,7 @@
 |hair = Brown
 |dob = October 28, 1972
 |age = {{age|1972|10|28}}
-|job = Singer-songwriter, Musician
+|job = Singer-Songwriter, Musician
 |religion = Christian
 |voice = Himself <ref>{{cite web|url= https://twitter.com/#!/BradPaisley/status/194579412719636481|title= Twitter / Brad Paisley:|author= Brad Paisley|date= April 23, 2012|publisher= Twitter.com|quote=Spent the day Sunday @SouthPark...}}</ref>
 |wikipedia = [[Wikipedia:Brad Paisley|Brad Paisley]]
@@ -21,7 +21,7 @@ In the [[Season Twenty-Two]] episode, "[[Buddha Box]]" a poster of Brad can be s
 ==Appearance==
 Brad Paisley has short, dark brown hair. He wears brown shoes, blue jeans, a black belt with a large silver belt buckle, a dark gray T-shirt, and a large white cowboy hat.
 
-<gallery widths="120" caption="Images of Brad Paisley">
+<gallery widths="160" spacing="small" caption="Images of Brad Paisley">
 PaisleyAtSPS.png|Paisley at [[South Park Studios]].
 BB_-_Brad_Paisley.png|A poster of Brad Paisley in the WXFU 88.3 lobby from "[[Buddha Box]]".
 CartmanFindsLove076.png|Paisley sings "[[The Star-Spangled Banner]]"

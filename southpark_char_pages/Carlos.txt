@@ -4,7 +4,7 @@
 |gender = Male
 |race = Latino
 |hair = Black
-|job = Poop painter
+|job = Poop Painter
 |voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705946/|title="South Park" My Future Self n' Me (TV Episode 2002) - IMDb|publisher=IMDb.com}}</ref>
 |appearance = "[[My Future Self n' Me]]"
 }}

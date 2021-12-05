@@ -4,7 +4,7 @@
 |aliases = Bill Sphinx
 |gender = Male
 |hair = Brown
-|job = FBI agent
+|job = FBI Agent
 |voice = [[Matt Stone]]<ref>{{cite web|url=http://www.imdb.com/title/tt0705940/|title="South Park" Lil' Crime Stoppers (TV episode 2003)|publisher=IMDb.com}}</ref>
 |appearance = "[[Starvin' Marvin in Space]]"
 }}

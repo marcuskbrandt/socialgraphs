@@ -3,9 +3,7 @@
 |image = Cosette.png
 |gender = Female
 |hair = Brown
-|age = 10
 |job = Student
-|grade = 4th grade
 |voice = [[Mary Kay Bergman]]<ref>Credited as the "Starving Daughter" in {{cite web|url=https://www.imdb.com/title/tt0766086/|title="South Park" Roger Ebert Should Lay Off the Fatty Foods (TV episode 1998)|publisher=IMDb.com}}</ref>
 |appearance = "[[Roger Ebert Should Lay off the Fatty Foods]]"
 }}
@@ -23,6 +21,7 @@ Cosette has messy brown hair that parted far to the right side. She wears a blac
 ==References==
 {{Reflist}}
 {{Minor Characters from Season Two}}
+[[fr:Cosette]]
 [[zh:珂赛特]]
 [[Category:Characters]]
 [[Category:Female characters]]

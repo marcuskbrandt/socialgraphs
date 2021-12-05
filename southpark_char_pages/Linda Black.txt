@@ -2,6 +2,7 @@
 |name = Linda Black
 |image = <gallery>
 Linda-black.png|Current
+Future Linda Black.png|Elderly
 Linda Black mask.png|Mask
 </gallery>
 |gender = Female
@@ -77,6 +78,9 @@ Mrs. Black has dreadlocks that are held high with a red bobble. She often wears 
 *"[[Christmas Snow]]" - Loses her "Christmas Spirit" after alcohol is prohibited during the holidays, but cheers up after [[Randy Marsh|Randy]] comes up with his Christmas special.
 *"[[The Pandemic Special]]"" - Seen at Randy's presentation.
 *"[[South ParQ Vaccination Special]]" - Seen at the end celebrating the end of the pandemic.
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 ==References==
 {{Reflist}}

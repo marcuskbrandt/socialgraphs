@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Brown
-|job = Anti-Bullying counselor/founder of [[Bucky Bailey's Bully Buckers]]
+|job = Anti-Bullying Counselor<br>Founder of [[Bucky Bailey's Bully Buckers]]
 |voice = [[Trey Parker]]
 |appearance = "[[Butterballs]]"
 }}

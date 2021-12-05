@@ -3,7 +3,7 @@
 |image = AlienConspiracyHobo.png
 |gender = Male
 |race = Zombie
-|hair = Light brown
+|hair = Light Brown
 |voice = [[Trey Parker]]
 |appearance = ''[[South Park: The Stick of Truth]]''
 }}

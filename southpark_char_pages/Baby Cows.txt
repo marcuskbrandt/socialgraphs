@@ -1,12 +1,12 @@
 {{Group
 |name = Baby Cows
 |image = Animals-baby-cows.png
-|type = Animals for slaughter
-|gender = Male/female
+|type = Animals for Slaughter
+|gender = Male and Female
 |first = "[[Fun with Veal]]"
 |times = 1
 }}
-The '''Baby Cows''' are calves ready for slaughter owned by [[Farmer Carl Denkins]] in the [[Season Six]] episode, "[[Fun with Veal]]". They were saved by [[The Boys|the boys]] at the end of the episode.
+The '''Baby Cows''' are calves ready for slaughter owned by [[Farmer Carl Denkins]] in the [[Season Six]] episode, "[[Fun with Veal]]". They were saved by [[the boys]] at the end of the episode.
 
 ==Background==
 While on a class field trip to [[Farmer Carl Denkins]] farm, [[Stan Marsh]] and [[Kyle Broflovski]] learn where veal meat comes from. Later that night [[the boys]] steal the calves in protest so they do not get slaughtered. They keep the calves in Stan's room for a week while the police try and reason with the boys to return Carl Denkins' property.

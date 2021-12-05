@@ -2,10 +2,10 @@
 |name = Brian Anthony Boitano
 |image = Brian-boitano.png
 |gender = Male
-|hair = Dark brown
+|hair = Dark Brown
 |dob = October 22, 1963
 |age = {{age|1963|10|22}}
-|job = Olympic ice skater
+|job = Olympic Ice Skater
 |voice = [[Trey Parker]]
 |wikipedia  = [[Wikipedia:Brian Boitano|Brian Boitano]]
 |appearance = "[[The Spirit of Christmas#Jesus vs. Santa|Jesus vs. Santa]]"
@@ -15,12 +15,12 @@
 
 ==Appearance==
 Brian has small eyes, as well as a generally small head. He wears a red, v-neck shirt, white blouse, black pants, and dark gray ice skates.
-<gallery widths="160" captionalign="left" spacing="small" caption="Images of Brian Boitano">
+<gallery widths="160" spacing="small" caption="Images of Brian Boitano">
 screenshot000423.png|Brian Boitano fighting an evil robot and saving mankind.
 screenshot00243.png|Brian Boitano after beating up Kublai Khan.
 Brian_SP_200.png|Brian Boitano in "[[200]]".
 Brian_Boitano.png|Brian Boitano (background) in "[[201]]".
-Picture_jhgdjgfdjg.png|Boitano as he appeared in the original Christmas short ''[[The Spirit of Christmas]]''.
+SoC-Jesus vs. Santa42.png|Boitano as he appeared in the original Christmas short ''[[The Spirit of Christmas]]''.
 </gallery>
 
 ==Personality==

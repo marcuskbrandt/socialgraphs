@@ -4,7 +4,7 @@
 |type = Tribe
 |gender = Male
 |member1 = [[Chief Running Water]]
-|member2 = Other unnamed tribe members
+|member2 = Other Unnamed Tribe Members
 |appearance = "[[Cartman's Mom is a Dirty Slut]]"
 |times = 1
 }}

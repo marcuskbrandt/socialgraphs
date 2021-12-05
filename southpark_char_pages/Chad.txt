@@ -6,7 +6,6 @@ ChadCasual.png|Casual
 </gallery>
 |gender = Male
 |hair = Red
-|age = 9
 |voice = [[Trey Parker]]<ref>{{Cite web|title="South Park" Fat Camp (TV Episode 2000)|url=https://www.imdb.com/title/tt0705924/|publisher=IMDb.com}}</ref>
 |relation1 = Parents
 |relativename1 = [[Chad's Parents ("Fat Camp")]]
@@ -24,15 +23,12 @@ Chad wears a short-sleeved white shirt with the fat camp logo, blue shorts and b
 Chad seems to be very worried about his weight; he even cried for not being able to resist eating candy. He also had the courage to own up to eating candy at the end of the episode.
 
 ==References==
-{{reflist}}
+{{Reflist}}
 {{Minor Characters from Season Four}}
 [[fr:Chad]]
 [[zh:查德]]
 [[Category:Overweight characters]]
-[[Category:4th graders]]
-[[Category:Male 4th graders]]
 [[Category:One-off characters]]
-[[Category:Other 4th graders]]
 [[Category:Minor characters]]
 [[Category:Characters]]
 [[Category:Gingers]]

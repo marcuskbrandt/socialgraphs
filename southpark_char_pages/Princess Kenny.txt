@@ -14,7 +14,7 @@ Fighters-of-zaron-lady-mccormick.png|Lady McCormick
 |birthday = March 22
 |job = Japanese Princess
 |religion = Roman Catholic
-|voice = Matt Stone (normal muffled voice)<br>Caitlin Gallogly (internal monologue)<ref>{{cite web|url=http://www.imdb.com/title/tt3237526/|title="South Park" A Song of Ass and Fire (TV episode 2013)|publisher=IMDb.com}}</ref>
+|voice = [[Matt Stone]] (normal muffled voice)<br>[[Caitlin Gallogly]] (internal monologue)<ref>{{cite web|url=http://www.imdb.com/title/tt3237526/|title="South Park" A Song of Ass and Fire (TV episode 2013)|publisher=IMDb.com}}</ref>
 |appearance = "[[Black Friday]]"
 |last = "[[Titties and Dragons]]"
 }}

@@ -4,7 +4,7 @@
 |gender = Male
 |hair = Grey
 |job = News Anchor
-|voice = 
+|voice = [[Matt Stone]]
 |appearance = "[[Naughty Ninjas]]"
 }}{{LinkDisambig|Bill (Disambiguation)}}
 '''Bill Keegan''' is a news reporter and sometimes anchor for [[Channel 4 News]]. He first appeared in the [[Season Nineteen]] episode, "[[Naughty Ninjas]]".
@@ -47,7 +47,7 @@ He appears as the newscaster for ''Good Morning South Park'' which is shown at t
 [[zh:比尔·基根]]
 [[Category:Characters]]
 [[Category:Male characters]]
-[[Category:Characters voiced by Trey Parker]]
+[[Category:Characters voiced by Matt Stone]]
 [[Category:Adult characters]]
 [[Category:Townsfolk]]
 [[Category:News reporters]]

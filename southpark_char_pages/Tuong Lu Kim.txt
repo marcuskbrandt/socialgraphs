@@ -1,7 +1,8 @@
 {{South Park character
 |name = Tuong Lu Kim
 |image = <gallery>
-city-wok-guy.png|Current
+City-wok-guy.png|Current
+Future Tuong Lu Kim.png|Elderly
 Dr-william-janus.png|Dr. William Janus
 Identities-mr-lu-kim-city-airlines.png|City Airlines
 Battle-dance-tuong.png|War Dance
@@ -93,6 +94,9 @@ City Wok, City Sushi, and the Tower of Peace appear prominently as locations in 
 *"[[Let Them Eat Goo]]" - Attempts to do a deal with the [[Goo Man]].
 *"[[The Pandemic Special]]" - Seen at [[Randy Marsh|Randy]]'s presentation and later at the hospital with a mustache.
 *"[[South ParQ Vaccination Special]]" - Seen outside [[Walgreens]] waiting in line for the [[COVID-19 Vaccine|COVID-19 vaccine]]. He is also seen at the end, celebrating the end of the [[COVID-19|pandemic]].
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 ==References==
 {{Reflist}}

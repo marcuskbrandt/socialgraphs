@@ -2,7 +2,7 @@
 |name = Brooke Shields
 |image = Tv-actors-celebrities-brooke-shields.png
 |gender = Female
-|hair = Brown and white
+|hair = Brown and White
 |dob = May 31, 1965
 |age = {{age|1965|05|31}}
 |job = Actress<br>Model
@@ -20,7 +20,7 @@ Brooke Shields also makes non-speaking cameo appearances in the [[Season Fourtee
 ==Appearance==
 Brooke Shields has brown hair with white highlights and brown eyebrows. She wears light blue eyeliner, a light blue dress, and white shoes. She also has unique lips when not talking. She has an unusually blocky and insufficiently detailed face especially compared to other characters.
 
-<gallery widths="160" captionalign="left" caption="Images of Brooke Shields">
+<gallery widths="160" spacing="small" caption="Images of Brooke Shields">
 SPBLAU Brooke Shields.png|Brooke Shields on ''Late Night with Conan O'Brien'' in ''South Park: Bigger, Longer & Uncut''.
 200-Celebrites.png|Brooke Shields in "[[200]]", in between [[Mel Gibson]] and [[Pope Benedict XVI]].
 </gallery>

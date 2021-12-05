@@ -2,6 +2,7 @@
 |name = Sarah Valmer
 |image = <gallery>
 Sarah-valmer.png|Current
+Future Sarah.png|Elderly
 Sarah Valmer mask.png|Mask
 </gallery>
 |gender = Female

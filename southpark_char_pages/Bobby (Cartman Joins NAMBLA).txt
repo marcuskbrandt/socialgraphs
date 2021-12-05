@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Brown
-|job = Ride operator
+|job = Ride Operator
 |voice = [[Trey Parker]]<ref>{{Cite web|url=https://www.imdb.com/title/tt0769424/fullcredits?ref_=tt_cl_sm|title="South Park" Cartman Joins NAMBLA (TV Episode 2000)|publisher=IMDb.com}}</ref>
 |appearance = "[[Cartman Joins NAMBLA]]"
 }}

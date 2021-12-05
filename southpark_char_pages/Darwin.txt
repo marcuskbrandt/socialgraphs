@@ -1,0 +1,23 @@
+{{South Park character
+|name = Darwin
+|image = Darwin.png
+|gender = Male
+|hair = Light Brown
+|relation1 = Wife
+|relativename1 = [[Wendy Testaburger]]
+|appearance = ''[[South Park: Post Covid]]''
+}}
+'''Darwin''' is a minor character who appears in ''[[South Park: Post Covid]]''.
+
+==Background==
+In the future timeline set in ''[[South Park: Post Covid]]'', he is married to [[Wendy Testaburger]]. He joins Wendy's other friends in attending [[Kenny McCormick|Kenny's]] memorial service, as well as their investigation on Kenny's true cause of death.
+
+When it is discovered that [[Stan Marsh|Stan]], [[Kyle Broflovski|Kyle]], [[Eric Cartman|Cartman]] were the ones responsible for ruining the future, Darwin turns to Wendy and remarks that her friends are all "kind of douchebags."
+
+==Appearance==
+Darwin has light brown hair, graying at the sides. He wears a brown suit with white shirt and a green bow tie that has been tied into an irregular shape.
+[[zh:达尔文]]
+[[Category:Characters]]
+[[Category:One-off characters]]
+[[Category:Adult characters]]
+[[Category:Male characters]]

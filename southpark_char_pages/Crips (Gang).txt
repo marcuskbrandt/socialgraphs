@@ -1,9 +1,9 @@
 {{Group
 |name = Crips
 |image = Groups-crips.png
-|type = Street gang
+|type = Street Gang
 |enemies = [[Bloods (Gang)|Bloods]]
-|gender = Male and female
+|gender = Male and Female
 |member1 = [[Timmy Burch]]
 |member2 = [[Jimmy Valmer]]
 |first = "[[Krazy Kripples]]"
@@ -24,6 +24,7 @@ The Crips wear blue handkerchiefs, blue clothes, and have many tattoos.
 **They are rivals with the Bloods, as depicted in "[[Krazy Kripples]]".
 
 {{Minor Characters from Season Seven}}
+[[fr:Crips (Gang)]]
 [[zh:瘸帮]]
 [[Category:Groups]]
 [[Category:One-off characters]]

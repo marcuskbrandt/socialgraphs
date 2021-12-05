@@ -6,7 +6,7 @@
 |hair = Blond
 |age = {{age|1958|10|17}}
 |birthday = October 17, 1958
-|job = Singer-songwriter
+|job = Singer-Songwriter
 |voice = [[Trey Parker]]<ref>{{cite web|url=http://www.imdb.com/title/tt0766077/|title="South Park" A Ladder to Heaven (TV Episode 2002) - IMDb|publisher=IMDb.com}}</ref>
 |wikipedia = [[wikipedia:Alan Jackson|Alan Jackson]]
 |appearance = "[[A Ladder to Heaven]]"

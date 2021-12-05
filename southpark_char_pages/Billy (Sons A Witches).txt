@@ -4,7 +4,7 @@
 |aliases = Bertie
 |gender = Male
 |race = Caucasian
-|hair = Dark brown
+|hair = Dark Brown
 |age = 9-10
 |grade = [[The 4th Grade|4th Grade]]
 |appearance = "[[Sons A Witches]]"

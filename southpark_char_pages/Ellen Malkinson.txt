@@ -1,5 +1,8 @@
 {{South Park character
-|image = Adults-mrs-malkinson.png
+|image = <gallery>
+Adults-mrs-malkinson.png|Current
+Future Ellen.png|Elderly
+</gallery>
 |gender = Female
 |hair = Brown
 |relation1 = Son
@@ -19,6 +22,8 @@ In "[[South ParQ Vaccination Special]]", she argues with her husband over lettin
 ==Appearance==
 Ellen Malkinson has short combed brown hair and is overweight. She wears a pale red sweater, green pants and black shoes. She also wears round gray glasses and very small earrings.
 
+In the future timeline set in ''[[South Park: Post Covid]]'', her hair has significantly faded. She wears a slightly darker shade of green pants, and a pair of round gold glasses.
+
 ==Family==
 ===[[Scott Malkinson]]===
 Scott is the son of Ellen Malkinson. They appear to have a good relationship, as she was glad Scott had met a girl with diabetes at school.
@@ -31,6 +36,9 @@ Clark is the husband of Ellen Malkinson. It is not clear what her relationship w
 *"[[The Pandemic Special]]" - Appears in a Zoom conference with [[Mr. Mackey]] and other parents.
 *"[[South ParQ Vaccination Special]]" - Argues with her husband about letting their son go to school.
 *''[[South Park: The Fractured But Whole]]'' - Mentioned.
+
+===Movies===
+*''[[South Park: Post Covid]]'' - Appears in the [[Shady Acres]] retirement home.
 
 {{Minor Characters from Season Twenty-Three}}
 {{South Park Families}}

@@ -7,6 +7,7 @@
 |age = {{Age|1962|9|6}}
 |dob = September 6, 1962
 |job = Former Governor of New Jersey
+|wikipedia = [[wikipedia:Chris Christie|Chris Christie]]
 |appearance = "[[Member Berries]]"
 }}
 {{LinkDisambig|Christopher (Disambiguation)}}
@@ -20,6 +21,7 @@ Chris Christie has dull brown hair and appears overweight. He wears a navy blue 
 
 {{PoliticalCelebrities}}
 {{Minor Characters from Season Twenty}}
+[[ja:クリス・クリスティ]]
 [[zh:克里斯·克里斯蒂]]
 [[Category:Characters]]
 [[Category:Male characters]]

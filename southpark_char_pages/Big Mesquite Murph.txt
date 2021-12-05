@@ -4,7 +4,7 @@
 |gender = Male
 |race = Caucasian
 |hair = Black
-|job = Hog wrestler
+|job = Hog Wrestler
 |voice = <!-- Please do not add voice actor unless you're able to find a reliable source (Wikipedia is NOT a reliable source) proving who the voice actor of this character is. Thank You for your cooperation. -->
 |appearance = "[[Shots|Shots!!!]]"
 |last = "[[South ParQ Vaccination Special]]"

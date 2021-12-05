@@ -7,6 +7,7 @@
 |age = {{Age|1967|10|11}}
 |dob = October 11, 1967
 |job = Businessman
+|wikipedia = [[wikipedia:Peter Thiel|Peter Thiel]]
 |appearance = "[[Member Berries]]"
 }}
 {{LinkDisambig|Pete (Disambiguation)}}
@@ -18,6 +19,8 @@ Peter Thiel appears as one of the advisors for [[Herbert Garrison|Mr. Garrison]]
 ==Appearance==
 Peter Thiel has short brown hair, and wears a black suit over a turquoise shirt.
 
+{{Minor Characters from Season Twenty}}
+[[ja:ピーター・ティール]]
 [[zh:彼得·蒂尔]]
 [[Category:Characters]]
 [[Category:Male characters]]
