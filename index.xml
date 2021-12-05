@@ -22,7 +22,8 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://koldborg.tech/docs/basic-stats/</guid>
-      <description></description>
+      <description>The network has been created by looking at every character page and seeing which character that character links to. From this a netwhork has been created and we will look at the GCC for this network, both the directed and the undirected.
+Undirected GCC Starting by looking at the table below. The network has 1551 nodes and 5652 edges. The average degrre is 7.3 and average distance between 2 nodes are 3.</description>
     </item>
     
     <item>
