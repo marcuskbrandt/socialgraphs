@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 
 # Controls how many words are printed in the content summary on the docs homepage.
 # See https://gohugo.io/content-management/summaries/
-summaryLength = 30
+summaryLength = 10
 
 [[menu.main]]
     name = "Home"
@@ -37,15 +37,15 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = ""
+    meta_og_title = ""
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = ""
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
