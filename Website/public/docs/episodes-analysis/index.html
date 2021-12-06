@@ -4,14 +4,14 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Configuration - South Park Network Analysis</title>
+  <title>Episode analysis - South Park Network Analysis</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://koldborg.tech/favicon.png">
 
   
   
-  <link rel="stylesheet" href="/css/style.min.6719d72e323121369d5caeb4264b95d8a63cf1deaab029da67602fe5a046e0a4.css">
+  <link rel="stylesheet" href="/css/style.min.8bd43ab4ad24ee55a4091aba88eb789953c2c8033cd6d90c0abeba937594da92.css">
   
 
   
@@ -29,9 +29,9 @@
       </a>
     </li>
     
-    <li class="menu-item-docs">
+    <li class="menu-item-network analysis">
       <a href="/docs/">
-        <span>docs</span>
+        <span>Network Analysis</span>
       </a>
     </li>
     
@@ -56,9 +56,9 @@
       </a>
     </li>
     
-    <li class="menu-item-docs">
+    <li class="menu-item-network analysis">
       <a href="/docs/">
-        <span>docs</span>
+        <span>Network Analysis</span>
       </a>
     </li>
     
@@ -91,19 +91,19 @@
   <ul>
     
     <li class="">
-      <a href="https://koldborg.tech/docs/sentiment-analysis/">Sentiment analysis</a>
-    </li>
-    
-    <li class="">
-      <a href="https://koldborg.tech/docs/dendergodemappe/">Sjov og ballede</a>
+      <a href="https://koldborg.tech/docs/dataset/">The Dataset</a>
     </li>
     
     <li class="">
       <a href="https://koldborg.tech/docs/basic-stats/">Basic stats</a>
     </li>
     
+    <li class="">
+      <a href="https://koldborg.tech/docs/sentiment-analysis/">Sentiment analysis</a>
+    </li>
+    
     <li class="active ">
-      <a href="https://koldborg.tech/docs/episodes-analysis/">Configuration</a>
+      <a href="https://koldborg.tech/docs/episodes-analysis/">Episode analysis</a>
     </li>
     
     <li class="">
@@ -121,35 +121,16 @@
         </div>
         <div class="col-12 col-md-9">
           
-<h1 class="title">Configuration</h1>
+<h1 class="title">Episode analysis</h1>
 <div class="content ">
-  <h2 id="syntax-highlighting">Syntax Highlighting</h2>
-<p>Whisper uses the in-built code highlighting that ships with hugo. <a href="https://gohugo.io/content-management/syntax-highlighting/">https://gohugo.io/content-management/syntax-highlighting/</a></p>
-<p>You can insert code snippets in any markdown file by using standard code fences syntax ie:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">```
-insert code here
-```
-</code></pre></div><p>You can specify the langauge by adding a declaration after the backticks</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">```javascript
-insert code here
-```
-</code></pre></div><h3 id="pygments-options">Pygments Options</h3>
-<p>The following code highlighting options are configured in the <code>config.toml</code></p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="nx">pygmentsCodeFences</span> <span class="p">=</span> <span class="kc">true</span>
-<span class="nx">pygmentsCodefencesGuessSyntax</span> <span class="p">=</span> <span class="kc">true</span>
-<span class="nx">pygmentsUseClasses</span> <span class="p">=</span> <span class="kc">true</span>
-</code></pre></div><h2 id="main-menu">Main menu</h2>
-<p>Configure the main menu by editing the <code>config.toml</code></p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
-<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Home&#34;</span>
-<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/&#34;</span>
-<span class="nx">weight</span> <span class="p">=</span> <span class="mi">1</span>
+  <h1 id="sentiment-analysis-through-time">Sentiment analysis through time</h1>
+<p>The tv show has run for many years and therefore an interesting thing to look at is how the sentiment has evolved over the years. The focus will be on the 4 main characters and how their sentimental analysis score evolves through the years. The 4 main characters has very different personalities which is also something that we hope will be shown in the sentiment analysis.</p>
+<p>The focus will be on their dialogue from all the epsiodes. A dataset can be created from the scripts of every episode and then take out the text where one of the 4 main characters are talking. This csv file can be found on our github <a href="https://github.com/koldbrandt/socialgraphs/blob/main/Character_lines_episodes.csv">here</a>.</p>
+<p>Vader has been used to do the sentiment analysis. In the plot below the avergae compound score for the season is plottet for each main character.</p>
+<p><img src="/images/average-compound-seasons.png" alt="&ldquo;Sentiment through the years&rdquo;"></p>
+<p>As it can be seen the sentiment compound score almost evolves like a sinus curve. It is interesting to look at Cartman, since he will be seen by many to very rude to other people. It is then interesting to see that he has a rather positive sentiment in many of the seasons. Eventhough kenny doesn&rsquo;t say much he is still get a negative compound score. This probably reflects that he is not the happiest guy in the show and comes from a less wealthy family and are always moped by the other characters. Stan is clearly the most happy person in the group, which is also expected. Kyle is mostly negative, but has some seasons where he is positive.<br>
+Vader do not understand sarcasm, which is a big part of the show. This can also have influenced the score.</p>
 
-<span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
-<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Docs&#34;</span>
-<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/docs/&#34;</span>
-<span class="nx">weight</span> <span class="p">=</span> <span class="mi">2</span>
-</code></pre></div>
 </div>
 </div>
 
@@ -159,19 +140,7 @@ insert code here
     
   </div>
 
-  <div class="sub-footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="sub-footer-inner">
-          <ul>
-            <li class="zerostatic"><a href="https://www.zerostatic.io">www.zerostatic.io</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+  
 
   
 
