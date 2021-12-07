@@ -60,38 +60,24 @@ From the above plot it is clearly visible that the "Heidi Turner" community is t
 It can also be seen that the four main characters each are the main character of a community, meaning that they are the most connected character within that community. 
 We can now investigate which category is the most common within each community.
 
-
-Community Heidi Turner: uncategorized
-
-Community Eric Cartman: uncategorized
-
-Community Stan Marsh: celebrities
-
-Community Kenny McCormick: uncategorized
-
-Community Ike Broflovski: uncategorized
-
-Community Randy Marsh: uncategorized
-
-Community Satan: uncategorized
-
-Community Butters Stotch: uncategorized
-
-Community Kyle Broflovski: uncategorized
-
-Community Herbert Garrison: uncategorized
-
-Community Timmy Burch: uncategorized
-
-Community Officer Barbrady: uncategorized
-
-Community Sharon Marsh: celebrities
-
-Community Muhammad: 4th graders
-
-Community Barack Obama: uncategorized
-
-Community Franz: uncategorized
+| Community name  | Category  |
+|---|---|
+| Heidi Turner  |  uncategorized |
+|  Eric Cartman |  uncategorized |
+|   Stan Marsh | celebrities  |
+|   Kenny McCormick | uncategorized  |
+|   Ike Broflovski | uncategorized  |
+|   Randy Marsh | uncategorized  |
+|   Satan | uncategorized  |
+|   Butters Stotch: | uncategorized  |
+|   Kyle Broflovski | uncategorized  |
+| Herbert Garrison| uncategorized|
+| Timmy Burch| uncategorized|
+| Officer Barbrady| uncategorized|
+| Sharon Marsh| celebrities|
+| Muhammad| 4th graders|
+| Barack Obama| uncategorized|
+| Franz| uncategorized|
 
 Clearly almost every community will have the uncategorized category as their most commmon category. 
 This makes sense as uncategorized was by far the largest category, as described at the start of the section. 
@@ -100,37 +86,24 @@ The Stan Marsh community has many celebrities, meaning that stan and his communi
 
 As the above list does not give a detailed overview of the most common categories, the most common categories are removed in the list below (unless the community only contains characters with one of the major categories)
 
-Community Heidi Turner: crossover characters
-
-Community Eric Cartman: 4th graders
-
-Community Stan Marsh: political celebrities
-
-Community Kenny McCormick: television celebrities
-
-Community Ike Broflovski: television celebrities
-
-Community Randy Marsh: crossover characters
-
-Community Satan: kindergartners
-
-Community Butters Stotch: 4th graders
-
-Community Kyle Broflovski: music celebrities
-
-Community Herbert Garrison: television celebrities
-
-Community Timmy Burch: animals
-
-Community Officer Barbrady: political celebrities
-
-Community Sharon Marsh: political celebrities
-
-Community Muhammad: 4th graders
-
-Community Barack Obama: uncategorized
-
-Community Franz: television celebrities
+| Community name  | Category  |
+|---|---|
+| Heidi Turner| crossover characters|
+| Eric Cartman| 4th graders|
+| Stan Marsh| political celebrities|
+| Kenny McCormick| television celebrities|
+| Ike Broflovski| television celebrities|
+| Randy Marsh| crossover characters|
+| Satan| kindergartners|
+| Butters Stotch| 4th graders|
+| Kyle Broflovski| music celebrities|
+| Herbert Garrison| television celebrities|
+|Timmy Burch| animals|
+| Officer Barbrady| political celebrities|
+| Sharon Marsh| political celebrities|
+| Muhammad| 4th graders|
+| Barack Obama| uncategorized|
+|Franz| television celebrities|
 
 Most of the communities still have celebrities as the most common members, and interesstingly, the four main characters each have a different category within their communities.
 It is also worth to note that the main category in the satan community is the kindergarterners (evil little pricks).

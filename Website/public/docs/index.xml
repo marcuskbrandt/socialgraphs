@@ -36,6 +36,15 @@ Undirected GCC Starting by looking at the table below. The network has 1551 node
     </item>
     
     <item>
+      <title>Sjov og ballede</title>
+      <link>https://koldborg.tech/docs/dendergodemappe/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/dendergodemappe/</guid>
+      <description>skidefis</description>
+    </item>
+    
+    <item>
       <title>Episode analysis</title>
       <link>https://koldborg.tech/docs/episodes-analysis/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
@@ -50,7 +59,9 @@ Undirected GCC Starting by looking at the table below. The network has 1551 node
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://koldborg.tech/docs/categories-vs-communities/</guid>
-      <description></description>
+      <description>To analyse the dataset we will first look into the categories and communities of the dataset. The categories is defined by the wikipage and can be seen in the picture below.
+The category for each character is listed in the bottom of the character page. The pattern for categries are [[Category: category name]] like the list below. (the example below is from the character page George W Bush)
+[[Category:Characters]][[Category:Political celebrities]][[Category:Presidents of the United States]][[Category:Male characters]][[Category:Adult characters]][[Category:Minor characters]][[Category:Characters voiced by Matt Stone]][[Category:Characters voiced by Kyle McCulloch]][[Category:Elderly people]]Many of the character pages had the same categories such as &amp;ldquo;Category:Characters voiced by Kyle McCulloch&amp;rdquo; and this does not make sense to analyse upon, as almost all characters are voiced by the same actors.</description>
     </item>
     
     <item>

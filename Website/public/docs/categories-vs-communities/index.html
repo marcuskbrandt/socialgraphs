@@ -11,7 +11,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/style.min.8bd43ab4ad24ee55a4091aba88eb789953c2c8033cd6d90c0abeba937594da92.css">
+  <link rel="stylesheet" href="/css/style.min.5ee8998c74edbf9a5fff44b82e1d6c92fe796aeb568cef391389960fa04712d8.css">
   
 
   
@@ -103,6 +103,10 @@
     </li>
     
     <li class="">
+      <a href="https://koldborg.tech/docs/dendergodemappe/">Sjov og ballede</a>
+    </li>
+    
+    <li class="">
       <a href="https://koldborg.tech/docs/episodes-analysis/">Episode analysis</a>
     </li>
     
@@ -123,7 +127,239 @@
           
 <h1 class="title">Communities and Categories</h1>
 <div class="content ">
-  
+  <p>To analyse the dataset we will first look into the categories and communities of the dataset. The categories is defined by the wikipage and can be seen in the picture below.</p>
+<p><img src="/images/wikiCategories.PNG#center" alt="&ldquo;Wiki categories&rdquo;"></p>
+<p>The category for each character is listed in the bottom of the character page. The pattern for categries are <code>[[Category: category name]]</code> like the list below. (the example below is from the character page George W Bush)</p>
+<pre>
+[[Category:Characters]]
+[[Category:Political celebrities]]
+[[Category:Presidents of the United States]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Minor characters]]
+[[Category:Characters voiced by Matt Stone]]
+[[Category:Characters voiced by Kyle McCulloch]]
+[[Category:Elderly people]]
+</pre>
+<br>
+<p>Many of the character pages had the same categories such as &ldquo;Category:Characters voiced by Kyle McCulloch&rdquo; and this does not make sense to analyse upon, as almost all characters are voiced by the same actors.
+Therefor we decided to filter out all categories that are not one of the categories listed in the picture above. The category &ldquo;School Characters&rdquo; and &ldquo;Creatures&rdquo; were not referenced on a single page, but &ldquo;Celebrities&rdquo; was. 
+The idea was to have each character be listed under their subcategory, but as many characters in the celebrity category didn&rsquo;t have a sub category, this idea was dismissed.</p>
+<br>
+<p>Many of the characters did not have one of the categories listed above, so instead they were assigned as &ldquo;uncategorized&rdquo;. This means that the largest category group is uncategorized and the plot below shows the distribution.</p>
+<p><img src="/images/categories.png" alt="&ldquo;Categories distribution&rdquo;"></p>
+<p>From the above plot, it is clearly visible that half the characters have the &ldquo;uncategorized&rdquo; category, and that the largest of the real categories are the celebrities and the 4th graders. 
+This is expected, as the show have used alot of celebrities throughout the seasons, and the 4th graders are the main characters of the show.</p>
+<br>
+<p>The communitys are found using the louvain algorithm. The modularity of the network is found to be 0.442. 
+As the modularity is positive, the number of edges within each community are greater than the number of edges would be if the communities were picked at random. 
+The number also suggest that each character within the communities are connected to alot of other characters. 
+Furthermore, the modularity is considered an optimal modularity (Network science, image 9.16). This means that the algorithm has correctly identified each community and their members.</p>
+<br>
+<p>The plot below shows the gcc network with each node colored corresponding to the community. The plot can be compared to the gcc plot where each node is colored corresponding to their category. 
+The number of characters in each community can also be seen, it is however not easy to distinguish, as some of the nodes are very small.
+Therefor a bar plot with each community size, named after their most connected character, will also be created.</p>
+<p><img src="/images/CommunityNetwork.png" alt="&ldquo;Community Network&rdquo;"></p>
+<p>The number of characters in each community can also be seen on the above plot, it is however not easy to distinguish, as some of the nodes are very small.
+Therefor a bar plot with each community size, named after their most connected character, can be seen below.</p>
+<p><img src="/images/CommunityBarPlot.png" alt="&ldquo;Community distribution&rdquo;"></p>
+<p>From the above plot it is clearly visible that the &ldquo;Heidi Turner&rdquo; community is the largest, and that generally the communities are quite large. 
+It can also be seen that the four main characters each are the main character of a community, meaning that they are the most connected character within that community. 
+We can now investigate which category is the most common within each community.</p>
+<table>
+<thead>
+<tr>
+<th>Community name</th>
+<th>Category</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Heidi Turner</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Eric Cartman</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Stan Marsh</td>
+<td>celebrities</td>
+</tr>
+<tr>
+<td>Kenny McCormick</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Ike Broflovski</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Randy Marsh</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Satan</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Butters Stotch:</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Kyle Broflovski</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Herbert Garrison</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Timmy Burch</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Officer Barbrady</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Sharon Marsh</td>
+<td>celebrities</td>
+</tr>
+<tr>
+<td>Muhammad</td>
+<td>4th graders</td>
+</tr>
+<tr>
+<td>Barack Obama</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Franz</td>
+<td>uncategorized</td>
+</tr>
+</tbody>
+</table>
+<p>Clearly almost every community will have the uncategorized category as their most commmon category. 
+This makes sense as uncategorized was by far the largest category, as described at the start of the section. 
+The few communities where the most common category is not uncategorized, have the two other largest categories, celebrities and 4th graders. 
+The Stan Marsh community has many celebrities, meaning that stan and his community mainly consists of celebrities.</p>
+<p>As the above list does not give a detailed overview of the most common categories, the most common categories are removed in the list below (unless the community only contains characters with one of the major categories)</p>
+<table>
+<thead>
+<tr>
+<th>Community name</th>
+<th>Category</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Heidi Turner</td>
+<td>crossover characters</td>
+</tr>
+<tr>
+<td>Eric Cartman</td>
+<td>4th graders</td>
+</tr>
+<tr>
+<td>Stan Marsh</td>
+<td>political celebrities</td>
+</tr>
+<tr>
+<td>Kenny McCormick</td>
+<td>television celebrities</td>
+</tr>
+<tr>
+<td>Ike Broflovski</td>
+<td>television celebrities</td>
+</tr>
+<tr>
+<td>Randy Marsh</td>
+<td>crossover characters</td>
+</tr>
+<tr>
+<td>Satan</td>
+<td>kindergartners</td>
+</tr>
+<tr>
+<td>Butters Stotch</td>
+<td>4th graders</td>
+</tr>
+<tr>
+<td>Kyle Broflovski</td>
+<td>music celebrities</td>
+</tr>
+<tr>
+<td>Herbert Garrison</td>
+<td>television celebrities</td>
+</tr>
+<tr>
+<td>Timmy Burch</td>
+<td>animals</td>
+</tr>
+<tr>
+<td>Officer Barbrady</td>
+<td>political celebrities</td>
+</tr>
+<tr>
+<td>Sharon Marsh</td>
+<td>political celebrities</td>
+</tr>
+<tr>
+<td>Muhammad</td>
+<td>4th graders</td>
+</tr>
+<tr>
+<td>Barack Obama</td>
+<td>uncategorized</td>
+</tr>
+<tr>
+<td>Franz</td>
+<td>television celebrities</td>
+</tr>
+</tbody>
+</table>
+<p>Most of the communities still have celebrities as the most common members, and interesstingly, the four main characters each have a different category within their communities.
+It is also worth to note that the main category in the satan community is the kindergarterners (evil little pricks).</p>
+<p>To analyse the communities further, the TF and TF-IDF are calculated. Below both results are shown for the five largest communities.</p>
+<h2 id="tf">TF</h2>
+<dl>
+<dt>Community Heidi Turner</dt>
+<dd>(&lsquo;randy&rsquo;, 0.0158), (&lsquo;black&rsquo;, 0.0109), (&lsquo;character&rsquo;, 0.0097), (&lsquo;hair&rsquo;, 0.0095), (&lsquo;brown&rsquo;, 0.0092)</dd>
+<dt>Community Eric Cartman</dt>
+<dd>(&lsquo;kenny&rsquo;, 0.0138), (&lsquo;black&rsquo;, 0.0083), (&lsquo;cartman&rsquo;, 0.0075), (&lsquo;hair&rsquo;, 0.0069), (&lsquo;appearance&rsquo;, 0.0055)</dd>
+<dt>Community Stan Marsh</dt>
+<dd>(&lsquo;cartman&rsquo;, 0.0305), (&lsquo;hair&rsquo;, 0.0079), (&lsquo;black&rsquo;, 0.0076), (&lsquo;kyle&rsquo;, 0.0074), (&lsquo;cartmans&rsquo;, 0.0063)</dd>
+<dt>Community Kenny McCormick</dt>
+<dd>(&lsquo;butter&rsquo;, 0.033), (&lsquo;hair&rsquo;, 0.008), (&lsquo;character&rsquo;, 0.0079), (&lsquo;appearance&rsquo;, 0.0074), (&lsquo;cartman&rsquo;, 0.0065)</dd>
+<dt>Community Ike Broflovski</dt>
+<dd>(&lsquo;timmy&rsquo;, 0.0088), (&lsquo;hair&rsquo;, 0.0078), (&lsquo;jimbo&rsquo;, 0.0072), (&lsquo;character&rsquo;, 0.007), (&lsquo;appearance&rsquo;, 0.0068)</dd>
+</dl>
+<h2 id="tf-idf">TF-IDF</h2>
+<dl>
+<dt>Community Heidi Turner</dt>
+<dd>(&lsquo;mickey&rsquo;, 0.0044), (&lsquo;haha&rsquo;, 0.0025), (&lsquo;marvel&rsquo;, 0.0024), (&lsquo;pangolin&rsquo;, 0.0023), (&lsquo;randy&rsquo;, 0.002)</dd>
+<dt>Community Eric Cartman</dt>
+<dd>(&lsquo;mysterion&rsquo;, 0.0041), (&lsquo;stuart&rsquo;, 0.004), (&lsquo;coon&rsquo;, 0.0034), (&lsquo;henrietta&rsquo;, 0.0029), (&lsquo;spielberg&rsquo;, 0.0025)</dd>
+<dt>Community Stan Marsh</dt>
+<dd>(&lsquo;hakeem&rsquo;, 0.0015), (&lsquo;maury&rsquo;, 0.0015), (&lsquo;camper&rsquo;, 0.0015), (&lsquo;stuffed&rsquo;, 0.0013), (&lsquo;liane&rsquo;, 0.0012)</dd>
+<dt>Community Kenny McCormick</dt>
+<dd>(&lsquo;linda&rsquo;, 0.0057), (&lsquo;lemmiwinks&rsquo;, 0.0041), (&lsquo;charlotte&rsquo;, 0.0041), (&lsquo;paris&rsquo;, 0.0031), (&lsquo;stephen&rsquo;, 0.003)</dd>
+<dt>Community Ike Broflovski</dt>
+<dd>(&lsquo;nathan&rsquo;, 0.006), (&lsquo;mimsy&rsquo;, 0.0055), (&lsquo;scuzzlebutt&rsquo;, 0.0055), (&lsquo;timmy&rsquo;, 0.0047), (&lsquo;jimbo&rsquo;, 0.0046)</dd>
+</dl>
+<p>This gives a nice overview of what terms are most relevant to each community.</p>
+<br>
+<p>We can also analyse the pages by looking at the most used words from the joined text of the pages. This is done by creating a cumulative distribution of the 50 most used words.</p>
+<p><img src="/images/wordSum.PNG#center" alt="&ldquo;Cumulative distribution&rdquo;"></p>
+<p>Furthermore, we check if Zipf&rsquo;s law is applicable on the dataset. 
+Zipf&rsquo;s law states that the most used word is used twice as must as the second most used word, and so forth. 
+We compare this with the plot of a random list of words.</p>
+<p><img src="/images/Zipfslaw.png#center" alt="&ldquo;Zipf&rsquo;s law&rdquo;"></p>
+<p>From the above plots it can be concluded that the southpark text does not follow zipfs law at the start, as it does have a high number of words that are used alot. 
+But as the frequency of words lower, zipfs law fits better and better on the dataset.</p>
+<p>Zipf&rsquo;s law will also be calculated for the episodes dialogue.</p>
+
 </div>
 </div>
 
