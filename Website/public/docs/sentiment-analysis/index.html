@@ -103,10 +103,6 @@
     </li>
     
     <li class="">
-      <a href="https://koldborg.tech/docs/dendergodemappe/">Sjov og ballede</a>
-    </li>
-    
-    <li class="">
       <a href="https://koldborg.tech/docs/episodes-analysis/">Episode analysis</a>
     </li>
     
@@ -118,6 +114,10 @@
       <a href="https://koldborg.tech/docs/wordclouds/">Wordclouds</a>
     </li>
     
+    <li class="">
+      <a href="https://koldborg.tech/docs/interactive/interactice/">Interactive plot</a>
+    </li>
+    
   </ul>
 </div>
 
@@ -127,7 +127,273 @@
           
 <h1 class="title">Sentiment analysis</h1>
 <div class="content ">
-  <p>skidefis</p>
+  <p>To analyse the sentiment of the character pages, both the vader lexicon and the labMT scores are used. The presumption is that the results of the two different methods will differentiate alot.</p>
+<p>The most positive character pages according to the vader compound score:</p>
+<table>
+<thead>
+<tr>
+<th>Character name</th>
+<th>Vader compound score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Douchebag</td>
+<td>0.9998</td>
+</tr>
+<tr>
+<td>Jimmy Valmer</td>
+<td>0.9988</td>
+</tr>
+<tr>
+<td>Timmy Burch</td>
+<td>0.9974</td>
+</tr>
+<tr>
+<td>Nichole Daniels</td>
+<td>0.9965</td>
+</tr>
+<tr>
+<td>Seaman</td>
+<td>0.9948</td>
+</tr>
+<tr>
+<td>Jesus Christ</td>
+<td>0.9943</td>
+</tr>
+<tr>
+<td>Girl with Blonde Hair</td>
+<td>0.9942</td>
+</tr>
+<tr>
+<td>Stephen Abootman</td>
+<td>0.9939</td>
+</tr>
+<tr>
+<td>Maggie Yates</td>
+<td>0.9935</td>
+</tr>
+<tr>
+<td>Lola</td>
+<td>0.9932</td>
+</tr>
+</tbody>
+</table>
+<p>The most positive character pages according to the vader compound score:</p>
+<table>
+<thead>
+<tr>
+<th>Character name</th>
+<th>Vader compound score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Herbert Garrison</td>
+<td>-0.9996</td>
+</tr>
+<tr>
+<td>Principal Victoria</td>
+<td>-0.9996</td>
+</tr>
+<tr>
+<td>Nathan</td>
+<td>-0.9997</td>
+</tr>
+<tr>
+<td>Saddam Hussein</td>
+<td>-0.9997</td>
+</tr>
+<tr>
+<td>Stan Marsh</td>
+<td>-0.9999</td>
+</tr>
+<tr>
+<td>Heidi Turner</td>
+<td>-0.9999</td>
+</tr>
+<tr>
+<td>Randy Marsh</td>
+<td>-0.9999</td>
+</tr>
+<tr>
+<td>Butters Stotch</td>
+<td>-0.9999</td>
+</tr>
+<tr>
+<td>Kenny McCormick</td>
+<td>-1.0</td>
+</tr>
+<tr>
+<td>Eric Cartman</td>
+<td>-1.0</td>
+</tr>
+</tbody>
+</table>
+<p>Interesstingly, the main characters have the lowest compound score, and are thus the characters described in the most negative way according to vader. 
+The happiest guy is douchebag which makes a lot of sense since he is always happy in the episodes, and he is &ldquo;new&rdquo; to South park.</p>
+<p>To get a better understanding the Vader scores can be plotted using histograms.</p>
+<p><img src="/images/vaderHist.png" alt="&ldquo;Vader Histograms&rdquo;"></p>
+<p>So from the compound plot, it can be seen that most of the characters are described in a very negative way. 
+This is especially clear in the last plot, where the compound score clearly shows that almost a third of the pages have a compound score between -1 and -0.75 meaning the wording of the pages are negatively charged.</p>
+<p>Below is the results from the labMT analysis.</p>
+<p>The most positive character pages according to the labMT happiness score:</p>
+<table>
+<thead>
+<tr>
+<th>Character name</th>
+<th>labMT score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mary, Mother of Jesus</td>
+<td>5.9757</td>
+</tr>
+<tr>
+<td>Ugly Girl (Probably)</td>
+<td>5.7279</td>
+</tr>
+<tr>
+<td>Charlotte&rsquo;s Mother</td>
+<td>5.6925</td>
+</tr>
+<tr>
+<td>Canadian Gift Shop Owner</td>
+<td>5.6331</td>
+</tr>
+<tr>
+<td>Spinny Mountain Records Producer</td>
+<td>5.633</td>
+</tr>
+<tr>
+<td>Mr. Allen</td>
+<td>5.4544</td>
+</tr>
+<tr>
+<td>Girl with Pink Coat</td>
+<td>5.4196</td>
+</tr>
+<tr>
+<td>Jeffy&rsquo;s Farmer</td>
+<td>5.4034</td>
+</tr>
+<tr>
+<td>6th Grader Girl with Blonde Hair</td>
+<td>5.3993</td>
+</tr>
+<tr>
+<td>Vegan Boy</td>
+<td>5.3928</td>
+</tr>
+</tbody>
+</table>
+<p>The most negative character pages according to the labMT happiness score:</p>
+<table>
+<thead>
+<tr>
+<th>Character name</th>
+<th>labMT score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feldspar the Thief</td>
+<td>3.1701</td>
+</tr>
+<tr>
+<td>Vaping Man</td>
+<td>3.1664</td>
+</tr>
+<tr>
+<td>Marty</td>
+<td>3.1189</td>
+</tr>
+<tr>
+<td>John Wilkes Booth</td>
+<td>3.0539</td>
+</tr>
+<tr>
+<td>Predator</td>
+<td>3.0436</td>
+</tr>
+<tr>
+<td>Clone Stan Marsh</td>
+<td>3.0079</td>
+</tr>
+<tr>
+<td>Tinkerbell</td>
+<td>3.0029</td>
+</tr>
+<tr>
+<td>Ranger McFriendly</td>
+<td>2.8883</td>
+</tr>
+<tr>
+<td>Fifi</td>
+<td>2.8494</td>
+</tr>
+<tr>
+<td>Rex</td>
+<td>2.2044</td>
+</tr>
+</tbody>
+</table>
+<p>The most positive is Mary, the mother of jesus, which makes good sense since she is considered by millions to be the holiest and greatest saint. 
+She also plays a very small part in the series, which is also the case with the rest of the characters. 
+All of the characters with the happiest and saddest pages according to labMT has very limited text in their pages, and therefor only a few words is used to calculate the labMT score.</p>
+<p>In conclusion the best analysis of this dataset is carried out by looking at the vader score instead of the labMT score. 
+Below the Vader positive result, and the labMT scores are plotted next to each other. 
+Interestingly, the labMT actually looks like a normal distribution, whereas the vader is rather right skewed. 
+From this we can conclude that vader generally interprets the text in a negative way and that labMT scores the text as almost neutral.</p>
+<p><img src="/images/labmtvsvader.png" alt="&ldquo;labMT vs Vader Histograms&rdquo;"></p>
+<p>The vader analyser is therefor chosen to look at the scores for each of the main characters</p>
+<table>
+<thead>
+<tr>
+<th>Character name</th>
+<th>Negative score</th>
+<th>Neutral score</th>
+<th>Positive score</th>
+<th>Compound score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eric Cartman</td>
+<td>0.213</td>
+<td>0.638</td>
+<td>0.148</td>
+<td>-1.0</td>
+</tr>
+<tr>
+<td>Stan Marsh</td>
+<td>0.202</td>
+<td>0.657</td>
+<td>0.141</td>
+<td>-0.9999</td>
+</tr>
+<tr>
+<td>Kyle Broflovski</td>
+<td>0.191</td>
+<td>0.645</td>
+<td>0.164</td>
+<td>-0.9995</td>
+</tr>
+<tr>
+<td>Kenny McCormick</td>
+<td>0.201</td>
+<td>0.663</td>
+<td>0.136</td>
+<td>-1.0</td>
+</tr>
+</tbody>
+</table>
+<p>So they all have very negative compound scores. This is not surprising as the following wordclouds will demonstrate</p>
+<p><img src="/images/EricCartman.png" alt="&ldquo;Cartman&rdquo;">
+<img src="/images/StanMarsh.png" alt="&ldquo;Stan&rdquo;">
+<img src="/images/KyleBroflovski.png" alt="&ldquo;Kyle&rdquo;">
+<img src="/images/KennyMcCormick.png" alt="&ldquo;Kenny&rdquo;"></p>
 
 </div>
 </div>

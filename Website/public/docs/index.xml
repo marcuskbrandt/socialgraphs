@@ -32,16 +32,9 @@ Undirected GCC Starting by looking at the table below. The network has 1551 node
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://koldborg.tech/docs/sentiment-analysis/</guid>
-      <description>skidefis</description>
-    </item>
-    
-    <item>
-      <title>Sjov og ballede</title>
-      <link>https://koldborg.tech/docs/dendergodemappe/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://koldborg.tech/docs/dendergodemappe/</guid>
-      <description>skidefis</description>
+      <description>To analyse the sentiment of the character pages, both the vader lexicon and the labMT scores are used. The presumption is that the results of the two different methods will differentiate alot.
+The most positive character pages according to the vader compound score:
+   Character name Vader compound score     Douchebag 0.9998   Jimmy Valmer 0.9988   Timmy Burch 0.9974   Nichole Daniels 0.</description>
     </item>
     
     <item>
@@ -71,6 +64,16 @@ The category for each character is listed in the bottom of the character page. T
       
       <guid>https://koldborg.tech/docs/wordclouds/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive plot</title>
+      <link>https://koldborg.tech/docs/interactive/interactice/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://koldborg.tech/docs/interactive/interactice/</guid>
+      <description>The GCC has been plottet as an interactive plot. The plot show the sizes of the characters and when you hover over them it will tell you which character it is and how many degrees the character has. You have to zoom in a bit before they start to spread.
+</description>
     </item>
     
   </channel>
