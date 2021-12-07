@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>The Dataset - South Park Network Analysis</title>
+  <title>Interactive plot - South Park Network Analysis</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://koldborg.tech/favicon.png">
@@ -90,7 +90,7 @@
   <h4>Docs</h4>
   <ul>
     
-    <li class="active ">
+    <li class="">
       <a href="https://koldborg.tech/docs/dataset/">The Dataset</a>
     </li>
     
@@ -114,7 +114,7 @@
       <a href="https://koldborg.tech/docs/wordclouds/">Wordclouds</a>
     </li>
     
-    <li class="">
+    <li class="active ">
       <a href="https://koldborg.tech/docs/interactive/interactice/">Interactive plot</a>
     </li>
     
@@ -125,11 +125,12 @@
         </div>
         <div class="col-12 col-md-9">
           
-<h1 class="title">The Dataset</h1>
+<h1 class="title">Interactive plot</h1>
 <div class="content ">
-  <p>The dataset is from <a href="https://southpark.fandom.com/">southpark.fandom.com</a> where we download all character pages and episode scripts. A character link to another character if the other character is mentioned in its character page. This way a digraph can be created for characters that interact with each other. In the bottom of all character pages their category is displayed. This has also been scraped from the fandom wiki. All this information can be found in a csv file at our github page. Follow the link <a href="https://github.com/koldbrandt/socialgraphs/blob/main/characters.csv">here</a>.</p>
-<p>All scripts from the show has also been downloaded to be able to do sentiment analysis and a network showing which characters that has been apart of which episode. This is two different files, where the first one includes information about the episodes, and the other one containing all the spoken lines in the episodes. The episode information dataset can be found <a href="https://github.com/koldbrandt/socialgraphs/blob/main/episodes.csv">here</a> and the file with all the lines can be found <a href="https://github.com/koldbrandt/socialgraphs/blob/main/lines.csv">here</a>.</p>
-
+  <p>The GCC has been plottet as an interactive plot. The plot show the sizes of the characters and when you hover over them it will tell you which character it is and how many degrees the character has. You have to zoom in a bit before they start to spread.</p>
+<div align = 'center'>
+<iframe src="/South_Park_Network.html" width=650px height=650></iframe>
+</div>
 </div>
 </div>
 
