@@ -49,7 +49,7 @@ The number of characters in each community can also be seen, it is however not e
 Therefor a bar plot with each community size, named after their most connected character, will also be created.
 
 
-!["Community Network"](/images/CommunityNetwork.png)
+!["Community Network"](/images/gcc-community.png)
 
 The number of characters in each community can also be seen on the above plot, it is however not easy to distinguish, as some of the nodes are very small.
 Therefor a bar plot with each community size, named after their most connected character, can be seen below.
