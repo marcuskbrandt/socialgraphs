@@ -143,6 +143,24 @@ Community Ike Broflovski
 
 This gives a nice overview of what terms are most relevant to each community. 
 
+## Wordclouds
+
+Below are the wordclouds for the five largest communities, created by looking at the TF-IDF for each community.
+
+!["Heidi Turner Community"](/images/HeidiTurnerCommunity.png#center)
+
+!["Cartman Community"](/images/EricCartmanCommunity.png#center)
+
+!["Stan Marsh Community"](/images/StanMarshCommunity.png#center)
+
+!["Kenny Community"](/images/KennyMcCormickCommunity.png#center)
+
+!["Ike Broflovski Community"](/images/IkeBroflovskiCommunity.png#center)
+
+For the Cartman community it is clear that he is a main character, and that alot of members in the community probably relates to the main characters. 
+This is also confirmed by the previous result of the most common category within the Cartman community, which was 4th graders. 
+For all the wordclouds, a reappearing words are "hair" and "black". This might be because the words are used to describe many of the characters.
+
 <br>
 
 We can also analyse the pages by looking at the most used words from the joined text of the pages. This is done by creating a cumulative distribution of the 50 most used words.
@@ -159,4 +177,3 @@ From the above plots it can be concluded that the southpark text does not follow
 But as the frequency of words lower, zipfs law fits better and better on the dataset. 
 
 
-Zipf's law will also be calculated for the episodes dialogue.
